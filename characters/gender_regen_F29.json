@@ -1,0 +1,16 @@
+[
+  {
+    "id": "F29",
+    "name": "张雅琴",
+    "status": "ok",
+    "seed": 1412950,
+    "recheck": {
+      "hero": "女",
+      "headshot": "女",
+      "profile": "女",
+      "fullbody": "女"
+    },
+    "derived_ok": 9,
+    "derived_fail": []
+  }
+]

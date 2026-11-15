@@ -1,0 +1,16 @@
+[
+  {
+    "id": "F37",
+    "name": "林巧珍",
+    "status": "ok",
+    "seed": 1413750,
+    "recheck": {
+      "hero": "女",
+      "headshot": "女",
+      "profile": "女",
+      "fullbody": "女"
+    },
+    "derived_ok": 8,
+    "derived_fail": []
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "M68",
+    "name": "吴秀英2",
+    "status": "ok",
+    "seed": 1416800,
+    "recheck": {
+      "hero": "女",
+      "headshot": "女",
+      "profile": "女",
+      "fullbody": "女"
+    },
+    "derived_ok": 9,
+    "derived_fail": []
+  }
+]

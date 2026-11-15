@@ -80,6 +80,37 @@ SCENES = {
     'F08': 'in an open-plan modern office with glass partitions and green plants',
 }
 
+# ==== GENDER LOCK (auto-patched) ====
+# 出图性别硬约束：desc 里即便写了 female，若体态/骨相偏男性化，模型仍会漂成男性。
+# 这里在 positive 里前置一句强声明，并在 negative 里排除相反性别特征。
+GENDER_WORD = {"男": "male", "女": "female"}
+GENDER_PERSON = {"男": "a man", "女": "a woman"}
+GENDER_NEG = {
+    "男": "woman, female, feminine face, soft round feminine jaw, lipstick, long eyelashes, "
+          "female body, breasts, soft delicate skin",
+    "女": "man, male, masculine face, square masculine jaw, beard, moustache, stubble, "
+          "thick neck, male body, broad shoulders, facial hair",
+}
+
+
+def gender_lock(c, base_prompt):
+    """在 prompt 前置性别声明，并返回配套的 negative。"""
+    g = c.get("gender", "男")
+    tag = GENDER_PERSON.get(g, "a person")
+    word = GENDER_WORD.get(g, "")
+    extra = (f"This is unmistakably {tag}, a {word} person of {c.get('age', 30)} years old. "
+             f"Clearly {word} facial features and {word} body proportions, "
+             f"not the opposite gender. ")
+    return extra + base_prompt
+
+
+def gender_neg(c, base_neg=""):
+    g = c.get("gender", "男")
+    return (base_neg + ", " + GENDER_NEG.get(g, "")).strip(", ")
+
+
+# ==== END GENDER LOCK ====
+
 STYLE = ('photorealistic, cinematic film still, natural skin texture, ultra detailed, sharp focus on the eyes, '
          '85mm lens, shallow depth of field, 8k uhd, single person, no text, no watermark, no logo')
 
@@ -198,13 +229,15 @@ def main():
         if not os.path.exists(master):
             prompt = (f'A photorealistic cinematic master portrait of {c["desc"]}, {scene}, '
                       f'{STYLE}')
+            prompt = gender_lock(c, prompt)
+            neg_p = gender_neg(c, 'lowres, bad anatomy, bad hands, extra fingers, deformed face, '
+                                     'watermark, text, cartoon, anime, illustration, plastic skin')
             for attempt in range(3):
                 try:
                     # prefix 必须带角色 ID：多个 ComfyUI 实例共享同一 output 目录时，
                     # 固定前缀会让并发任务写到同一文件名，互相覆盖导致图片损坏
                     fs = run_one(up('blank:832x1216'), prompt, base_seed, f'{cid}_hero', cdir,
-                                 neg='lowres, bad anatomy, bad hands, extra fingers, deformed face, '
-                                     'watermark, text, cartoon, anime, illustration, plastic skin')
+                                 neg=neg_p)
                     if fs:
                         master = os.path.join(cdir, f'{cid}_hero.png')
                         os.replace(fs[0], master)

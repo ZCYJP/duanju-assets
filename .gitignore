@@ -56,3 +56,13 @@ __pycache__/
 .DS_Store
 .vscode/
 .idea/
+
+# ===== 性别修复备份（原始形象/音色，出错可回滚，不入库） =====
+_backup_gender/
+characters/cast/*/_backup_gender/
+characters/cast/*/_cand/
+seasons/*/_backup_gender/
+
+# ===== 脚本备份 =====
+*.bak_gender
+*.bak_rename

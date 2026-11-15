@@ -1,0 +1,18 @@
+[
+  {
+    "id": "M48",
+    "name": "孙明月",
+    "status": "ok",
+    "seed": 1414800,
+    "recheck": {
+      "hero": "女",
+      "headshot": "女",
+      "profile": "女",
+      "fullbody": "女"
+    },
+    "derived_ok": 8,
+    "derived_fail": [
+      "back"
+    ]
+  }
+]

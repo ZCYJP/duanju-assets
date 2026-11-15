@@ -59,6 +59,14 @@ def main():
     say(f'=== shard {args.shard}/{args.of}: {len(mine)} roles x {len(VARIANTS)} variants on {comfy.URL} ===')
     neg = ('lowres, bad anatomy, bad hands, extra fingers, deformed face, extra limbs, two people, crowd, '
            'watermark, text, cartoon, anime, illustration, plastic skin, blurry, low quality')
+    # ==== GENDER LOCK (auto-patched) ====
+    GENDER_NEG = {
+        "男": "woman, female, feminine face, soft round feminine jaw, lipstick, long eyelashes, "
+              "female body, breasts, soft delicate skin",
+        "女": "man, male, masculine face, square masculine jaw, beard, moustache, stubble, "
+              "thick neck, male body, broad shoulders, facial hair",
+    }
+    # ==== END GENDER LOCK ====
 
     for c in mine:
         cid = c['id']
@@ -81,7 +89,8 @@ def main():
             for attempt in range(3):
                 try:
                     fs = GC.run_one(GC.up(hero), p, base_seed + vi * 10 + attempt,
-                                    f'{cid}_{key}', cdir, neg=neg)
+                                    f'{cid}_{key}', cdir,
+                                    neg=neg + ', ' + GENDER_NEG.get(c.get('gender', '男'), ''))
                     if fs:
                         os.replace(fs[0], dst)
                         ok = True
