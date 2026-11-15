@@ -66,3 +66,22 @@ seasons/*/_backup_gender/
 # ===== 脚本备份 =====
 *.bak_gender
 *.bak_rename
+
+# ===== drama_1min/sample_15s 进行中任务的工作区（保留脚本，忽略中间产物） =====
+drama_1min/sample_15s/frames/
+drama_1min/sample_15s/frames_src/
+drama_1min/sample_15s/motion/
+drama_1min/sample_15s/ocrframes/
+drama_1min/sample_15s/out/
+drama_1min/sample_15s/subs/
+drama_1min/sample_15s/tmp/
+drama_1min/sample_15s/voice/
+drama_1min/sample_15s/logs/
+drama_1min/sample_15s/__pycache__/
+
+# ===== 其他备份文件 =====
+*.bak
+*.orig
+*.old
+*.rej
+*~
