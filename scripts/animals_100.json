@@ -1,0 +1,2912 @@
+{
+ "meta": {
+  "count": 100,
+  "emotions": [
+   "xi",
+   "nu",
+   "ai"
+  ]
+ },
+ "animals": [
+  {
+   "id": "A01",
+   "name": "白狐",
+   "species_en": "a white arctic fox",
+   "size": "S",
+   "color": "white",
+   "trait": "机敏狡黠",
+   "height_cm": 95,
+   "desc": "an anthropomorphic a white arctic fox character, small stature about 95 centimetres tall when standing upright on two legs, white fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 机敏狡黠 personality, full body visible, head and body fully in frame",
+   "scene_en": "plain neutral light grey seamless studio background, soft even lighting, subtle floor shadow, cinematic character design",
+   "voice_desc": "白狐的声音，清亮机灵，语速偏快，咬字利落，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A02",
+   "name": "玄猫",
+   "species_en": "a black domestic cat",
+   "size": "S",
+   "color": "black",
+   "trait": "高冷孤傲",
+   "height_cm": 95,
+   "desc": "an anthropomorphic a black domestic cat character, small stature about 95 centimetres tall when standing upright on two legs, black fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 高冷孤傲 personality, full body visible, head and body fully in frame",
+   "scene_en": "plain neutral light grey seamless studio background, soft even lighting, subtle floor shadow, cinematic character design",
+   "voice_desc": "玄猫的声音，清冷疏离，音调偏高，语调平直克制，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A03",
+   "name": "赤狐",
+   "species_en": "a red fox",
+   "size": "M",
+   "color": "orange",
+   "trait": "狡黠机灵",
+   "height_cm": 125,
+   "desc": "an anthropomorphic a red fox character, medium stature about 125 centimetres tall when standing upright on two legs, orange fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 狡黠机灵 personality, full body visible, head and body fully in frame",
+   "scene_en": "plain neutral light grey seamless studio background, soft even lighting, subtle floor shadow, cinematic character design",
+   "voice_desc": "赤狐的声音，轻快跳脱，语速偏快，带一点狡黠的尾音，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A04",
+   "name": "灰狼",
+   "species_en": "a grey wolf",
+   "size": "L",
+   "color": "grey",
+   "trait": "忠勇果决",
+   "height_cm": 155,
+   "desc": "an anthropomorphic a grey wolf character, large stature about 155 centimetres tall when standing upright on two legs, grey fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 忠勇果决 personality, full body visible, head and body fully in frame",
+   "scene_en": "plain neutral light grey seamless studio background, soft even lighting, subtle floor shadow, cinematic character design",
+   "voice_desc": "灰狼的声音，沉稳有力，咬字铿锵，语速稳健，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A05",
+   "name": "北极熊",
+   "species_en": "a polar bear",
+   "size": "XL",
+   "color": "white",
+   "trait": "沉稳威严",
+   "height_cm": 185,
+   "desc": "an anthropomorphic a polar bear character, very large stature about 185 centimetres tall when standing upright on two legs, white fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 沉稳威严 personality, full body visible, head and body fully in frame",
+   "scene_en": "plain neutral light grey seamless studio background, soft even lighting, subtle floor shadow, cinematic character design",
+   "voice_desc": "北极熊的声音，低沉浑厚，胸腔共鸣重，不怒自威，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A06",
+   "name": "棕熊",
+   "species_en": "a brown bear",
+   "size": "XL",
+   "color": "brown",
+   "trait": "憨厚有力",
+   "height_cm": 185,
+   "desc": "an anthropomorphic a brown bear character, very large stature about 185 centimetres tall when standing upright on two legs, brown fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 憨厚有力 personality, full body visible, head and body fully in frame",
+   "scene_en": "plain neutral light grey seamless studio background, soft even lighting, subtle floor shadow, cinematic character design",
+   "voice_desc": "棕熊的声音，浑厚朴实，略带憨态，语速不紧不慢，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A07",
+   "name": "黑熊",
+   "species_en": "an asian black bear",
+   "size": "L",
+   "color": "black",
+   "trait": "沉稳内敛",
+   "height_cm": 155,
+   "desc": "an anthropomorphic an asian black bear character, large stature about 155 centimetres tall when standing upright on two legs, black fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 沉稳内敛 personality, full body visible, head and body fully in frame",
+   "scene_en": "plain neutral light grey seamless studio background, soft even lighting, subtle floor shadow, cinematic character design",
+   "voice_desc": "黑熊的声音，中低音沉静内敛，语速平稳，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A08",
+   "name": "小熊猫",
+   "species_en": "a red panda",
+   "size": "S",
+   "color": "red",
+   "trait": "俏皮可爱",
+   "height_cm": 95,
+   "desc": "an anthropomorphic a red panda character, small stature about 95 centimetres tall when standing upright on two legs, red fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 俏皮可爱 personality, full body visible, head and body fully in frame",
+   "scene_en": "plain neutral light grey seamless studio background, soft even lighting, subtle floor shadow, cinematic character design",
+   "voice_desc": "小熊猫的声音，清脆活泼，音调偏高，语速轻快，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A09",
+   "name": "浣熊",
+   "species_en": "a raccoon",
+   "size": "M",
+   "color": "grey",
+   "trait": "顽皮狡黠",
+   "height_cm": 125,
+   "desc": "an anthropomorphic a raccoon character, medium stature about 125 centimetres tall when standing upright on two legs, grey fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 顽皮狡黠 personality, full body visible, head and body fully in frame",
+   "scene_en": "plain neutral light grey seamless studio background, soft even lighting, subtle floor shadow, cinematic character design",
+   "voice_desc": "浣熊的声音，轻快跳脱带一点顽皮的鼻音，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A10",
+   "name": "松鼠",
+   "species_en": "a red squirrel",
+   "size": "S",
+   "color": "brown",
+   "trait": "机灵活泼",
+   "height_cm": 95,
+   "desc": "an anthropomorphic a red squirrel character, small stature about 95 centimetres tall when standing upright on two legs, brown fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 机灵活泼 personality, full body visible, head and body fully in frame",
+   "scene_en": "plain neutral light grey seamless studio background, soft even lighting, subtle floor shadow, cinematic character design",
+   "voice_desc": "松鼠的声音，清脆活泼，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A11",
+   "name": "刺猬",
+   "species_en": "a hedgehog",
+   "size": "S",
+   "color": "brown",
+   "trait": "胆小温顺",
+   "height_cm": 95,
+   "desc": "an anthropomorphic a hedgehog character, small stature about 95 centimetres tall when standing upright on two legs, brown fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 胆小温顺 personality, full body visible, head and body fully in frame",
+   "scene_en": "plain neutral light grey seamless studio background, soft even lighting, subtle floor shadow, cinematic character design",
+   "voice_desc": "刺猬的声音，轻柔发颤，音量偏小，语速偏慢，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A12",
+   "name": "水獭",
+   "species_en": "an otter",
+   "size": "M",
+   "color": "brown",
+   "trait": "憨态可掬",
+   "height_cm": 125,
+   "desc": "an anthropomorphic an otter character, medium stature about 125 centimetres tall when standing upright on two legs, brown fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 憨态可掬 personality, full body visible, head and body fully in frame",
+   "scene_en": "plain neutral light grey seamless studio background, soft even lighting, subtle floor shadow, cinematic character design",
+   "voice_desc": "水獭的声音，憨厚亲和，音调偏中低，语速舒缓，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A13",
+   "name": "河狸",
+   "species_en": "a beaver",
+   "size": "M",
+   "color": "brown",
+   "trait": "勤勉踏实",
+   "height_cm": 125,
+   "desc": "an anthropomorphic a beaver character, medium stature about 125 centimetres tall when standing upright on two legs, brown fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 勤勉踏实 personality, full body visible, head and body fully in frame",
+   "scene_en": "plain neutral light grey seamless studio background, soft even lighting, subtle floor shadow, cinematic character design",
+   "voice_desc": "河狸的声音，厚实平稳，语速均匀，不急不躁，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A14",
+   "name": "土拨鼠",
+   "species_en": "a groundhog",
+   "size": "M",
+   "color": "brown",
+   "trait": "憨厚呆萌",
+   "height_cm": 125,
+   "desc": "an anthropomorphic a groundhog character, medium stature about 125 centimetres tall when standing upright on two legs, brown fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 憨厚呆萌 personality, full body visible, head and body fully in frame",
+   "scene_en": "plain neutral light grey seamless studio background, soft even lighting, subtle floor shadow, cinematic character design",
+   "voice_desc": "土拨鼠的声音，憨厚松弛，音调偏低，语速慢，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A15",
+   "name": "袋鼠",
+   "species_en": "a red kangaroo",
+   "size": "L",
+   "color": "brown",
+   "trait": "豪爽刚烈",
+   "height_cm": 155,
+   "desc": "an anthropomorphic a red kangaroo character, large stature about 155 centimetres tall when standing upright on two legs, brown fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 豪爽刚烈 personality, full body visible, head and body fully in frame",
+   "scene_en": "plain neutral light grey seamless studio background, soft even lighting, subtle floor shadow, cinematic character design",
+   "voice_desc": "袋鼠的声音，爽朗洪亮，音调偏高，爆发力强，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A16",
+   "name": "考拉",
+   "species_en": "a koala",
+   "size": "M",
+   "color": "grey",
+   "trait": "慵懒温吞",
+   "height_cm": 125,
+   "desc": "an anthropomorphic a koala character, medium stature about 125 centimetres tall when standing upright on two legs, grey fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 慵懒温吞 personality, full body visible, head and body fully in frame",
+   "scene_en": "plain neutral light grey seamless studio background, soft even lighting, subtle floor shadow, cinematic character design",
+   "voice_desc": "考拉的声音，慵懒绵软，语速很慢，尾音拖长，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A17",
+   "name": "鸭嘴兽",
+   "species_en": "a platypus",
+   "size": "S",
+   "color": "brown",
+   "trait": "古怪机灵",
+   "height_cm": 95,
+   "desc": "an anthropomorphic a platypus character, small stature about 95 centimetres tall when standing upright on two legs, brown fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 古怪机灵 personality, full body visible, head and body fully in frame",
+   "scene_en": "plain neutral light grey seamless studio background, soft even lighting, subtle floor shadow, cinematic character design",
+   "voice_desc": "鸭嘴兽的声音，古怪机灵，音调起伏大，语速忽快忽慢，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A18",
+   "name": "鬣狗",
+   "species_en": "a spotted hyena",
+   "size": "L",
+   "color": "tan",
+   "trait": "凶悍粗野",
+   "height_cm": 155,
+   "desc": "an anthropomorphic a spotted hyena character, large stature about 155 centimetres tall when standing upright on two legs, tan fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 凶悍粗野 personality, full body visible, head and body fully in frame",
+   "scene_en": "plain neutral light grey seamless studio background, soft even lighting, subtle floor shadow, cinematic character design",
+   "voice_desc": "鬣狗的声音，粗野沙哑，音量偏大，爆发感强，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A19",
+   "name": "獴",
+   "species_en": "a meerkat",
+   "size": "S",
+   "color": "tan",
+   "trait": "机警好奇",
+   "height_cm": 95,
+   "desc": "an anthropomorphic a meerkat character, small stature about 95 centimetres tall when standing upright on two legs, tan fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 机警好奇 personality, full body visible, head and body fully in frame",
+   "scene_en": "plain neutral light grey seamless studio background, soft even lighting, subtle floor shadow, cinematic character design",
+   "voice_desc": "獴的声音，清亮警觉，尾音上扬，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A20",
+   "name": "穿山甲",
+   "species_en": "a pangolin",
+   "size": "M",
+   "color": "tan",
+   "trait": "温顺防护",
+   "height_cm": 125,
+   "desc": "an anthropomorphic a pangolin character, medium stature about 125 centimetres tall when standing upright on two legs, tan fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 温顺防护 personality, full body visible, head and body fully in frame",
+   "scene_en": "plain neutral light grey seamless studio background, soft even lighting, subtle floor shadow, cinematic character design",
+   "voice_desc": "穿山甲的声音，轻柔谨慎，音量小，语速慢，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A21",
+   "name": "树懒",
+   "species_en": "a sloth",
+   "size": "M",
+   "color": "brown",
+   "trait": "慵懒迟缓",
+   "height_cm": 125,
+   "desc": "an anthropomorphic a sloth character, medium stature about 125 centimetres tall when standing upright on two legs, brown fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 慵懒迟缓 personality, full body visible, head and body fully in frame",
+   "scene_en": "plain neutral light grey seamless studio background, soft even lighting, subtle floor shadow, cinematic character design",
+   "voice_desc": "树懒的声音，绵软迟缓，语速很慢，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A22",
+   "name": "猴",
+   "species_en": "a macaque",
+   "size": "M",
+   "color": "brown",
+   "trait": "机灵顽皮",
+   "height_cm": 125,
+   "desc": "an anthropomorphic a macaque character, medium stature about 125 centimetres tall when standing upright on two legs, brown fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 机灵顽皮 personality, full body visible, head and body fully in frame",
+   "scene_en": "plain neutral light grey seamless studio background, soft even lighting, subtle floor shadow, cinematic character design",
+   "voice_desc": "猴的声音，轻快顽皮，语速偏快，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A23",
+   "name": "红毛猩猩",
+   "species_en": "an orangutan",
+   "size": "L",
+   "color": "orange",
+   "trait": "智慧温厚",
+   "height_cm": 155,
+   "desc": "an anthropomorphic an orangutan character, large stature about 155 centimetres tall when standing upright on two legs, orange fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 智慧温厚 personality, full body visible, head and body fully in frame",
+   "scene_en": "plain neutral light grey seamless studio background, soft even lighting, subtle floor shadow, cinematic character design",
+   "voice_desc": "红毛猩猩的声音，温厚沉稳，略带智慧感，语速平稳，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A24",
+   "name": "黑猩猩",
+   "species_en": "a chimpanzee",
+   "size": "L",
+   "color": "black",
+   "trait": "机敏好胜",
+   "height_cm": 155,
+   "desc": "an anthropomorphic a chimpanzee character, large stature about 155 centimetres tall when standing upright on two legs, black fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 机敏好胜 personality, full body visible, head and body fully in frame",
+   "scene_en": "plain neutral light grey seamless studio background, soft even lighting, subtle floor shadow, cinematic character design",
+   "voice_desc": "黑猩猩的声音，清亮锐利，语速偏快，咬字有力，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A25",
+   "name": "大猩猩",
+   "species_en": "a silverback gorilla",
+   "size": "XL",
+   "color": "black",
+   "trait": "威严护群",
+   "height_cm": 185,
+   "desc": "an anthropomorphic a silverback gorilla character, very large stature about 185 centimetres tall when standing upright on two legs, black fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 威严护群 personality, full body visible, head and body fully in frame",
+   "scene_en": "plain neutral light grey seamless studio background, soft even lighting, subtle floor shadow, cinematic character design",
+   "voice_desc": "大猩猩的声音，低沉威严，胸腔共鸣重，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A26",
+   "name": "狨猴",
+   "species_en": "a marmoset",
+   "size": "S",
+   "color": "tan",
+   "trait": "活泼好奇",
+   "height_cm": 95,
+   "desc": "an anthropomorphic a marmoset character, small stature about 95 centimetres tall when standing upright on two legs, tan fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 活泼好奇 personality, full body visible, head and body fully in frame",
+   "scene_en": "plain neutral light grey seamless studio background, soft even lighting, subtle floor shadow, cinematic character design",
+   "voice_desc": "狨猴的声音，清脆好奇，语速偏快，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A27",
+   "name": "狐猴",
+   "species_en": "a lemur",
+   "size": "M",
+   "color": "grey",
+   "trait": "机警好奇",
+   "height_cm": 125,
+   "desc": "an anthropomorphic a lemur character, medium stature about 125 centimetres tall when standing upright on two legs, grey fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 机警好奇 personality, full body visible, head and body fully in frame",
+   "scene_en": "plain neutral light grey seamless studio background, soft even lighting, subtle floor shadow, cinematic character design",
+   "voice_desc": "狐猴的声音，清亮警觉，尾音上扬，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A28",
+   "name": "竹节虫",
+   "species_en": "a stick insect",
+   "size": "S",
+   "color": "green",
+   "trait": "安静隐忍",
+   "height_cm": 95,
+   "desc": "an anthropomorphic a stick insect character, small stature about 95 centimetres tall when standing upright on two legs, green fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 安静隐忍 personality, full body visible, head and body fully in frame",
+   "scene_en": "macro photography setup with a blurred natural forest floor background, warm rim lighting, cinematic, extreme detail",
+   "voice_desc": "竹节虫的声音，轻柔平静，语速很慢，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A29",
+   "name": "螳螂",
+   "species_en": "a praying mantis",
+   "size": "M",
+   "color": "green",
+   "trait": "冷峻果决",
+   "height_cm": 125,
+   "desc": "an anthropomorphic a praying mantis character, medium stature about 125 centimetres tall when standing upright on two legs, green fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 冷峻果决 personality, full body visible, head and body fully in frame",
+   "scene_en": "underwater scene with deep blue water, floating light rays and drifting particles, cinematic, soft volumetric lighting",
+   "voice_desc": "螳螂的声音，冷硬干脆，咬字利落无拖音，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A30",
+   "name": "锹形虫",
+   "species_en": "a stag beetle",
+   "size": "S",
+   "color": "black",
+   "trait": "威武好斗",
+   "height_cm": 95,
+   "desc": "an anthropomorphic a stag beetle character, small stature about 95 centimetres tall when standing upright on two legs, black fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 威武好斗 personality, full body visible, head and body fully in frame",
+   "scene_en": "macro photography setup with a blurred natural forest floor background, warm rim lighting, cinematic, extreme detail",
+   "voice_desc": "锹形虫的声音，张扬有力，爆发感强，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A31",
+   "name": "蜜蜂",
+   "species_en": "a honeybee",
+   "size": "S",
+   "color": "yellow",
+   "trait": "勤劳欢快",
+   "height_cm": 95,
+   "desc": "an anthropomorphic a honeybee character, small stature about 95 centimetres tall when standing upright on two legs, yellow fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 勤劳欢快 personality, full body visible, head and body fully in frame",
+   "scene_en": "macro photography setup with a blurred natural forest floor background, warm rim lighting, cinematic, extreme detail",
+   "voice_desc": "蜜蜂的声音，明快有力，语速偏快，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A32",
+   "name": "蝴蝶",
+   "species_en": "a blue morpho butterfly",
+   "size": "S",
+   "color": "blue",
+   "trait": "优雅灵动",
+   "height_cm": 95,
+   "desc": "an anthropomorphic a blue morpho butterfly character, small stature about 95 centimetres tall when standing upright on two legs, blue fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 优雅灵动 personality, full body visible, head and body fully in frame",
+   "scene_en": "macro photography setup with a blurred natural forest floor background, warm rim lighting, cinematic, extreme detail",
+   "voice_desc": "蝴蝶的声音，清雅灵动，音调偏高，尾音轻，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A33",
+   "name": "蜻蜓",
+   "species_en": "a dragonfly",
+   "size": "S",
+   "color": "blue",
+   "trait": "灵动机敏",
+   "height_cm": 95,
+   "desc": "an anthropomorphic a dragonfly character, small stature about 95 centimetres tall when standing upright on two legs, blue fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 灵动机敏 personality, full body visible, head and body fully in frame",
+   "scene_en": "macro photography setup with a blurred natural forest floor background, warm rim lighting, cinematic, extreme detail",
+   "voice_desc": "蜻蜓的声音，轻快灵动，反应感强，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A34",
+   "name": "萤火虫",
+   "species_en": "a firefly",
+   "size": "S",
+   "color": "yellow",
+   "trait": "温柔梦幻",
+   "height_cm": 95,
+   "desc": "an anthropomorphic a firefly character, small stature about 95 centimetres tall when standing upright on two legs, yellow fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 温柔梦幻 personality, full body visible, head and body fully in frame",
+   "scene_en": "macro photography setup with a blurred natural forest floor background, warm rim lighting, cinematic, extreme detail",
+   "voice_desc": "萤火虫的声音，轻柔空灵，音量小，气息柔，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A35",
+   "name": "蚂蚁",
+   "species_en": "a worker ant",
+   "size": "S",
+   "color": "black",
+   "trait": "勤勉坚韧",
+   "height_cm": 95,
+   "desc": "an anthropomorphic a worker ant character, small stature about 95 centimetres tall when standing upright on two legs, black fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 勤勉坚韧 personality, full body visible, head and body fully in frame",
+   "scene_en": "macro photography setup with a blurred natural forest floor background, warm rim lighting, cinematic, extreme detail",
+   "voice_desc": "蚂蚁的声音，厚实坚定，语速均匀，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A36",
+   "name": "蜘蛛",
+   "species_en": "a tarantula",
+   "size": "M",
+   "color": "black",
+   "trait": "阴郁沉稳",
+   "height_cm": 125,
+   "desc": "an anthropomorphic a tarantula character, medium stature about 125 centimetres tall when standing upright on two legs, black fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 阴郁沉稳 personality, full body visible, head and body fully in frame",
+   "scene_en": "macro photography setup with a blurred natural forest floor background, warm rim lighting, cinematic, extreme detail",
+   "voice_desc": "蜘蛛的声音，低沉阴郁，语速慢，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A37",
+   "name": "蝎",
+   "species_en": "a scorpion",
+   "size": "M",
+   "color": "black",
+   "trait": "冷厉危险",
+   "height_cm": 125,
+   "desc": "an anthropomorphic a scorpion character, medium stature about 125 centimetres tall when standing upright on two legs, black fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 冷厉危险 personality, full body visible, head and body fully in frame",
+   "scene_en": "macro photography setup with a blurred natural forest floor background, warm rim lighting, cinematic, extreme detail",
+   "voice_desc": "蝎的声音，冷硬低沉，咬字狠，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A38",
+   "name": "变色龙",
+   "species_en": "a chameleon",
+   "size": "S",
+   "color": "green",
+   "trait": "冷静善变",
+   "height_cm": 95,
+   "desc": "an anthropomorphic a chameleon character, small stature about 95 centimetres tall when standing upright on two legs, green fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 冷静善变 personality, full body visible, head and body fully in frame",
+   "scene_en": "plain neutral light grey seamless studio background, soft even lighting, subtle floor shadow, cinematic character design",
+   "voice_desc": "变色龙的声音，冷静多变，音调起伏不定，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A39",
+   "name": "巨蜥",
+   "species_en": "a komodo dragon",
+   "size": "L",
+   "color": "brown",
+   "trait": "冷峻威压",
+   "height_cm": 155,
+   "desc": "an anthropomorphic a komodo dragon character, large stature about 155 centimetres tall when standing upright on two legs, brown fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 冷峻威压 personality, full body visible, head and body fully in frame",
+   "scene_en": "plain neutral light grey seamless studio background, soft even lighting, subtle floor shadow, cinematic character design",
+   "voice_desc": "巨蜥的声音，低沉冷峻，压迫感强，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A40",
+   "name": "鳄鱼",
+   "species_en": "a saltwater crocodile",
+   "size": "XL",
+   "color": "olive",
+   "trait": "凶悍沉着",
+   "height_cm": 185,
+   "desc": "an anthropomorphic a saltwater crocodile character, very large stature about 185 centimetres tall when standing upright on two legs, olive fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 凶悍沉着 personality, full body visible, head and body fully in frame",
+   "scene_en": "plain neutral light grey seamless studio background, soft even lighting, subtle floor shadow, cinematic character design",
+   "voice_desc": "鳄鱼的声音，粗砺沉稳，爆发力强，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A41",
+   "name": "蛇",
+   "species_en": "a cobra",
+   "size": "M",
+   "color": "olive",
+   "trait": "冷傲危险",
+   "height_cm": 125,
+   "desc": "an anthropomorphic a cobra character, medium stature about 125 centimetres tall when standing upright on two legs, olive fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 冷傲危险 personality, full body visible, head and body fully in frame",
+   "scene_en": "plain neutral light grey seamless studio background, soft even lighting, subtle floor shadow, cinematic character design",
+   "voice_desc": "蛇的声音，清冷高傲，咬字利落，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A42",
+   "name": "蟒",
+   "species_en": "a python",
+   "size": "XL",
+   "color": "brown",
+   "trait": "沉稳压迫",
+   "height_cm": 185,
+   "desc": "an anthropomorphic a python character, very large stature about 185 centimetres tall when standing upright on two legs, brown fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 沉稳压迫 personality, full body visible, head and body fully in frame",
+   "scene_en": "plain neutral light grey seamless studio background, soft even lighting, subtle floor shadow, cinematic character design",
+   "voice_desc": "蟒的声音，极低沉，语速慢，压迫感强，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A43",
+   "name": "海龟",
+   "species_en": "a green sea turtle",
+   "size": "L",
+   "color": "green",
+   "trait": "温厚从容",
+   "height_cm": 155,
+   "desc": "an anthropomorphic a green sea turtle character, large stature about 155 centimetres tall when standing upright on two legs, green fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 温厚从容 personality, full body visible, head and body fully in frame",
+   "scene_en": "underwater scene with deep blue water, floating light rays and drifting particles, cinematic, soft volumetric lighting",
+   "voice_desc": "海龟的声音，温厚平稳，语速舒缓，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A44",
+   "name": "陆龟",
+   "species_en": "a tortoise",
+   "size": "M",
+   "color": "brown",
+   "trait": "沉稳迟缓",
+   "height_cm": 125,
+   "desc": "an anthropomorphic a tortoise character, medium stature about 125 centimetres tall when standing upright on two legs, brown fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 沉稳迟缓 personality, full body visible, head and body fully in frame",
+   "scene_en": "plain neutral light grey seamless studio background, soft even lighting, subtle floor shadow, cinematic character design",
+   "voice_desc": "陆龟的声音，迟缓低沉，语速很慢，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A45",
+   "name": "鳖",
+   "species_en": "a softshell turtle",
+   "size": "M",
+   "color": "olive",
+   "trait": "谨慎低调",
+   "height_cm": 125,
+   "desc": "an anthropomorphic a softshell turtle character, medium stature about 125 centimetres tall when standing upright on two legs, olive fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 谨慎低调 personality, full body visible, head and body fully in frame",
+   "scene_en": "underwater scene with deep blue water, floating light rays and drifting particles, cinematic, soft volumetric lighting",
+   "voice_desc": "鳖的声音，轻声谨慎，音量小，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A46",
+   "name": "蜥蜴",
+   "species_en": "an iguana",
+   "size": "M",
+   "color": "green",
+   "trait": "冷峻从容",
+   "height_cm": 125,
+   "desc": "an anthropomorphic an iguana character, medium stature about 125 centimetres tall when standing upright on two legs, green fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 冷峻从容 personality, full body visible, head and body fully in frame",
+   "scene_en": "plain neutral light grey seamless studio background, soft even lighting, subtle floor shadow, cinematic character design",
+   "voice_desc": "蜥蜴的声音，冷峻平稳，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A47",
+   "name": "青蛙",
+   "species_en": "a green tree frog",
+   "size": "S",
+   "color": "green",
+   "trait": "活泼跳脱",
+   "height_cm": 95,
+   "desc": "an anthropomorphic a green tree frog character, small stature about 95 centimetres tall when standing upright on two legs, green fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 活泼跳脱 personality, full body visible, head and body fully in frame",
+   "scene_en": "plain neutral light grey seamless studio background, soft even lighting, subtle floor shadow, cinematic character design",
+   "voice_desc": "青蛙的声音，轻快跳脱，语速快，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A48",
+   "name": "蟾蜍",
+   "species_en": "a toad",
+   "size": "S",
+   "color": "brown",
+   "trait": "憨厚沉稳",
+   "height_cm": 95,
+   "desc": "an anthropomorphic a toad character, small stature about 95 centimetres tall when standing upright on two legs, brown fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 憨厚沉稳 personality, full body visible, head and body fully in frame",
+   "scene_en": "plain neutral light grey seamless studio background, soft even lighting, subtle floor shadow, cinematic character design",
+   "voice_desc": "蟾蜍的声音，厚实沉稳，语速不紧不慢，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A49",
+   "name": "娃娃鱼",
+   "species_en": "a chinese giant salamander",
+   "size": "L",
+   "color": "brown",
+   "trait": "憨态神秘",
+   "height_cm": 155,
+   "desc": "an anthropomorphic a chinese giant salamander character, large stature about 155 centimetres tall when standing upright on two legs, brown fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 憨态神秘 personality, full body visible, head and body fully in frame",
+   "scene_en": "macro photography setup with a blurred natural forest floor background, warm rim lighting, cinematic, extreme detail",
+   "voice_desc": "娃娃鱼的声音，低沉神秘，语速慢，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A50",
+   "name": "小丑鱼",
+   "species_en": "a clownfish",
+   "size": "S",
+   "color": "orange",
+   "trait": "活泼胆怯",
+   "height_cm": 95,
+   "desc": "an anthropomorphic a clownfish character, small stature about 95 centimetres tall when standing upright on two legs, orange fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 活泼胆怯 personality, full body visible, head and body fully in frame",
+   "scene_en": "plain neutral light grey seamless studio background, soft even lighting, subtle floor shadow, cinematic character design",
+   "voice_desc": "小丑鱼的声音，轻快但发虚，音量偏小，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A51",
+   "name": "鲨鱼",
+   "species_en": "a great white shark",
+   "size": "XL",
+   "color": "grey",
+   "trait": "冷峻压迫",
+   "height_cm": 185,
+   "desc": "an anthropomorphic a great white shark character, very large stature about 185 centimetres tall when standing upright on two legs, grey fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 冷峻压迫 personality, full body visible, head and body fully in frame",
+   "scene_en": "underwater scene with deep blue water, floating light rays and drifting particles, cinematic, soft volumetric lighting",
+   "voice_desc": "鲨鱼的声音，低沉冷峻，压迫感强，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A52",
+   "name": "鲸",
+   "species_en": "a humpback whale",
+   "size": "XL",
+   "color": "blue",
+   "trait": "温柔悲悯",
+   "height_cm": 185,
+   "desc": "an anthropomorphic a humpback whale character, very large stature about 185 centimetres tall when standing upright on two legs, blue fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 温柔悲悯 personality, full body visible, head and body fully in frame",
+   "scene_en": "underwater scene with deep blue water, floating light rays and drifting particles, cinematic, soft volumetric lighting",
+   "voice_desc": "鲸的声音，柔和深沉，略带气声，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A53",
+   "name": "海豚",
+   "species_en": "a bottlenose dolphin",
+   "size": "L",
+   "color": "grey",
+   "trait": "聪慧友善",
+   "height_cm": 155,
+   "desc": "an anthropomorphic a bottlenose dolphin character, large stature about 155 centimetres tall when standing upright on two legs, grey fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 聪慧友善 personality, full body visible, head and body fully in frame",
+   "scene_en": "underwater scene with deep blue water, floating light rays and drifting particles, cinematic, soft volumetric lighting",
+   "voice_desc": "海豚的声音，清亮温和，语速适中，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A54",
+   "name": "海胆",
+   "species_en": "a sea urchin",
+   "size": "S",
+   "color": "black",
+   "trait": "倔强带刺",
+   "height_cm": 95,
+   "desc": "an anthropomorphic a sea urchin character, small stature about 95 centimetres tall when standing upright on two legs, black fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 倔强带刺 personality, full body visible, head and body fully in frame",
+   "scene_en": "underwater scene with deep blue water, floating light rays and drifting particles, cinematic, soft volumetric lighting",
+   "voice_desc": "海胆的声音，带刺的倔强，咬字硬，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A55",
+   "name": "螃蟹",
+   "species_en": "a red king crab",
+   "size": "M",
+   "color": "red",
+   "trait": "横行霸道",
+   "height_cm": 125,
+   "desc": "an anthropomorphic a red king crab character, medium stature about 125 centimetres tall when standing upright on two legs, red fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 横行霸道 personality, full body visible, head and body fully in frame",
+   "scene_en": "plain neutral light grey seamless studio background, soft even lighting, subtle floor shadow, cinematic character design",
+   "voice_desc": "螃蟹的声音，张扬霸道，音量偏大，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A56",
+   "name": "龙虾",
+   "species_en": "a lobster",
+   "size": "M",
+   "color": "red",
+   "trait": "凶悍张扬",
+   "height_cm": 125,
+   "desc": "an anthropomorphic a lobster character, medium stature about 125 centimetres tall when standing upright on two legs, red fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 凶悍张扬 personality, full body visible, head and body fully in frame",
+   "scene_en": "plain neutral light grey seamless studio background, soft even lighting, subtle floor shadow, cinematic character design",
+   "voice_desc": "龙虾的声音，外强中干，音调偏高，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A57",
+   "name": "寄居蟹",
+   "species_en": "a hermit crab",
+   "size": "S",
+   "color": "tan",
+   "trait": "谨慎机灵",
+   "height_cm": 95,
+   "desc": "an anthropomorphic a hermit crab character, small stature about 95 centimetres tall when standing upright on two legs, tan fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 谨慎机灵 personality, full body visible, head and body fully in frame",
+   "scene_en": "plain neutral light grey seamless studio background, soft even lighting, subtle floor shadow, cinematic character design",
+   "voice_desc": "寄居蟹的声音，轻声机警，语速偏快，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A58",
+   "name": "企鹅",
+   "species_en": "an emperor penguin",
+   "size": "L",
+   "color": "black",
+   "trait": "威严坚韧",
+   "height_cm": 155,
+   "desc": "an anthropomorphic an emperor penguin character, large stature about 155 centimetres tall when standing upright on two legs, black fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 威严坚韧 personality, full body visible, head and body fully in frame",
+   "scene_en": "open sky background with soft clouds and warm golden hour light, cinematic, shallow depth of field",
+   "voice_desc": "企鹅的声音，低沉坚韧，咬字有力，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A59",
+   "name": "北极燕鸥",
+   "species_en": "an arctic tern",
+   "size": "S",
+   "color": "white",
+   "trait": "轻盈自由",
+   "height_cm": 95,
+   "desc": "an anthropomorphic an arctic tern character, small stature about 95 centimetres tall when standing upright on two legs, white fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 轻盈自由 personality, full body visible, head and body fully in frame",
+   "scene_en": "open sky background with soft clouds and warm golden hour light, cinematic, shallow depth of field",
+   "voice_desc": "北极燕鸥的声音，清亮轻盈，语速偏快，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A60",
+   "name": "猫头鹰",
+   "species_en": "a barn owl",
+   "size": "M",
+   "color": "white",
+   "trait": "睿智沉静",
+   "height_cm": 125,
+   "desc": "an anthropomorphic a barn owl character, medium stature about 125 centimetres tall when standing upright on two legs, white fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 睿智沉静 personality, full body visible, head and body fully in frame",
+   "scene_en": "open sky background with soft clouds and warm golden hour light, cinematic, shallow depth of field",
+   "voice_desc": "猫头鹰的声音，沉稳睿智，中低音，语速慢，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A61",
+   "name": "秃鹫",
+   "species_en": "a vulture",
+   "size": "L",
+   "color": "black",
+   "trait": "冷峻威严",
+   "height_cm": 155,
+   "desc": "an anthropomorphic a vulture character, large stature about 155 centimetres tall when standing upright on two legs, black fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 冷峻威严 personality, full body visible, head and body fully in frame",
+   "scene_en": "open sky background with soft clouds and warm golden hour light, cinematic, shallow depth of field",
+   "voice_desc": "秃鹫的声音，冷峻低沉，不怒自威，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A62",
+   "name": "信天翁",
+   "species_en": "an albatross",
+   "size": "L",
+   "color": "white",
+   "trait": "孤傲自由",
+   "height_cm": 155,
+   "desc": "an anthropomorphic an albatross character, large stature about 155 centimetres tall when standing upright on two legs, white fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 孤傲自由 personality, full body visible, head and body fully in frame",
+   "scene_en": "open sky background with soft clouds and warm golden hour light, cinematic, shallow depth of field",
+   "voice_desc": "信天翁的声音，清冷高远，语调克制，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A63",
+   "name": "丹顶鹤",
+   "species_en": "a red-crowned crane",
+   "size": "L",
+   "color": "white",
+   "trait": "清雅出尘",
+   "height_cm": 155,
+   "desc": "an anthropomorphic a red-crowned crane character, large stature about 155 centimetres tall when standing upright on two legs, white fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 清雅出尘 personality, full body visible, head and body fully in frame",
+   "scene_en": "open sky background with soft clouds and warm golden hour light, cinematic, shallow depth of field",
+   "voice_desc": "丹顶鹤的声音，清雅空灵，语速舒缓，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A64",
+   "name": "孔雀",
+   "species_en": "a peacock",
+   "size": "L",
+   "color": "blue",
+   "trait": "华贵张扬",
+   "height_cm": 155,
+   "desc": "an anthropomorphic a peacock character, large stature about 155 centimetres tall when standing upright on two legs, blue fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 华贵张扬 personality, full body visible, head and body fully in frame",
+   "scene_en": "open sky background with soft clouds and warm golden hour light, cinematic, shallow depth of field",
+   "voice_desc": "孔雀的声音，华丽张扬，音调偏高，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A65",
+   "name": "火烈鸟",
+   "species_en": "a flamingo",
+   "size": "L",
+   "color": "pink",
+   "trait": "优雅孤傲",
+   "height_cm": 155,
+   "desc": "an anthropomorphic a flamingo character, large stature about 155 centimetres tall when standing upright on two legs, pink fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 优雅孤傲 personality, full body visible, head and body fully in frame",
+   "scene_en": "open sky background with soft clouds and warm golden hour light, cinematic, shallow depth of field",
+   "voice_desc": "火烈鸟的声音，清冷优雅，语调克制，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A66",
+   "name": "鸵鸟",
+   "species_en": "an ostrich",
+   "size": "XL",
+   "color": "black",
+   "trait": "豪迈率直",
+   "height_cm": 185,
+   "desc": "an anthropomorphic an ostrich character, very large stature about 185 centimetres tall when standing upright on two legs, black fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 豪迈率直 personality, full body visible, head and body fully in frame",
+   "scene_en": "open sky background with soft clouds and warm golden hour light, cinematic, shallow depth of field",
+   "voice_desc": "鸵鸟的声音，洪亮直率，爆发力强，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A67",
+   "name": "猛禽隼",
+   "species_en": "a peregrine falcon",
+   "size": "M",
+   "color": "grey",
+   "trait": "凌厉果决",
+   "height_cm": 125,
+   "desc": "an anthropomorphic a peregrine falcon character, medium stature about 125 centimetres tall when standing upright on two legs, grey fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 凌厉果决 personality, full body visible, head and body fully in frame",
+   "scene_en": "open sky background with soft clouds and warm golden hour light, cinematic, shallow depth of field",
+   "voice_desc": "猛禽隼的声音，锐利干脆，咬字狠，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A68",
+   "name": "鹰",
+   "species_en": "a golden eagle",
+   "size": "L",
+   "color": "brown",
+   "trait": "威严孤傲",
+   "height_cm": 155,
+   "desc": "an anthropomorphic a golden eagle character, large stature about 155 centimetres tall when standing upright on two legs, brown fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 威严孤傲 personality, full body visible, head and body fully in frame",
+   "scene_en": "open sky background with soft clouds and warm golden hour light, cinematic, shallow depth of field",
+   "voice_desc": "鹰的声音，低沉孤傲，语调克制，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A69",
+   "name": "喜鹊",
+   "species_en": "a magpie",
+   "size": "S",
+   "color": "black",
+   "trait": "机敏喜庆",
+   "height_cm": 95,
+   "desc": "an anthropomorphic a magpie character, small stature about 95 centimetres tall when standing upright on two legs, black fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 机敏喜庆 personality, full body visible, head and body fully in frame",
+   "scene_en": "open sky background with soft clouds and warm golden hour light, cinematic, shallow depth of field",
+   "voice_desc": "喜鹊的声音，清脆明快，语速偏快，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A70",
+   "name": "乌鸦",
+   "species_en": "a crow",
+   "size": "M",
+   "color": "black",
+   "trait": "阴沉机警",
+   "height_cm": 125,
+   "desc": "an anthropomorphic a crow character, medium stature about 125 centimetres tall when standing upright on two legs, black fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 阴沉机警 personality, full body visible, head and body fully in frame",
+   "scene_en": "open sky background with soft clouds and warm golden hour light, cinematic, shallow depth of field",
+   "voice_desc": "乌鸦的声音，低沉警觉，语速平稳，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A71",
+   "name": "白鹭",
+   "species_en": "an egret",
+   "size": "L",
+   "color": "white",
+   "trait": "清冷孤傲",
+   "height_cm": 155,
+   "desc": "an anthropomorphic an egret character, large stature about 155 centimetres tall when standing upright on two legs, white fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 清冷孤傲 personality, full body visible, head and body fully in frame",
+   "scene_en": "open sky background with soft clouds and warm golden hour light, cinematic, shallow depth of field",
+   "voice_desc": "白鹭的声音，清冷疏离，语调平直，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A72",
+   "name": "鹦鹉",
+   "species_en": "a scarlet macaw",
+   "size": "M",
+   "color": "red",
+   "trait": "聒噪机灵",
+   "height_cm": 125,
+   "desc": "an anthropomorphic a scarlet macaw character, medium stature about 125 centimetres tall when standing upright on two legs, red fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 聒噪机灵 personality, full body visible, head and body fully in frame",
+   "scene_en": "open sky background with soft clouds and warm golden hour light, cinematic, shallow depth of field",
+   "voice_desc": "鹦鹉的声音，响亮聒噪，语速快，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A73",
+   "name": "金丝雀",
+   "species_en": "a canary",
+   "size": "S",
+   "color": "yellow",
+   "trait": "婉转动听",
+   "height_cm": 95,
+   "desc": "an anthropomorphic a canary character, small stature about 95 centimetres tall when standing upright on two legs, yellow fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 婉转动听 personality, full body visible, head and body fully in frame",
+   "scene_en": "open sky background with soft clouds and warm golden hour light, cinematic, shallow depth of field",
+   "voice_desc": "金丝雀的声音，婉转柔和，音调起伏柔美，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A74",
+   "name": "麻雀",
+   "species_en": "a sparrow",
+   "size": "S",
+   "color": "brown",
+   "trait": "机警平凡",
+   "height_cm": 95,
+   "desc": "an anthropomorphic a sparrow character, small stature about 95 centimetres tall when standing upright on two legs, brown fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 机警平凡 personality, full body visible, head and body fully in frame",
+   "scene_en": "open sky background with soft clouds and warm golden hour light, cinematic, shallow depth of field",
+   "voice_desc": "麻雀的声音，普通清亮，语速适中，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A75",
+   "name": "天鹅",
+   "species_en": "a black swan",
+   "size": "L",
+   "color": "black",
+   "trait": "高冷优雅",
+   "height_cm": 155,
+   "desc": "an anthropomorphic a black swan character, large stature about 155 centimetres tall when standing upright on two legs, black fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 高冷优雅 personality, full body visible, head and body fully in frame",
+   "scene_en": "open sky background with soft clouds and warm golden hour light, cinematic, shallow depth of field",
+   "voice_desc": "天鹅的声音，清冷优雅，语调克制，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A76",
+   "name": "锦鲤",
+   "species_en": "a koi carp",
+   "size": "M",
+   "color": "orange",
+   "trait": "华贵灵动",
+   "height_cm": 125,
+   "desc": "an anthropomorphic a koi carp character, medium stature about 125 centimetres tall when standing upright on two legs, orange fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 华贵灵动 personality, full body visible, head and body fully in frame",
+   "scene_en": "underwater scene with deep blue water, floating light rays and drifting particles, cinematic, soft volumetric lighting",
+   "voice_desc": "锦鲤的声音，华贵灵动，尾音轻，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A77",
+   "name": "金鱼",
+   "species_en": "a goldfish",
+   "size": "S",
+   "color": "orange",
+   "trait": "憨态可爱",
+   "height_cm": 95,
+   "desc": "an anthropomorphic a goldfish character, small stature about 95 centimetres tall when standing upright on two legs, orange fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 憨态可爱 personality, full body visible, head and body fully in frame",
+   "scene_en": "underwater scene with deep blue water, floating light rays and drifting particles, cinematic, soft volumetric lighting",
+   "voice_desc": "金鱼的声音，憨厚轻快，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A78",
+   "name": "龙猫",
+   "species_en": "a chinchilla",
+   "size": "S",
+   "color": "grey",
+   "trait": "温顺可爱",
+   "height_cm": 95,
+   "desc": "an anthropomorphic a chinchilla character, small stature about 95 centimetres tall when standing upright on two legs, grey fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 温顺可爱 personality, full body visible, head and body fully in frame",
+   "scene_en": "plain neutral light grey seamless studio background, soft even lighting, subtle floor shadow, cinematic character design",
+   "voice_desc": "龙猫的声音，轻柔温软，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A79",
+   "name": "豚鼠",
+   "species_en": "a guinea pig",
+   "size": "S",
+   "color": "white",
+   "trait": "憨厚胆怯",
+   "height_cm": 95,
+   "desc": "an anthropomorphic a guinea pig character, small stature about 95 centimetres tall when standing upright on two legs, white fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 憨厚胆怯 personality, full body visible, head and body fully in frame",
+   "scene_en": "plain neutral light grey seamless studio background, soft even lighting, subtle floor shadow, cinematic character design",
+   "voice_desc": "豚鼠的声音，轻软发虚，音量小，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A80",
+   "name": "羊驼",
+   "species_en": "an alpaca",
+   "size": "L",
+   "color": "white",
+   "trait": "温顺好奇",
+   "height_cm": 155,
+   "desc": "an anthropomorphic an alpaca character, large stature about 155 centimetres tall when standing upright on two legs, white fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 温顺好奇 personality, full body visible, head and body fully in frame",
+   "scene_en": "plain neutral light grey seamless studio background, soft even lighting, subtle floor shadow, cinematic character design",
+   "voice_desc": "羊驼的声音，轻柔好奇，尾音上扬，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A81",
+   "name": "骆驼",
+   "species_en": "a dromedary camel",
+   "size": "XL",
+   "color": "tan",
+   "trait": "坚毅从容",
+   "height_cm": 185,
+   "desc": "an anthropomorphic a dromedary camel character, very large stature about 185 centimetres tall when standing upright on two legs, tan fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 坚毅从容 personality, full body visible, head and body fully in frame",
+   "scene_en": "plain neutral light grey seamless studio background, soft even lighting, subtle floor shadow, cinematic character design",
+   "voice_desc": "骆驼的声音，厚实坚定，语速稳，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A82",
+   "name": "斑马",
+   "species_en": "a zebra",
+   "size": "L",
+   "color": "black",
+   "trait": "刚烈不羁",
+   "height_cm": 155,
+   "desc": "an anthropomorphic a zebra character, large stature about 155 centimetres tall when standing upright on two legs, black fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 刚烈不羁 personality, full body visible, head and body fully in frame",
+   "scene_en": "plain neutral light grey seamless studio background, soft even lighting, subtle floor shadow, cinematic character design",
+   "voice_desc": "斑马的声音，刚烈有力，爆发感强，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A83",
+   "name": "长颈鹿",
+   "species_en": "a giraffe",
+   "size": "XL",
+   "color": "orange",
+   "trait": "温和好奇",
+   "height_cm": 185,
+   "desc": "an anthropomorphic a giraffe character, very large stature about 185 centimetres tall when standing upright on two legs, orange fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 温和好奇 personality, full body visible, head and body fully in frame",
+   "scene_en": "plain neutral light grey seamless studio background, soft even lighting, subtle floor shadow, cinematic character design",
+   "voice_desc": "长颈鹿的声音，温和清亮，语速适中，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A84",
+   "name": "犀牛",
+   "species_en": "a white rhinoceros",
+   "size": "XL",
+   "color": "grey",
+   "trait": "厚重凶悍",
+   "height_cm": 185,
+   "desc": "an anthropomorphic a white rhinoceros character, very large stature about 185 centimetres tall when standing upright on two legs, grey fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 厚重凶悍 personality, full body visible, head and body fully in frame",
+   "scene_en": "plain neutral light grey seamless studio background, soft even lighting, subtle floor shadow, cinematic character design",
+   "voice_desc": "犀牛的声音，低沉厚重，咬字重，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A85",
+   "name": "河马",
+   "species_en": "a hippopotamus",
+   "size": "XL",
+   "color": "grey",
+   "trait": "沉稳霸道",
+   "height_cm": 185,
+   "desc": "an anthropomorphic a hippopotamus character, very large stature about 185 centimetres tall when standing upright on two legs, grey fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 沉稳霸道 personality, full body visible, head and body fully in frame",
+   "scene_en": "plain neutral light grey seamless studio background, soft even lighting, subtle floor shadow, cinematic character design",
+   "voice_desc": "河马的声音，低沉沉稳，压迫感强，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A86",
+   "name": "大象",
+   "species_en": "an african elephant",
+   "size": "XL",
+   "color": "grey",
+   "trait": "温和威严",
+   "height_cm": 185,
+   "desc": "an anthropomorphic an african elephant character, very large stature about 185 centimetres tall when standing upright on two legs, grey fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 温和威严 personality, full body visible, head and body fully in frame",
+   "scene_en": "macro photography setup with a blurred natural forest floor background, warm rim lighting, cinematic, extreme detail",
+   "voice_desc": "大象的声音，温厚威严，音调偏低，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A87",
+   "name": "野牛",
+   "species_en": "a bison",
+   "size": "XL",
+   "color": "brown",
+   "trait": "剽悍倔强",
+   "height_cm": 185,
+   "desc": "an anthropomorphic a bison character, very large stature about 185 centimetres tall when standing upright on two legs, brown fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 剽悍倔强 personality, full body visible, head and body fully in frame",
+   "scene_en": "plain neutral light grey seamless studio background, soft even lighting, subtle floor shadow, cinematic character design",
+   "voice_desc": "野牛的声音，粗犷倔强，咬字狠，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A88",
+   "name": "梅花鹿",
+   "species_en": "a sika deer stag",
+   "size": "L",
+   "color": "brown",
+   "trait": "清俊温润",
+   "height_cm": 155,
+   "desc": "an anthropomorphic a sika deer stag character, large stature about 155 centimetres tall when standing upright on two legs, brown fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 清俊温润 personality, full body visible, head and body fully in frame",
+   "scene_en": "plain neutral light grey seamless studio background, soft even lighting, subtle floor shadow, cinematic character design",
+   "voice_desc": "梅花鹿的声音，清俊温润，音调适中，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A89",
+   "name": "白鹿",
+   "species_en": "a white deer",
+   "size": "L",
+   "color": "white",
+   "trait": "灵秀出尘",
+   "height_cm": 155,
+   "desc": "an anthropomorphic a white deer character, large stature about 155 centimetres tall when standing upright on two legs, white fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 灵秀出尘 personality, full body visible, head and body fully in frame",
+   "scene_en": "plain neutral light grey seamless studio background, soft even lighting, subtle floor shadow, cinematic character design",
+   "voice_desc": "白鹿的声音，灵秀空灵，气息柔，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A90",
+   "name": "雪貂",
+   "species_en": "a stoat",
+   "size": "S",
+   "color": "white",
+   "trait": "机敏轻盈",
+   "height_cm": 95,
+   "desc": "an anthropomorphic a stoat character, small stature about 95 centimetres tall when standing upright on two legs, white fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 机敏轻盈 personality, full body visible, head and body fully in frame",
+   "scene_en": "plain neutral light grey seamless studio background, soft even lighting, subtle floor shadow, cinematic character design",
+   "voice_desc": "雪貂的声音，轻快轻盈，语速快，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A91",
+   "name": "水豚",
+   "species_en": "a capybara",
+   "size": "L",
+   "color": "brown",
+   "trait": "佛系憨厚",
+   "height_cm": 155,
+   "desc": "an anthropomorphic a capybara character, large stature about 155 centimetres tall when standing upright on two legs, brown fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 佛系憨厚 personality, full body visible, head and body fully in frame",
+   "scene_en": "plain neutral light grey seamless studio background, soft even lighting, subtle floor shadow, cinematic character design",
+   "voice_desc": "水豚的声音，松弛憨厚，语速很慢，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A92",
+   "name": "食蚁兽",
+   "species_en": "an anteater",
+   "size": "L",
+   "color": "grey",
+   "trait": "沉静从容",
+   "height_cm": 155,
+   "desc": "an anthropomorphic an anteater character, large stature about 155 centimetres tall when standing upright on two legs, grey fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 沉静从容 personality, full body visible, head and body fully in frame",
+   "scene_en": "macro photography setup with a blurred natural forest floor background, warm rim lighting, cinematic, extreme detail",
+   "voice_desc": "食蚁兽的声音，沉静从容，语速慢，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A93",
+   "name": "雪豹",
+   "species_en": "a snow leopard",
+   "size": "L",
+   "color": "grey",
+   "trait": "冷峻孤傲",
+   "height_cm": 155,
+   "desc": "an anthropomorphic a snow leopard character, large stature about 155 centimetres tall when standing upright on two legs, grey fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 冷峻孤傲 personality, full body visible, head and body fully in frame",
+   "scene_en": "plain neutral light grey seamless studio background, soft even lighting, subtle floor shadow, cinematic character design",
+   "voice_desc": "雪豹的声音，冷峻孤傲，语调克制，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A94",
+   "name": "猞猁",
+   "species_en": "a lynx",
+   "size": "L",
+   "color": "tan",
+   "trait": "冷傲敏捷",
+   "height_cm": 155,
+   "desc": "an anthropomorphic a lynx character, large stature about 155 centimetres tall when standing upright on two legs, tan fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 冷傲敏捷 personality, full body visible, head and body fully in frame",
+   "scene_en": "plain neutral light grey seamless studio background, soft even lighting, subtle floor shadow, cinematic character design",
+   "voice_desc": "猞猁的声音，清冷敏捷，语速偏快，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A95",
+   "name": "兔狲",
+   "species_en": "a manul",
+   "size": "M",
+   "color": "grey",
+   "trait": "呆萌高冷",
+   "height_cm": 125,
+   "desc": "an anthropomorphic a manul character, medium stature about 125 centimetres tall when standing upright on two legs, grey fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 呆萌高冷 personality, full body visible, head and body fully in frame",
+   "scene_en": "plain neutral light grey seamless studio background, soft even lighting, subtle floor shadow, cinematic character design",
+   "voice_desc": "兔狲的声音，软糯但语调高冷，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A96",
+   "name": "雪兔",
+   "species_en": "an arctic hare",
+   "size": "M",
+   "color": "white",
+   "trait": "机警温顺",
+   "height_cm": 125,
+   "desc": "an anthropomorphic an arctic hare character, medium stature about 125 centimetres tall when standing upright on two legs, white fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 机警温顺 personality, full body visible, head and body fully in frame",
+   "scene_en": "plain neutral light grey seamless studio background, soft even lighting, subtle floor shadow, cinematic character design",
+   "voice_desc": "雪兔的声音，轻软警觉，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A97",
+   "name": "山魈",
+   "species_en": "a mandrill",
+   "size": "L",
+   "color": "brown",
+   "trait": "威严张扬",
+   "height_cm": 155,
+   "desc": "an anthropomorphic a mandrill character, large stature about 155 centimetres tall when standing upright on two legs, brown fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 威严张扬 personality, full body visible, head and body fully in frame",
+   "scene_en": "plain neutral light grey seamless studio background, soft even lighting, subtle floor shadow, cinematic character design",
+   "voice_desc": "山魈的声音，低沉张扬，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A98",
+   "name": "巨嘴鸟",
+   "species_en": "a toucan",
+   "size": "M",
+   "color": "black",
+   "trait": "诙谐张扬",
+   "height_cm": 125,
+   "desc": "an anthropomorphic a toucan character, medium stature about 125 centimetres tall when standing upright on two legs, black fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 诙谐张扬 personality, full body visible, head and body fully in frame",
+   "scene_en": "open sky background with soft clouds and warm golden hour light, cinematic, shallow depth of field",
+   "voice_desc": "巨嘴鸟的声音，响亮诙谐，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A99",
+   "name": "独角鲸",
+   "species_en": "a narwhal",
+   "size": "XL",
+   "color": "grey",
+   "trait": "孤傲神秘",
+   "height_cm": 185,
+   "desc": "an anthropomorphic a narwhal character, very large stature about 185 centimetres tall when standing upright on two legs, grey fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 孤傲神秘 personality, full body visible, head and body fully in frame",
+   "scene_en": "underwater scene with deep blue water, floating light rays and drifting particles, cinematic, soft volumetric lighting",
+   "voice_desc": "独角鲸的声音，清冷神秘，语速慢，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  },
+  {
+   "id": "A100",
+   "name": "蝠鲼",
+   "species_en": "a manta ray",
+   "size": "XL",
+   "color": "black",
+   "trait": "优雅从容",
+   "height_cm": 185,
+   "desc": "an anthropomorphic a manta ray character, very large stature about 185 centimetres tall when standing upright on two legs, black fur or feathers, wearing a simple dark grey sleeveless tunic and a short utility belt, standing upright in a relaxed natural pose, expressive intelligent eyes, clearly a 优雅从容 personality, full body visible, head and body fully in frame",
+   "scene_en": "underwater scene with deep blue water, floating light rays and drifting particles, cinematic, soft volumetric lighting",
+   "voice_desc": "蝠鲼的声音，清雅从容，拟人化角色配音，标准普通话，字字清晰",
+   "emotions": [
+    {
+     "key": "xi",
+     "zh": "喜",
+     "line": "太好了！哈哈，这下可让我高兴坏了，真是让人忍不住笑出声来！"
+    },
+    {
+     "key": "nu",
+     "zh": "怒",
+     "line": "够了！你别再说了，这件事我绝不会让步——滚出去！"
+    },
+    {
+     "key": "ai",
+     "zh": "哀",
+     "line": "怎么会这样……我以为一切都还来得及。唉，现在说什么都晚了。"
+    }
+   ]
+  }
+ ]
+}
