@@ -1,0 +1,86 @@
+[
+  {
+    "name": "s01_hook_fold",
+    "ok": true,
+    "info": "839KB",
+    "sec": 20.1,
+    "port": 8192
+  },
+  {
+    "name": "s02_ally_lawyer",
+    "ok": true,
+    "info": "834KB",
+    "sec": 36.1,
+    "port": 8193
+  },
+  {
+    "name": "s03_villain_seat",
+    "ok": true,
+    "info": "843KB",
+    "sec": 32.1,
+    "port": 8191
+  },
+  {
+    "name": "s04_exec_silent",
+    "ok": true,
+    "info": "994KB",
+    "sec": 36.1,
+    "port": 8190
+  },
+  {
+    "name": "s05_break_alone",
+    "ok": true,
+    "info": "801KB",
+    "sec": 36.1,
+    "port": 8188
+  },
+  {
+    "name": "s06_garage_arrival",
+    "ok": true,
+    "info": "1284KB",
+    "sec": 88.4,
+    "port": 8189
+  },
+  {
+    "name": "s07_rain_street",
+    "ok": true,
+    "info": "1335KB",
+    "sec": 36.1,
+    "port": 8194
+  },
+  {
+    "name": "s08_villain_rage",
+    "ok": true,
+    "info": "796KB",
+    "sec": 24.0,
+    "port": 8192
+  },
+  {
+    "name": "s09_lawyer_cards",
+    "ok": true,
+    "info": "1197KB",
+    "sec": 20.1,
+    "port": 8193
+  },
+  {
+    "name": "s10_exec_reveal",
+    "ok": true,
+    "info": "873KB",
+    "sec": 20.5,
+    "port": 8191
+  },
+  {
+    "name": "s11_topfloor_reversal",
+    "ok": true,
+    "info": "857KB",
+    "sec": 24.1,
+    "port": 8190
+  },
+  {
+    "name": "s12_finale_hook",
+    "ok": true,
+    "info": "767KB",
+    "sec": 24.0,
+    "port": 8188
+  }
+]

@@ -1,0 +1,1071 @@
+[
+  {
+    "sid": "bg_boutique",
+    "crops": [
+      {
+        "crop": "morph_00.png",
+        "votes": [
+          "REAL",
+          "FAKE",
+          "REAL"
+        ],
+        "verdict": "REAL",
+        "n_fake": 1,
+        "n_real": 2,
+        "raw": [
+          "A",
+          "B",
+          "图中的文字有镜像特征。\n\nB"
+        ]
+      },
+      {
+        "crop": "region_00.png",
+        "votes": [
+          "REAL",
+          "FAKE",
+          "FAKE"
+        ],
+        "verdict": "FAKE",
+        "n_fake": 2,
+        "n_real": 1,
+        "raw": [
+          "A",
+          "B",
+          "图中的文字书写特征为：笔画扭曲且有形近字替换。\n\nA"
+        ]
+      },
+      {
+        "crop": "region_01.png",
+        "votes": [
+          "REAL",
+          "FAKE",
+          "REAL"
+        ],
+        "verdict": "REAL",
+        "n_fake": 1,
+        "n_real": 2,
+        "raw": [
+          "A",
+          "B",
+          "图中的文字有镜像特征。\n\nB"
+        ]
+      }
+    ]
+  },
+  {
+    "sid": "bg_delivery_street",
+    "crops": [
+      {
+        "crop": "morph_00.png",
+        "votes": [
+          "REAL",
+          "FAKE",
+          "FAKE"
+        ],
+        "verdict": "FAKE",
+        "n_fake": 2,
+        "n_real": 1,
+        "raw": [
+          "A",
+          "B",
+          "图中的文字笔画没有扭曲，没有镜像，没有形近字替换，也没有多余杂字符。\n\nA"
+        ]
+      },
+      {
+        "crop": "region_00.png",
+        "votes": [
+          "REAL",
+          "FAKE",
+          "FAKE"
+        ],
+        "verdict": "FAKE",
+        "n_fake": 2,
+        "n_real": 1,
+        "raw": [
+          "A",
+          "B",
+          "图中的文字笔画没有扭曲，没有镜像，没有形近字替换，也没有多余杂字符。\n\nA"
+        ]
+      },
+      {
+        "crop": "region_01.png",
+        "votes": [
+          "REAL",
+          "FAKE",
+          "REAL"
+        ],
+        "verdict": "REAL",
+        "n_fake": 1,
+        "n_real": 2,
+        "raw": [
+          "A",
+          "B",
+          "第一步：图中的文字笔画扭曲且有形近字替换。\n\n第二步：B"
+        ]
+      },
+      {
+        "crop": "region_02.png",
+        "votes": [
+          "FAKE",
+          "FAKE",
+          "REAL"
+        ],
+        "verdict": "FAKE",
+        "n_fake": 2,
+        "n_real": 1,
+        "raw": [
+          "B",
+          "B",
+          "图中的文字笔画扭曲且有镜像现象。\n\nB"
+        ]
+      },
+      {
+        "crop": "region_03.png",
+        "votes": [
+          "FAKE",
+          "FAKE",
+          "FAKE"
+        ],
+        "verdict": "FAKE",
+        "n_fake": 3,
+        "n_real": 0,
+        "raw": [
+          "B",
+          "B",
+          "A"
+        ]
+      },
+      {
+        "crop": "region_04.png",
+        "votes": [
+          "FAKE",
+          "REAL",
+          "REAL"
+        ],
+        "verdict": "REAL",
+        "n_fake": 1,
+        "n_real": 2,
+        "raw": [
+          "B",
+          "A",
+          "第一步：图中的文字有明显的扭曲现象，笔画不清晰。\n\n第二步：B"
+        ]
+      }
+    ]
+  },
+  {
+    "sid": "bg_dispatch_room",
+    "crops": [
+      {
+        "crop": "morph_00.png",
+        "votes": [
+          "REAL",
+          "FAKE",
+          "REAL"
+        ],
+        "verdict": "REAL",
+        "n_fake": 1,
+        "n_real": 2,
+        "raw": [
+          "A",
+          "B",
+          "图中的文字书写特征为：笔画扭曲，有镜像现象。\n\nB"
+        ]
+      },
+      {
+        "crop": "morph_01.png",
+        "votes": [
+          "FAKE",
+          "FAKE",
+          "REAL"
+        ],
+        "verdict": "FAKE",
+        "n_fake": 2,
+        "n_real": 1,
+        "raw": [
+          "B",
+          "B",
+          "图中没有文字。\n\nB"
+        ]
+      },
+      {
+        "crop": "morph_02.png",
+        "votes": [
+          "FAKE",
+          "REAL",
+          "REAL"
+        ],
+        "verdict": "REAL",
+        "n_fake": 1,
+        "n_real": 2,
+        "raw": [
+          "B",
+          "A",
+          "图中的文字有明显的扭曲和镜像特征。\n\nB"
+        ]
+      },
+      {
+        "crop": "morph_03.png",
+        "votes": [
+          "FAKE",
+          "FAKE",
+          "REAL"
+        ],
+        "verdict": "FAKE",
+        "n_fake": 2,
+        "n_real": 1,
+        "raw": [
+          "B",
+          "B",
+          "图中的文字书写特征为：笔画扭曲且有形近字替换。\n\nB"
+        ]
+      },
+      {
+        "crop": "morph_04.png",
+        "votes": [
+          "FAKE",
+          "REAL",
+          "REAL"
+        ],
+        "verdict": "REAL",
+        "n_fake": 1,
+        "n_real": 2,
+        "raw": [
+          "B",
+          "A",
+          "B"
+        ]
+      },
+      {
+        "crop": "region_00.png",
+        "votes": [
+          "REAL",
+          "FAKE",
+          "FAKE"
+        ],
+        "verdict": "FAKE",
+        "n_fake": 2,
+        "n_real": 1,
+        "raw": [
+          "A",
+          "B",
+          "图中的文字书写特征为：笔画清晰，无扭曲，无镜像，无形近字替换，无多余杂字符。\n\nA"
+        ]
+      },
+      {
+        "crop": "region_01.png",
+        "votes": [
+          "FAKE",
+          "FAKE",
+          "REAL"
+        ],
+        "verdict": "FAKE",
+        "n_fake": 2,
+        "n_real": 1,
+        "raw": [
+          "B",
+          "B",
+          "图中的文字书写特征为：笔画扭曲且有形近字替换。\n\nB"
+        ]
+      },
+      {
+        "crop": "region_02.png",
+        "votes": [
+          "FAKE",
+          "FAKE",
+          "REAL"
+        ],
+        "verdict": "FAKE",
+        "n_fake": 2,
+        "n_real": 1,
+        "raw": [
+          "B",
+          "B",
+          "图中没有文字。\n\nB"
+        ]
+      },
+      {
+        "crop": "region_03.png",
+        "votes": [
+          "FAKE",
+          "REAL",
+          "REAL"
+        ],
+        "verdict": "REAL",
+        "n_fake": 1,
+        "n_real": 2,
+        "raw": [
+          "B",
+          "A",
+          "图中的文字笔画扭曲且有形近字替换。\n\nB"
+        ]
+      },
+      {
+        "crop": "region_04.png",
+        "votes": [
+          "FAKE",
+          "REAL",
+          "REAL"
+        ],
+        "verdict": "REAL",
+        "n_fake": 1,
+        "n_real": 2,
+        "raw": [
+          "B",
+          "A",
+          "第一行文字的笔画有扭曲现象，且存在形近字替换。\n\nB"
+        ]
+      },
+      {
+        "crop": "region_05.png",
+        "votes": [
+          "FAKE",
+          "REAL",
+          "REAL"
+        ],
+        "verdict": "REAL",
+        "n_fake": 1,
+        "n_real": 2,
+        "raw": [
+          "B",
+          "A",
+          "B"
+        ]
+      },
+      {
+        "crop": "region_06.png",
+        "votes": [
+          "FAKE",
+          "REAL",
+          "REAL"
+        ],
+        "verdict": "REAL",
+        "n_fake": 1,
+        "n_real": 2,
+        "raw": [
+          "B",
+          "A",
+          "图中的文字笔画扭曲且有形近字替换。\n\nB"
+        ]
+      },
+      {
+        "crop": "region_07.png",
+        "votes": [
+          "FAKE",
+          "REAL",
+          "REAL"
+        ],
+        "verdict": "REAL",
+        "n_fake": 1,
+        "n_real": 2,
+        "raw": [
+          "B",
+          "A",
+          "图中的文字有明显的扭曲和镜像特征。\n\nB"
+        ]
+      }
+    ]
+  },
+  {
+    "sid": "bg_driving_office",
+    "crops": [
+      {
+        "crop": "morph_00.png",
+        "votes": [
+          "FAKE",
+          "REAL",
+          "REAL"
+        ],
+        "verdict": "REAL",
+        "n_fake": 1,
+        "n_real": 2,
+        "raw": [
+          "B",
+          "A",
+          "第一行文字的笔画有扭曲现象，且存在形近字替换。\n\nB"
+        ]
+      },
+      {
+        "crop": "morph_01.png",
+        "votes": [
+          "FAKE",
+          "REAL",
+          "REAL"
+        ],
+        "verdict": "REAL",
+        "n_fake": 1,
+        "n_real": 2,
+        "raw": [
+          "B",
+          "A",
+          "B"
+        ]
+      },
+      {
+        "crop": "region_00.png",
+        "votes": [
+          "REAL",
+          "FAKE",
+          "FAKE"
+        ],
+        "verdict": "FAKE",
+        "n_fake": 2,
+        "n_real": 1,
+        "raw": [
+          "A",
+          "B",
+          "图中的文字没有明显的笔画扭曲、镜像或形近字替换现象，也没有多余杂字符。\n\nA"
+        ]
+      },
+      {
+        "crop": "region_01.png",
+        "votes": [
+          "REAL",
+          "FAKE",
+          "FAKE"
+        ],
+        "verdict": "FAKE",
+        "n_fake": 2,
+        "n_real": 1,
+        "raw": [
+          "A",
+          "B",
+          "图中的文字笔画没有扭曲，也没有镜像或形近字替换，也没有多余杂字符。\n\nA"
+        ]
+      },
+      {
+        "crop": "region_02.png",
+        "votes": [
+          "FAKE",
+          "REAL",
+          "REAL"
+        ],
+        "verdict": "REAL",
+        "n_fake": 1,
+        "n_real": 2,
+        "raw": [
+          "B",
+          "A",
+          "图中的文字笔画扭曲且有镜像现象。\n\nB"
+        ]
+      },
+      {
+        "crop": "region_03.png",
+        "votes": [
+          "FAKE",
+          "REAL",
+          "REAL"
+        ],
+        "verdict": "REAL",
+        "n_fake": 1,
+        "n_real": 2,
+        "raw": [
+          "B",
+          "A",
+          "图中的文字笔画扭曲且有镜像现象。\n\nB"
+        ]
+      },
+      {
+        "crop": "region_04.png",
+        "votes": [
+          "FAKE",
+          "REAL",
+          "REAL"
+        ],
+        "verdict": "REAL",
+        "n_fake": 1,
+        "n_real": 2,
+        "raw": [
+          "B",
+          "A",
+          "B"
+        ]
+      }
+    ]
+  },
+  {
+    "sid": "bg_grain_depot",
+    "crops": [
+      {
+        "crop": "morph_00.png",
+        "votes": [
+          "FAKE",
+          "REAL",
+          "REAL"
+        ],
+        "verdict": "REAL",
+        "n_fake": 1,
+        "n_real": 2,
+        "raw": [
+          "B",
+          "A",
+          "B"
+        ]
+      },
+      {
+        "crop": "morph_01.png",
+        "votes": [
+          "FAKE",
+          "REAL",
+          "REAL"
+        ],
+        "verdict": "REAL",
+        "n_fake": 1,
+        "n_real": 2,
+        "raw": [
+          "B",
+          "A",
+          "图中的文字笔画扭曲且有镜像现象。\n\nB"
+        ]
+      },
+      {
+        "crop": "region_00.png",
+        "votes": [
+          "REAL",
+          "FAKE",
+          "FAKE"
+        ],
+        "verdict": "FAKE",
+        "n_fake": 2,
+        "n_real": 1,
+        "raw": [
+          "A",
+          "B",
+          "图中的文字书写特征为：笔画没有扭曲，没有镜像，没有形近字替换，也没有多余杂字符。\n\nA"
+        ]
+      },
+      {
+        "crop": "region_01.png",
+        "votes": [
+          "FAKE",
+          "REAL",
+          "REAL"
+        ],
+        "verdict": "REAL",
+        "n_fake": 1,
+        "n_real": 2,
+        "raw": [
+          "B",
+          "A",
+          "第一行的文字笔画扭曲且有镜像现象。\n\nB"
+        ]
+      },
+      {
+        "crop": "region_02.png",
+        "votes": [
+          "FAKE",
+          "REAL",
+          "REAL"
+        ],
+        "verdict": "REAL",
+        "n_fake": 1,
+        "n_real": 2,
+        "raw": [
+          "B",
+          "A",
+          "图中的文字笔画扭曲且有镜像现象。\n\nB"
+        ]
+      },
+      {
+        "crop": "region_03.png",
+        "votes": [
+          "FAKE",
+          "REAL",
+          "REAL"
+        ],
+        "verdict": "REAL",
+        "n_fake": 1,
+        "n_real": 2,
+        "raw": [
+          "B",
+          "A",
+          "图中的文字笔画扭曲且有镜像现象。\n\nB"
+        ]
+      },
+      {
+        "crop": "region_04.png",
+        "votes": [
+          "FAKE",
+          "REAL",
+          "REAL"
+        ],
+        "verdict": "REAL",
+        "n_fake": 1,
+        "n_real": 2,
+        "raw": [
+          "B",
+          "A",
+          "B"
+        ]
+      }
+    ]
+  },
+  {
+    "sid": "bg_highspeed_station",
+    "crops": [
+      {
+        "crop": "morph_00.png",
+        "votes": [
+          "FAKE",
+          "REAL",
+          "REAL"
+        ],
+        "verdict": "REAL",
+        "n_fake": 1,
+        "n_real": 2,
+        "raw": [
+          "B",
+          "A",
+          "B"
+        ]
+      },
+      {
+        "crop": "region_00.png",
+        "votes": [
+          "REAL",
+          "FAKE",
+          "FAKE"
+        ],
+        "verdict": "FAKE",
+        "n_fake": 2,
+        "n_real": 1,
+        "raw": [
+          "A",
+          "B",
+          "图中的文字书写特征为：笔画没有扭曲，没有镜像，没有形近字替换，也没有多余杂字符。\n\nA"
+        ]
+      },
+      {
+        "crop": "region_01.png",
+        "votes": [
+          "FAKE",
+          "FAKE",
+          "REAL"
+        ],
+        "verdict": "FAKE",
+        "n_fake": 2,
+        "n_real": 1,
+        "raw": [
+          "B",
+          "B",
+          "B"
+        ]
+      },
+      {
+        "crop": "region_02.png",
+        "votes": [
+          "FAKE",
+          "REAL",
+          "REAL"
+        ],
+        "verdict": "REAL",
+        "n_fake": 1,
+        "n_real": 2,
+        "raw": [
+          "B",
+          "A",
+          "B"
+        ]
+      }
+    ]
+  },
+  {
+    "sid": "bg_home_services",
+    "crops": [
+      {
+        "crop": "morph_00.png",
+        "votes": [
+          "FAKE",
+          "FAKE",
+          "REAL"
+        ],
+        "verdict": "FAKE",
+        "n_fake": 2,
+        "n_real": 1,
+        "raw": [
+          "B",
+          "B",
+          "图中的文字笔画扭曲且有镜像现象。\n\nB"
+        ]
+      },
+      {
+        "crop": "morph_01.png",
+        "votes": [
+          "FAKE",
+          "REAL",
+          "REAL"
+        ],
+        "verdict": "REAL",
+        "n_fake": 1,
+        "n_real": 2,
+        "raw": [
+          "B",
+          "A",
+          "图中的文字笔画扭曲且有镜像现象。\n\nB"
+        ]
+      },
+      {
+        "crop": "morph_02.png",
+        "votes": [
+          "FAKE",
+          "FAKE",
+          "REAL"
+        ],
+        "verdict": "FAKE",
+        "n_fake": 2,
+        "n_real": 1,
+        "raw": [
+          "B",
+          "B",
+          "B"
+        ]
+      },
+      {
+        "crop": "region_00.png",
+        "votes": [
+          "REAL",
+          "FAKE",
+          "REAL"
+        ],
+        "verdict": "REAL",
+        "n_fake": 1,
+        "n_real": 2,
+        "raw": [
+          "A",
+          "B",
+          "第一行文字的书写特征是笔画扭曲且有形近字替换。\n\nB"
+        ]
+      },
+      {
+        "crop": "region_01.png",
+        "votes": [
+          "FAKE",
+          "FAKE",
+          "REAL"
+        ],
+        "verdict": "FAKE",
+        "n_fake": 2,
+        "n_real": 1,
+        "raw": [
+          "B",
+          "B",
+          "B"
+        ]
+      },
+      {
+        "crop": "region_02.png",
+        "votes": [
+          "FAKE",
+          "REAL",
+          "REAL"
+        ],
+        "verdict": "REAL",
+        "n_fake": 1,
+        "n_real": 2,
+        "raw": [
+          "B",
+          "A",
+          "图中的文字笔画扭曲且有形近字替换。\n\nB"
+        ]
+      },
+      {
+        "crop": "region_03.png",
+        "votes": [
+          "FAKE",
+          "REAL",
+          "REAL"
+        ],
+        "verdict": "REAL",
+        "n_fake": 1,
+        "n_real": 2,
+        "raw": [
+          "B",
+          "A",
+          "图中的文字笔画扭曲且有镜像现象。\n\nB"
+        ]
+      },
+      {
+        "crop": "region_04.png",
+        "votes": [
+          "FAKE",
+          "REAL",
+          "REAL"
+        ],
+        "verdict": "REAL",
+        "n_fake": 1,
+        "n_real": 2,
+        "raw": [
+          "B",
+          "A",
+          "B"
+        ]
+      },
+      {
+        "crop": "region_05.png",
+        "votes": [
+          "FAKE",
+          "REAL",
+          "REAL"
+        ],
+        "verdict": "REAL",
+        "n_fake": 1,
+        "n_real": 2,
+        "raw": [
+          "B",
+          "A",
+          "图中的文字有明显的扭曲和镜像现象。\n\nB"
+        ]
+      },
+      {
+        "crop": "region_06.png",
+        "votes": [
+          "FAKE",
+          "REAL",
+          "REAL"
+        ],
+        "verdict": "REAL",
+        "n_fake": 1,
+        "n_real": 2,
+        "raw": [
+          "B",
+          "A",
+          "图中的文字有明显的扭曲和镜像现象。\n\nB"
+        ]
+      },
+      {
+        "crop": "region_07.png",
+        "votes": [
+          "REAL",
+          "FAKE",
+          "FAKE"
+        ],
+        "verdict": "FAKE",
+        "n_fake": 2,
+        "n_real": 1,
+        "raw": [
+          "A",
+          "B",
+          "第一步：图中的文字“PARE”和“DARE”在书写上没有明显的扭曲或镜像现象，也没有形近字替换，但最后一行的“DARE”中有一个多余的“E”，这可能是一个笔误。\n\n第二步：B"
+        ]
+      }
+    ]
+  },
+  {
+    "sid": "bg_support_centre",
+    "crops": [
+      {
+        "crop": "morph_00.png",
+        "votes": [
+          "FAKE",
+          "FAKE",
+          "REAL"
+        ],
+        "verdict": "FAKE",
+        "n_fake": 2,
+        "n_real": 1,
+        "raw": [
+          "B",
+          "B",
+          "图中的文字是扭曲的，并且有镜像效果。\n\nB"
+        ]
+      },
+      {
+        "crop": "morph_01.png",
+        "votes": [
+          "FAKE",
+          "REAL",
+          "REAL"
+        ],
+        "verdict": "REAL",
+        "n_fake": 1,
+        "n_real": 2,
+        "raw": [
+          "B",
+          "A",
+          "B"
+        ]
+      },
+      {
+        "crop": "region_00.png",
+        "votes": [
+          "REAL",
+          "FAKE",
+          "REAL"
+        ],
+        "verdict": "REAL",
+        "n_fake": 1,
+        "n_real": 2,
+        "raw": [
+          "A",
+          "B",
+          "图中的文字笔画扭曲且有镜像效果。\n\nB"
+        ]
+      },
+      {
+        "crop": "region_01.png",
+        "votes": [
+          "FAKE",
+          "FAKE",
+          "REAL"
+        ],
+        "verdict": "FAKE",
+        "n_fake": 2,
+        "n_real": 1,
+        "raw": [
+          "B",
+          "B",
+          "图中的文字是扭曲的，并且有镜像效果。\n\nB"
+        ]
+      },
+      {
+        "crop": "region_02.png",
+        "votes": [
+          "FAKE",
+          "REAL",
+          "REAL"
+        ],
+        "verdict": "REAL",
+        "n_fake": 1,
+        "n_real": 2,
+        "raw": [
+          "B",
+          "A",
+          "B"
+        ]
+      }
+    ]
+  },
+  {
+    "sid": "bg_tofu_stall",
+    "crops": [
+      {
+        "crop": "region_00.png",
+        "votes": [
+          "REAL",
+          "FAKE",
+          "FAKE"
+        ],
+        "verdict": "FAKE",
+        "n_fake": 2,
+        "n_real": 1,
+        "raw": [
+          "A",
+          "B",
+          "图中的文字书写特征为：笔画扭曲且有形近字替换。\n\nA"
+        ]
+      },
+      {
+        "crop": "region_01.png",
+        "votes": [
+          "REAL",
+          "FAKE",
+          "FAKE"
+        ],
+        "verdict": "FAKE",
+        "n_fake": 2,
+        "n_real": 1,
+        "raw": [
+          "A",
+          "B",
+          "图中的文字笔画扭曲，有形近字替换。\n\nA"
+        ]
+      },
+      {
+        "crop": "region_02.png",
+        "votes": [
+          "REAL",
+          "FAKE",
+          "FAKE"
+        ],
+        "verdict": "FAKE",
+        "n_fake": 2,
+        "n_real": 1,
+        "raw": [
+          "A",
+          "B",
+          "第一步：图中的文字笔画没有扭曲，没有镜像，没有形近字替换，也没有多余杂字符。\n\n第二步：A"
+        ]
+      },
+      {
+        "crop": "region_03.png",
+        "votes": [
+          "REAL",
+          "FAKE",
+          "FAKE"
+        ],
+        "verdict": "FAKE",
+        "n_fake": 2,
+        "n_real": 1,
+        "raw": [
+          "A",
+          "B",
+          "A"
+        ]
+      },
+      {
+        "crop": "region_04.png",
+        "votes": [
+          "FAKE",
+          "REAL",
+          "REAL"
+        ],
+        "verdict": "REAL",
+        "n_fake": 1,
+        "n_real": 2,
+        "raw": [
+          "B",
+          "A",
+          "B"
+        ]
+      },
+      {
+        "crop": "region_05.png",
+        "votes": [
+          "REAL",
+          "REAL",
+          "REAL"
+        ],
+        "verdict": "REAL",
+        "n_fake": 0,
+        "n_real": 3,
+        "raw": [
+          "A",
+          "A",
+          "B"
+        ]
+      },
+      {
+        "crop": "region_06.png",
+        "votes": [
+          "FAKE",
+          "REAL",
+          "REAL"
+        ],
+        "verdict": "REAL",
+        "n_fake": 1,
+        "n_real": 2,
+        "raw": [
+          "B",
+          "A",
+          "B"
+        ]
+      },
+      {
+        "crop": "region_07.png",
+        "votes": [
+          "FAKE",
+          "FAKE",
+          "REAL"
+        ],
+        "verdict": "FAKE",
+        "n_fake": 2,
+        "n_real": 1,
+        "raw": [
+          "B",
+          "B",
+          "第一行文字的书写特征是笔画扭曲且有形近字替换。\n\nB"
+        ]
+      }
+    ]
+  }
+]

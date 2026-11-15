@@ -1,0 +1,56 @@
+# ===== ComfyUI 中间产物（与 seasons/ 内容重复，仅为工作区） =====
+comfy_out_*/
+
+# ===== 音色备份与迭代版本（正式版在 voices/emotions/） =====
+voices/emotions_backup_*/
+voices/emotions_fixed/
+voices/emotions_fixed_v*/
+voices_emotions_backup.tar.gz
+
+# ===== 归档副本（与目录内容重复） =====
+*.tar
+*.tar.gz
+
+# ===== 背景重生成工作区 =====
+scenes_100_pre_v5/
+scenes_100_regen/
+scenes_100_regen_cand/
+_pick_*/
+
+# ===== 核验中间产物（裁剪图；最终裁决 JSON 保留） =====
+bg_text_crops/
+scenes_100_regen/_crops*/
+bg_text_crops_v5/
+
+# ===== 任务池 =====
+pool/
+pool_season/
+
+# ===== 运行日志 =====
+logs/
+*.log
+_smoke/
+_smoke_i2v.py
+
+# ===== drama_1min 中间产物（保留 final/ 成片） =====
+drama_1min/compose_work/
+drama_1min/compose_h3_work/
+drama_1min/frames/
+drama_1min/frames_norm/
+drama_1min/ab_out/
+drama_1min/motion*/
+drama_1min/segments/
+drama_1min/*.log
+drama_1min/*.out
+__pycache__/
+
+# ===== 临时脚本 =====
+tmp_*
+!tmp_text_rule_v5.py
+
+# ===== Python / 编辑器 =====
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
+.idea/

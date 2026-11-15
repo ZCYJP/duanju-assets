@@ -1,0 +1,5941 @@
+{
+  "meta": {
+    "rule": "允许字符: CJK统一 U+4E00-U+9FFF / CJK兼容 U+F900-U+FAFF / 假名 U+3040-U+30FF / 谚文 U+AC00-U+D7AF / ASCII字母数字; 私用区与罕见符号判为伪文字",
+    "match_threshold": 0.5,
+    "match_metric": "min(SequenceMatcher.ratio, 预期串覆盖率)",
+    "evidence_layers": {
+      "L1_ocr": "/ssd2/duanju/scenes_100_text_audit.json",
+      "L2_vl_full": "/ssd2/duanju/scenes_100_text_vl_verify.json",
+      "L3_vl_sign": "/ssd2/duanju/scenes_100_text_signcheck.json",
+      "L4_vl_zoom": "/ssd2/duanju/scenes_100_text_zoomcheck.json",
+      "L4b_latin_semantic": "/ssd2/duanju/scenes_100_text_semantic.json"
+    },
+    "crop_dir": "/ssd2/duanju/bg_text_crops",
+    "no_images_modified": true
+  },
+  "summary": {
+    "total": 100,
+    "真实文字": 91,
+    "真实文字图片": [
+      "bg_airport.png",
+      "bg_apothecary.png",
+      "bg_art_studio.png",
+      "bg_back_office.png",
+      "bg_bakery.png",
+      "bg_bakery_shop.png",
+      "bg_baking_class.png",
+      "bg_beauty_room.png",
+      "bg_boarding_gate.png",
+      "bg_bookstore.png",
+      "bg_boutique.png",
+      "bg_boutique_floor.png",
+      "bg_bubble_tea.png",
+      "bg_butchershop.png",
+      "bg_cafe.png",
+      "bg_canteen.png",
+      "bg_car_interior.png",
+      "bg_car_repair_bay.png",
+      "bg_cargo_deck.png",
+      "bg_classroom.png",
+      "bg_clinic_ward.png",
+      "bg_cold_store.png",
+      "bg_conference.png",
+      "bg_construction_site.png",
+      "bg_corporate_lobby.png",
+      "bg_delivery_station.png",
+      "bg_dessert_bar.png",
+      "bg_dispatch_room.png",
+      "bg_dock_market.png",
+      "bg_dorm_room.png",
+      "bg_driving_school.png",
+      "bg_factory_dorm.png",
+      "bg_factory_gate.png",
+      "bg_fire_station.png",
+      "bg_fishing_dock.png",
+      "bg_flower_shop.png",
+      "bg_flower_stall.png",
+      "bg_fresh_aisle.png",
+      "bg_game_studio.png",
+      "bg_guardhouse.png",
+      "bg_gym.png",
+      "bg_gym_reception.png",
+      "bg_harbour_fishing.png",
+      "bg_harbour_office.png",
+      "bg_highspeed_station.png",
+      "bg_hospital_dir.png",
+      "bg_industrial_office.png",
+      "bg_insurance.png",
+      "bg_kindergarten.png",
+      "bg_logistics_yard.png",
+      "bg_lumber_yard.png",
+      "bg_makeup_room.png",
+      "bg_market_alley.png",
+      "bg_nail_salon.png",
+      "bg_night_market.png",
+      "bg_nursery.png",
+      "bg_old_stairwell.png",
+      "bg_open_office.png",
+      "bg_parcel_station.png",
+      "bg_playground.png",
+      "bg_precision_factory.png",
+      "bg_principal_office.png",
+      "bg_reno_site.png",
+      "bg_restaurant_private.png",
+      "bg_salon_front.png",
+      "bg_sample_room.png",
+      "bg_school_field.png",
+      "bg_school_gate.png",
+      "bg_school_office.png",
+      "bg_senior_centre.png",
+      "bg_small_restaurant.png",
+      "bg_sorting_centre.png",
+      "bg_startup_desk.png",
+      "bg_steel_mill.png",
+      "bg_subway_station.png",
+      "bg_supermarket.png",
+      "bg_support_centre.png",
+      "bg_tailor_shop.png",
+      "bg_tcm_clinic.png",
+      "bg_tea_house.png",
+      "bg_tea_prep.png",
+      "bg_test_field.png",
+      "bg_textile_mill.png",
+      "bg_tile_warehouse.png",
+      "bg_track_field.png",
+      "bg_train_platform.png",
+      "bg_training_centre.png",
+      "bg_warehouse_rack.png",
+      "bg_wet_market.png",
+      "bg_wheat_field.png",
+      "bg_yoga_studio.png"
+    ],
+    "伪文字": 9,
+    "伪文字图片": [
+      "bg_auto_shop.png",
+      "bg_delivery_street.png",
+      "bg_driving_office.png",
+      "bg_grain_depot.png",
+      "bg_home_services.png",
+      "bg_kindergarten_paint.png",
+      "bg_law_office.png",
+      "bg_pet_shop.png",
+      "bg_tofu_stall.png"
+    ],
+    "无文字": 0,
+    "无文字图片": [],
+    "高置信": 93,
+    "含伪文字细节": {
+      "bg_auto_shop.png": [
+        "610517"
+      ],
+      "bg_delivery_street.png": [
+        "[伪文字]",
+        "EXAACT",
+        "EXAACT | 真实字符"
+      ],
+      "bg_driving_office.png": [
+        "FRUNIC /AOI TYEFA",
+        "FRUNIC /AOITVEFA | 真实字符"
+      ],
+      "bg_grain_depot.png": [
+        "ZBR"
+      ],
+      "bg_home_services.png": [
+        "FABLISATEBIC"
+      ],
+      "bg_kindergarten_paint.png": [
+        "あどび"
+      ],
+      "bg_law_office.png": [
+        "诚信律师事务所"
+      ],
+      "bg_pet_shop.png": [
+        "宠[伪文字]物店"
+      ],
+      "bg_tofu_stall.png": [
+        "右火磨"
+      ]
+    }
+  },
+  "items": [
+    {
+      "file": "bg_airport.png",
+      "sid": "bg_airport",
+      "expected": "出发大厅",
+      "lang": "简体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='出发大厅'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "出发大厅",
+      "vl_similarity": 1.0,
+      "vl_best": "出发大厅",
+      "vl_lines": [
+        "出发大厅"
+      ],
+      "signcheck_lines": [
+        "出发大厅 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 2,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_airport/region_00.png",
+          "kind": "region",
+          "box": [
+            249,
+            286,
+            752,
+            235
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_airport/region_01.png",
+          "kind": "region",
+          "box": [
+            844,
+            604,
+            130,
+            89
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_airport/region_02.png",
+          "kind": "region",
+          "box": [
+            140,
+            569,
+            132,
+            53
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_airport/morph_00.png",
+          "kind": "morph",
+          "n_comp": 4
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_airport/morph_01.png",
+          "kind": "morph",
+          "n_comp": 4
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_apothecary.png",
+      "sid": "bg_apothecary",
+      "expected": "同德堂藥號",
+      "lang": "繁体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='同德堂藥號'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "同德堂藥號",
+      "vl_similarity": 1.0,
+      "vl_best": "同德堂藥號",
+      "vl_lines": [
+        "同德堂藥號"
+      ],
+      "signcheck_lines": [
+        "同德堂藥號 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 1,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_apothecary/region_00.png",
+          "kind": "region",
+          "box": [
+            293,
+            71,
+            661,
+            163
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_apothecary/region_01.png",
+          "kind": "region",
+          "box": [
+            322,
+            703,
+            42,
+            18
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_apothecary/morph_00.png",
+          "kind": "morph",
+          "n_comp": 4
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_art_studio.png",
+      "sid": "bg_art_studio",
+      "expected": "美術學院",
+      "lang": "繁体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 0.75 / VL覆盖 1.00), 预期='美術學院'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 0.75,
+      "ocr_best": "美街學院",
+      "vl_similarity": 1.0,
+      "vl_best": "美術學院",
+      "vl_lines": [
+        "美術學院"
+      ],
+      "signcheck_lines": [
+        "美術學院 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 1,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_art_studio/region_00.png",
+          "kind": "region",
+          "box": [
+            324,
+            88,
+            596,
+            186
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_art_studio/region_01.png",
+          "kind": "region",
+          "box": [
+            684,
+            131,
+            31,
+            15
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_art_studio/morph_00.png",
+          "kind": "morph",
+          "n_comp": 3
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_auto_shop.png",
+      "sid": "bg_auto_shop",
+      "expected": "整備工場",
+      "lang": "日语",
+      "verdict": "伪文字",
+      "confidence": "高",
+      "reason": "检出伪文字证据 1 条: ['610517']",
+      "pseudo_evidence": [
+        "610517"
+      ],
+      "ocr_similarity": 0.75,
+      "ocr_best": "整健工場",
+      "vl_similarity": 0.75,
+      "vl_best": "整儲工場",
+      "vl_lines": [
+        "整儲工場"
+      ],
+      "signcheck_lines": [
+        "整儲工場 | 真实字符"
+      ],
+      "zoom_lines": [
+        "整儲工場 | [无法辨认]/[无法辨认]/[CJK]/[无法辨认]",
+        "610517 | [REAL]/[FAKE]/[无法辨认]/[无法辨认]"
+      ],
+      "n_text_regions": 0,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_auto_shop/region_00.png",
+          "kind": "region",
+          "box": [
+            294,
+            82,
+            657,
+            189
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_auto_shop/region_01.png",
+          "kind": "region",
+          "box": [
+            719,
+            506,
+            51,
+            24
+          ]
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_back_office.png",
+      "sid": "bg_back_office",
+      "expected": "採購部",
+      "lang": "繁体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 0.67 / VL覆盖 1.00), 预期='採購部'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 0.6667,
+      "ocr_best": "搡購部",
+      "vl_similarity": 1.0,
+      "vl_best": "採購部",
+      "vl_lines": [
+        "採購部"
+      ],
+      "signcheck_lines": [
+        "採購部 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 0,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_back_office/region_00.png",
+          "kind": "region",
+          "box": [
+            252,
+            256,
+            753,
+            273
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_back_office/region_01.png",
+          "kind": "region",
+          "box": [
+            27,
+            455,
+            41,
+            13
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_back_office/region_02.png",
+          "kind": "region",
+          "box": [
+            110,
+            452,
+            28,
+            9
+          ]
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_bakery.png",
+      "sid": "bg_bakery",
+      "expected": "BAKERY",
+      "lang": "英语",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='BAKERY'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "BAKERY",
+      "vl_similarity": 1.0,
+      "vl_best": "BAKERY",
+      "vl_lines": [
+        "BAKERY"
+      ],
+      "signcheck_lines": [
+        "BAKERY | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 0,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_bakery/region_00.png",
+          "kind": "region",
+          "box": [
+            338,
+            109,
+            561,
+            152
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_bakery/region_01.png",
+          "kind": "region",
+          "box": [
+            533,
+            513,
+            52,
+            14
+          ]
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_bakery_shop.png",
+      "sid": "bg_bakery_shop",
+      "expected": "Boulangerie",
+      "lang": "法语",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='Boulangerie'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "Boulangerie",
+      "vl_similarity": 1.0,
+      "vl_best": "Boulangerie",
+      "vl_lines": [
+        "Boulangerie"
+      ],
+      "signcheck_lines": [
+        "Boulangerie | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 3,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_bakery_shop/region_00.png",
+          "kind": "region",
+          "box": [
+            245,
+            96,
+            772,
+            176
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_bakery_shop/region_01.png",
+          "kind": "region",
+          "box": [
+            595,
+            767,
+            109,
+            28
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_bakery_shop/region_02.png",
+          "kind": "region",
+          "box": [
+            1018,
+            602,
+            107,
+            17
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_bakery_shop/region_03.png",
+          "kind": "region",
+          "box": [
+            677,
+            439,
+            20,
+            15
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_bakery_shop/morph_00.png",
+          "kind": "morph",
+          "n_comp": 5
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_bakery_shop/morph_01.png",
+          "kind": "morph",
+          "n_comp": 3
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_bakery_shop/morph_02.png",
+          "kind": "morph",
+          "n_comp": 3
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_baking_class.png",
+      "sid": "bg_baking_class",
+      "expected": "烘焙课程",
+      "lang": "简体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='烘焙课程'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "烘焙课程",
+      "vl_similarity": 1.0,
+      "vl_best": "烘焙课程",
+      "vl_lines": [
+        "烘焙课程"
+      ],
+      "signcheck_lines": [
+        "烘焙课程 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 1,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_baking_class/region_00.png",
+          "kind": "region",
+          "box": [
+            0,
+            80,
+            1248,
+            172
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_baking_class/morph_00.png",
+          "kind": "morph",
+          "n_comp": 15
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_beauty_room.png",
+      "sid": "bg_beauty_room",
+      "expected": "Beauty Care",
+      "lang": "英语",
+      "verdict": "真实文字",
+      "confidence": "中",
+      "reason": "主招牌被正确读出 (OCR覆盖 0.10 / VL覆盖 1.00), 预期='Beauty Care'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 0.1,
+      "ocr_best": "tie",
+      "vl_similarity": 1.0,
+      "vl_best": "Beauty Care",
+      "vl_lines": [
+        "Beauty Care"
+      ],
+      "signcheck_lines": [
+        "Beauty Care | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 0,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_beauty_room/region_00.png",
+          "kind": "region",
+          "box": [
+            243,
+            115,
+            734,
+            172
+          ]
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_boarding_gate.png",
+      "sid": "bg_boarding_gate",
+      "expected": "登机口",
+      "lang": "简体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='登机口'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "登机口",
+      "vl_similarity": 1.0,
+      "vl_best": "登机口",
+      "vl_lines": [
+        "登机口"
+      ],
+      "signcheck_lines": [
+        "登机口 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 1,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_boarding_gate/region_00.png",
+          "kind": "region",
+          "box": [
+            237,
+            220,
+            737,
+            317
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_boarding_gate/region_01.png",
+          "kind": "region",
+          "box": [
+            423,
+            817,
+            105,
+            14
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_boarding_gate/region_02.png",
+          "kind": "region",
+          "box": [
+            1177,
+            414,
+            38,
+            16
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_boarding_gate/region_03.png",
+          "kind": "region",
+          "box": [
+            1228,
+            445,
+            18,
+            24
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_boarding_gate/morph_00.png",
+          "kind": "morph",
+          "n_comp": 3
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_bookstore.png",
+      "sid": "bg_bookstore",
+      "expected": "读书斋",
+      "lang": "简体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='读书斋'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "读书斋",
+      "vl_similarity": 1.0,
+      "vl_best": "读书斋",
+      "vl_lines": [
+        "读书斋"
+      ],
+      "signcheck_lines": [
+        "读书斋 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 0,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_bookstore/region_00.png",
+          "kind": "region",
+          "box": [
+            263,
+            259,
+            693,
+            271
+          ]
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_boutique.png",
+      "sid": "bg_boutique",
+      "expected": "精品店",
+      "lang": "简体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='精品店'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "精品店",
+      "vl_similarity": 1.0,
+      "vl_best": "精品店",
+      "vl_lines": [
+        "精品店"
+      ],
+      "signcheck_lines": [
+        "精品店 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 1,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_boutique/region_00.png",
+          "kind": "region",
+          "box": [
+            253,
+            235,
+            736,
+            282
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_boutique/region_01.png",
+          "kind": "region",
+          "box": [
+            373,
+            368,
+            347,
+            122
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_boutique/morph_00.png",
+          "kind": "morph",
+          "n_comp": 3
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_boutique_floor.png",
+      "sid": "bg_boutique_floor",
+      "expected": "新款上市",
+      "lang": "简体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='新款上市'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "新款上市",
+      "vl_similarity": 1.0,
+      "vl_best": "新款上市",
+      "vl_lines": [
+        "新款上市"
+      ],
+      "signcheck_lines": [
+        "无文字"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 0,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_boutique_floor/region_00.png",
+          "kind": "region",
+          "box": [
+            254,
+            298,
+            718,
+            216
+          ]
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_bubble_tea.png",
+      "sid": "bg_bubble_tea",
+      "expected": "奶茶の店",
+      "lang": "日语",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 0.75 / VL覆盖 1.00), 预期='奶茶の店'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 0.75,
+      "ocr_best": "朔茶の店",
+      "vl_similarity": 1.0,
+      "vl_best": "奶茶の店",
+      "vl_lines": [
+        "奶茶の店"
+      ],
+      "signcheck_lines": [
+        "奶茶の店 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 1,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_bubble_tea/region_00.png",
+          "kind": "region",
+          "box": [
+            228,
+            293,
+            764,
+            231
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_bubble_tea/region_01.png",
+          "kind": "region",
+          "box": [
+            333,
+            188,
+            263,
+            36
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_bubble_tea/region_02.png",
+          "kind": "region",
+          "box": [
+            767,
+            12,
+            108,
+            44
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_bubble_tea/region_03.png",
+          "kind": "region",
+          "box": [
+            827,
+            136,
+            58,
+            21
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_bubble_tea/region_04.png",
+          "kind": "region",
+          "box": [
+            989,
+            11,
+            35,
+            20
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_bubble_tea/region_05.png",
+          "kind": "region",
+          "box": [
+            855,
+            91,
+            34,
+            19
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_bubble_tea/region_06.png",
+          "kind": "region",
+          "box": [
+            1021,
+            8,
+            29,
+            19
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_bubble_tea/region_07.png",
+          "kind": "region",
+          "box": [
+            1023,
+            24,
+            27,
+            17
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_bubble_tea/morph_00.png",
+          "kind": "morph",
+          "n_comp": 15
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_butchershop.png",
+      "sid": "bg_butchershop",
+      "expected": "鲜肉铺",
+      "lang": "简体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='鲜肉铺'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "鲜肉铺",
+      "vl_similarity": 1.0,
+      "vl_best": "鲜肉铺",
+      "vl_lines": [
+        "鲜肉铺"
+      ],
+      "signcheck_lines": [
+        "鲜肉铺 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 1,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_butchershop/region_00.png",
+          "kind": "region",
+          "box": [
+            354,
+            61,
+            524,
+            221
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_butchershop/region_01.png",
+          "kind": "region",
+          "box": [
+            19,
+            607,
+            151,
+            23
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_butchershop/morph_00.png",
+          "kind": "morph",
+          "n_comp": 3
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_cafe.png",
+      "sid": "bg_cafe",
+      "expected": "COFFEE",
+      "lang": "英语",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='COFFEE'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "COFFEE",
+      "vl_similarity": 1.0,
+      "vl_best": "COFFEE",
+      "vl_lines": [
+        "COFFEE"
+      ],
+      "signcheck_lines": [
+        "COFFEE | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 0,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_cafe/region_00.png",
+          "kind": "region",
+          "box": [
+            234,
+            232,
+            764,
+            230
+          ]
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_canteen.png",
+      "sid": "bg_canteen",
+      "expected": "职工食堂",
+      "lang": "简体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='职工食堂'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "职工食堂",
+      "vl_similarity": 1.0,
+      "vl_best": "职工食堂",
+      "vl_lines": [
+        "职工食堂"
+      ],
+      "signcheck_lines": [
+        "职工食堂 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 1,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_canteen/region_00.png",
+          "kind": "region",
+          "box": [
+            278,
+            78,
+            669,
+            225
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_canteen/region_01.png",
+          "kind": "region",
+          "box": [
+            234,
+            450,
+            45,
+            26
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_canteen/morph_00.png",
+          "kind": "morph",
+          "n_comp": 4
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_car_interior.png",
+      "sid": "bg_car_interior",
+      "expected": "安全驾驶",
+      "lang": "简体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='安全驾驶'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "安全驾驶",
+      "vl_similarity": 1.0,
+      "vl_best": "安全驾驶",
+      "vl_lines": [
+        "安全驾驶",
+        "安全驾驶",
+        "女主驾驶",
+        "无文字"
+      ],
+      "signcheck_lines": [
+        "安全驾驶 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 1,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_car_interior/region_00.png",
+          "kind": "region",
+          "box": [
+            398,
+            196,
+            460,
+            146
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_car_interior/region_01.png",
+          "kind": "region",
+          "box": [
+            610,
+            638,
+            36,
+            25
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_car_interior/morph_00.png",
+          "kind": "morph",
+          "n_comp": 4
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_car_repair_bay.png",
+      "sid": "bg_car_repair_bay",
+      "expected": "洗車場",
+      "lang": "繁体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='洗車場'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "洗車場",
+      "vl_similarity": 1.0,
+      "vl_best": "洗車場",
+      "vl_lines": [
+        "洗車場",
+        "洗車場",
+        "洗車場",
+        "[无文字]"
+      ],
+      "signcheck_lines": [
+        "洗車場 | 真实字符",
+        "洗車場 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 0,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_car_repair_bay/region_00.png",
+          "kind": "region",
+          "box": [
+            224,
+            249,
+            756,
+            280
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_car_repair_bay/region_01.png",
+          "kind": "region",
+          "box": [
+            344,
+            78,
+            540,
+            194
+          ]
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_cargo_deck.png",
+      "sid": "bg_cargo_deck",
+      "expected": "OCEAN STAR",
+      "lang": "英语",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 0.56 / VL覆盖 1.00), 预期='OCEAN STAR'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 0.5556,
+      "ocr_best": "OCEAN",
+      "vl_similarity": 1.0,
+      "vl_best": "OCEAN STAR",
+      "vl_lines": [
+        "OCEAN STAR"
+      ],
+      "signcheck_lines": [
+        "OCEAN STAR | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 2,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_cargo_deck/region_00.png",
+          "kind": "region",
+          "box": [
+            225,
+            102,
+            795,
+            150
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_cargo_deck/region_01.png",
+          "kind": "region",
+          "box": [
+            0,
+            290,
+            24,
+            52
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_cargo_deck/region_02.png",
+          "kind": "region",
+          "box": [
+            991,
+            513,
+            30,
+            12
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_cargo_deck/morph_00.png",
+          "kind": "morph",
+          "n_comp": 5
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_cargo_deck/morph_01.png",
+          "kind": "morph",
+          "n_comp": 4
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_classroom.png",
+      "sid": "bg_classroom",
+      "expected": "知识改变命运",
+      "lang": "简体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 0.83 / VL覆盖 1.00), 预期='知识改变命运'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 0.8333,
+      "ocr_best": "知识改娈命运",
+      "vl_similarity": 1.0,
+      "vl_best": "知识改变命运",
+      "vl_lines": [
+        "知识改变命运"
+      ],
+      "signcheck_lines": [
+        "知识改变命运 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 0,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_classroom/region_00.png",
+          "kind": "region",
+          "box": [
+            199,
+            308,
+            837,
+            175
+          ]
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_clinic_ward.png",
+      "sid": "bg_clinic_ward",
+      "expected": "住院部",
+      "lang": "简体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='住院部'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "住院部",
+      "vl_similarity": 1.0,
+      "vl_best": "住院部",
+      "vl_lines": [
+        "住院部"
+      ],
+      "signcheck_lines": [
+        "住院部 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 1,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_clinic_ward/region_00.png",
+          "kind": "region",
+          "box": [
+            394,
+            76,
+            448,
+            163
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_clinic_ward/region_01.png",
+          "kind": "region",
+          "box": [
+            1070,
+            799,
+            136,
+            33
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_clinic_ward/morph_00.png",
+          "kind": "morph",
+          "n_comp": 6
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_cold_store.png",
+      "sid": "bg_cold_store",
+      "expected": "冷链仓库",
+      "lang": "简体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='冷链仓库'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "冷链仓库",
+      "vl_similarity": 1.0,
+      "vl_best": "冷链仓库",
+      "vl_lines": [
+        "冷链仓库"
+      ],
+      "signcheck_lines": [
+        "冷链仓库 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 0,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_cold_store/region_00.png",
+          "kind": "region",
+          "box": [
+            408,
+            94,
+            427,
+            121
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_cold_store/region_01.png",
+          "kind": "region",
+          "box": [
+            888,
+            458,
+            28,
+            8
+          ]
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_conference.png",
+      "sid": "bg_conference",
+      "expected": "会議室",
+      "lang": "日语",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 0.67 / VL覆盖 1.00), 预期='会議室'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 0.6667,
+      "ocr_best": "会譲室",
+      "vl_similarity": 1.0,
+      "vl_best": "会議室",
+      "vl_lines": [
+        "会議室"
+      ],
+      "signcheck_lines": [
+        "會議室 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 1,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_conference/region_00.png",
+          "kind": "region",
+          "box": [
+            428,
+            125,
+            386,
+            144
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_conference/region_01.png",
+          "kind": "region",
+          "box": [
+            796,
+            31,
+            100,
+            53
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_conference/morph_00.png",
+          "kind": "morph",
+          "n_comp": 3
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_construction_site.png",
+      "sid": "bg_construction_site",
+      "expected": "在建工程",
+      "lang": "简体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='在建工程'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "在建工程",
+      "vl_similarity": 1.0,
+      "vl_best": "在建工程",
+      "vl_lines": [
+        "在建工程"
+      ],
+      "signcheck_lines": [
+        "在建工程 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 4,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_construction_site/region_00.png",
+          "kind": "region",
+          "box": [
+            253,
+            297,
+            715,
+            200
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_construction_site/region_01.png",
+          "kind": "region",
+          "box": [
+            1038,
+            252,
+            210,
+            94
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_construction_site/region_02.png",
+          "kind": "region",
+          "box": [
+            77,
+            486,
+            110,
+            29
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_construction_site/region_03.png",
+          "kind": "region",
+          "box": [
+            159,
+            511,
+            43,
+            21
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_construction_site/region_04.png",
+          "kind": "region",
+          "box": [
+            1033,
+            242,
+            35,
+            12
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_construction_site/morph_00.png",
+          "kind": "morph",
+          "n_comp": 11
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_construction_site/morph_01.png",
+          "kind": "morph",
+          "n_comp": 5
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_construction_site/morph_02.png",
+          "kind": "morph",
+          "n_comp": 4
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_construction_site/morph_03.png",
+          "kind": "morph",
+          "n_comp": 3
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_corporate_lobby.png",
+      "sid": "bg_corporate_lobby",
+      "expected": "远景集团",
+      "lang": "简体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='远景集团'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "远景集团",
+      "vl_similarity": 1.0,
+      "vl_best": "远景集团",
+      "vl_lines": [
+        "远景集团"
+      ],
+      "signcheck_lines": [
+        "远景集团 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 0,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_corporate_lobby/region_00.png",
+          "kind": "region",
+          "box": [
+            280,
+            298,
+            669,
+            206
+          ]
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_delivery_station.png",
+      "sid": "bg_delivery_station",
+      "expected": "蜂鸟配送",
+      "lang": "简体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='蜂鸟配送'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "蜂鸟配送",
+      "vl_similarity": 1.0,
+      "vl_best": "蜂鸟配送",
+      "vl_lines": [
+        "蜂鸟配送"
+      ],
+      "signcheck_lines": [
+        "蜂鸟配送 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 0,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_delivery_station/region_00.png",
+          "kind": "region",
+          "box": [
+            332,
+            106,
+            552,
+            162
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_delivery_station/region_01.png",
+          "kind": "region",
+          "box": [
+            572,
+            397,
+            65,
+            17
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_delivery_station/region_02.png",
+          "kind": "region",
+          "box": [
+            356,
+            455,
+            41,
+            14
+          ]
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_delivery_street.png",
+      "sid": "bg_delivery_street",
+      "expected": "外卖驿站",
+      "lang": "简体中文",
+      "verdict": "伪文字",
+      "confidence": "高",
+      "reason": "检出伪文字证据 3 条: ['[伪文字]', 'EXAACT', 'EXAACT | 真实字符']",
+      "pseudo_evidence": [
+        "[伪文字]",
+        "EXAACT",
+        "EXAACT | 真实字符"
+      ],
+      "ocr_similarity": 1.0,
+      "ocr_best": "外卖驿站",
+      "vl_similarity": 1.0,
+      "vl_best": "外卖驿站",
+      "vl_lines": [
+        "EXAACT",
+        "外卖驿站",
+        "[伪文字]",
+        "外卖驿站"
+      ],
+      "signcheck_lines": [
+        "EXAACT | 真实字符",
+        "外卖驿站 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 1,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_delivery_street/region_00.png",
+          "kind": "region",
+          "box": [
+            191,
+            215,
+            855,
+            247
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_delivery_street/region_01.png",
+          "kind": "region",
+          "box": [
+            393,
+            131,
+            464,
+            115
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_delivery_street/region_02.png",
+          "kind": "region",
+          "box": [
+            -25,
+            256,
+            202,
+            135
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_delivery_street/region_03.png",
+          "kind": "region",
+          "box": [
+            1128,
+            254,
+            153,
+            124
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_delivery_street/region_04.png",
+          "kind": "region",
+          "box": [
+            1191,
+            473,
+            54,
+            17
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_delivery_street/morph_00.png",
+          "kind": "morph",
+          "n_comp": 3
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_dessert_bar.png",
+      "sid": "bg_dessert_bar",
+      "expected": "甜品屋",
+      "lang": "简体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='甜品屋'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "甜品屋",
+      "vl_similarity": 1.0,
+      "vl_best": "甜品屋",
+      "vl_lines": [
+        "甜品屋",
+        "甜品屋",
+        "甜品屋",
+        "甜品屋"
+      ],
+      "signcheck_lines": [
+        "甜品屋 | 真实字符",
+        "甜品屋 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 2,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_dessert_bar/region_00.png",
+          "kind": "region",
+          "box": [
+            320,
+            302,
+            599,
+            220
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_dessert_bar/region_01.png",
+          "kind": "region",
+          "box": [
+            377,
+            45,
+            479,
+            188
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_dessert_bar/region_02.png",
+          "kind": "region",
+          "box": [
+            110,
+            27,
+            91,
+            84
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_dessert_bar/region_03.png",
+          "kind": "region",
+          "box": [
+            712,
+            669,
+            228,
+            25
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_dessert_bar/region_04.png",
+          "kind": "region",
+          "box": [
+            487,
+            766,
+            122,
+            42
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_dessert_bar/region_05.png",
+          "kind": "region",
+          "box": [
+            0,
+            23,
+            40,
+            32
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_dessert_bar/morph_00.png",
+          "kind": "morph",
+          "n_comp": 5
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_dessert_bar/morph_01.png",
+          "kind": "morph",
+          "n_comp": 5
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_dispatch_room.png",
+      "sid": "bg_dispatch_room",
+      "expected": "生产调度室",
+      "lang": "简体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='生产调度室'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "生产调度室",
+      "vl_similarity": 1.0,
+      "vl_best": "生产调度室",
+      "vl_lines": [
+        "生产调度室"
+      ],
+      "signcheck_lines": [
+        "生产调度室 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 5,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_dispatch_room/region_00.png",
+          "kind": "region",
+          "box": [
+            269,
+            75,
+            699,
+            212
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_dispatch_room/region_01.png",
+          "kind": "region",
+          "box": [
+            923,
+            500,
+            325,
+            132
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_dispatch_room/region_02.png",
+          "kind": "region",
+          "box": [
+            1012,
+            321,
+            236,
+            75
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_dispatch_room/region_03.png",
+          "kind": "region",
+          "box": [
+            327,
+            378,
+            122,
+            28
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_dispatch_room/region_04.png",
+          "kind": "region",
+          "box": [
+            97,
+            393,
+            66,
+            13
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_dispatch_room/region_05.png",
+          "kind": "region",
+          "box": [
+            1064,
+            542,
+            40,
+            17
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_dispatch_room/region_06.png",
+          "kind": "region",
+          "box": [
+            106,
+            411,
+            47,
+            13
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_dispatch_room/region_07.png",
+          "kind": "region",
+          "box": [
+            92,
+            460,
+            58,
+            9
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_dispatch_room/morph_00.png",
+          "kind": "morph",
+          "n_comp": 13
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_dispatch_room/morph_01.png",
+          "kind": "morph",
+          "n_comp": 4
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_dispatch_room/morph_02.png",
+          "kind": "morph",
+          "n_comp": 3
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_dispatch_room/morph_03.png",
+          "kind": "morph",
+          "n_comp": 3
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_dispatch_room/morph_04.png",
+          "kind": "morph",
+          "n_comp": 3
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_dock_market.png",
+      "sid": "bg_dock_market",
+      "expected": "農貿市場",
+      "lang": "繁体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='農貿市場'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "農貿市場",
+      "vl_similarity": 1.0,
+      "vl_best": "農貿市場",
+      "vl_lines": [
+        "農貿市場"
+      ],
+      "signcheck_lines": [
+        "農貿市場 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 2,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_dock_market/region_00.png",
+          "kind": "region",
+          "box": [
+            281,
+            78,
+            663,
+            201
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_dock_market/region_01.png",
+          "kind": "region",
+          "box": [
+            98,
+            763,
+            63,
+            69
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_dock_market/region_02.png",
+          "kind": "region",
+          "box": [
+            511,
+            439,
+            36,
+            23
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_dock_market/morph_00.png",
+          "kind": "morph",
+          "n_comp": 3
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_dock_market/morph_01.png",
+          "kind": "morph",
+          "n_comp": 3
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_dorm_room.png",
+      "sid": "bg_dorm_room",
+      "expected": "计算机学院",
+      "lang": "简体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='计算机学院'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "计算机学院",
+      "vl_similarity": 1.0,
+      "vl_best": "计算机学院",
+      "vl_lines": [
+        "计算机学院"
+      ],
+      "signcheck_lines": [
+        "计算机學院 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 1,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_dorm_room/region_00.png",
+          "kind": "region",
+          "box": [
+            205,
+            300,
+            828,
+            193
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_dorm_room/region_01.png",
+          "kind": "region",
+          "box": [
+            420,
+            542,
+            107,
+            100
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_dorm_room/region_02.png",
+          "kind": "region",
+          "box": [
+            93,
+            764,
+            51,
+            68
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_dorm_room/region_03.png",
+          "kind": "region",
+          "box": [
+            410,
+            548,
+            8,
+            54
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_dorm_room/morph_00.png",
+          "kind": "morph",
+          "n_comp": 3
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_driving_office.png",
+      "sid": "bg_driving_office",
+      "expected": "DRIVE SAFE",
+      "lang": "英语",
+      "verdict": "伪文字",
+      "confidence": "中",
+      "reason": "检出伪文字证据 2 条: ['FRUNIC /AOI TYEFA', 'FRUNIC /AOITVEFA | 真实字符']",
+      "pseudo_evidence": [
+        "FRUNIC /AOI TYEFA",
+        "FRUNIC /AOITVEFA | 真实字符"
+      ],
+      "ocr_similarity": 0.5556,
+      "ocr_best": "DRIVE",
+      "vl_similarity": 1.0,
+      "vl_best": "DRIVE SAFE",
+      "vl_lines": [
+        "FRUNIC /AOI TYEFA",
+        "DRIVE SAFE",
+        "DRIVE",
+        "[无文字]"
+      ],
+      "signcheck_lines": [
+        "FRUNIC /AOITVEFA | 真实字符",
+        "DRIVE SAFE | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 2,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_driving_office/region_00.png",
+          "kind": "region",
+          "box": [
+            370,
+            168,
+            497,
+            197
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_driving_office/region_01.png",
+          "kind": "region",
+          "box": [
+            406,
+            352,
+            420,
+            197
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_driving_office/region_02.png",
+          "kind": "region",
+          "box": [
+            481,
+            29,
+            448,
+            62
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_driving_office/region_03.png",
+          "kind": "region",
+          "box": [
+            938,
+            158,
+            97,
+            59
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_driving_office/region_04.png",
+          "kind": "region",
+          "box": [
+            802,
+            597,
+            85,
+            33
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_driving_office/morph_00.png",
+          "kind": "morph",
+          "n_comp": 19
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_driving_office/morph_01.png",
+          "kind": "morph",
+          "n_comp": 4
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_driving_school.png",
+      "sid": "bg_driving_school",
+      "expected": "宏达驾校",
+      "lang": "简体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='宏达驾校'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "宏达驾校",
+      "vl_similarity": 1.0,
+      "vl_best": "宏达驾校",
+      "vl_lines": [
+        "宏达驾校"
+      ],
+      "signcheck_lines": [
+        "宏达驾校 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 2,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_driving_school/region_00.png",
+          "kind": "region",
+          "box": [
+            0,
+            318,
+            1233,
+            131
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_driving_school/region_01.png",
+          "kind": "region",
+          "box": [
+            278,
+            94,
+            707,
+            198
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_driving_school/morph_00.png",
+          "kind": "morph",
+          "n_comp": 24
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_driving_school/morph_01.png",
+          "kind": "morph",
+          "n_comp": 10
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_factory_dorm.png",
+      "sid": "bg_factory_dorm",
+      "expected": "幸福公寓",
+      "lang": "简体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='幸福公寓'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "幸福公寓",
+      "vl_similarity": 1.0,
+      "vl_best": "幸福公寓",
+      "vl_lines": [
+        "幸福公寓"
+      ],
+      "signcheck_lines": [
+        "幸福公寓 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 1,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_factory_dorm/region_00.png",
+          "kind": "region",
+          "box": [
+            290,
+            290,
+            672,
+            220
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_factory_dorm/region_01.png",
+          "kind": "region",
+          "box": [
+            1067,
+            40,
+            63,
+            75
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_factory_dorm/region_02.png",
+          "kind": "region",
+          "box": [
+            338,
+            101,
+            32,
+            15
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_factory_dorm/morph_00.png",
+          "kind": "morph",
+          "n_comp": 3
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_factory_gate.png",
+      "sid": "bg_factory_gate",
+      "expected": "国营第三机械厂",
+      "lang": "简体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='国营第三机械厂'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "国营第三机械厂",
+      "vl_similarity": 1.0,
+      "vl_best": "国营第三机械厂",
+      "vl_lines": [
+        "国营第三机械厂"
+      ],
+      "signcheck_lines": [
+        "国营第三机械厂 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 0,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_factory_gate/region_00.png",
+          "kind": "region",
+          "box": [
+            264,
+            122,
+            696,
+            122
+          ]
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_fire_station.png",
+      "sid": "bg_fire_station",
+      "expected": "人民消防 为民服务",
+      "lang": "简体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 0.50 / VL覆盖 0.50), 预期='人民消防 为民服务'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 0.5,
+      "ocr_best": "人民消防",
+      "vl_similarity": 0.5,
+      "vl_best": "人民消防",
+      "vl_lines": [
+        "人民消防",
+        "为民服务",
+        "[无文字]",
+        "[无文字]"
+      ],
+      "signcheck_lines": [
+        "人民消防 | 真实字符",
+        "为民服务 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 1,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_fire_station/region_00.png",
+          "kind": "region",
+          "box": [
+            263,
+            399,
+            636,
+            193
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_fire_station/region_01.png",
+          "kind": "region",
+          "box": [
+            345,
+            212,
+            555,
+            192
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_fire_station/region_02.png",
+          "kind": "region",
+          "box": [
+            522,
+            268,
+            268,
+            45
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_fire_station/morph_00.png",
+          "kind": "morph",
+          "n_comp": 7
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_fishing_dock.png",
+      "sid": "bg_fishing_dock",
+      "expected": "漁港",
+      "lang": "繁体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='漁港'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "漁港",
+      "vl_similarity": 1.0,
+      "vl_best": "漁港",
+      "vl_lines": [
+        "漁港"
+      ],
+      "signcheck_lines": [
+        "漁港 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 0,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_fishing_dock/region_00.png",
+          "kind": "region",
+          "box": [
+            432,
+            281,
+            392,
+            201
+          ]
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_flower_shop.png",
+      "sid": "bg_flower_shop",
+      "expected": "Fleur",
+      "lang": "法语",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='Fleur'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "Fleur",
+      "vl_similarity": 1.0,
+      "vl_best": "Fleur",
+      "vl_lines": [
+        "Fleur"
+      ],
+      "signcheck_lines": [
+        "Fleur | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 1,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_flower_shop/region_00.png",
+          "kind": "region",
+          "box": [
+            254,
+            242,
+            720,
+            285
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_flower_shop/region_01.png",
+          "kind": "region",
+          "box": [
+            888,
+            227,
+            75,
+            8
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_flower_shop/morph_00.png",
+          "kind": "morph",
+          "n_comp": 3
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_flower_stall.png",
+      "sid": "bg_flower_stall",
+      "expected": "鮮花",
+      "lang": "繁体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='鮮花'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "鮮花",
+      "vl_similarity": 1.0,
+      "vl_best": "鮮花",
+      "vl_lines": [
+        "鮮花"
+      ],
+      "signcheck_lines": [
+        "鮮花 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 0,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_flower_stall/region_00.png",
+          "kind": "region",
+          "box": [
+            373,
+            51,
+            488,
+            301
+          ]
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_fresh_aisle.png",
+      "sid": "bg_fresh_aisle",
+      "expected": "新鲜蔬菜 每日直供",
+      "lang": "简体中文",
+      "verdict": "真实文字",
+      "confidence": "中",
+      "reason": "主招牌被正确读出 (OCR覆盖 0.12 / VL覆盖 0.50), 预期='新鲜蔬菜 每日直供'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 0.125,
+      "ocr_best": "新",
+      "vl_similarity": 0.5,
+      "vl_best": "新鲜蔬菜",
+      "vl_lines": [
+        "新鲜蔬菜",
+        "每日直供"
+      ],
+      "signcheck_lines": [
+        "新鲜蔬菜",
+        "每日直供",
+        "无文字"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 0,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_fresh_aisle/region_00.png",
+          "kind": "region",
+          "box": [
+            302,
+            207,
+            622,
+            381
+          ]
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_game_studio.png",
+      "sid": "bg_game_studio",
+      "expected": "像素工作室",
+      "lang": "简体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='像素工作室'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "像素工作室",
+      "vl_similarity": 1.0,
+      "vl_best": "像素工作室",
+      "vl_lines": [
+        "像素工作室"
+      ],
+      "signcheck_lines": [
+        "像素工作室 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 3,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_game_studio/region_00.png",
+          "kind": "region",
+          "box": [
+            230,
+            419,
+            735,
+            189
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_game_studio/region_01.png",
+          "kind": "region",
+          "box": [
+            3,
+            751,
+            36,
+            65
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_game_studio/region_02.png",
+          "kind": "region",
+          "box": [
+            1197,
+            0,
+            51,
+            28
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_game_studio/region_03.png",
+          "kind": "region",
+          "box": [
+            161,
+            61,
+            71,
+            14
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_game_studio/morph_00.png",
+          "kind": "morph",
+          "n_comp": 5
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_game_studio/morph_01.png",
+          "kind": "morph",
+          "n_comp": 4
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_game_studio/morph_02.png",
+          "kind": "morph",
+          "n_comp": 3
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_grain_depot.png",
+      "sid": "bg_grain_depot",
+      "expected": "粮食储备",
+      "lang": "简体中文",
+      "verdict": "伪文字",
+      "confidence": "中",
+      "reason": "检出伪文字证据 1 条: ['ZBR']",
+      "pseudo_evidence": [
+        "ZBR"
+      ],
+      "ocr_similarity": 1.0,
+      "ocr_best": "粮食储备",
+      "vl_similarity": 1.0,
+      "vl_best": "粮食储备",
+      "vl_lines": [
+        "粮食储备",
+        "-02",
+        "ZBR"
+      ],
+      "signcheck_lines": [
+        "粮食储备 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 2,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_grain_depot/region_00.png",
+          "kind": "region",
+          "box": [
+            345,
+            100,
+            547,
+            171
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_grain_depot/region_01.png",
+          "kind": "region",
+          "box": [
+            1021,
+            437,
+            74,
+            38
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_grain_depot/region_02.png",
+          "kind": "region",
+          "box": [
+            159,
+            427,
+            56,
+            37
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_grain_depot/region_03.png",
+          "kind": "region",
+          "box": [
+            14,
+            289,
+            78,
+            23
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_grain_depot/region_04.png",
+          "kind": "region",
+          "box": [
+            38,
+            373,
+            49,
+            19
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_grain_depot/morph_00.png",
+          "kind": "morph",
+          "n_comp": 4
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_grain_depot/morph_01.png",
+          "kind": "morph",
+          "n_comp": 3
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_guardhouse.png",
+      "sid": "bg_guardhouse",
+      "expected": "小区保安室",
+      "lang": "简体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='小区保安室'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "小区保安室",
+      "vl_similarity": 1.0,
+      "vl_best": "小区保安室",
+      "vl_lines": [
+        "小区保安室",
+        "I"
+      ],
+      "signcheck_lines": [
+        "小区保安室 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 2,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_guardhouse/region_00.png",
+          "kind": "region",
+          "box": [
+            589,
+            355,
+            494,
+            133
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_guardhouse/region_01.png",
+          "kind": "region",
+          "box": [
+            0,
+            191,
+            480,
+            94
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_guardhouse/region_02.png",
+          "kind": "region",
+          "box": [
+            717,
+            603,
+            38,
+            60
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_guardhouse/morph_00.png",
+          "kind": "morph",
+          "n_comp": 24
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_guardhouse/morph_01.png",
+          "kind": "morph",
+          "n_comp": 6
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_gym.png",
+      "sid": "bg_gym",
+      "expected": "力量训练",
+      "lang": "简体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='力量训练'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "力量训练",
+      "vl_similarity": 1.0,
+      "vl_best": "力量训练",
+      "vl_lines": [
+        "力量训练"
+      ],
+      "signcheck_lines": [
+        "力量训练 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 1,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_gym/region_00.png",
+          "kind": "region",
+          "box": [
+            301,
+            76,
+            600,
+            209
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_gym/region_01.png",
+          "kind": "region",
+          "box": [
+            0,
+            800,
+            69,
+            24
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_gym/morph_00.png",
+          "kind": "morph",
+          "n_comp": 3
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_gym_reception.png",
+      "sid": "bg_gym_reception",
+      "expected": "健身會所",
+      "lang": "繁体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='健身會所'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "健身會所",
+      "vl_similarity": 1.0,
+      "vl_best": "健身會所",
+      "vl_lines": [
+        "健身會所"
+      ],
+      "signcheck_lines": [
+        "健身會所 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 0,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_gym_reception/region_00.png",
+          "kind": "region",
+          "box": [
+            239,
+            291,
+            768,
+            217
+          ]
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_harbour_fishing.png",
+      "sid": "bg_harbour_fishing",
+      "expected": "遠洋漁港",
+      "lang": "繁体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='遠洋漁港'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "遠洋漁港",
+      "vl_similarity": 1.0,
+      "vl_best": "遠洋漁港",
+      "vl_lines": [
+        "遠洋漁港"
+      ],
+      "signcheck_lines": [
+        "遠洋漁港 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 2,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_harbour_fishing/region_00.png",
+          "kind": "region",
+          "box": [
+            323,
+            116,
+            604,
+            199
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_harbour_fishing/region_01.png",
+          "kind": "region",
+          "box": [
+            350,
+            142,
+            187,
+            39
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_harbour_fishing/region_02.png",
+          "kind": "region",
+          "box": [
+            920,
+            33,
+            64,
+            16
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_harbour_fishing/morph_00.png",
+          "kind": "morph",
+          "n_comp": 3
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_harbour_fishing/morph_01.png",
+          "kind": "morph",
+          "n_comp": 3
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_harbour_office.png",
+      "sid": "bg_harbour_office",
+      "expected": "港口調度",
+      "lang": "简体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 0.75), 预期='港口調度'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "港口調度",
+      "vl_similarity": 0.75,
+      "vl_best": "港口调度",
+      "vl_lines": [
+        "港口调度"
+      ],
+      "signcheck_lines": [
+        "港口調度 | 真实字符"
+      ],
+      "zoom_lines": [
+        "港口调度 | [无法辨认]/[无法辨认]/[CJK]/[无法辨认]"
+      ],
+      "n_text_regions": 1,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_harbour_office/region_00.png",
+          "kind": "region",
+          "box": [
+            282,
+            100,
+            661,
+            318
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_harbour_office/region_01.png",
+          "kind": "region",
+          "box": [
+            1163,
+            466,
+            81,
+            31
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_harbour_office/region_02.png",
+          "kind": "region",
+          "box": [
+            350,
+            498,
+            37,
+            12
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_harbour_office/morph_00.png",
+          "kind": "morph",
+          "n_comp": 3
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_highspeed_station.png",
+      "sid": "bg_highspeed_station",
+      "expected": "候車大廳",
+      "lang": "繁体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 0.75 / VL覆盖 1.00), 预期='候車大廳'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 0.75,
+      "ocr_best": "候車大庭",
+      "vl_similarity": 1.0,
+      "vl_best": "候車大廳",
+      "vl_lines": [
+        "候車大廳"
+      ],
+      "signcheck_lines": [
+        "候車大廳 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 1,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_highspeed_station/region_00.png",
+          "kind": "region",
+          "box": [
+            340,
+            116,
+            546,
+            157
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_highspeed_station/region_01.png",
+          "kind": "region",
+          "box": [
+            468,
+            416,
+            28,
+            32
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_highspeed_station/region_02.png",
+          "kind": "region",
+          "box": [
+            590,
+            512,
+            34,
+            25
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_highspeed_station/morph_00.png",
+          "kind": "morph",
+          "n_comp": 4
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_home_services.png",
+      "sid": "bg_home_services",
+      "expected": "家政服務",
+      "lang": "繁体中文",
+      "verdict": "伪文字",
+      "confidence": "中",
+      "reason": "检出伪文字证据 1 条: ['FABLISATEBIC']",
+      "pseudo_evidence": [
+        "FABLISATEBIC"
+      ],
+      "ocr_similarity": 1.0,
+      "ocr_best": "家政服務",
+      "vl_similarity": 1.0,
+      "vl_best": "家政服務",
+      "vl_lines": [
+        "FABLISATEBIC",
+        "家政服務",
+        "[无文字]"
+      ],
+      "signcheck_lines": [
+        "家政服務 | 真实字符",
+        "FABLISATESSIC | 真实字符",
+        "PERF ANDO | 伪文字",
+        "DOCEMORCE | 伪文字",
+        "INAE DORAM | 伪文字",
+        "CORRIN PARRABO | 伪文字",
+        "COCEHOMS 206 | 伪文字",
+        "GONE 2039 | 伪文字",
+        "GGECINAIE | 伪文字",
+        "ZERE 2099 | 伪文字",
+        "PARE 2053/95 | 伪文字",
+        "无文字 | 无文字"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 3,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_home_services/region_00.png",
+          "kind": "region",
+          "box": [
+            252,
+            291,
+            749,
+            224
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_home_services/region_01.png",
+          "kind": "region",
+          "box": [
+            712,
+            18,
+            536,
+            86
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_home_services/region_02.png",
+          "kind": "region",
+          "box": [
+            107,
+            123,
+            237,
+            68
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_home_services/region_03.png",
+          "kind": "region",
+          "box": [
+            42,
+            263,
+            140,
+            24
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_home_services/region_04.png",
+          "kind": "region",
+          "box": [
+            662,
+            570,
+            63,
+            52
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_home_services/region_05.png",
+          "kind": "region",
+          "box": [
+            40,
+            211,
+            101,
+            29
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_home_services/region_06.png",
+          "kind": "region",
+          "box": [
+            41,
+            236,
+            101,
+            26
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_home_services/region_07.png",
+          "kind": "region",
+          "box": [
+            40,
+            393,
+            50,
+            52
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_home_services/morph_00.png",
+          "kind": "morph",
+          "n_comp": 9
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_home_services/morph_01.png",
+          "kind": "morph",
+          "n_comp": 4
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_home_services/morph_02.png",
+          "kind": "morph",
+          "n_comp": 3
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_hospital_dir.png",
+      "sid": "bg_hospital_dir",
+      "expected": "人民医院",
+      "lang": "简体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='人民医院'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "人民医院",
+      "vl_similarity": 1.0,
+      "vl_best": "人民医院",
+      "vl_lines": [
+        "人民医院"
+      ],
+      "signcheck_lines": [
+        "人民医院 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 0,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_hospital_dir/region_00.png",
+          "kind": "region",
+          "box": [
+            254,
+            283,
+            755,
+            222
+          ]
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_industrial_office.png",
+      "sid": "bg_industrial_office",
+      "expected": "工业制造基地",
+      "lang": "简体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='工业制造基地'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "工业制造基地",
+      "vl_similarity": 1.0,
+      "vl_best": "工业制造基地",
+      "vl_lines": [
+        "工业制造基地"
+      ],
+      "signcheck_lines": [
+        "工业制造基地 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 1,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_industrial_office/region_00.png",
+          "kind": "region",
+          "box": [
+            227,
+            314,
+            790,
+            169
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_industrial_office/region_01.png",
+          "kind": "region",
+          "box": [
+            855,
+            505,
+            65,
+            16
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_industrial_office/morph_00.png",
+          "kind": "morph",
+          "n_comp": 6
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_insurance.png",
+      "sid": "bg_insurance",
+      "expected": "保险公司",
+      "lang": "简体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='保险公司'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "保险公司",
+      "vl_similarity": 1.0,
+      "vl_best": "保险公司",
+      "vl_lines": [
+        "保险公司",
+        "[无文字]"
+      ],
+      "signcheck_lines": [
+        "保险公司 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 1,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_insurance/region_00.png",
+          "kind": "region",
+          "box": [
+            196,
+            263,
+            824,
+            240
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_insurance/region_01.png",
+          "kind": "region",
+          "box": [
+            23,
+            274,
+            71,
+            23
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_insurance/morph_00.png",
+          "kind": "morph",
+          "n_comp": 3
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_kindergarten.png",
+      "sid": "bg_kindergarten",
+      "expected": "快乐成长",
+      "lang": "简体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='快乐成长'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "快乐成长",
+      "vl_similarity": 1.0,
+      "vl_best": "快乐成长",
+      "vl_lines": [
+        "快乐成长",
+        "快乐成长",
+        "快乐成长",
+        "快乐成长"
+      ],
+      "signcheck_lines": [
+        "快乐成长 | 真实字符",
+        "快乐成长 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 0,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_kindergarten/region_00.png",
+          "kind": "region",
+          "box": [
+            222,
+            281,
+            808,
+            230
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_kindergarten/region_01.png",
+          "kind": "region",
+          "box": [
+            299,
+            87,
+            661,
+            213
+          ]
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_kindergarten_paint.png",
+      "sid": "bg_kindergarten_paint",
+      "expected": "あそび",
+      "lang": "日语",
+      "verdict": "伪文字",
+      "confidence": "高",
+      "reason": "检出伪文字证据 1 条: ['あどび']",
+      "pseudo_evidence": [
+        "あどび"
+      ],
+      "ocr_similarity": 0.6667,
+      "ocr_best": "あとび",
+      "vl_similarity": 0.6667,
+      "vl_best": "あどび",
+      "vl_lines": [
+        "あどび"
+      ],
+      "signcheck_lines": [
+        "あどび | 真实字符"
+      ],
+      "zoom_lines": [
+        "あどび | [FAKE]/[CJK]"
+      ],
+      "n_text_regions": 1,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_kindergarten_paint/region_00.png",
+          "kind": "region",
+          "box": [
+            382,
+            125,
+            498,
+            194
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_kindergarten_paint/region_01.png",
+          "kind": "region",
+          "box": [
+            0,
+            599,
+            115,
+            55
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_kindergarten_paint/morph_00.png",
+          "kind": "morph",
+          "n_comp": 3
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_law_office.png",
+      "sid": "bg_law_office",
+      "expected": "诚信律师事務所",
+      "lang": "繁体中文",
+      "verdict": "伪文字",
+      "confidence": "高",
+      "reason": "检出伪文字证据 1 条: ['诚信律师事务所']",
+      "pseudo_evidence": [
+        "诚信律师事务所"
+      ],
+      "ocr_similarity": 0.8571,
+      "ocr_best": "诚信律师事掰所",
+      "vl_similarity": 0.8571,
+      "vl_best": "诚信律师事务所",
+      "vl_lines": [
+        "诚信律师事务所"
+      ],
+      "signcheck_lines": [
+        "诚信律师事务所 | 真实字符"
+      ],
+      "zoom_lines": [
+        "诚信律师事务所 | [REAL]/[FAKE]/[CJK]/[无法辨认]"
+      ],
+      "n_text_regions": 0,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_law_office/region_00.png",
+          "kind": "region",
+          "box": [
+            216,
+            295,
+            803,
+            157
+          ]
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_logistics_yard.png",
+      "sid": "bg_logistics_yard",
+      "expected": "物流园",
+      "lang": "简体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='物流园'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "物流园",
+      "vl_similarity": 1.0,
+      "vl_best": "物流园",
+      "vl_lines": [
+        "物流园",
+        "[无文字]",
+        "[无文字]"
+      ],
+      "signcheck_lines": [
+        "物流园 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 1,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_logistics_yard/region_00.png",
+          "kind": "region",
+          "box": [
+            296,
+            86,
+            595,
+            229
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_logistics_yard/region_01.png",
+          "kind": "region",
+          "box": [
+            0,
+            342,
+            37,
+            54
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_logistics_yard/region_02.png",
+          "kind": "region",
+          "box": [
+            776,
+            440,
+            42,
+            30
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_logistics_yard/morph_00.png",
+          "kind": "morph",
+          "n_comp": 3
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_lumber_yard.png",
+      "sid": "bg_lumber_yard",
+      "expected": "木材加工",
+      "lang": "简体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='木材加工'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "木材加工",
+      "vl_similarity": 1.0,
+      "vl_best": "木材加工",
+      "vl_lines": [
+        "木材加工"
+      ],
+      "signcheck_lines": [
+        "木材加工 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 2,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_lumber_yard/region_00.png",
+          "kind": "region",
+          "box": [
+            257,
+            272,
+            732,
+            243
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_lumber_yard/region_01.png",
+          "kind": "region",
+          "box": [
+            1106,
+            232,
+            135,
+            20
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_lumber_yard/region_02.png",
+          "kind": "region",
+          "box": [
+            136,
+            350,
+            41,
+            11
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_lumber_yard/morph_00.png",
+          "kind": "morph",
+          "n_comp": 4
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_lumber_yard/morph_01.png",
+          "kind": "morph",
+          "n_comp": 3
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_makeup_room.png",
+      "sid": "bg_makeup_room",
+      "expected": "Beauty Studio",
+      "lang": "英语",
+      "verdict": "真实文字",
+      "confidence": "中",
+      "reason": "主招牌被正确读出 (OCR覆盖 0.33 / VL覆盖 1.00), 预期='Beauty Studio'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 0.3333,
+      "ocr_best": "Beat",
+      "vl_similarity": 1.0,
+      "vl_best": "Beauty Studio",
+      "vl_lines": [
+        "Beauty Studio"
+      ],
+      "signcheck_lines": [
+        "Beauty Studio | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 1,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_makeup_room/region_00.png",
+          "kind": "region",
+          "box": [
+            255,
+            316,
+            734,
+            163
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_makeup_room/region_01.png",
+          "kind": "region",
+          "box": [
+            155,
+            736,
+            182,
+            28
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_makeup_room/morph_00.png",
+          "kind": "morph",
+          "n_comp": 12
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_market_alley.png",
+      "sid": "bg_market_alley",
+      "expected": "福安巷",
+      "lang": "简体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='福安巷'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "福安巷",
+      "vl_similarity": 1.0,
+      "vl_best": "福安巷",
+      "vl_lines": [
+        "福安巷"
+      ],
+      "signcheck_lines": [
+        "福安巷 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 1,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_market_alley/region_00.png",
+          "kind": "region",
+          "box": [
+            399,
+            115,
+            500,
+            180
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_market_alley/region_01.png",
+          "kind": "region",
+          "box": [
+            941,
+            177,
+            214,
+            120
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_market_alley/region_02.png",
+          "kind": "region",
+          "box": [
+            814,
+            458,
+            41,
+            11
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_market_alley/morph_00.png",
+          "kind": "morph",
+          "n_comp": 4
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_nail_salon.png",
+      "sid": "bg_nail_salon",
+      "expected": "指尖美学",
+      "lang": "简体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='指尖美学'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "指尖美学",
+      "vl_similarity": 1.0,
+      "vl_best": "指尖美学",
+      "vl_lines": [
+        "指尖美学"
+      ],
+      "signcheck_lines": [
+        "指尖美学 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 0,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_nail_salon/region_00.png",
+          "kind": "region",
+          "box": [
+            216,
+            277,
+            786,
+            246
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_nail_salon/region_01.png",
+          "kind": "region",
+          "box": [
+            -32,
+            126,
+            187,
+            144
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_nail_salon/region_02.png",
+          "kind": "region",
+          "box": [
+            1054,
+            227,
+            91,
+            139
+          ]
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_night_market.png",
+      "sid": "bg_night_market",
+      "expected": "夜市",
+      "lang": "繁体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='夜市'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "夜市",
+      "vl_similarity": 1.0,
+      "vl_best": "夜市",
+      "vl_lines": [
+        "夜市"
+      ],
+      "signcheck_lines": [
+        "夜市 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 0,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_night_market/region_00.png",
+          "kind": "region",
+          "box": [
+            405,
+            85,
+            417,
+            235
+          ]
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_nursery.png",
+      "sid": "bg_nursery",
+      "expected": "母婴护理中心",
+      "lang": "简体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='母婴护理中心'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "母婴护理中心",
+      "vl_similarity": 1.0,
+      "vl_best": "母婴护理中心",
+      "vl_lines": [
+        "母婴护理中心"
+      ],
+      "signcheck_lines": [
+        "母婴护理中心 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 0,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_nursery/region_00.png",
+          "kind": "region",
+          "box": [
+            274,
+            101,
+            693,
+            136
+          ]
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_old_stairwell.png",
+      "sid": "bg_old_stairwell",
+      "expected": "幸福家园",
+      "lang": "简体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='幸福家园'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "幸福家园",
+      "vl_similarity": 1.0,
+      "vl_best": "幸福家园",
+      "vl_lines": [
+        "幸福家园"
+      ],
+      "signcheck_lines": [
+        "幸福家园 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 0,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_old_stairwell/region_00.png",
+          "kind": "region",
+          "box": [
+            314,
+            312,
+            601,
+            172
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_old_stairwell/region_01.png",
+          "kind": "region",
+          "box": [
+            1022,
+            0,
+            55,
+            65
+          ]
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_open_office.png",
+      "sid": "bg_open_office",
+      "expected": "创科网络科技",
+      "lang": "简体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='创科网络科技'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "创科网络科技",
+      "vl_similarity": 1.0,
+      "vl_best": "创科网络科技",
+      "vl_lines": [
+        "创科网络科技"
+      ],
+      "signcheck_lines": [
+        "创科网络科技 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 1,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_open_office/region_00.png",
+          "kind": "region",
+          "box": [
+            215,
+            168,
+            814,
+            225
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_open_office/morph_00.png",
+          "kind": "morph",
+          "n_comp": 14
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_parcel_station.png",
+      "sid": "bg_parcel_station",
+      "expected": "快递代收点",
+      "lang": "简体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='快递代收点'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "快递代收点",
+      "vl_similarity": 1.0,
+      "vl_best": "快递代收点",
+      "vl_lines": [
+        "快递代收点"
+      ],
+      "signcheck_lines": [
+        "快递代收点 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 0,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_parcel_station/region_00.png",
+          "kind": "region",
+          "box": [
+            337,
+            98,
+            576,
+            150
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_parcel_station/region_01.png",
+          "kind": "region",
+          "box": [
+            1201,
+            715,
+            46,
+            33
+          ]
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_pet_shop.png",
+      "sid": "bg_pet_shop",
+      "expected": "宠物店",
+      "lang": "简体中文",
+      "verdict": "伪文字",
+      "confidence": "高",
+      "reason": "检出伪文字证据 1 条: ['宠[伪文字]物店']",
+      "pseudo_evidence": [
+        "宠[伪文字]物店"
+      ],
+      "ocr_similarity": 1.0,
+      "ocr_best": "宠物店",
+      "vl_similarity": 1.0,
+      "vl_best": "宠物店",
+      "vl_lines": [
+        "宠物店",
+        "宠[伪文字]物店"
+      ],
+      "signcheck_lines": [
+        "宠物店 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 1,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_pet_shop/region_00.png",
+          "kind": "region",
+          "box": [
+            190,
+            219,
+            875,
+            325
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_pet_shop/region_01.png",
+          "kind": "region",
+          "box": [
+            1133,
+            394,
+            115,
+            19
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_pet_shop/morph_00.png",
+          "kind": "morph",
+          "n_comp": 3
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_playground.png",
+      "sid": "bg_playground",
+      "expected": "儿童乐园",
+      "lang": "简体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='儿童乐园'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "儿童乐园",
+      "vl_similarity": 1.0,
+      "vl_best": "儿童乐园",
+      "vl_lines": [
+        "儿童乐园"
+      ],
+      "signcheck_lines": [
+        "儿童乐园 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 1,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_playground/region_00.png",
+          "kind": "region",
+          "box": [
+            227,
+            277,
+            747,
+            231
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_playground/region_01.png",
+          "kind": "region",
+          "box": [
+            214,
+            496,
+            79,
+            31
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_playground/morph_00.png",
+          "kind": "morph",
+          "n_comp": 3
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_precision_factory.png",
+      "sid": "bg_precision_factory",
+      "expected": "智能制造",
+      "lang": "简体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 0.75 / VL覆盖 1.00), 预期='智能制造'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 0.75,
+      "ocr_best": "智能制碴",
+      "vl_similarity": 1.0,
+      "vl_best": "智能制造",
+      "vl_lines": [
+        "智能制造",
+        "智能制造"
+      ],
+      "signcheck_lines": [
+        "智能制造 | 真实字符",
+        "智能制造 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 1,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_precision_factory/region_00.png",
+          "kind": "region",
+          "box": [
+            309,
+            300,
+            627,
+            193
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_precision_factory/region_01.png",
+          "kind": "region",
+          "box": [
+            350,
+            103,
+            547,
+            175
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_precision_factory/region_02.png",
+          "kind": "region",
+          "box": [
+            575,
+            0,
+            128,
+            56
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_precision_factory/morph_00.png",
+          "kind": "morph",
+          "n_comp": 3
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_principal_office.png",
+      "sid": "bg_principal_office",
+      "expected": "幼稚園",
+      "lang": "日语",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='幼稚園'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "幼稚園",
+      "vl_similarity": 1.0,
+      "vl_best": "幼稚園",
+      "vl_lines": [
+        "幼稚園",
+        "幼稚園",
+        "幼稚園",
+        "[无文字]"
+      ],
+      "signcheck_lines": [
+        "幼稚園 | 真实字符",
+        "幼稚園 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 1,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_principal_office/region_00.png",
+          "kind": "region",
+          "box": [
+            274,
+            277,
+            661,
+            258
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_principal_office/region_01.png",
+          "kind": "region",
+          "box": [
+            384,
+            77,
+            445,
+            165
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_principal_office/region_02.png",
+          "kind": "region",
+          "box": [
+            1188,
+            295,
+            58,
+            22
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_principal_office/morph_00.png",
+          "kind": "morph",
+          "n_comp": 4
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_reno_site.png",
+      "sid": "bg_reno_site",
+      "expected": "精工装修",
+      "lang": "简体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='精工装修'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "精工装修",
+      "vl_similarity": 1.0,
+      "vl_best": "精工装修",
+      "vl_lines": [
+        "精工装修"
+      ],
+      "signcheck_lines": [
+        "精工装修 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 0,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_reno_site/region_00.png",
+          "kind": "region",
+          "box": [
+            291,
+            303,
+            668,
+            204
+          ]
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_restaurant_private.png",
+      "sid": "bg_restaurant_private",
+      "expected": "雅聚轩",
+      "lang": "简体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 0.67 / VL覆盖 1.00), 预期='雅聚轩'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 0.6667,
+      "ocr_best": "雅聚轷",
+      "vl_similarity": 1.0,
+      "vl_best": "雅聚轩",
+      "vl_lines": [
+        "雅聚轩"
+      ],
+      "signcheck_lines": [
+        "雅聚軒 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 0,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_restaurant_private/region_00.png",
+          "kind": "region",
+          "box": [
+            298,
+            285,
+            651,
+            228
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_restaurant_private/region_01.png",
+          "kind": "region",
+          "box": [
+            1081,
+            197,
+            60,
+            217
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_restaurant_private/region_02.png",
+          "kind": "region",
+          "box": [
+            2,
+            191,
+            49,
+            197
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_restaurant_private/region_03.png",
+          "kind": "region",
+          "box": [
+            196,
+            257,
+            21,
+            144
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_restaurant_private/region_04.png",
+          "kind": "region",
+          "box": [
+            143,
+            283,
+            15,
+            63
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_restaurant_private/region_05.png",
+          "kind": "region",
+          "box": [
+            1065,
+            268,
+            18,
+            51
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_restaurant_private/region_06.png",
+          "kind": "region",
+          "box": [
+            128,
+            281,
+            13,
+            64
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_restaurant_private/region_07.png",
+          "kind": "region",
+          "box": [
+            126,
+            255,
+            30,
+            27
+          ]
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_salon_front.png",
+      "sid": "bg_salon_front",
+      "expected": "Salon de Beauté",
+      "lang": "法语",
+      "verdict": "真实文字",
+      "confidence": "中",
+      "reason": "主招牌被正确读出 (OCR覆盖 0.38 / VL覆盖 1.00), 预期='Salon de Beauté'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 0.3846,
+      "ocr_best": "Salod",
+      "vl_similarity": 1.0,
+      "vl_best": "Salon de Beauté",
+      "vl_lines": [
+        "Salon de Beauté",
+        "Salon de Beauté",
+        "Salon de Beaute",
+        "无文字"
+      ],
+      "signcheck_lines": [
+        "Salon de Beauté | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 0,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_salon_front/region_00.png",
+          "kind": "region",
+          "box": [
+            263,
+            104,
+            726,
+            115
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_salon_front/region_01.png",
+          "kind": "region",
+          "box": [
+            508,
+            327,
+            63,
+            31
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_salon_front/region_02.png",
+          "kind": "region",
+          "box": [
+            648,
+            330,
+            67,
+            28
+          ]
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_sample_room.png",
+      "sid": "bg_sample_room",
+      "expected": "样衣间",
+      "lang": "简体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='样衣间'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "样衣间",
+      "vl_similarity": 1.0,
+      "vl_best": "样衣间",
+      "vl_lines": [
+        "样衣间"
+      ],
+      "signcheck_lines": [
+        "样衣间 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 1,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_sample_room/region_00.png",
+          "kind": "region",
+          "box": [
+            245,
+            230,
+            716,
+            321
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_sample_room/region_01.png",
+          "kind": "region",
+          "box": [
+            0,
+            354,
+            62,
+            17
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_sample_room/morph_00.png",
+          "kind": "morph",
+          "n_comp": 4
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_school_field.png",
+      "sid": "bg_school_field",
+      "expected": "運動会",
+      "lang": "繁体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='運動会'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "運動会",
+      "vl_similarity": 1.0,
+      "vl_best": "運動会",
+      "vl_lines": [
+        "運動会"
+      ],
+      "signcheck_lines": [
+        "運動會 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 0,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_school_field/region_00.png",
+          "kind": "region",
+          "box": [
+            296,
+            280,
+            626,
+            248
+          ]
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_school_gate.png",
+      "sid": "bg_school_gate",
+      "expected": "实验中学",
+      "lang": "简体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='实验中学'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "实验中学",
+      "vl_similarity": 1.0,
+      "vl_best": "实验中学",
+      "vl_lines": [
+        "实验中学",
+        "实验太坦大肯势",
+        "实验中学",
+        "无文字"
+      ],
+      "signcheck_lines": [
+        "实验中学 | 真实字符",
+        "实验大坦大肯势 | 真实字符"
+      ],
+      "zoom_lines": [
+        "无法辨认 | [无法辨认]",
+        "实验中学 | [REAL]/[CJK]",
+        "实验大势 | [REAL]/[CJK]"
+      ],
+      "n_text_regions": 1,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_school_gate/region_00.png",
+          "kind": "region",
+          "box": [
+            240,
+            308,
+            739,
+            209
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_school_gate/region_01.png",
+          "kind": "region",
+          "box": [
+            283,
+            148,
+            575,
+            96
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_school_gate/region_02.png",
+          "kind": "region",
+          "box": [
+            626,
+            759,
+            79,
+            38
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_school_gate/morph_00.png",
+          "kind": "morph",
+          "n_comp": 3
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_school_office.png",
+      "sid": "bg_school_office",
+      "expected": "教研室",
+      "lang": "简体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='教研室'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "教研室",
+      "vl_similarity": 1.0,
+      "vl_best": "教研室",
+      "vl_lines": [
+        "教研室"
+      ],
+      "signcheck_lines": [
+        "教研究室 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 1,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_school_office/region_00.png",
+          "kind": "region",
+          "box": [
+            317,
+            283,
+            598,
+            230
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_school_office/region_01.png",
+          "kind": "region",
+          "box": [
+            846,
+            4,
+            74,
+            106
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_school_office/region_02.png",
+          "kind": "region",
+          "box": [
+            1086,
+            56,
+            101,
+            26
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_school_office/region_03.png",
+          "kind": "region",
+          "box": [
+            1010,
+            573,
+            54,
+            35
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_school_office/region_04.png",
+          "kind": "region",
+          "box": [
+            1004,
+            596,
+            52,
+            36
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_school_office/region_05.png",
+          "kind": "region",
+          "box": [
+            991,
+            592,
+            22,
+            18
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_school_office/morph_00.png",
+          "kind": "morph",
+          "n_comp": 4
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_senior_centre.png",
+      "sid": "bg_senior_centre",
+      "expected": "敬老院",
+      "lang": "简体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='敬老院'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "敬老院",
+      "vl_similarity": 1.0,
+      "vl_best": "敬老院",
+      "vl_lines": [
+        "敬老院",
+        "敬老院"
+      ],
+      "signcheck_lines": [
+        "敬老院 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 0,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_senior_centre/region_00.png",
+          "kind": "region",
+          "box": [
+            274,
+            258,
+            672,
+            277
+          ]
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_small_restaurant.png",
+      "sid": "bg_small_restaurant",
+      "expected": "家常小館",
+      "lang": "繁体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='家常小館'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "家常小館",
+      "vl_similarity": 1.0,
+      "vl_best": "家常小館",
+      "vl_lines": [
+        "家常小館"
+      ],
+      "signcheck_lines": [
+        "家常小館 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 0,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_small_restaurant/region_00.png",
+          "kind": "region",
+          "box": [
+            162,
+            191,
+            934,
+            348
+          ]
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_sorting_centre.png",
+      "sid": "bg_sorting_centre",
+      "expected": "分拣中心",
+      "lang": "简体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 0.75 / VL覆盖 0.75), 预期='分拣中心'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 0.75,
+      "ocr_best": "分扳中心",
+      "vl_similarity": 0.75,
+      "vl_best": "分揀中心",
+      "vl_lines": [
+        "分揀中心"
+      ],
+      "signcheck_lines": [
+        "分揹中心 | 真实字符"
+      ],
+      "zoom_lines": [
+        "分损中心 | [无法辨认]/[无法辨认]/[CJK]/[无法辨认]"
+      ],
+      "n_text_regions": 1,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_sorting_centre/region_00.png",
+          "kind": "region",
+          "box": [
+            316,
+            94,
+            608,
+            186
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_sorting_centre/region_01.png",
+          "kind": "region",
+          "box": [
+            511,
+            518,
+            153,
+            37
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_sorting_centre/morph_00.png",
+          "kind": "morph",
+          "n_comp": 3
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_startup_desk.png",
+      "sid": "bg_startup_desk",
+      "expected": "云启科技",
+      "lang": "简体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='云启科技'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "云启科技",
+      "vl_similarity": 1.0,
+      "vl_best": "云启科技",
+      "vl_lines": [
+        "云启科技"
+      ],
+      "signcheck_lines": [
+        "云启科技 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 1,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_startup_desk/region_00.png",
+          "kind": "region",
+          "box": [
+            274,
+            299,
+            692,
+            224
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_startup_desk/region_01.png",
+          "kind": "region",
+          "box": [
+            0,
+            535,
+            140,
+            21
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_startup_desk/morph_00.png",
+          "kind": "morph",
+          "n_comp": 3
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_steel_mill.png",
+      "sid": "bg_steel_mill",
+      "expected": "安全第一 预防为主",
+      "lang": "简体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 0.50 / VL覆盖 0.50), 预期='安全第一 预防为主'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 0.5,
+      "ocr_best": "安全第一",
+      "vl_similarity": 0.5,
+      "vl_best": "安全第一",
+      "vl_lines": [
+        "安全第一",
+        "预防为主"
+      ],
+      "signcheck_lines": [
+        "安全第一 | 真实字符",
+        "预防为主 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 2,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_steel_mill/region_00.png",
+          "kind": "region",
+          "box": [
+            375,
+            271,
+            468,
+            147
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_steel_mill/region_01.png",
+          "kind": "region",
+          "box": [
+            374,
+            397,
+            467,
+            140
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_steel_mill/region_02.png",
+          "kind": "region",
+          "box": [
+            285,
+            541,
+            22,
+            15
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_steel_mill/morph_00.png",
+          "kind": "morph",
+          "n_comp": 5
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_steel_mill/morph_01.png",
+          "kind": "morph",
+          "n_comp": 3
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_subway_station.png",
+      "sid": "bg_subway_station",
+      "expected": "地铁站台",
+      "lang": "简体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='地铁站台'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "地铁站台",
+      "vl_similarity": 1.0,
+      "vl_best": "地铁站台",
+      "vl_lines": [
+        "地铁站台"
+      ],
+      "signcheck_lines": [
+        "地铁站台 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 2,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_subway_station/region_00.png",
+          "kind": "region",
+          "box": [
+            355,
+            86,
+            516,
+            153
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_subway_station/region_01.png",
+          "kind": "region",
+          "box": [
+            88,
+            235,
+            82,
+            57
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_subway_station/region_02.png",
+          "kind": "region",
+          "box": [
+            131,
+            804,
+            96,
+            28
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_subway_station/region_03.png",
+          "kind": "region",
+          "box": [
+            91,
+            267,
+            74,
+            35
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_subway_station/region_04.png",
+          "kind": "region",
+          "box": [
+            68,
+            769,
+            59,
+            29
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_subway_station/region_05.png",
+          "kind": "region",
+          "box": [
+            111,
+            501,
+            53,
+            28
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_subway_station/region_06.png",
+          "kind": "region",
+          "box": [
+            0,
+            523,
+            51,
+            29
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_subway_station/region_07.png",
+          "kind": "region",
+          "box": [
+            333,
+            611,
+            106,
+            12
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_subway_station/morph_00.png",
+          "kind": "morph",
+          "n_comp": 3
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_subway_station/morph_01.png",
+          "kind": "morph",
+          "n_comp": 3
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_supermarket.png",
+      "sid": "bg_supermarket",
+      "expected": "惠民超市",
+      "lang": "简体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='惠民超市'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "惠民超市",
+      "vl_similarity": 1.0,
+      "vl_best": "惠民超市",
+      "vl_lines": [
+        "惠民超市"
+      ],
+      "signcheck_lines": [
+        "文字 | 真实字符/伪文字/无文字",
+        "惠民超市 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 1,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_supermarket/region_00.png",
+          "kind": "region",
+          "box": [
+            242,
+            75,
+            705,
+            197
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_supermarket/region_01.png",
+          "kind": "region",
+          "box": [
+            1125,
+            551,
+            123,
+            36
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_supermarket/morph_00.png",
+          "kind": "morph",
+          "n_comp": 7
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_support_centre.png",
+      "sid": "bg_support_centre",
+      "expected": "客服中心",
+      "lang": "简体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='客服中心'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "客服中心",
+      "vl_similarity": 1.0,
+      "vl_best": "客服中心",
+      "vl_lines": [
+        "客服中心"
+      ],
+      "signcheck_lines": [
+        "客服中心 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 2,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_support_centre/region_00.png",
+          "kind": "region",
+          "box": [
+            190,
+            227,
+            842,
+            240
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_support_centre/region_01.png",
+          "kind": "region",
+          "box": [
+            829,
+            251,
+            419,
+            186
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_support_centre/region_02.png",
+          "kind": "region",
+          "box": [
+            926,
+            114,
+            22,
+            16
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_support_centre/morph_00.png",
+          "kind": "morph",
+          "n_comp": 6
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_support_centre/morph_01.png",
+          "kind": "morph",
+          "n_comp": 3
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_tailor_shop.png",
+      "sid": "bg_tailor_shop",
+      "expected": "裁縫店",
+      "lang": "繁体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='裁縫店'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "裁縫店",
+      "vl_similarity": 1.0,
+      "vl_best": "裁縫店",
+      "vl_lines": [
+        "裁縫店"
+      ],
+      "signcheck_lines": [
+        "裁縫店 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 0,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_tailor_shop/region_00.png",
+          "kind": "region",
+          "box": [
+            343,
+            80,
+            542,
+            222
+          ]
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_tcm_clinic.png",
+      "sid": "bg_tcm_clinic",
+      "expected": "同仁堂",
+      "lang": "繁体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='同仁堂'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "同仁堂",
+      "vl_similarity": 1.0,
+      "vl_best": "同仁堂",
+      "vl_lines": [
+        "同仁堂",
+        "同仁堂",
+        "同仁堂",
+        "无文字"
+      ],
+      "signcheck_lines": [
+        "同仁堂 | 真实字符",
+        "同仁堂 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 1,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_tcm_clinic/region_00.png",
+          "kind": "region",
+          "box": [
+            311,
+            268,
+            586,
+            246
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_tcm_clinic/region_01.png",
+          "kind": "region",
+          "box": [
+            395,
+            83,
+            448,
+            181
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_tcm_clinic/region_02.png",
+          "kind": "region",
+          "box": [
+            1153,
+            0,
+            44,
+            39
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_tcm_clinic/morph_00.png",
+          "kind": "morph",
+          "n_comp": 4
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_tea_house.png",
+      "sid": "bg_tea_house",
+      "expected": "清心茶社",
+      "lang": "简体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='清心茶社'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "清心茶社",
+      "vl_similarity": 1.0,
+      "vl_best": "清心茶社",
+      "vl_lines": [
+        "清心茶社"
+      ],
+      "signcheck_lines": [
+        "清心茶社 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 0,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_tea_house/region_00.png",
+          "kind": "region",
+          "box": [
+            340,
+            57,
+            552,
+            228
+          ]
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_tea_prep.png",
+      "sid": "bg_tea_prep",
+      "expected": "調製室",
+      "lang": "繁体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='調製室'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "調製室",
+      "vl_similarity": 1.0,
+      "vl_best": "調製室",
+      "vl_lines": [
+        "調製室"
+      ],
+      "signcheck_lines": [
+        "調製室 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 1,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_tea_prep/region_00.png",
+          "kind": "region",
+          "box": [
+            292,
+            96,
+            643,
+            257
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_tea_prep/region_01.png",
+          "kind": "region",
+          "box": [
+            807,
+            733,
+            91,
+            22
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_tea_prep/morph_00.png",
+          "kind": "morph",
+          "n_comp": 7
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_test_field.png",
+      "sid": "bg_test_field",
+      "expected": "试验田",
+      "lang": "简体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='试验田'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "试验田",
+      "vl_similarity": 1.0,
+      "vl_best": "试验田",
+      "vl_lines": [
+        "试验田"
+      ],
+      "signcheck_lines": [
+        "试验田 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 1,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_test_field/region_00.png",
+          "kind": "region",
+          "box": [
+            202,
+            208,
+            800,
+            301
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_test_field/region_01.png",
+          "kind": "region",
+          "box": [
+            19,
+            239,
+            286,
+            67
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_test_field/morph_00.png",
+          "kind": "morph",
+          "n_comp": 3
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_textile_mill.png",
+      "sid": "bg_textile_mill",
+      "expected": "纺织车间",
+      "lang": "简体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='纺织车间'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "纺织车间",
+      "vl_similarity": 1.0,
+      "vl_best": "纺织车间",
+      "vl_lines": [
+        "纺织车间"
+      ],
+      "signcheck_lines": [
+        "纺织车间 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 1,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_textile_mill/region_00.png",
+          "kind": "region",
+          "box": [
+            304,
+            73,
+            612,
+            180
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_textile_mill/region_01.png",
+          "kind": "region",
+          "box": [
+            729,
+            482,
+            55,
+            25
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_textile_mill/region_02.png",
+          "kind": "region",
+          "box": [
+            0,
+            776,
+            19,
+            55
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_textile_mill/morph_00.png",
+          "kind": "morph",
+          "n_comp": 4
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_tile_warehouse.png",
+      "sid": "bg_tile_warehouse",
+      "expected": "建材批发中心",
+      "lang": "简体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='建材批发中心'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "建材批发中心",
+      "vl_similarity": 1.0,
+      "vl_best": "建材批发中心",
+      "vl_lines": [
+        "建材批发中心"
+      ],
+      "signcheck_lines": [
+        "建材批发中心 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 1,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_tile_warehouse/region_00.png",
+          "kind": "region",
+          "box": [
+            190,
+            305,
+            869,
+            176
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_tile_warehouse/region_01.png",
+          "kind": "region",
+          "box": [
+            32,
+            495,
+            237,
+            44
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_tile_warehouse/morph_00.png",
+          "kind": "morph",
+          "n_comp": 4
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_tofu_stall.png",
+      "sid": "bg_tofu_stall",
+      "expected": "石磨豆腐",
+      "lang": "简体中文",
+      "verdict": "伪文字",
+      "confidence": "高",
+      "reason": "检出伪文字证据 1 条: ['右火磨']",
+      "pseudo_evidence": [
+        "右火磨"
+      ],
+      "ocr_similarity": 1.0,
+      "ocr_best": "石磨豆腐",
+      "vl_similarity": 1.0,
+      "vl_best": "石磨豆腐",
+      "vl_lines": [
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐"
+      ],
+      "signcheck_lines": [
+        "石磨豆腐 | 真实字符"
+      ],
+      "zoom_lines": [
+        "石磨豆腐 | [CJK]",
+        "北上尖腐 | [CJK]",
+        "石磨腐豆腐 | [CJK]",
+        "石磨豆腐 | [CJK]",
+        "右火磨 | [FAKE]",
+        "右磨豆腐 | [CJK]"
+      ],
+      "n_text_regions": 0,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_tofu_stall/region_00.png",
+          "kind": "region",
+          "box": [
+            326,
+            78,
+            585,
+            175
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_tofu_stall/region_01.png",
+          "kind": "region",
+          "box": [
+            157,
+            653,
+            149,
+            49
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_tofu_stall/region_02.png",
+          "kind": "region",
+          "box": [
+            159,
+            573,
+            152,
+            40
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_tofu_stall/region_03.png",
+          "kind": "region",
+          "box": [
+            371,
+            668,
+            96,
+            32
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_tofu_stall/region_04.png",
+          "kind": "region",
+          "box": [
+            329,
+            773,
+            77,
+            39
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_tofu_stall/region_05.png",
+          "kind": "region",
+          "box": [
+            178,
+            774,
+            90,
+            30
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_tofu_stall/region_06.png",
+          "kind": "region",
+          "box": [
+            220,
+            522,
+            90,
+            24
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_tofu_stall/region_07.png",
+          "kind": "region",
+          "box": [
+            236,
+            490,
+            56,
+            33
+          ]
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_track_field.png",
+      "sid": "bg_track_field",
+      "expected": "更快 更高 更强 更团结",
+      "lang": "简体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='更快 更高 更强 更团结'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "更快更高更强更团结",
+      "vl_similarity": 1.0,
+      "vl_best": "更快 更高 更强 更团结",
+      "vl_lines": [
+        "更快 更高 更强 更团结"
+      ],
+      "signcheck_lines": [
+        "更快 更高 更强 更团结 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 5,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_track_field/region_00.png",
+          "kind": "region",
+          "box": [
+            0,
+            328,
+            1065,
+            113
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_track_field/region_01.png",
+          "kind": "region",
+          "box": [
+            499,
+            0,
+            150,
+            29
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_track_field/region_02.png",
+          "kind": "region",
+          "box": [
+            649,
+            25,
+            147,
+            20
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_track_field/region_03.png",
+          "kind": "region",
+          "box": [
+            0,
+            657,
+            104,
+            13
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_track_field/region_04.png",
+          "kind": "region",
+          "box": [
+            642,
+            782,
+            46,
+            12
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_track_field/morph_00.png",
+          "kind": "morph",
+          "n_comp": 21
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_track_field/morph_01.png",
+          "kind": "morph",
+          "n_comp": 20
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_track_field/morph_02.png",
+          "kind": "morph",
+          "n_comp": 10
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_track_field/morph_03.png",
+          "kind": "morph",
+          "n_comp": 9
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_track_field/morph_04.png",
+          "kind": "morph",
+          "n_comp": 5
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_train_platform.png",
+      "sid": "bg_train_platform",
+      "expected": "懷舊車站",
+      "lang": "繁体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='懷舊車站'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "懷舊車站",
+      "vl_similarity": 1.0,
+      "vl_best": "懷舊車站",
+      "vl_lines": [
+        "懷舊車站"
+      ],
+      "signcheck_lines": [
+        "懷舊車站 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 0,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_train_platform/region_00.png",
+          "kind": "region",
+          "box": [
+            383,
+            100,
+            465,
+            137
+          ]
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_training_centre.png",
+      "sid": "bg_training_centre",
+      "expected": "职业培训",
+      "lang": "简体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 0.75 / VL覆盖 1.00), 预期='职业培训'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 0.75,
+      "ocr_best": "职业增训",
+      "vl_similarity": 1.0,
+      "vl_best": "职业培训",
+      "vl_lines": [
+        "职业培训"
+      ],
+      "signcheck_lines": [
+        "职业培训 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 1,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_training_centre/region_00.png",
+          "kind": "region",
+          "box": [
+            356,
+            102,
+            548,
+            152
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_training_centre/region_01.png",
+          "kind": "region",
+          "box": [
+            995,
+            0,
+            113,
+            33
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_training_centre/morph_00.png",
+          "kind": "morph",
+          "n_comp": 3
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_warehouse_rack.png",
+      "sid": "bg_warehouse_rack",
+      "expected": "立体仓库",
+      "lang": "简体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='立体仓库'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "立体仓库",
+      "vl_similarity": 1.0,
+      "vl_best": "立体仓库",
+      "vl_lines": [
+        "立体仓库"
+      ],
+      "signcheck_lines": [
+        "立体仓库 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 0,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_warehouse_rack/region_00.png",
+          "kind": "region",
+          "box": [
+            255,
+            279,
+            754,
+            241
+          ]
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_wet_market.png",
+      "sid": "bg_wet_market",
+      "expected": "菜市場",
+      "lang": "繁体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='菜市場'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "菜市場",
+      "vl_similarity": 1.0,
+      "vl_best": "菜市場",
+      "vl_lines": [
+        "菜市場"
+      ],
+      "signcheck_lines": [
+        "菜市場 | 真实字符",
+        "菜市場 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 0,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_wet_market/region_00.png",
+          "kind": "region",
+          "box": [
+            375,
+            61,
+            502,
+            213
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_wet_market/region_01.png",
+          "kind": "region",
+          "box": [
+            1109,
+            140,
+            108,
+            106
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_wet_market/region_02.png",
+          "kind": "region",
+          "box": [
+            558,
+            305,
+            120,
+            51
+          ]
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_wheat_field.png",
+      "sid": "bg_wheat_field",
+      "expected": "丰收中国",
+      "lang": "简体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='丰收中国'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "丰收中国",
+      "vl_similarity": 1.0,
+      "vl_best": "丰收中国",
+      "vl_lines": [
+        "丰收中国"
+      ],
+      "signcheck_lines": [
+        "丰收中国 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 0,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_wheat_field/region_00.png",
+          "kind": "region",
+          "box": [
+            233,
+            282,
+            754,
+            230
+          ]
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_yoga_studio.png",
+      "sid": "bg_yoga_studio",
+      "expected": "瑜伽馆",
+      "lang": "简体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='瑜伽馆'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "瑜伽馆",
+      "vl_similarity": 1.0,
+      "vl_best": "瑜伽馆",
+      "vl_lines": [
+        "瑜伽馆"
+      ],
+      "signcheck_lines": [
+        "瑜伽馆 | 真实字符"
+      ],
+      "zoom_lines": [],
+      "n_text_regions": 2,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_yoga_studio/region_00.png",
+          "kind": "region",
+          "box": [
+            200,
+            256,
+            838,
+            297
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_yoga_studio/region_01.png",
+          "kind": "region",
+          "box": [
+            463,
+            0,
+            712,
+            199
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_yoga_studio/region_02.png",
+          "kind": "region",
+          "box": [
+            0,
+            465,
+            122,
+            37
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_yoga_studio/morph_00.png",
+          "kind": "morph",
+          "n_comp": 7
+        },
+        {
+          "file": "/ssd2/duanju/bg_text_crops/bg_yoga_studio/morph_01.png",
+          "kind": "morph",
+          "n_comp": 6
+        }
+      ],
+      "size_ok": false
+    }
+  ]
+}

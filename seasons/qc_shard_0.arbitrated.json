@@ -1,0 +1,6445 @@
+[
+  {
+    "cid": "F15",
+    "variant": "F15_liqiu",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.9442,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9442 >= 0.45"
+  },
+  {
+    "cid": "F19",
+    "variant": "F19_bailu",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.9137,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9137 >= 0.45"
+  },
+  {
+    "cid": "F19",
+    "variant": "F19_dashu",
+    "orig": "否",
+    "raw": [
+      "否",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.8887,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8887 >= 0.45"
+  },
+  {
+    "cid": "F22",
+    "variant": "F22_dashu",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.8779,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8779 >= 0.45"
+  },
+  {
+    "cid": "F31",
+    "variant": "F31_chunfen",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.8147,
+    "third": [
+      "2",
+      "1"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8147 >= 0.45"
+  },
+  {
+    "cid": "F31",
+    "variant": "F31_lixia",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.822,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.822 >= 0.45"
+  },
+  {
+    "cid": "F32",
+    "variant": "F32_chushu",
+    "orig": "存疑",
+    "raw": [
+      "否",
+      "是"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.9393,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9393 >= 0.45"
+  },
+  {
+    "cid": "F32",
+    "variant": "F32_mangzhong",
+    "orig": "否",
+    "raw": [
+      "否",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.895,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.895 >= 0.45"
+  },
+  {
+    "cid": "F32",
+    "variant": "F32_summer",
+    "orig": "存疑",
+    "raw": [
+      "否",
+      "是"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.8566,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8566 >= 0.45"
+  },
+  {
+    "cid": "F33",
+    "variant": "F33_qingming",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.9393,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9393 >= 0.45"
+  },
+  {
+    "cid": "F36",
+    "variant": "F36_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.9185,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9185 >= 0.45"
+  },
+  {
+    "cid": "F40",
+    "variant": "F40_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.8609,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8609 >= 0.45"
+  },
+  {
+    "cid": "F40",
+    "variant": "F40_summer",
+    "orig": "存疑",
+    "raw": [
+      "否",
+      "是"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.8071,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8071 >= 0.45"
+  },
+  {
+    "cid": "F44",
+    "variant": "F44_mangzhong",
+    "orig": "否",
+    "raw": [
+      "否",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.7824,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.7824 >= 0.45"
+  },
+  {
+    "cid": "F44",
+    "variant": "F44_summer",
+    "orig": "否",
+    "raw": [
+      "否",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.8437,
+    "third": [
+      "1",
+      "1"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8437 >= 0.45"
+  },
+  {
+    "cid": "F48",
+    "variant": "F48_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.8761,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8761 >= 0.45"
+  },
+  {
+    "cid": "F50",
+    "variant": "F50_qiufen",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.91,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.91 >= 0.45"
+  },
+  {
+    "cid": "F52",
+    "variant": "F52_mangzhong",
+    "orig": "否",
+    "raw": [
+      "否",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.8656,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8656 >= 0.45"
+  },
+  {
+    "cid": "F53",
+    "variant": "F53_dahan",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.9426,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9426 >= 0.45"
+  },
+  {
+    "cid": "F53",
+    "variant": "F53_guyu",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.8436,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8436 >= 0.45"
+  },
+  {
+    "cid": "F53",
+    "variant": "F53_lidong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.9427,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9427 >= 0.45"
+  },
+  {
+    "cid": "F53",
+    "variant": "F53_winter",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.9187,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9187 >= 0.45"
+  },
+  {
+    "cid": "F56",
+    "variant": "F56_chushu",
+    "orig": "存疑",
+    "raw": [
+      "否",
+      "是"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.8938,
+    "third": [
+      "1",
+      "1"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8938 >= 0.45"
+  },
+  {
+    "cid": "F60",
+    "variant": "F60_chushu",
+    "orig": "存疑",
+    "raw": [
+      "否",
+      "是"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.8965,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8965 >= 0.45"
+  },
+  {
+    "cid": "F60",
+    "variant": "F60_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.7889,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.7889 >= 0.45"
+  },
+  {
+    "cid": "F63",
+    "variant": "F63_xiaoman",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.9428,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9428 >= 0.45"
+  },
+  {
+    "cid": "F65",
+    "variant": "F65_dahan",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.9084,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9084 >= 0.45"
+  },
+  {
+    "cid": "F65",
+    "variant": "F65_guyu",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.8693,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8693 >= 0.45"
+  },
+  {
+    "cid": "F65",
+    "variant": "F65_lidong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.9594,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9594 >= 0.45"
+  },
+  {
+    "cid": "F65",
+    "variant": "F65_winter",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.9009,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9009 >= 0.45"
+  },
+  {
+    "cid": "F67",
+    "variant": "F67_xiaoman",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.9219,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9219 >= 0.45"
+  },
+  {
+    "cid": "F68",
+    "variant": "F68_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.8494,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8494 >= 0.45"
+  },
+  {
+    "cid": "F69",
+    "variant": "F69_dahan",
+    "orig": "否",
+    "raw": [
+      "否",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.8888,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8888 >= 0.45"
+  },
+  {
+    "cid": "F69",
+    "variant": "F69_qingming",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.9279,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9279 >= 0.45"
+  },
+  {
+    "cid": "F69",
+    "variant": "F69_winter",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.8746,
+    "third": [
+      "2",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8746 >= 0.45"
+  },
+  {
+    "cid": "M02",
+    "variant": "M02_mangzhong",
+    "orig": "否",
+    "raw": [
+      "否",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.8116,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8116 >= 0.45"
+  },
+  {
+    "cid": "M02",
+    "variant": "M02_summer",
+    "orig": "存疑",
+    "raw": [
+      "否",
+      "是"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.9286,
+    "third": [
+      "1",
+      "1"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9286 >= 0.45"
+  },
+  {
+    "cid": "M03",
+    "variant": "M03_guyu",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.9002,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9002 >= 0.45"
+  },
+  {
+    "cid": "M05",
+    "variant": "M05_xiaoman",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.9023,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9023 >= 0.45"
+  },
+  {
+    "cid": "M10",
+    "variant": "M10_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.8234,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8234 >= 0.45"
+  },
+  {
+    "cid": "M14",
+    "variant": "M14_chushu",
+    "orig": "存疑",
+    "raw": [
+      "否",
+      "是"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.8363,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8363 >= 0.45"
+  },
+  {
+    "cid": "M14",
+    "variant": "M14_mangzhong",
+    "orig": "否",
+    "raw": [
+      "否",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.8157,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8157 >= 0.45"
+  },
+  {
+    "cid": "M15",
+    "variant": "M15_dahan",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.9058,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9058 >= 0.45"
+  },
+  {
+    "cid": "M17",
+    "variant": "M17_xiaoman",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.8572,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8572 >= 0.45"
+  },
+  {
+    "cid": "M18",
+    "variant": "M18_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.8307,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8307 >= 0.45"
+  },
+  {
+    "cid": "M19",
+    "variant": "M19_dahan",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.879,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.879 >= 0.45"
+  },
+  {
+    "cid": "M19",
+    "variant": "M19_winter",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.8909,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8909 >= 0.45"
+  },
+  {
+    "cid": "M21",
+    "variant": "M21_xiaoman",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.8662,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8662 >= 0.45"
+  },
+  {
+    "cid": "M26",
+    "variant": "M26_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.8424,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8424 >= 0.45"
+  },
+  {
+    "cid": "M27",
+    "variant": "M27_guyu",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.9249,
+    "third": [
+      "1",
+      "1"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9249 >= 0.45"
+  },
+  {
+    "cid": "M28",
+    "variant": "M28_bailu",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.8395,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8395 >= 0.45"
+  },
+  {
+    "cid": "M28",
+    "variant": "M28_hanlu",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.8732,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8732 >= 0.45"
+  },
+  {
+    "cid": "M28",
+    "variant": "M28_qiufen",
+    "orig": "存疑",
+    "raw": [
+      "否",
+      "是"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.972,
+    "third": [
+      "1",
+      "1"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.972 >= 0.45"
+  },
+  {
+    "cid": "M28",
+    "variant": "M28_xiaohan",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.9276,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9276 >= 0.45"
+  },
+  {
+    "cid": "M30",
+    "variant": "M30_mangzhong",
+    "orig": "否",
+    "raw": [
+      "否",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.7796,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.7796 >= 0.45"
+  },
+  {
+    "cid": "M33",
+    "variant": "M33_xiaoman",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.9505,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9505 >= 0.45"
+  },
+  {
+    "cid": "M34",
+    "variant": "M34_mangzhong",
+    "orig": "否",
+    "raw": [
+      "否",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.7777,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.7777 >= 0.45"
+  },
+  {
+    "cid": "M36",
+    "variant": "M36_hanlu",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.9236,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9236 >= 0.45"
+  },
+  {
+    "cid": "M37",
+    "variant": "M37_lixia",
+    "orig": "否",
+    "raw": [
+      "否",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.9192,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9192 >= 0.45"
+  },
+  {
+    "cid": "M37",
+    "variant": "M37_xiaoman",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.9289,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9289 >= 0.45"
+  },
+  {
+    "cid": "M40",
+    "variant": "M40_dashu",
+    "orig": "存疑",
+    "raw": [
+      "否",
+      "是"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.9294,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9294 >= 0.45"
+  },
+  {
+    "cid": "M41",
+    "variant": "M41_lixia",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.8657,
+    "third": [
+      "1",
+      "1"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8657 >= 0.45"
+  },
+  {
+    "cid": "M41",
+    "variant": "M41_xiaoman",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.8776,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8776 >= 0.45"
+  },
+  {
+    "cid": "M42",
+    "variant": "M42_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.8119,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8119 >= 0.45"
+  },
+  {
+    "cid": "M43",
+    "variant": "M43_dahan",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.9462,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9462 >= 0.45"
+  },
+  {
+    "cid": "M44",
+    "variant": "M44_hanlu",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.9221,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9221 >= 0.45"
+  },
+  {
+    "cid": "M45",
+    "variant": "M45_chunfen",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.9537,
+    "third": [
+      "2",
+      "1"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9537 >= 0.45"
+  },
+  {
+    "cid": "M45",
+    "variant": "M45_lixia",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.9381,
+    "third": [
+      "2",
+      "1"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9381 >= 0.45"
+  },
+  {
+    "cid": "M45",
+    "variant": "M45_xiaoman",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.9645,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9645 >= 0.45"
+  },
+  {
+    "cid": "M46",
+    "variant": "M46_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.8601,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8601 >= 0.45"
+  },
+  {
+    "cid": "M46",
+    "variant": "M46_summer",
+    "orig": "存疑",
+    "raw": [
+      "否",
+      "是"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.942,
+    "third": [
+      "1",
+      "1"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.942 >= 0.45"
+  },
+  {
+    "cid": "M50",
+    "variant": "M50_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.8845,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8845 >= 0.45"
+  },
+  {
+    "cid": "M54",
+    "variant": "M54_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.8077,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8077 >= 0.45"
+  },
+  {
+    "cid": "M57",
+    "variant": "M57_xiaoman",
+    "orig": "存疑",
+    "raw": [
+      "否",
+      "是"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.8141,
+    "third": [
+      "1",
+      "1"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8141 >= 0.45"
+  },
+  {
+    "cid": "M58",
+    "variant": "M58_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.887,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.887 >= 0.45"
+  },
+  {
+    "cid": "M59",
+    "variant": "M59_dahan",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.7737,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.7737 >= 0.45"
+  },
+  {
+    "cid": "M62",
+    "variant": "M62_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.8478,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8478 >= 0.45"
+  },
+  {
+    "cid": "M63",
+    "variant": "M63_guyu",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.9552,
+    "third": [
+      "2",
+      "1"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9552 >= 0.45"
+  },
+  {
+    "cid": "M63",
+    "variant": "M63_lidong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.9626,
+    "third": [
+      "2",
+      "1"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9626 >= 0.45"
+  },
+  {
+    "cid": "M63",
+    "variant": "M63_qingming",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.9401,
+    "third": [
+      "2",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9401 >= 0.45"
+  },
+  {
+    "cid": "M63",
+    "variant": "M63_winter",
+    "orig": "否",
+    "raw": [
+      "否",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.8965,
+    "third": [
+      "2",
+      "1"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8965 >= 0.45"
+  },
+  {
+    "cid": "M66",
+    "variant": "M66_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.8287,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8287 >= 0.45"
+  },
+  {
+    "cid": "M74",
+    "variant": "M74_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.8337,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8337 >= 0.45"
+  },
+  {
+    "cid": "M75",
+    "variant": "M75_dahan",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.7819,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.7819 >= 0.45"
+  },
+  {
+    "cid": "M75",
+    "variant": "M75_guyu",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.8941,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8941 >= 0.45"
+  },
+  {
+    "cid": "M75",
+    "variant": "M75_qingming",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_0.json",
+    "sim": 0.9448,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9448 >= 0.45"
+  },
+  {
+    "cid": "F02",
+    "variant": "F02_daxue",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.9243,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9243 >= 0.45"
+  },
+  {
+    "cid": "F02",
+    "variant": "F02_shuangjiang",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.8544,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8544 >= 0.45"
+  },
+  {
+    "cid": "F02",
+    "variant": "F02_xiaoman",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.9119,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9119 >= 0.45"
+  },
+  {
+    "cid": "F12",
+    "variant": "F12_xiaoman",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.931,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.931 >= 0.45"
+  },
+  {
+    "cid": "F13",
+    "variant": "F13_xiaoman",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.8971,
+    "third": [
+      "2",
+      "1"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8971 >= 0.45"
+  },
+  {
+    "cid": "F14",
+    "variant": "F14_xiaoman",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.87,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.87 >= 0.45"
+  },
+  {
+    "cid": "F22",
+    "variant": "F22_xiaoman",
+    "orig": "否",
+    "raw": [
+      "否",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.8932,
+    "third": [
+      "2",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8932 >= 0.45"
+  },
+  {
+    "cid": "F26",
+    "variant": "F26_lixia",
+    "orig": "存疑",
+    "raw": [
+      "否",
+      "是"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.8033,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8033 >= 0.45"
+  },
+  {
+    "cid": "F29",
+    "variant": "F29_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.8394,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8394 >= 0.45"
+  },
+  {
+    "cid": "F30",
+    "variant": "F30_mangzhong",
+    "orig": "否",
+    "raw": [
+      "否",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.8887,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8887 >= 0.45"
+  },
+  {
+    "cid": "F31",
+    "variant": "F31_mangzhong",
+    "orig": "否",
+    "raw": [
+      "否",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.7522,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.7522 >= 0.45"
+  },
+  {
+    "cid": "F31",
+    "variant": "F31_xiaoshu",
+    "orig": "否",
+    "raw": [
+      "否",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.7723,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.7723 >= 0.45"
+  },
+  {
+    "cid": "F32",
+    "variant": "F32_guyu",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.8076,
+    "third": [
+      "2",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8076 >= 0.45"
+  },
+  {
+    "cid": "F32",
+    "variant": "F32_qingming",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.8069,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8069 >= 0.45"
+  },
+  {
+    "cid": "F35",
+    "variant": "F35_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.8968,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8968 >= 0.45"
+  },
+  {
+    "cid": "F37",
+    "variant": "F37_dashu",
+    "orig": "存疑",
+    "raw": [
+      "否",
+      "是"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.9098,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9098 >= 0.45"
+  },
+  {
+    "cid": "F39",
+    "variant": "F39_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.8558,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8558 >= 0.45"
+  },
+  {
+    "cid": "F40",
+    "variant": "F40_dahan",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.8566,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8566 >= 0.45"
+  },
+  {
+    "cid": "F42",
+    "variant": "F42_xiaoman",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.9019,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9019 >= 0.45"
+  },
+  {
+    "cid": "F43",
+    "variant": "F43_mangzhong",
+    "orig": "否",
+    "raw": [
+      "否",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.8921,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8921 >= 0.45"
+  },
+  {
+    "cid": "F44",
+    "variant": "F44_guyu",
+    "orig": "否",
+    "raw": [
+      "否",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.85,
+    "third": [
+      "2",
+      "1"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.85 >= 0.45"
+  },
+  {
+    "cid": "F44",
+    "variant": "F44_lidong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.894,
+    "third": [
+      "1",
+      "1"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.894 >= 0.45"
+  },
+  {
+    "cid": "F44",
+    "variant": "F44_qingming",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.8461,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8461 >= 0.45"
+  },
+  {
+    "cid": "F44",
+    "variant": "F44_winter",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.8614,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8614 >= 0.45"
+  },
+  {
+    "cid": "F47",
+    "variant": "F47_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.8428,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8428 >= 0.45"
+  },
+  {
+    "cid": "F48",
+    "variant": "F48_qingming",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.8688,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8688 >= 0.45"
+  },
+  {
+    "cid": "F53",
+    "variant": "F53_dashu",
+    "orig": "存疑",
+    "raw": [
+      "否",
+      "是"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.8931,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8931 >= 0.45"
+  },
+  {
+    "cid": "F53",
+    "variant": "F53_hanlu",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.9429,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9429 >= 0.45"
+  },
+  {
+    "cid": "F53",
+    "variant": "F53_liqiu",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.9607,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9607 >= 0.45"
+  },
+  {
+    "cid": "F53",
+    "variant": "F53_xiaohan",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.9317,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9317 >= 0.45"
+  },
+  {
+    "cid": "F55",
+    "variant": "F55_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.8009,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8009 >= 0.45"
+  },
+  {
+    "cid": "F56",
+    "variant": "F56_dahan",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.8867,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8867 >= 0.45"
+  },
+  {
+    "cid": "F60",
+    "variant": "F60_dahan",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.8827,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8827 >= 0.45"
+  },
+  {
+    "cid": "F60",
+    "variant": "F60_qingming",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.887,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.887 >= 0.45"
+  },
+  {
+    "cid": "F62",
+    "variant": "F62_jingzhe",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.944,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.944 >= 0.45"
+  },
+  {
+    "cid": "F63",
+    "variant": "F63_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.9057,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9057 >= 0.45"
+  },
+  {
+    "cid": "F64",
+    "variant": "F64_dahan",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.9121,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9121 >= 0.45"
+  },
+  {
+    "cid": "F65",
+    "variant": "F65_bailu",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.9659,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9659 >= 0.45"
+  },
+  {
+    "cid": "F65",
+    "variant": "F65_dashu",
+    "orig": "否",
+    "raw": [
+      "否",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.8757,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8757 >= 0.45"
+  },
+  {
+    "cid": "F65",
+    "variant": "F65_liqiu",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.9207,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9207 >= 0.45"
+  },
+  {
+    "cid": "F65",
+    "variant": "F65_qiufen",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.9366,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9366 >= 0.45"
+  },
+  {
+    "cid": "F65",
+    "variant": "F65_xiaohan",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.917,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.917 >= 0.45"
+  },
+  {
+    "cid": "F67",
+    "variant": "F67_mangzhong",
+    "orig": "否",
+    "raw": [
+      "否",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.8459,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8459 >= 0.45"
+  },
+  {
+    "cid": "F67",
+    "variant": "F67_summer",
+    "orig": "存疑",
+    "raw": [
+      "否",
+      "是"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.7899,
+    "third": [
+      "1",
+      "1"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.7899 >= 0.45"
+  },
+  {
+    "cid": "F68",
+    "variant": "F68_dahan",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.9125,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9125 >= 0.45"
+  },
+  {
+    "cid": "F70",
+    "variant": "F70_xiaoman",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.8456,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8456 >= 0.45"
+  },
+  {
+    "cid": "M01",
+    "variant": "M01_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.8391,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8391 >= 0.45"
+  },
+  {
+    "cid": "M04",
+    "variant": "M04_xiaoman",
+    "orig": "否",
+    "raw": [
+      "否",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.7739,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.7739 >= 0.45"
+  },
+  {
+    "cid": "M05",
+    "variant": "M05_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.8281,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8281 >= 0.45"
+  },
+  {
+    "cid": "M09",
+    "variant": "M09_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.8491,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8491 >= 0.45"
+  },
+  {
+    "cid": "M10",
+    "variant": "M10_dahan",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.8455,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8455 >= 0.45"
+  },
+  {
+    "cid": "M13",
+    "variant": "M13_mangzhong",
+    "orig": "否",
+    "raw": [
+      "否",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.671,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.671 >= 0.45"
+  },
+  {
+    "cid": "M15",
+    "variant": "M15_xiaohan",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.9496,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9496 >= 0.45"
+  },
+  {
+    "cid": "M17",
+    "variant": "M17_chushu",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.932,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.932 >= 0.45"
+  },
+  {
+    "cid": "M17",
+    "variant": "M17_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.8239,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8239 >= 0.45"
+  },
+  {
+    "cid": "M17",
+    "variant": "M17_summer",
+    "orig": "否",
+    "raw": [
+      "否",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.8465,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8465 >= 0.45"
+  },
+  {
+    "cid": "M21",
+    "variant": "M21_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.8544,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8544 >= 0.45"
+  },
+  {
+    "cid": "M25",
+    "variant": "M25_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.8817,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8817 >= 0.45"
+  },
+  {
+    "cid": "M26",
+    "variant": "M26_dahan",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.7844,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.7844 >= 0.45"
+  },
+  {
+    "cid": "M26",
+    "variant": "M26_guyu",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.9722,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9722 >= 0.45"
+  },
+  {
+    "cid": "M28",
+    "variant": "M28_daxue",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.9452,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9452 >= 0.45"
+  },
+  {
+    "cid": "M28",
+    "variant": "M28_shuangjiang",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.8282,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8282 >= 0.45"
+  },
+  {
+    "cid": "M28",
+    "variant": "M28_xiaoman",
+    "orig": "存疑",
+    "raw": [
+      "否",
+      "是"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.9765,
+    "third": [
+      "1",
+      "1"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9765 >= 0.45"
+  },
+  {
+    "cid": "M31",
+    "variant": "M31_xiaohan",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.9398,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9398 >= 0.45"
+  },
+  {
+    "cid": "M33",
+    "variant": "M33_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.8101,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8101 >= 0.45"
+  },
+  {
+    "cid": "M33",
+    "variant": "M33_summer",
+    "orig": "否",
+    "raw": [
+      "否",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.9087,
+    "third": [
+      "1",
+      "1"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9087 >= 0.45"
+  },
+  {
+    "cid": "M34",
+    "variant": "M34_qingming",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.7268,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.7268 >= 0.45"
+  },
+  {
+    "cid": "M37",
+    "variant": "M37_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.8989,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8989 >= 0.45"
+  },
+  {
+    "cid": "M38",
+    "variant": "M38_dahan",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.8868,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8868 >= 0.45"
+  },
+  {
+    "cid": "M41",
+    "variant": "M41_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.8157,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8157 >= 0.45"
+  },
+  {
+    "cid": "M41",
+    "variant": "M41_xiaoshu",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.9321,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9321 >= 0.45"
+  },
+  {
+    "cid": "M44",
+    "variant": "M44_xiaoman",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.8419,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8419 >= 0.45"
+  },
+  {
+    "cid": "M45",
+    "variant": "M45_chushu",
+    "orig": "否",
+    "raw": [
+      "否",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.919,
+    "third": [
+      "2",
+      "1"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.919 >= 0.45"
+  },
+  {
+    "cid": "M45",
+    "variant": "M45_lichun",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.9378,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9378 >= 0.45"
+  },
+  {
+    "cid": "M45",
+    "variant": "M45_mangzhong",
+    "orig": "否",
+    "raw": [
+      "否",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.9346,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9346 >= 0.45"
+  },
+  {
+    "cid": "M45",
+    "variant": "M45_summer",
+    "orig": "否",
+    "raw": [
+      "否",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.8813,
+    "third": [
+      "2",
+      "1"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8813 >= 0.45"
+  },
+  {
+    "cid": "M45",
+    "variant": "M45_xiaoshu",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.9371,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9371 >= 0.45"
+  },
+  {
+    "cid": "M46",
+    "variant": "M46_guyu",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.8623,
+    "third": [
+      "1",
+      "1"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8623 >= 0.45"
+  },
+  {
+    "cid": "M46",
+    "variant": "M46_qingming",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.962,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.962 >= 0.45"
+  },
+  {
+    "cid": "M49",
+    "variant": "M49_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.8117,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8117 >= 0.45"
+  },
+  {
+    "cid": "M53",
+    "variant": "M53_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.8729,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8729 >= 0.45"
+  },
+  {
+    "cid": "M54",
+    "variant": "M54_dahan",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.8603,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8603 >= 0.45"
+  },
+  {
+    "cid": "M54",
+    "variant": "M54_qingming",
+    "orig": "否",
+    "raw": [
+      "否",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.9338,
+    "third": [
+      "2",
+      "1"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9338 >= 0.45"
+  },
+  {
+    "cid": "M61",
+    "variant": "M61_mangzhong",
+    "orig": "否",
+    "raw": [
+      "否",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.8563,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8563 >= 0.45"
+  },
+  {
+    "cid": "M62",
+    "variant": "M62_dahan",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.9188,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9188 >= 0.45"
+  },
+  {
+    "cid": "M63",
+    "variant": "M63_qiufen",
+    "orig": "否",
+    "raw": [
+      "否",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.9049,
+    "third": [
+      "2",
+      "1"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9049 >= 0.45"
+  },
+  {
+    "cid": "M65",
+    "variant": "M65_mangzhong",
+    "orig": "否",
+    "raw": [
+      "否",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.8192,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8192 >= 0.45"
+  },
+  {
+    "cid": "M66",
+    "variant": "M66_dahan",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.882,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.882 >= 0.45"
+  },
+  {
+    "cid": "M68",
+    "variant": "M68_daxue",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.9101,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9101 >= 0.45"
+  },
+  {
+    "cid": "M68",
+    "variant": "M68_xiaoman",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.7936,
+    "third": [
+      "1",
+      "1"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.7936 >= 0.45"
+  },
+  {
+    "cid": "M69",
+    "variant": "M69_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.7729,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.7729 >= 0.45"
+  },
+  {
+    "cid": "M70",
+    "variant": "M70_guyu",
+    "orig": "否",
+    "raw": [
+      "否",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.7161,
+    "third": [
+      "1",
+      "1"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.7161 >= 0.45"
+  },
+  {
+    "cid": "M70",
+    "variant": "M70_qingming",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.7765,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.7765 >= 0.45"
+  },
+  {
+    "cid": "M71",
+    "variant": "M71_hanlu",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.9547,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9547 >= 0.45"
+  },
+  {
+    "cid": "M73",
+    "variant": "M73_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.7902,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.7902 >= 0.45"
+  },
+  {
+    "cid": "M75",
+    "variant": "M75_hanlu",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.9191,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9191 >= 0.45"
+  },
+  {
+    "cid": "M75",
+    "variant": "M75_qiufen",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.8909,
+    "third": [
+      "2",
+      "1"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8909 >= 0.45"
+  },
+  {
+    "cid": "M77",
+    "variant": "M77_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_1.json",
+    "sim": 0.8655,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8655 >= 0.45"
+  },
+  {
+    "cid": "F01",
+    "variant": "F01_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.8696,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8696 >= 0.45"
+  },
+  {
+    "cid": "F02",
+    "variant": "F02_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.8902,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8902 >= 0.45"
+  },
+  {
+    "cid": "F03",
+    "variant": "F03_chushu",
+    "orig": "否",
+    "raw": [
+      "否",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.8935,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8935 >= 0.45"
+  },
+  {
+    "cid": "F03",
+    "variant": "F03_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.8692,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8692 >= 0.45"
+  },
+  {
+    "cid": "F04",
+    "variant": "F04_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.8006,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8006 >= 0.45"
+  },
+  {
+    "cid": "F05",
+    "variant": "F05_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.8159,
+    "third": [
+      "2",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8159 >= 0.45"
+  },
+  {
+    "cid": "F07",
+    "variant": "F07_mangzhong",
+    "orig": "否",
+    "raw": [
+      "否",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.8794,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8794 >= 0.45"
+  },
+  {
+    "cid": "F08",
+    "variant": "F08_chushu",
+    "orig": "存疑",
+    "raw": [
+      "否",
+      "是"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.8696,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8696 >= 0.45"
+  },
+  {
+    "cid": "F08",
+    "variant": "F08_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.7957,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.7957 >= 0.45"
+  },
+  {
+    "cid": "F09",
+    "variant": "F09_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.8186,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8186 >= 0.45"
+  },
+  {
+    "cid": "F10",
+    "variant": "F10_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.8669,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8669 >= 0.45"
+  },
+  {
+    "cid": "F12",
+    "variant": "F12_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.8272,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8272 >= 0.45"
+  },
+  {
+    "cid": "F13",
+    "variant": "F13_chushu",
+    "orig": "存疑",
+    "raw": [
+      "否",
+      "是"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.9105,
+    "third": [
+      "2",
+      "1"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9105 >= 0.45"
+  },
+  {
+    "cid": "F13",
+    "variant": "F13_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.8615,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8615 >= 0.45"
+  },
+  {
+    "cid": "F14",
+    "variant": "F14_mangzhong",
+    "orig": "否",
+    "raw": [
+      "否",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.7935,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.7935 >= 0.45"
+  },
+  {
+    "cid": "F14",
+    "variant": "F14_summer",
+    "orig": "否",
+    "raw": [
+      "否",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.8474,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8474 >= 0.45"
+  },
+  {
+    "cid": "F15",
+    "variant": "F15_mangzhong",
+    "orig": "否",
+    "raw": [
+      "否",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.8881,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8881 >= 0.45"
+  },
+  {
+    "cid": "F18",
+    "variant": "F18_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.826,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.826 >= 0.45"
+  },
+  {
+    "cid": "F19",
+    "variant": "F19_mangzhong",
+    "orig": "否",
+    "raw": [
+      "否",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.8402,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8402 >= 0.45"
+  },
+  {
+    "cid": "F20",
+    "variant": "F20_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.8688,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8688 >= 0.45"
+  },
+  {
+    "cid": "F21",
+    "variant": "F21_mangzhong",
+    "orig": "否",
+    "raw": [
+      "否",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.7944,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.7944 >= 0.45"
+  },
+  {
+    "cid": "F22",
+    "variant": "F22_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.7596,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.7596 >= 0.45"
+  },
+  {
+    "cid": "F23",
+    "variant": "F23_mangzhong",
+    "orig": "否",
+    "raw": [
+      "否",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.7525,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.7525 >= 0.45"
+  },
+  {
+    "cid": "F25",
+    "variant": "F25_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.8743,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8743 >= 0.45"
+  },
+  {
+    "cid": "F26",
+    "variant": "F26_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.8038,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8038 >= 0.45"
+  },
+  {
+    "cid": "F28",
+    "variant": "F28_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.8501,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8501 >= 0.45"
+  },
+  {
+    "cid": "F29",
+    "variant": "F29_guyu",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.9109,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9109 >= 0.45"
+  },
+  {
+    "cid": "F30",
+    "variant": "F30_dahan",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.8885,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8885 >= 0.45"
+  },
+  {
+    "cid": "F30",
+    "variant": "F30_winter",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.8448,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8448 >= 0.45"
+  },
+  {
+    "cid": "F32",
+    "variant": "F32_dashu",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.8389,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8389 >= 0.45"
+  },
+  {
+    "cid": "F38",
+    "variant": "F38_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.8418,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8418 >= 0.45"
+  },
+  {
+    "cid": "F42",
+    "variant": "F42_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.8915,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8915 >= 0.45"
+  },
+  {
+    "cid": "F46",
+    "variant": "F46_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.8349,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8349 >= 0.45"
+  },
+  {
+    "cid": "F50",
+    "variant": "F50_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.8891,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8891 >= 0.45"
+  },
+  {
+    "cid": "F52",
+    "variant": "F52_dashu",
+    "orig": "否",
+    "raw": [
+      "否",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.8537,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8537 >= 0.45"
+  },
+  {
+    "cid": "F53",
+    "variant": "F53_daxue",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.9396,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9396 >= 0.45"
+  },
+  {
+    "cid": "F53",
+    "variant": "F53_jingzhe",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.9535,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9535 >= 0.45"
+  },
+  {
+    "cid": "F53",
+    "variant": "F53_lixia",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.8411,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8411 >= 0.45"
+  },
+  {
+    "cid": "F53",
+    "variant": "F53_shuangjiang",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.9011,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9011 >= 0.45"
+  },
+  {
+    "cid": "F53",
+    "variant": "F53_xiaoman",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.8949,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8949 >= 0.45"
+  },
+  {
+    "cid": "F55",
+    "variant": "F55_dahan",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.8816,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8816 >= 0.45"
+  },
+  {
+    "cid": "F58",
+    "variant": "F58_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.8639,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8639 >= 0.45"
+  },
+  {
+    "cid": "F60",
+    "variant": "F60_xiaohan",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.8644,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8644 >= 0.45"
+  },
+  {
+    "cid": "F62",
+    "variant": "F62_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.8717,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8717 >= 0.45"
+  },
+  {
+    "cid": "F62",
+    "variant": "F62_xiaoshu",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.9475,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9475 >= 0.45"
+  },
+  {
+    "cid": "F63",
+    "variant": "F63_dahan",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.8818,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8818 >= 0.45"
+  },
+  {
+    "cid": "F63",
+    "variant": "F63_guyu",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.9138,
+    "third": [
+      "2",
+      "1"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9138 >= 0.45"
+  },
+  {
+    "cid": "F65",
+    "variant": "F65_shuangjiang",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.8997,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8997 >= 0.45"
+  },
+  {
+    "cid": "F65",
+    "variant": "F65_xiaoman",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.9117,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9117 >= 0.45"
+  },
+  {
+    "cid": "F66",
+    "variant": "F66_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.82,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.82 >= 0.45"
+  },
+  {
+    "cid": "F67",
+    "variant": "F67_dahan",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.8845,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8845 >= 0.45"
+  },
+  {
+    "cid": "F67",
+    "variant": "F67_qingming",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.9199,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9199 >= 0.45"
+  },
+  {
+    "cid": "F69",
+    "variant": "F69_xiaoman",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.9175,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9175 >= 0.45"
+  },
+  {
+    "cid": "F70",
+    "variant": "F70_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.8759,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8759 >= 0.45"
+  },
+  {
+    "cid": "M03",
+    "variant": "M03_xiaoman",
+    "orig": "否",
+    "raw": [
+      "否",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.9071,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9071 >= 0.45"
+  },
+  {
+    "cid": "M04",
+    "variant": "M04_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.8163,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8163 >= 0.45"
+  },
+  {
+    "cid": "M04",
+    "variant": "M04_xiaoshu",
+    "orig": "存疑",
+    "raw": [
+      "否",
+      "是"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.9292,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9292 >= 0.45"
+  },
+  {
+    "cid": "M05",
+    "variant": "M05_dahan",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.8372,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8372 >= 0.45"
+  },
+  {
+    "cid": "M06",
+    "variant": "M06_qiufen",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.9178,
+    "third": [
+      "2",
+      "1"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9178 >= 0.45"
+  },
+  {
+    "cid": "M08",
+    "variant": "M08_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.7946,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.7946 >= 0.45"
+  },
+  {
+    "cid": "M17",
+    "variant": "M17_guyu",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.8385,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8385 >= 0.45"
+  },
+  {
+    "cid": "M27",
+    "variant": "M27_xiaoman",
+    "orig": "存疑",
+    "raw": [
+      "否",
+      "是"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.8476,
+    "third": [
+      "2",
+      "1"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8476 >= 0.45"
+  },
+  {
+    "cid": "M28",
+    "variant": "M28_lichun",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.9578,
+    "third": [
+      "1",
+      "1"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9578 >= 0.45"
+  },
+  {
+    "cid": "M28",
+    "variant": "M28_mangzhong",
+    "orig": "否",
+    "raw": [
+      "否",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.8397,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8397 >= 0.45"
+  },
+  {
+    "cid": "M31",
+    "variant": "M31_xiaoman",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.8392,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8392 >= 0.45"
+  },
+  {
+    "cid": "M32",
+    "variant": "M32_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.8405,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8405 >= 0.45"
+  },
+  {
+    "cid": "M33",
+    "variant": "M33_dahan",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.8333,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8333 >= 0.45"
+  },
+  {
+    "cid": "M36",
+    "variant": "M36_chushu",
+    "orig": "存疑",
+    "raw": [
+      "否",
+      "是"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.9626,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9626 >= 0.45"
+  },
+  {
+    "cid": "M36",
+    "variant": "M36_dongzhi",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.8678,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8678 >= 0.45"
+  },
+  {
+    "cid": "M36",
+    "variant": "M36_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.8912,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8912 >= 0.45"
+  },
+  {
+    "cid": "M40",
+    "variant": "M40_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.8754,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8754 >= 0.45"
+  },
+  {
+    "cid": "M41",
+    "variant": "M41_dahan",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.8428,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8428 >= 0.45"
+  },
+  {
+    "cid": "M41",
+    "variant": "M41_guyu",
+    "orig": "否",
+    "raw": [
+      "否",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.801,
+    "third": [
+      "2",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.801 >= 0.45"
+  },
+  {
+    "cid": "M41",
+    "variant": "M41_qingming",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.8971,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8971 >= 0.45"
+  },
+  {
+    "cid": "M41",
+    "variant": "M41_winter",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.9042,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9042 >= 0.45"
+  },
+  {
+    "cid": "M44",
+    "variant": "M44_mangzhong",
+    "orig": "否",
+    "raw": [
+      "否",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.7896,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.7896 >= 0.45"
+  },
+  {
+    "cid": "M45",
+    "variant": "M45_dahan",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.8662,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8662 >= 0.45"
+  },
+  {
+    "cid": "M48",
+    "variant": "M48_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.7799,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.7799 >= 0.45"
+  },
+  {
+    "cid": "M49",
+    "variant": "M49_dahan",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.8774,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8774 >= 0.45"
+  },
+  {
+    "cid": "M52",
+    "variant": "M52_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.7858,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.7858 >= 0.45"
+  },
+  {
+    "cid": "M56",
+    "variant": "M56_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.8433,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8433 >= 0.45"
+  },
+  {
+    "cid": "M60",
+    "variant": "M60_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.84,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.84 >= 0.45"
+  },
+  {
+    "cid": "M61",
+    "variant": "M61_dahan",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.7696,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.7696 >= 0.45"
+  },
+  {
+    "cid": "M61",
+    "variant": "M61_qingming",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.8764,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8764 >= 0.45"
+  },
+  {
+    "cid": "M62",
+    "variant": "M62_dashu",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.8615,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8615 >= 0.45"
+  },
+  {
+    "cid": "M63",
+    "variant": "M63_chunfen",
+    "orig": "否",
+    "raw": [
+      "否",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.8706,
+    "third": [
+      "2",
+      "1"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8706 >= 0.45"
+  },
+  {
+    "cid": "M63",
+    "variant": "M63_jingzhe",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.9529,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9529 >= 0.45"
+  },
+  {
+    "cid": "M63",
+    "variant": "M63_xiaoman",
+    "orig": "否",
+    "raw": [
+      "否",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.9607,
+    "third": [
+      "2",
+      "1"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9607 >= 0.45"
+  },
+  {
+    "cid": "M66",
+    "variant": "M66_xiaohan",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.8346,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8346 >= 0.45"
+  },
+  {
+    "cid": "M68",
+    "variant": "M68_mangzhong",
+    "orig": "否",
+    "raw": [
+      "否",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.796,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.796 >= 0.45"
+  },
+  {
+    "cid": "M68",
+    "variant": "M68_summer",
+    "orig": "存疑",
+    "raw": [
+      "否",
+      "是"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.8539,
+    "third": [
+      "2",
+      "1"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8539 >= 0.45"
+  },
+  {
+    "cid": "M68",
+    "variant": "M68_xiaoshu",
+    "orig": "否",
+    "raw": [
+      "否",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.8581,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8581 >= 0.45"
+  },
+  {
+    "cid": "M69",
+    "variant": "M69_dahan",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.8586,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8586 >= 0.45"
+  },
+  {
+    "cid": "M72",
+    "variant": "M72_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.836,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.836 >= 0.45"
+  },
+  {
+    "cid": "M73",
+    "variant": "M73_qingming",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.9451,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9451 >= 0.45"
+  },
+  {
+    "cid": "M75",
+    "variant": "M75_jingzhe",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.7883,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.7883 >= 0.45"
+  },
+  {
+    "cid": "M75",
+    "variant": "M75_xiaoman",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.8571,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8571 >= 0.45"
+  },
+  {
+    "cid": "M76",
+    "variant": "M76_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.8571,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8571 >= 0.45"
+  },
+  {
+    "cid": "M77",
+    "variant": "M77_guyu",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_2.json",
+    "sim": 0.9298,
+    "third": [
+      "2",
+      "1"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9298 >= 0.45"
+  },
+  {
+    "cid": "F02",
+    "variant": "F02_dahan",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.8791,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8791 >= 0.45"
+  },
+  {
+    "cid": "F02",
+    "variant": "F02_guyu",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.9135,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9135 >= 0.45"
+  },
+  {
+    "cid": "F02",
+    "variant": "F02_qingming",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.8693,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8693 >= 0.45"
+  },
+  {
+    "cid": "F02",
+    "variant": "F02_winter",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.8503,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8503 >= 0.45"
+  },
+  {
+    "cid": "F02",
+    "variant": "F02_xiaoxue",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.9237,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9237 >= 0.45"
+  },
+  {
+    "cid": "F05",
+    "variant": "F05_dahan",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.8278,
+    "third": [
+      "2",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8278 >= 0.45"
+  },
+  {
+    "cid": "F09",
+    "variant": "F09_dahan",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.8879,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8879 >= 0.45"
+  },
+  {
+    "cid": "F11",
+    "variant": "F11_qingming",
+    "orig": "否",
+    "raw": [
+      "否",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.7314,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.7314 >= 0.45"
+  },
+  {
+    "cid": "F12",
+    "variant": "F12_dahan",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.8577,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8577 >= 0.45"
+  },
+  {
+    "cid": "F13",
+    "variant": "F13_guyu",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.8795,
+    "third": [
+      "2",
+      "1"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8795 >= 0.45"
+  },
+  {
+    "cid": "F15",
+    "variant": "F15_dahan",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.8774,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8774 >= 0.45"
+  },
+  {
+    "cid": "F18",
+    "variant": "F18_qingming",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.8729,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8729 >= 0.45"
+  },
+  {
+    "cid": "F19",
+    "variant": "F19_lidong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.9103,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9103 >= 0.45"
+  },
+  {
+    "cid": "F25",
+    "variant": "F25_lidong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.9224,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9224 >= 0.45"
+  },
+  {
+    "cid": "F25",
+    "variant": "F25_qingming",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.832,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.832 >= 0.45"
+  },
+  {
+    "cid": "F25",
+    "variant": "F25_winter",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.8859,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8859 >= 0.45"
+  },
+  {
+    "cid": "F31",
+    "variant": "F31_liqiu",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.7787,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.7787 >= 0.45"
+  },
+  {
+    "cid": "F32",
+    "variant": "F32_daxue",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.903,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.903 >= 0.45"
+  },
+  {
+    "cid": "F32",
+    "variant": "F32_xiaoman",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.8881,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8881 >= 0.45"
+  },
+  {
+    "cid": "F33",
+    "variant": "F33_chushu",
+    "orig": "存疑",
+    "raw": [
+      "否",
+      "是"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.8966,
+    "third": [
+      "1",
+      "1"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8966 >= 0.45"
+  },
+  {
+    "cid": "F33",
+    "variant": "F33_mangzhong",
+    "orig": "否",
+    "raw": [
+      "否",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.8805,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8805 >= 0.45"
+  },
+  {
+    "cid": "F41",
+    "variant": "F41_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.8527,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8527 >= 0.45"
+  },
+  {
+    "cid": "F42",
+    "variant": "F42_dahan",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.9063,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9063 >= 0.45"
+  },
+  {
+    "cid": "F44",
+    "variant": "F44_lixia",
+    "orig": "存疑",
+    "raw": [
+      "否",
+      "是"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.8278,
+    "third": [
+      "2",
+      "1"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8278 >= 0.45"
+  },
+  {
+    "cid": "F45",
+    "variant": "F45_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.8438,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8438 >= 0.45"
+  },
+  {
+    "cid": "F46",
+    "variant": "F46_dahan",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.9087,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9087 >= 0.45"
+  },
+  {
+    "cid": "F49",
+    "variant": "F49_chushu",
+    "orig": "存疑",
+    "raw": [
+      "否",
+      "是"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.8886,
+    "third": [
+      "1",
+      "1"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8886 >= 0.45"
+  },
+  {
+    "cid": "F50",
+    "variant": "F50_dahan",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.7727,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.7727 >= 0.45"
+  },
+  {
+    "cid": "F52",
+    "variant": "F52_xiaoman",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.8325,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8325 >= 0.45"
+  },
+  {
+    "cid": "F53",
+    "variant": "F53_chushu",
+    "orig": "否",
+    "raw": [
+      "否",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.8694,
+    "third": [
+      "2",
+      "1"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8694 >= 0.45"
+  },
+  {
+    "cid": "F53",
+    "variant": "F53_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.8704,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8704 >= 0.45"
+  },
+  {
+    "cid": "F53",
+    "variant": "F53_summer",
+    "orig": "存疑",
+    "raw": [
+      "否",
+      "是"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.9419,
+    "third": [
+      "1",
+      "1"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9419 >= 0.45"
+  },
+  {
+    "cid": "F53",
+    "variant": "F53_xiaoshu",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.9346,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9346 >= 0.45"
+  },
+  {
+    "cid": "F57",
+    "variant": "F57_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.8355,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8355 >= 0.45"
+  },
+  {
+    "cid": "F58",
+    "variant": "F58_dahan",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.887,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.887 >= 0.45"
+  },
+  {
+    "cid": "F60",
+    "variant": "F60_xiaoman",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.8388,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8388 >= 0.45"
+  },
+  {
+    "cid": "F61",
+    "variant": "F61_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.843,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.843 >= 0.45"
+  },
+  {
+    "cid": "F62",
+    "variant": "F62_dahan",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.8907,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8907 >= 0.45"
+  },
+  {
+    "cid": "F65",
+    "variant": "F65_chushu",
+    "orig": "否",
+    "raw": [
+      "否",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.8769,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8769 >= 0.45"
+  },
+  {
+    "cid": "F65",
+    "variant": "F65_dongzhi",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.9026,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9026 >= 0.45"
+  },
+  {
+    "cid": "F65",
+    "variant": "F65_mangzhong",
+    "orig": "否",
+    "raw": [
+      "否",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.8664,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8664 >= 0.45"
+  },
+  {
+    "cid": "F65",
+    "variant": "F65_summer",
+    "orig": "否",
+    "raw": [
+      "否",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.8794,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8794 >= 0.45"
+  },
+  {
+    "cid": "F65",
+    "variant": "F65_xiaoshu",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.9378,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9378 >= 0.45"
+  },
+  {
+    "cid": "F69",
+    "variant": "F69_mangzhong",
+    "orig": "否",
+    "raw": [
+      "否",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.8769,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8769 >= 0.45"
+  },
+  {
+    "cid": "F69",
+    "variant": "F69_summer",
+    "orig": "存疑",
+    "raw": [
+      "否",
+      "是"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.9079,
+    "third": [
+      "1",
+      "1"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9079 >= 0.45"
+  },
+  {
+    "cid": "M03",
+    "variant": "M03_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.835,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.835 >= 0.45"
+  },
+  {
+    "cid": "M04",
+    "variant": "M04_guyu",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.8704,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8704 >= 0.45"
+  },
+  {
+    "cid": "M11",
+    "variant": "M11_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.9005,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9005 >= 0.45"
+  },
+  {
+    "cid": "M14",
+    "variant": "M14_lixia",
+    "orig": "否",
+    "raw": [
+      "否",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.8764,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8764 >= 0.45"
+  },
+  {
+    "cid": "M14",
+    "variant": "M14_xiaoman",
+    "orig": "否",
+    "raw": [
+      "否",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.8672,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8672 >= 0.45"
+  },
+  {
+    "cid": "M15",
+    "variant": "M15_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.8547,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8547 >= 0.45"
+  },
+  {
+    "cid": "M17",
+    "variant": "M17_qiufen",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.8407,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8407 >= 0.45"
+  },
+  {
+    "cid": "M19",
+    "variant": "M19_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.8529,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8529 >= 0.45"
+  },
+  {
+    "cid": "M21",
+    "variant": "M21_liqiu",
+    "orig": "否",
+    "raw": [
+      "否",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.9031,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9031 >= 0.45"
+  },
+  {
+    "cid": "M23",
+    "variant": "M23_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.9077,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9077 >= 0.45"
+  },
+  {
+    "cid": "M26",
+    "variant": "M26_xiaoman",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.9724,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9724 >= 0.45"
+  },
+  {
+    "cid": "M28",
+    "variant": "M28_dahan",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.7837,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.7837 >= 0.45"
+  },
+  {
+    "cid": "M28",
+    "variant": "M28_guyu",
+    "orig": "否",
+    "raw": [
+      "否",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.8461,
+    "third": [
+      "2",
+      "1"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8461 >= 0.45"
+  },
+  {
+    "cid": "M28",
+    "variant": "M28_winter",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.8865,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8865 >= 0.45"
+  },
+  {
+    "cid": "M31",
+    "variant": "M31_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.9136,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9136 >= 0.45"
+  },
+  {
+    "cid": "M35",
+    "variant": "M35_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "否",
+      "是"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.8431,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8431 >= 0.45"
+  },
+  {
+    "cid": "M36",
+    "variant": "M36_lidong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.9222,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9222 >= 0.45"
+  },
+  {
+    "cid": "M36",
+    "variant": "M36_qingming",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.8924,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8924 >= 0.45"
+  },
+  {
+    "cid": "M38",
+    "variant": "M38_lixia",
+    "orig": "否",
+    "raw": [
+      "否",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.8672,
+    "third": [
+      "1",
+      "1"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8672 >= 0.45"
+  },
+  {
+    "cid": "M39",
+    "variant": "M39_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.7354,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.7354 >= 0.45"
+  },
+  {
+    "cid": "M43",
+    "variant": "M43_chushu",
+    "orig": "存疑",
+    "raw": [
+      "否",
+      "是"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.97,
+    "third": [
+      "1",
+      "1"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.97 >= 0.45"
+  },
+  {
+    "cid": "M43",
+    "variant": "M43_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.9117,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9117 >= 0.45"
+  },
+  {
+    "cid": "M43",
+    "variant": "M43_summer",
+    "orig": "存疑",
+    "raw": [
+      "否",
+      "是"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.9028,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9028 >= 0.45"
+  },
+  {
+    "cid": "M44",
+    "variant": "M44_dahan",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.814,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.814 >= 0.45"
+  },
+  {
+    "cid": "M44",
+    "variant": "M44_guyu",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.8813,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8813 >= 0.45"
+  },
+  {
+    "cid": "M44",
+    "variant": "M44_qingming",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.895,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.895 >= 0.45"
+  },
+  {
+    "cid": "M45",
+    "variant": "M45_bailu",
+    "orig": "否",
+    "raw": [
+      "否",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.9612,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9612 >= 0.45"
+  },
+  {
+    "cid": "M45",
+    "variant": "M45_dashu",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.9417,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9417 >= 0.45"
+  },
+  {
+    "cid": "M45",
+    "variant": "M45_qiufen",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.9569,
+    "third": [
+      "2",
+      "1"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9569 >= 0.45"
+  },
+  {
+    "cid": "M46",
+    "variant": "M46_lixia",
+    "orig": "存疑",
+    "raw": [
+      "否",
+      "是"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.937,
+    "third": [
+      "1",
+      "1"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.937 >= 0.45"
+  },
+  {
+    "cid": "M46",
+    "variant": "M46_xiaoman",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.9253,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9253 >= 0.45"
+  },
+  {
+    "cid": "M48",
+    "variant": "M48_dahan",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.766,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.766 >= 0.45"
+  },
+  {
+    "cid": "M51",
+    "variant": "M51_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.8654,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8654 >= 0.45"
+  },
+  {
+    "cid": "M55",
+    "variant": "M55_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.7783,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.7783 >= 0.45"
+  },
+  {
+    "cid": "M59",
+    "variant": "M59_mangzhong",
+    "orig": "否",
+    "raw": [
+      "否",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.7848,
+    "third": [
+      "1",
+      "1"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.7848 >= 0.45"
+  },
+  {
+    "cid": "M60",
+    "variant": "M60_dahan",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.8036,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8036 >= 0.45"
+  },
+  {
+    "cid": "M63",
+    "variant": "M63_dongzhi",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.9581,
+    "third": [
+      "2",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9581 >= 0.45"
+  },
+  {
+    "cid": "M63",
+    "variant": "M63_lichun",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.961,
+    "third": [
+      "2",
+      "1"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.961 >= 0.45"
+  },
+  {
+    "cid": "M63",
+    "variant": "M63_mangzhong",
+    "orig": "否",
+    "raw": [
+      "否",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.901,
+    "third": [
+      "2",
+      "1"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.901 >= 0.45"
+  },
+  {
+    "cid": "M63",
+    "variant": "M63_summer",
+    "orig": "存疑",
+    "raw": [
+      "否",
+      "是"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.9343,
+    "third": [
+      "1",
+      "1"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9343 >= 0.45"
+  },
+  {
+    "cid": "M65",
+    "variant": "M65_dashu",
+    "orig": "存疑",
+    "raw": [
+      "否",
+      "是"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.9581,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9581 >= 0.45"
+  },
+  {
+    "cid": "M66",
+    "variant": "M66_lixia",
+    "orig": "否",
+    "raw": [
+      "否",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.9002,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9002 >= 0.45"
+  },
+  {
+    "cid": "M66",
+    "variant": "M66_xiaoman",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.8896,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8896 >= 0.45"
+  },
+  {
+    "cid": "M67",
+    "variant": "M67_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.8464,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8464 >= 0.45"
+  },
+  {
+    "cid": "M68",
+    "variant": "M68_guyu",
+    "orig": "否",
+    "raw": [
+      "否",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.82,
+    "third": [
+      "1",
+      "1"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.82 >= 0.45"
+  },
+  {
+    "cid": "M70",
+    "variant": "M70_chunfen",
+    "orig": "否",
+    "raw": [
+      "否",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.7133,
+    "third": [
+      "2",
+      "1"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.7133 >= 0.45"
+  },
+  {
+    "cid": "M71",
+    "variant": "M71_mangzhong",
+    "orig": "否",
+    "raw": [
+      "否",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.8314,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8314 >= 0.45"
+  },
+  {
+    "cid": "M75",
+    "variant": "M75_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.8261,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8261 >= 0.45"
+  },
+  {
+    "cid": "M76",
+    "variant": "M76_dahan",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.7571,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.7571 >= 0.45"
+  },
+  {
+    "cid": "M76",
+    "variant": "M76_guyu",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.8907,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8907 >= 0.45"
+  },
+  {
+    "cid": "M79",
+    "variant": "M79_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_shard_3.json",
+    "sim": 0.7948,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.7948 >= 0.45"
+  }
+]

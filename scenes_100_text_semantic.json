@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    "BAKERY",
+    "Boulangerie",
+    "Beauty Care",
+    "COFFEE",
+    "OCEAN STAR",
+    "EXAACT",
+    "FRUNIC /AOI TYEFA",
+    "DRIVE SAFE",
+    "DRIVE",
+    "Fleur",
+    "-02",
+    "ZBR",
+    "FABLISATEBIC",
+    "Beauty Studio",
+    "Salon de Beauté",
+    "Salon de Beaute"
+  ],
+  "verdicts": {
+    "BAKERY": "OK",
+    "Boulangerie": "OK",
+    "Beauty Care": "OK",
+    "COFFEE": "OK",
+    "OCEAN STAR": "OK",
+    "EXAACT": "PSEUDO",
+    "FRUNIC /AOI TYEFA": "PSEUDO",
+    "DRIVE SAFE": "OK",
+    "DRIVE": "OK",
+    "Fleur": "OK",
+    "-02": "OK",
+    "ZBR": "PSEUDO",
+    "FABLISATEBIC": "PSEUDO",
+    "Beauty Studio": "OK",
+    "Salon de Beauté": "OK",
+    "Salon de Beaute": "OK"
+  }
+}

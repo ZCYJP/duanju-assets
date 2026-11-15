@@ -1,0 +1,1288 @@
+{
+  "same_view_check": [
+    {
+      "id": "M01",
+      "ok": true,
+      "checks": [
+        {
+          "view": "M01_back.png",
+          "same": "是"
+        },
+        {
+          "view": "M01_headshot.png",
+          "same": "是"
+        }
+      ]
+    },
+    {
+      "id": "M02",
+      "ok": true,
+      "checks": [
+        {
+          "view": "M02_turnaround.png",
+          "same": "是"
+        },
+        {
+          "view": "M02_threequarter.png",
+          "same": "是"
+        }
+      ]
+    },
+    {
+      "id": "M03",
+      "ok": true,
+      "checks": [
+        {
+          "view": "M03_turnaround.png",
+          "same": "是"
+        },
+        {
+          "view": "M03_fullbody.png",
+          "same": "是"
+        }
+      ]
+    },
+    {
+      "id": "M04",
+      "ok": true,
+      "checks": [
+        {
+          "view": "M04_threequarter.png",
+          "same": "是"
+        },
+        {
+          "view": "M04_angry.png",
+          "same": "是"
+        }
+      ]
+    },
+    {
+      "id": "M05",
+      "ok": true,
+      "checks": [
+        {
+          "view": "M05_threequarter.png",
+          "same": "是"
+        },
+        {
+          "view": "M05_headshot.png",
+          "same": "是"
+        }
+      ]
+    },
+    {
+      "id": "M06",
+      "ok": true,
+      "checks": [
+        {
+          "view": "M06_smile.png",
+          "same": "是"
+        },
+        {
+          "view": "M06_fullbody.png",
+          "same": "是"
+        }
+      ]
+    },
+    {
+      "id": "M07",
+      "ok": true,
+      "checks": [
+        {
+          "view": "M07_angry.png",
+          "same": "是"
+        },
+        {
+          "view": "M07_smile.png",
+          "same": "是"
+        }
+      ]
+    },
+    {
+      "id": "M08",
+      "ok": true,
+      "checks": [
+        {
+          "view": "M08_turnaround.png",
+          "same": "是"
+        },
+        {
+          "view": "M08_smile.png",
+          "same": "是"
+        }
+      ]
+    },
+    {
+      "id": "M09",
+      "ok": true,
+      "checks": [
+        {
+          "view": "M09_smile.png",
+          "same": "是"
+        },
+        {
+          "view": "M09_profile.png",
+          "same": "是"
+        }
+      ]
+    },
+    {
+      "id": "M10",
+      "ok": true,
+      "checks": [
+        {
+          "view": "M10_headshot.png",
+          "same": "是"
+        },
+        {
+          "view": "M10_turnaround.png",
+          "same": "是"
+        }
+      ]
+    },
+    {
+      "id": "M11",
+      "ok": true,
+      "checks": [
+        {
+          "view": "M11_threequarter.png",
+          "same": "是"
+        },
+        {
+          "view": "M11_fullbody.png",
+          "same": "是"
+        }
+      ]
+    },
+    {
+      "id": "M12",
+      "ok": true,
+      "checks": [
+        {
+          "view": "M12_turnaround.png",
+          "same": "是"
+        },
+        {
+          "view": "M12_headshot.png",
+          "same": "是"
+        }
+      ]
+    },
+    {
+      "id": "M13",
+      "ok": true,
+      "checks": [
+        {
+          "view": "M13_sad.png",
+          "same": "是"
+        },
+        {
+          "view": "M13_headshot.png",
+          "same": "是"
+        }
+      ]
+    },
+    {
+      "id": "M14",
+      "ok": true,
+      "checks": [
+        {
+          "view": "M14_smile.png",
+          "same": "是"
+        },
+        {
+          "view": "M14_threequarter.png",
+          "same": "是"
+        }
+      ]
+    },
+    {
+      "id": "M15",
+      "ok": true,
+      "checks": [
+        {
+          "view": "M15_profile.png",
+          "same": "是"
+        },
+        {
+          "view": "M15_back.png",
+          "same": "是"
+        }
+      ]
+    },
+    {
+      "id": "M16",
+      "ok": true,
+      "checks": [
+        {
+          "view": "M16_fullbody.png",
+          "same": "是"
+        },
+        {
+          "view": "M16_sad.png",
+          "same": "是"
+        }
+      ]
+    },
+    {
+      "id": "M17",
+      "ok": true,
+      "checks": [
+        {
+          "view": "M17_fullbody.png",
+          "same": "是"
+        },
+        {
+          "view": "M17_threequarter.png",
+          "same": "是"
+        }
+      ]
+    },
+    {
+      "id": "M18",
+      "ok": true,
+      "checks": [
+        {
+          "view": "M18_smile.png",
+          "same": "是"
+        },
+        {
+          "view": "M18_fullbody.png",
+          "same": "是"
+        }
+      ]
+    },
+    {
+      "id": "M19",
+      "ok": true,
+      "checks": [
+        {
+          "view": "M19_back.png",
+          "same": "是"
+        },
+        {
+          "view": "M19_headshot.png",
+          "same": "是"
+        }
+      ]
+    },
+    {
+      "id": "M20",
+      "ok": true,
+      "checks": [
+        {
+          "view": "M20_fullbody.png",
+          "same": "是"
+        },
+        {
+          "view": "M20_back.png",
+          "same": "是"
+        }
+      ]
+    },
+    {
+      "id": "M21",
+      "ok": true,
+      "checks": [
+        {
+          "view": "M21_sad.png",
+          "same": "是"
+        },
+        {
+          "view": "M21_fullbody.png",
+          "same": "是"
+        }
+      ]
+    },
+    {
+      "id": "M22",
+      "ok": true,
+      "checks": [
+        {
+          "view": "M22_sad.png",
+          "same": "是"
+        },
+        {
+          "view": "M22_fullbody.png",
+          "same": "是"
+        }
+      ]
+    },
+    {
+      "id": "M23",
+      "ok": true,
+      "checks": [
+        {
+          "view": "M23_threequarter.png",
+          "same": "是"
+        },
+        {
+          "view": "M23_profile.png",
+          "same": "是"
+        }
+      ]
+    },
+    {
+      "id": "M24",
+      "ok": true,
+      "checks": [
+        {
+          "view": "M24_fullbody.png",
+          "same": "是"
+        },
+        {
+          "view": "M24_turnaround.png",
+          "same": "是"
+        }
+      ]
+    },
+    {
+      "id": "M25",
+      "ok": true,
+      "checks": [
+        {
+          "view": "M25_smile.png",
+          "same": "是"
+        },
+        {
+          "view": "M25_profile.png",
+          "same": "是"
+        }
+      ]
+    },
+    {
+      "id": "F01",
+      "ok": true,
+      "checks": [
+        {
+          "view": "F01_fullbody.png",
+          "same": "是"
+        },
+        {
+          "view": "F01_headshot.png",
+          "same": "是"
+        }
+      ]
+    },
+    {
+      "id": "F02",
+      "ok": true,
+      "checks": [
+        {
+          "view": "F02_fullbody.png",
+          "same": "是"
+        },
+        {
+          "view": "F02_angry.png",
+          "same": "是"
+        }
+      ]
+    },
+    {
+      "id": "F03",
+      "ok": true,
+      "checks": [
+        {
+          "view": "F03_fullbody.png",
+          "same": "是"
+        },
+        {
+          "view": "F03_smile.png",
+          "same": "是"
+        }
+      ]
+    },
+    {
+      "id": "F04",
+      "ok": true,
+      "checks": [
+        {
+          "view": "F04_threequarter.png",
+          "same": "是"
+        },
+        {
+          "view": "F04_smile.png",
+          "same": "是"
+        }
+      ]
+    },
+    {
+      "id": "F05",
+      "ok": true,
+      "checks": [
+        {
+          "view": "F05_sad.png",
+          "same": "是"
+        },
+        {
+          "view": "F05_smile.png",
+          "same": "是"
+        }
+      ]
+    },
+    {
+      "id": "F06",
+      "ok": true,
+      "checks": [
+        {
+          "view": "F06_fullbody.png",
+          "same": "是"
+        },
+        {
+          "view": "F06_sad.png",
+          "same": "是"
+        }
+      ]
+    },
+    {
+      "id": "F07",
+      "ok": true,
+      "checks": [
+        {
+          "view": "F07_sad.png",
+          "same": "是"
+        },
+        {
+          "view": "F07_turnaround.png",
+          "same": "是"
+        }
+      ]
+    },
+    {
+      "id": "F08",
+      "ok": true,
+      "checks": [
+        {
+          "view": "F08_turnaround.png",
+          "same": "是"
+        },
+        {
+          "view": "F08_headshot.png",
+          "same": "是"
+        }
+      ]
+    },
+    {
+      "id": "F09",
+      "ok": true,
+      "checks": [
+        {
+          "view": "F09_threequarter.png",
+          "same": "是"
+        },
+        {
+          "view": "F09_turnaround.png",
+          "same": "是"
+        }
+      ]
+    },
+    {
+      "id": "F10",
+      "ok": true,
+      "checks": [
+        {
+          "view": "F10_fullbody.png",
+          "same": "是"
+        },
+        {
+          "view": "F10_sad.png",
+          "same": "是"
+        }
+      ]
+    },
+    {
+      "id": "F11",
+      "ok": true,
+      "checks": [
+        {
+          "view": "F11_threequarter.png",
+          "same": "是"
+        },
+        {
+          "view": "F11_back.png",
+          "same": "是"
+        }
+      ]
+    },
+    {
+      "id": "F12",
+      "ok": true,
+      "checks": [
+        {
+          "view": "F12_turnaround.png",
+          "same": "是"
+        },
+        {
+          "view": "F12_threequarter.png",
+          "same": "是"
+        }
+      ]
+    },
+    {
+      "id": "F13",
+      "ok": false,
+      "checks": [
+        {
+          "view": "F13_headshot.png",
+          "same": "否"
+        },
+        {
+          "view": "F13_threequarter.png",
+          "same": "是"
+        }
+      ]
+    },
+    {
+      "id": "F14",
+      "ok": true,
+      "checks": [
+        {
+          "view": "F14_turnaround.png",
+          "same": "是"
+        },
+        {
+          "view": "F14_sad.png",
+          "same": "是"
+        }
+      ]
+    },
+    {
+      "id": "F15",
+      "ok": true,
+      "checks": [
+        {
+          "view": "F15_profile.png",
+          "same": "是"
+        },
+        {
+          "view": "F15_headshot.png",
+          "same": "是"
+        }
+      ]
+    },
+    {
+      "id": "F16",
+      "ok": true,
+      "checks": [
+        {
+          "view": "F16_threequarter.png",
+          "same": "是"
+        },
+        {
+          "view": "F16_turnaround.png",
+          "same": "是"
+        }
+      ]
+    },
+    {
+      "id": "F17",
+      "ok": true,
+      "checks": [
+        {
+          "view": "F17_headshot.png",
+          "same": "是"
+        },
+        {
+          "view": "F17_angry.png",
+          "same": "是"
+        }
+      ]
+    },
+    {
+      "id": "F18",
+      "ok": true,
+      "checks": [
+        {
+          "view": "F18_smile.png",
+          "same": "是"
+        },
+        {
+          "view": "F18_sad.png",
+          "same": "是"
+        }
+      ]
+    },
+    {
+      "id": "F19",
+      "ok": true,
+      "checks": [
+        {
+          "view": "F19_headshot.png",
+          "same": "是"
+        },
+        {
+          "view": "F19_smile.png",
+          "same": "是"
+        }
+      ]
+    },
+    {
+      "id": "F20",
+      "ok": true,
+      "checks": [
+        {
+          "view": "F20_smile.png",
+          "same": "是"
+        },
+        {
+          "view": "F20_fullbody.png",
+          "same": "是"
+        }
+      ]
+    },
+    {
+      "id": "F21",
+      "ok": true,
+      "checks": [
+        {
+          "view": "F21_turnaround.png",
+          "same": "是"
+        },
+        {
+          "view": "F21_profile.png",
+          "same": "是"
+        }
+      ]
+    },
+    {
+      "id": "F22",
+      "ok": true,
+      "checks": [
+        {
+          "view": "F22_turnaround.png",
+          "same": "是"
+        },
+        {
+          "view": "F22_sad.png",
+          "same": "是"
+        }
+      ]
+    },
+    {
+      "id": "F23",
+      "ok": true,
+      "checks": [
+        {
+          "view": "F23_sad.png",
+          "same": "是"
+        },
+        {
+          "view": "F23_fullbody.png",
+          "same": "是"
+        }
+      ]
+    },
+    {
+      "id": "F24",
+      "ok": true,
+      "checks": [
+        {
+          "view": "F24_angry.png",
+          "same": "是"
+        },
+        {
+          "view": "F24_back.png",
+          "same": "是"
+        }
+      ]
+    },
+    {
+      "id": "F25",
+      "ok": true,
+      "checks": [
+        {
+          "view": "F25_smile.png",
+          "same": "是"
+        },
+        {
+          "view": "F25_fullbody.png",
+          "same": "是"
+        }
+      ]
+    }
+  ],
+  "same_view_pass": 49,
+  "same_view_total": 50,
+  "dup_pairs": [
+    {
+      "a": "F01",
+      "b": "F10"
+    },
+    {
+      "a": "F01",
+      "b": "F11"
+    },
+    {
+      "a": "F01",
+      "b": "F14"
+    },
+    {
+      "a": "F01",
+      "b": "F16"
+    },
+    {
+      "a": "F01",
+      "b": "F17"
+    },
+    {
+      "a": "F01",
+      "b": "F18"
+    },
+    {
+      "a": "F01",
+      "b": "F19"
+    },
+    {
+      "a": "F01",
+      "b": "F23"
+    },
+    {
+      "a": "F01",
+      "b": "F24"
+    },
+    {
+      "a": "F01",
+      "b": "M10"
+    },
+    {
+      "a": "F02",
+      "b": "F17"
+    },
+    {
+      "a": "F02",
+      "b": "F25"
+    },
+    {
+      "a": "F03",
+      "b": "F11"
+    },
+    {
+      "a": "F03",
+      "b": "F14"
+    },
+    {
+      "a": "F03",
+      "b": "F15"
+    },
+    {
+      "a": "F03",
+      "b": "F16"
+    },
+    {
+      "a": "F03",
+      "b": "F19"
+    },
+    {
+      "a": "F03",
+      "b": "F23"
+    },
+    {
+      "a": "F03",
+      "b": "F24"
+    },
+    {
+      "a": "F04",
+      "b": "F06"
+    },
+    {
+      "a": "F04",
+      "b": "F11"
+    },
+    {
+      "a": "F04",
+      "b": "F19"
+    },
+    {
+      "a": "F05",
+      "b": "F22"
+    },
+    {
+      "a": "F06",
+      "b": "F11"
+    },
+    {
+      "a": "F06",
+      "b": "F12"
+    },
+    {
+      "a": "F07",
+      "b": "F17"
+    },
+    {
+      "a": "F08",
+      "b": "F11"
+    },
+    {
+      "a": "F08",
+      "b": "F12"
+    },
+    {
+      "a": "F08",
+      "b": "F15"
+    },
+    {
+      "a": "F08",
+      "b": "F16"
+    },
+    {
+      "a": "F08",
+      "b": "F24"
+    },
+    {
+      "a": "F09",
+      "b": "F10"
+    },
+    {
+      "a": "F09",
+      "b": "F11"
+    },
+    {
+      "a": "F09",
+      "b": "F17"
+    },
+    {
+      "a": "F09",
+      "b": "F19"
+    },
+    {
+      "a": "F09",
+      "b": "F23"
+    },
+    {
+      "a": "F09",
+      "b": "F24"
+    },
+    {
+      "a": "F09",
+      "b": "M10"
+    },
+    {
+      "a": "F10",
+      "b": "F11"
+    },
+    {
+      "a": "F10",
+      "b": "F14"
+    },
+    {
+      "a": "F10",
+      "b": "F16"
+    },
+    {
+      "a": "F10",
+      "b": "F17"
+    },
+    {
+      "a": "F10",
+      "b": "F19"
+    },
+    {
+      "a": "F10",
+      "b": "F23"
+    },
+    {
+      "a": "F10",
+      "b": "F24"
+    },
+    {
+      "a": "F10",
+      "b": "M10"
+    },
+    {
+      "a": "F11",
+      "b": "F12"
+    },
+    {
+      "a": "F11",
+      "b": "F14"
+    },
+    {
+      "a": "F11",
+      "b": "F15"
+    },
+    {
+      "a": "F11",
+      "b": "F16"
+    },
+    {
+      "a": "F11",
+      "b": "F17"
+    },
+    {
+      "a": "F11",
+      "b": "F19"
+    },
+    {
+      "a": "F11",
+      "b": "F23"
+    },
+    {
+      "a": "F11",
+      "b": "F24"
+    },
+    {
+      "a": "F11",
+      "b": "M10"
+    },
+    {
+      "a": "F12",
+      "b": "F15"
+    },
+    {
+      "a": "F12",
+      "b": "M22"
+    },
+    {
+      "a": "F13",
+      "b": "F19"
+    },
+    {
+      "a": "F13",
+      "b": "F24"
+    },
+    {
+      "a": "F14",
+      "b": "F16"
+    },
+    {
+      "a": "F14",
+      "b": "F17"
+    },
+    {
+      "a": "F14",
+      "b": "F18"
+    },
+    {
+      "a": "F14",
+      "b": "F19"
+    },
+    {
+      "a": "F14",
+      "b": "F23"
+    },
+    {
+      "a": "F14",
+      "b": "F24"
+    },
+    {
+      "a": "F14",
+      "b": "M10"
+    },
+    {
+      "a": "F15",
+      "b": "F16"
+    },
+    {
+      "a": "F15",
+      "b": "M10"
+    },
+    {
+      "a": "F16",
+      "b": "F17"
+    },
+    {
+      "a": "F16",
+      "b": "F18"
+    },
+    {
+      "a": "F16",
+      "b": "F19"
+    },
+    {
+      "a": "F16",
+      "b": "F23"
+    },
+    {
+      "a": "F16",
+      "b": "F24"
+    },
+    {
+      "a": "F16",
+      "b": "M10"
+    },
+    {
+      "a": "F17",
+      "b": "F23"
+    },
+    {
+      "a": "F17",
+      "b": "M10"
+    },
+    {
+      "a": "F18",
+      "b": "F19"
+    },
+    {
+      "a": "F18",
+      "b": "F23"
+    },
+    {
+      "a": "F18",
+      "b": "F24"
+    },
+    {
+      "a": "F19",
+      "b": "F24"
+    },
+    {
+      "a": "F23",
+      "b": "F24"
+    },
+    {
+      "a": "F23",
+      "b": "M10"
+    },
+    {
+      "a": "F24",
+      "b": "M10"
+    },
+    {
+      "a": "M01",
+      "b": "M06"
+    },
+    {
+      "a": "M01",
+      "b": "M07"
+    },
+    {
+      "a": "M01",
+      "b": "M11"
+    },
+    {
+      "a": "M01",
+      "b": "M12"
+    },
+    {
+      "a": "M01",
+      "b": "M14"
+    },
+    {
+      "a": "M01",
+      "b": "M16"
+    },
+    {
+      "a": "M01",
+      "b": "M23"
+    },
+    {
+      "a": "M01",
+      "b": "M24"
+    },
+    {
+      "a": "M01",
+      "b": "M25"
+    },
+    {
+      "a": "M02",
+      "b": "M25"
+    },
+    {
+      "a": "M03",
+      "b": "M09"
+    },
+    {
+      "a": "M03",
+      "b": "M16"
+    },
+    {
+      "a": "M03",
+      "b": "M22"
+    },
+    {
+      "a": "M04",
+      "b": "M07"
+    },
+    {
+      "a": "M04",
+      "b": "M23"
+    },
+    {
+      "a": "M04",
+      "b": "M25"
+    },
+    {
+      "a": "M05",
+      "b": "M09"
+    },
+    {
+      "a": "M05",
+      "b": "M22"
+    },
+    {
+      "a": "M06",
+      "b": "M07"
+    },
+    {
+      "a": "M06",
+      "b": "M16"
+    },
+    {
+      "a": "M06",
+      "b": "M23"
+    },
+    {
+      "a": "M06",
+      "b": "M25"
+    },
+    {
+      "a": "M07",
+      "b": "M08"
+    },
+    {
+      "a": "M07",
+      "b": "M14"
+    },
+    {
+      "a": "M07",
+      "b": "M15"
+    },
+    {
+      "a": "M07",
+      "b": "M16"
+    },
+    {
+      "a": "M07",
+      "b": "M18"
+    },
+    {
+      "a": "M07",
+      "b": "M23"
+    },
+    {
+      "a": "M07",
+      "b": "M24"
+    },
+    {
+      "a": "M07",
+      "b": "M25"
+    },
+    {
+      "a": "M08",
+      "b": "M15"
+    },
+    {
+      "a": "M08",
+      "b": "M18"
+    },
+    {
+      "a": "M08",
+      "b": "M21"
+    },
+    {
+      "a": "M08",
+      "b": "M25"
+    },
+    {
+      "a": "M09",
+      "b": "M16"
+    },
+    {
+      "a": "M09",
+      "b": "M22"
+    },
+    {
+      "a": "M11",
+      "b": "M12"
+    },
+    {
+      "a": "M11",
+      "b": "M22"
+    },
+    {
+      "a": "M12",
+      "b": "M22"
+    },
+    {
+      "a": "M13",
+      "b": "M22"
+    },
+    {
+      "a": "M14",
+      "b": "M16"
+    },
+    {
+      "a": "M14",
+      "b": "M18"
+    },
+    {
+      "a": "M14",
+      "b": "M24"
+    },
+    {
+      "a": "M14",
+      "b": "M25"
+    },
+    {
+      "a": "M15",
+      "b": "M21"
+    },
+    {
+      "a": "M15",
+      "b": "M23"
+    },
+    {
+      "a": "M15",
+      "b": "M25"
+    },
+    {
+      "a": "M16",
+      "b": "M18"
+    },
+    {
+      "a": "M16",
+      "b": "M21"
+    },
+    {
+      "a": "M16",
+      "b": "M24"
+    },
+    {
+      "a": "M16",
+      "b": "M25"
+    },
+    {
+      "a": "M17",
+      "b": "M18"
+    },
+    {
+      "a": "M17",
+      "b": "M24"
+    },
+    {
+      "a": "M17",
+      "b": "M25"
+    },
+    {
+      "a": "M18",
+      "b": "M21"
+    },
+    {
+      "a": "M18",
+      "b": "M23"
+    },
+    {
+      "a": "M18",
+      "b": "M24"
+    },
+    {
+      "a": "M18",
+      "b": "M25"
+    },
+    {
+      "a": "M21",
+      "b": "M25"
+    },
+    {
+      "a": "M23",
+      "b": "M24"
+    },
+    {
+      "a": "M23",
+      "b": "M25"
+    },
+    {
+      "a": "M24",
+      "b": "M25"
+    }
+  ]
+}

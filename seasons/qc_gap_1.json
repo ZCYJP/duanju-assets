@@ -1,0 +1,947 @@
+[
+  {
+    "cid": "F01",
+    "variant": "F01_yushui",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "F03",
+    "variant": "F03_yushui",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "F05",
+    "variant": "F05_yushui",
+    "verdict": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ]
+  },
+  {
+    "cid": "F07",
+    "variant": "F07_yushui",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "F09",
+    "variant": "F09_yushui",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "F11",
+    "variant": "F11_yushui",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "F13",
+    "variant": "F13_yushui",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "F15",
+    "variant": "F15_yushui",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "F17",
+    "variant": "F17_yushui",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "F19",
+    "variant": "F19_yushui",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "F21",
+    "variant": "F21_yushui",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "F23",
+    "variant": "F23_yushui",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "F25",
+    "variant": "F25_yushui",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "F27",
+    "variant": "F27_yushui",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "F29",
+    "variant": "F29_xiazhi",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "F31",
+    "variant": "F31_xiaoxue",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "F32",
+    "variant": "F32_xiazhi",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "F33",
+    "variant": "F33_yushui",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "F35",
+    "variant": "F35_xiaoxue",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "F36",
+    "variant": "F36_xiazhi",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "F37",
+    "variant": "F37_yushui",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "F39",
+    "variant": "F39_xiaoxue",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "F40",
+    "variant": "F40_xiazhi",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "F41",
+    "variant": "F41_yushui",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "F43",
+    "variant": "F43_xiaoxue",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "F44",
+    "variant": "F44_xiazhi",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "F45",
+    "variant": "F45_yushui",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "F47",
+    "variant": "F47_xiaoxue",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "F48",
+    "variant": "F48_xiazhi",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "F49",
+    "variant": "F49_yushui",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "F51",
+    "variant": "F51_xiaoxue",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "F52",
+    "variant": "F52_xiazhi",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "F53",
+    "variant": "F53_yushui",
+    "verdict": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ]
+  },
+  {
+    "cid": "F55",
+    "variant": "F55_xiaoxue",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "F56",
+    "variant": "F56_xiazhi",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "F57",
+    "variant": "F57_yushui",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "F59",
+    "variant": "F59_xiaoxue",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "F60",
+    "variant": "F60_xiazhi",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "F61",
+    "variant": "F61_yushui",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "F63",
+    "variant": "F63_xiaoxue",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "F64",
+    "variant": "F64_xiazhi",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "F65",
+    "variant": "F65_yushui",
+    "verdict": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ]
+  },
+  {
+    "cid": "F67",
+    "variant": "F67_xiaoxue",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "F68",
+    "variant": "F68_xiazhi",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "F69",
+    "variant": "F69_yushui",
+    "verdict": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ]
+  },
+  {
+    "cid": "M01",
+    "variant": "M01_xiaoxue",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "M02",
+    "variant": "M02_xiazhi",
+    "verdict": "存疑",
+    "raw": [
+      "否",
+      "是"
+    ]
+  },
+  {
+    "cid": "M03",
+    "variant": "M03_yushui",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "M05",
+    "variant": "M05_xiaoxue",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "M06",
+    "variant": "M06_xiazhi",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "M07",
+    "variant": "M07_yushui",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "M09",
+    "variant": "M09_xiaoxue",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "M10",
+    "variant": "M10_xiazhi",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "M11",
+    "variant": "M11_yushui",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "M13",
+    "variant": "M13_xiaoxue",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "M14",
+    "variant": "M14_xiazhi",
+    "verdict": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ]
+  },
+  {
+    "cid": "M15",
+    "variant": "M15_yushui",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "M17",
+    "variant": "M17_xiaoxue",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "M18",
+    "variant": "M18_xiazhi",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "M19",
+    "variant": "M19_yushui",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "M21",
+    "variant": "M21_xiaoxue",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "M22",
+    "variant": "M22_xiazhi",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "M23",
+    "variant": "M23_yushui",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "M25",
+    "variant": "M25_xiaoxue",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "M26",
+    "variant": "M26_xiazhi",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "M27",
+    "variant": "M27_yushui",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "M29",
+    "variant": "M29_xiaoxue",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "M30",
+    "variant": "M30_xiazhi",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "M31",
+    "variant": "M31_yushui",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "M33",
+    "variant": "M33_xiaoxue",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "M34",
+    "variant": "M34_xiazhi",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "M35",
+    "variant": "M35_yushui",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "M37",
+    "variant": "M37_xiaoxue",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "M38",
+    "variant": "M38_xiazhi",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "M39",
+    "variant": "M39_yushui",
+    "verdict": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ]
+  },
+  {
+    "cid": "M41",
+    "variant": "M41_xiaoxue",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "M42",
+    "variant": "M42_xiazhi",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "M43",
+    "variant": "M43_yushui",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "M45",
+    "variant": "M45_xiaoxue",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "M46",
+    "variant": "M46_xiazhi",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "M47",
+    "variant": "M47_yushui",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "M49",
+    "variant": "M49_xiaoxue",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "M50",
+    "variant": "M50_xiazhi",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "M51",
+    "variant": "M51_yushui",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "M53",
+    "variant": "M53_xiaoxue",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "M54",
+    "variant": "M54_xiazhi",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "M55",
+    "variant": "M55_yushui",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "M57",
+    "variant": "M57_xiaoxue",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "M58",
+    "variant": "M58_xiazhi",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "M59",
+    "variant": "M59_yushui",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "M61",
+    "variant": "M61_xiaoxue",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "M62",
+    "variant": "M62_xiazhi",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "M63",
+    "variant": "M63_yushui",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "M65",
+    "variant": "M65_xiaoxue",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "M66",
+    "variant": "M66_xiazhi",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "M67",
+    "variant": "M67_yushui",
+    "verdict": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ]
+  },
+  {
+    "cid": "M69",
+    "variant": "M69_xiaoxue",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "M70",
+    "variant": "M70_xiazhi",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "M71",
+    "variant": "M71_yushui",
+    "verdict": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ]
+  },
+  {
+    "cid": "M73",
+    "variant": "M73_xiaoxue",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "M74",
+    "variant": "M74_xiazhi",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "M75",
+    "variant": "M75_yushui",
+    "verdict": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ]
+  },
+  {
+    "cid": "M77",
+    "variant": "M77_xiaoxue",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "M78",
+    "variant": "M78_xiazhi",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "M79",
+    "variant": "M79_yushui",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "cid": "F01",
+    "variant": "F01_bailu",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "F01",
+    "variant": "F01_chunfen",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "F01",
+    "variant": "F01_chushu",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "F01",
+    "variant": "F01_dahan",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "F01",
+    "variant": "F01_dashu",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "F01",
+    "variant": "F01_daxue",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "F01",
+    "variant": "F01_dongzhi",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "F01",
+    "variant": "F01_guyu",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "F01",
+    "variant": "F01_hanlu",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "F01",
+    "variant": "F01_jingzhe",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "F01",
+    "variant": "F01_lichun",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "F01",
+    "variant": "F01_lidong",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "F01",
+    "variant": "F01_liqiu",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "F01",
+    "variant": "F01_lixia",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "F01",
+    "variant": "F01_mangzhong",
+    "verdict": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ]
+  },
+  {
+    "cid": "F01",
+    "variant": "F01_qingming",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "F01",
+    "variant": "F01_qiufen",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "F01",
+    "variant": "F01_shuangjiang",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "F01",
+    "variant": "F01_summer",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "F01",
+    "variant": "F01_winter",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "F01",
+    "variant": "F01_xiaohan",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "F01",
+    "variant": "F01_xiaoman",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "F02",
+    "variant": "F02_bailu",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "F02",
+    "variant": "F02_chunfen",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "F02",
+    "variant": "F02_chushu",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "F02",
+    "variant": "F02_dahan",
+    "verdict": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ]
+  },
+  {
+    "cid": "F02",
+    "variant": "F02_dashu",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "F02",
+    "variant": "F02_daxue",
+    "verdict": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ]
+  },
+  {
+    "cid": "F02",
+    "variant": "F02_dongzhi",
+    "verdict": "是",
+    "raw": [
+      "是",
+      "是"
+    ]
+  },
+  {
+    "cid": "F02",
+    "variant": "F02_guyu",
+    "verdict": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ]
+  }
+]

@@ -1,0 +1,6752 @@
+[
+  {
+    "path": "/ssd2/duanju/voices/emotions/F01/F01_le.wav",
+    "emotion": "le",
+    "changed": false,
+    "before": {
+      "dur": 10.96,
+      "rate": 1.916,
+      "rms_db": -24.04
+    },
+    "after": {
+      "dur": 10.96,
+      "rate": 1.916,
+      "rms_db": -24.04
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F02/F02_le.wav",
+    "emotion": "le",
+    "changed": false,
+    "before": {
+      "dur": 7.92,
+      "rate": 2.652,
+      "rms_db": -19.4
+    },
+    "after": {
+      "dur": 7.92,
+      "rate": 2.652,
+      "rms_db": -19.4
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F03/F03_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 6.88,
+      "rate": 3.052,
+      "rms_db": -20.82
+    },
+    "after": {
+      "dur": 7.787,
+      "rate": 2.697,
+      "rms_db": -24.8
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F04/F04_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 7.6,
+      "rate": 2.763,
+      "rms_db": -19.35
+    },
+    "after": {
+      "dur": 7.776,
+      "rate": 2.701,
+      "rms_db": -21.95
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F05/F05_le.wav",
+    "emotion": "le",
+    "changed": false,
+    "before": {
+      "dur": 8.16,
+      "rate": 2.574,
+      "rms_db": -19.47
+    },
+    "after": {
+      "dur": 8.16,
+      "rate": 2.574,
+      "rms_db": -19.47
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F06/F06_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 7.36,
+      "rate": 2.853,
+      "rms_db": -20.15
+    },
+    "after": {
+      "dur": 7.787,
+      "rate": 2.697,
+      "rms_db": -23.37
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F07/F07_le.wav",
+    "emotion": "le",
+    "changed": false,
+    "before": {
+      "dur": 7.92,
+      "rate": 2.652,
+      "rms_db": -20.92
+    },
+    "after": {
+      "dur": 7.92,
+      "rate": 2.652,
+      "rms_db": -20.92
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F08/F08_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 6.56,
+      "rate": 3.201,
+      "rms_db": -20.05
+    },
+    "after": {
+      "dur": 7.787,
+      "rate": 2.697,
+      "rms_db": -24.13
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F09/F09_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 6.96,
+      "rate": 3.017,
+      "rms_db": -20.88
+    },
+    "after": {
+      "dur": 7.776,
+      "rate": 2.701,
+      "rms_db": -23.56
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F10/F10_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 7.2,
+      "rate": 2.917,
+      "rms_db": -21.51
+    },
+    "after": {
+      "dur": 7.787,
+      "rate": 2.697,
+      "rms_db": -24.45
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F11/F11_le.wav",
+    "emotion": "le",
+    "changed": false,
+    "before": {
+      "dur": 8.08,
+      "rate": 2.599,
+      "rms_db": -18.02
+    },
+    "after": {
+      "dur": 8.08,
+      "rate": 2.599,
+      "rms_db": -18.02
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F12/F12_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 6.88,
+      "rate": 3.052,
+      "rms_db": -22.31
+    },
+    "after": {
+      "dur": 7.787,
+      "rate": 2.697,
+      "rms_db": -24.59
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F13/F13_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 6.48,
+      "rate": 3.241,
+      "rms_db": -18.98
+    },
+    "after": {
+      "dur": 7.776,
+      "rate": 2.701,
+      "rms_db": -21.92
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F14/F14_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 7.44,
+      "rate": 2.823,
+      "rms_db": -22.5
+    },
+    "after": {
+      "dur": 7.776,
+      "rate": 2.701,
+      "rms_db": -25.34
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F15/F15_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 6.48,
+      "rate": 3.241,
+      "rms_db": -19.39
+    },
+    "after": {
+      "dur": 7.776,
+      "rate": 2.701,
+      "rms_db": -23.67
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F16/F16_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 7.12,
+      "rate": 2.949,
+      "rms_db": -21.26
+    },
+    "after": {
+      "dur": 7.776,
+      "rate": 2.701,
+      "rms_db": -25.26
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F17/F17_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 6.4,
+      "rate": 3.281,
+      "rms_db": -24.12
+    },
+    "after": {
+      "dur": 7.787,
+      "rate": 2.697,
+      "rms_db": -26.3
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F18/F18_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 6.32,
+      "rate": 3.323,
+      "rms_db": -20.25
+    },
+    "after": {
+      "dur": 7.776,
+      "rate": 2.701,
+      "rms_db": -23.17
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F19/F19_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 7.28,
+      "rate": 2.885,
+      "rms_db": -18.54
+    },
+    "after": {
+      "dur": 7.776,
+      "rate": 2.701,
+      "rms_db": -20.72
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F20/F20_le.wav",
+    "emotion": "le",
+    "changed": false,
+    "before": {
+      "dur": 8.96,
+      "rate": 2.344,
+      "rms_db": -20.08
+    },
+    "after": {
+      "dur": 8.96,
+      "rate": 2.344,
+      "rms_db": -20.08
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F21/F21_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 6.16,
+      "rate": 3.409,
+      "rms_db": -20.55
+    },
+    "after": {
+      "dur": 7.776,
+      "rate": 2.701,
+      "rms_db": -25.02
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F22/F22_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 6.56,
+      "rate": 3.201,
+      "rms_db": -20.12
+    },
+    "after": {
+      "dur": 7.787,
+      "rate": 2.697,
+      "rms_db": -22.89
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F23/F23_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 6.4,
+      "rate": 3.281,
+      "rms_db": -21.01
+    },
+    "after": {
+      "dur": 7.787,
+      "rate": 2.697,
+      "rms_db": -23.53
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F24/F24_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 7.68,
+      "rate": 2.734,
+      "rms_db": -17.89
+    },
+    "after": {
+      "dur": 7.787,
+      "rate": 2.697,
+      "rms_db": -20.23
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F25/F25_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 6.64,
+      "rate": 3.163,
+      "rms_db": -20.13
+    },
+    "after": {
+      "dur": 7.776,
+      "rate": 2.701,
+      "rms_db": -23.1
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F26/F26_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 6.72,
+      "rate": 3.125,
+      "rms_db": -20.82
+    },
+    "after": {
+      "dur": 7.787,
+      "rate": 2.697,
+      "rms_db": -23.93
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F27/F27_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 6.96,
+      "rate": 3.017,
+      "rms_db": -19.06
+    },
+    "after": {
+      "dur": 7.776,
+      "rate": 2.701,
+      "rms_db": -23.08
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F28/F28_le.wav",
+    "emotion": "le",
+    "changed": false,
+    "before": {
+      "dur": 9.84,
+      "rate": 2.134,
+      "rms_db": -21.24
+    },
+    "after": {
+      "dur": 9.84,
+      "rate": 2.134,
+      "rms_db": -21.24
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F29/F29_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 7.12,
+      "rate": 2.949,
+      "rms_db": -19.46
+    },
+    "after": {
+      "dur": 7.776,
+      "rate": 2.701,
+      "rms_db": -23.0
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F30/F30_le.wav",
+    "emotion": "le",
+    "changed": false,
+    "before": {
+      "dur": 8.16,
+      "rate": 2.574,
+      "rms_db": -20.59
+    },
+    "after": {
+      "dur": 8.16,
+      "rate": 2.574,
+      "rms_db": -20.59
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F31/F31_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 5.68,
+      "rate": 3.697,
+      "rms_db": -19.61
+    },
+    "after": {
+      "dur": 7.776,
+      "rate": 2.701,
+      "rms_db": -22.04
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F32/F32_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 7.44,
+      "rate": 2.823,
+      "rms_db": -19.15
+    },
+    "after": {
+      "dur": 7.776,
+      "rate": 2.701,
+      "rms_db": -22.22
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F33/F33_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 7.52,
+      "rate": 2.793,
+      "rms_db": -19.23
+    },
+    "after": {
+      "dur": 7.787,
+      "rate": 2.697,
+      "rms_db": -21.31
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F34/F34_le.wav",
+    "emotion": "le",
+    "changed": false,
+    "before": {
+      "dur": 8.0,
+      "rate": 2.625,
+      "rms_db": -19.4
+    },
+    "after": {
+      "dur": 8.0,
+      "rate": 2.625,
+      "rms_db": -19.4
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F35/F35_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 7.44,
+      "rate": 2.823,
+      "rms_db": -18.45
+    },
+    "after": {
+      "dur": 7.776,
+      "rate": 2.701,
+      "rms_db": -21.35
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F36/F36_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 6.08,
+      "rate": 3.454,
+      "rms_db": -19.82
+    },
+    "after": {
+      "dur": 7.787,
+      "rate": 2.697,
+      "rms_db": -22.3
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F37/F37_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 7.6,
+      "rate": 2.763,
+      "rms_db": -20.31
+    },
+    "after": {
+      "dur": 7.776,
+      "rate": 2.701,
+      "rms_db": -23.46
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F38/F38_le.wav",
+    "emotion": "le",
+    "changed": false,
+    "before": {
+      "dur": 7.84,
+      "rate": 2.679,
+      "rms_db": -20.65
+    },
+    "after": {
+      "dur": 7.84,
+      "rate": 2.679,
+      "rms_db": -20.65
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F39/F39_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 6.32,
+      "rate": 3.323,
+      "rms_db": -22.33
+    },
+    "after": {
+      "dur": 7.776,
+      "rate": 2.701,
+      "rms_db": -25.68
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F40/F40_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 7.6,
+      "rate": 2.763,
+      "rms_db": -20.91
+    },
+    "after": {
+      "dur": 7.776,
+      "rate": 2.701,
+      "rms_db": -25.45
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F41/F41_le.wav",
+    "emotion": "le",
+    "changed": false,
+    "before": {
+      "dur": 7.84,
+      "rate": 2.679,
+      "rms_db": -24.57
+    },
+    "after": {
+      "dur": 7.84,
+      "rate": 2.679,
+      "rms_db": -24.57
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F42/F42_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 6.08,
+      "rate": 3.454,
+      "rms_db": -21.6
+    },
+    "after": {
+      "dur": 7.787,
+      "rate": 2.697,
+      "rms_db": -24.83
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F43/F43_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 6.4,
+      "rate": 3.281,
+      "rms_db": -19.55
+    },
+    "after": {
+      "dur": 7.787,
+      "rate": 2.697,
+      "rms_db": -23.39
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F44/F44_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 7.2,
+      "rate": 2.917,
+      "rms_db": -16.76
+    },
+    "after": {
+      "dur": 7.787,
+      "rate": 2.697,
+      "rms_db": -19.33
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F45/F45_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 6.88,
+      "rate": 3.052,
+      "rms_db": -20.0
+    },
+    "after": {
+      "dur": 7.787,
+      "rate": 2.697,
+      "rms_db": -22.58
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F46/F46_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 6.24,
+      "rate": 3.365,
+      "rms_db": -21.23
+    },
+    "after": {
+      "dur": 7.787,
+      "rate": 2.697,
+      "rms_db": -25.18
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F47/F47_le.wav",
+    "emotion": "le",
+    "changed": false,
+    "before": {
+      "dur": 8.4,
+      "rate": 2.5,
+      "rms_db": -20.5
+    },
+    "after": {
+      "dur": 8.4,
+      "rate": 2.5,
+      "rms_db": -20.5
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F48/F48_le.wav",
+    "emotion": "le",
+    "changed": false,
+    "before": {
+      "dur": 8.24,
+      "rate": 2.549,
+      "rms_db": -25.26
+    },
+    "after": {
+      "dur": 8.24,
+      "rate": 2.549,
+      "rms_db": -25.26
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F49/F49_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 7.04,
+      "rate": 2.983,
+      "rms_db": -19.1
+    },
+    "after": {
+      "dur": 7.787,
+      "rate": 2.697,
+      "rms_db": -22.05
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F50/F50_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 7.52,
+      "rate": 2.793,
+      "rms_db": -19.98
+    },
+    "after": {
+      "dur": 7.787,
+      "rate": 2.697,
+      "rms_db": -24.37
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F51/F51_le.wav",
+    "emotion": "le",
+    "changed": false,
+    "before": {
+      "dur": 7.84,
+      "rate": 2.679,
+      "rms_db": -18.98
+    },
+    "after": {
+      "dur": 7.84,
+      "rate": 2.679,
+      "rms_db": -18.98
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F52/F52_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 6.88,
+      "rate": 3.052,
+      "rms_db": -18.61
+    },
+    "after": {
+      "dur": 7.787,
+      "rate": 2.697,
+      "rms_db": -22.38
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F53/F53_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 7.28,
+      "rate": 2.885,
+      "rms_db": -20.74
+    },
+    "after": {
+      "dur": 7.776,
+      "rate": 2.701,
+      "rms_db": -24.05
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F54/F54_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 7.2,
+      "rate": 2.917,
+      "rms_db": -19.24
+    },
+    "after": {
+      "dur": 7.787,
+      "rate": 2.697,
+      "rms_db": -22.09
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F55/F55_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 7.68,
+      "rate": 2.734,
+      "rms_db": -17.79
+    },
+    "after": {
+      "dur": 7.787,
+      "rate": 2.697,
+      "rms_db": -21.23
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F56/F56_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 6.96,
+      "rate": 3.017,
+      "rms_db": -23.21
+    },
+    "after": {
+      "dur": 7.776,
+      "rate": 2.701,
+      "rms_db": -26.53
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F57/F57_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 5.84,
+      "rate": 3.596,
+      "rms_db": -18.58
+    },
+    "after": {
+      "dur": 7.776,
+      "rate": 2.701,
+      "rms_db": -21.65
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F58/F58_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 6.8,
+      "rate": 3.088,
+      "rms_db": -21.39
+    },
+    "after": {
+      "dur": 7.776,
+      "rate": 2.701,
+      "rms_db": -23.5
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F59/F59_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 6.64,
+      "rate": 3.163,
+      "rms_db": -21.91
+    },
+    "after": {
+      "dur": 7.776,
+      "rate": 2.701,
+      "rms_db": -24.73
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F60/F60_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 6.4,
+      "rate": 3.281,
+      "rms_db": -20.31
+    },
+    "after": {
+      "dur": 7.787,
+      "rate": 2.697,
+      "rms_db": -24.0
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F61/F61_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 7.6,
+      "rate": 2.763,
+      "rms_db": -23.85
+    },
+    "after": {
+      "dur": 7.776,
+      "rate": 2.701,
+      "rms_db": -26.84
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F62/F62_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 6.88,
+      "rate": 3.052,
+      "rms_db": -19.74
+    },
+    "after": {
+      "dur": 7.787,
+      "rate": 2.697,
+      "rms_db": -22.57
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F63/F63_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 7.04,
+      "rate": 2.983,
+      "rms_db": -20.31
+    },
+    "after": {
+      "dur": 7.787,
+      "rate": 2.697,
+      "rms_db": -23.85
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F64/F64_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 7.52,
+      "rate": 2.793,
+      "rms_db": -18.26
+    },
+    "after": {
+      "dur": 7.787,
+      "rate": 2.697,
+      "rms_db": -21.36
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F65/F65_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 7.6,
+      "rate": 2.763,
+      "rms_db": -21.15
+    },
+    "after": {
+      "dur": 7.776,
+      "rate": 2.701,
+      "rms_db": -23.44
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F66/F66_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 6.8,
+      "rate": 3.088,
+      "rms_db": -22.78
+    },
+    "after": {
+      "dur": 7.776,
+      "rate": 2.701,
+      "rms_db": -26.17
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F67/F67_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 6.88,
+      "rate": 3.052,
+      "rms_db": -23.45
+    },
+    "after": {
+      "dur": 7.787,
+      "rate": 2.697,
+      "rms_db": -26.05
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F68/F68_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 6.4,
+      "rate": 3.281,
+      "rms_db": -20.16
+    },
+    "after": {
+      "dur": 7.787,
+      "rate": 2.697,
+      "rms_db": -23.7
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F69/F69_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 7.04,
+      "rate": 2.983,
+      "rms_db": -19.67
+    },
+    "after": {
+      "dur": 7.787,
+      "rate": 2.697,
+      "rms_db": -22.25
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F70/F70_le.wav",
+    "emotion": "le",
+    "changed": false,
+    "before": {
+      "dur": 7.92,
+      "rate": 2.652,
+      "rms_db": -22.31
+    },
+    "after": {
+      "dur": 7.92,
+      "rate": 2.652,
+      "rms_db": -22.31
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M01/M01_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 6.72,
+      "rate": 3.125,
+      "rms_db": -21.85
+    },
+    "after": {
+      "dur": 7.787,
+      "rate": 2.697,
+      "rms_db": -24.87
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M02/M02_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 7.52,
+      "rate": 2.793,
+      "rms_db": -24.62
+    },
+    "after": {
+      "dur": 7.787,
+      "rate": 2.697,
+      "rms_db": -27.73
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M03/M03_le.wav",
+    "emotion": "le",
+    "changed": false,
+    "before": {
+      "dur": 8.0,
+      "rate": 2.625,
+      "rms_db": -24.48
+    },
+    "after": {
+      "dur": 8.0,
+      "rate": 2.625,
+      "rms_db": -24.48
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M04/M04_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 6.08,
+      "rate": 3.454,
+      "rms_db": -22.15
+    },
+    "after": {
+      "dur": 7.787,
+      "rate": 2.697,
+      "rms_db": -25.1
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M05/M05_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 6.96,
+      "rate": 3.017,
+      "rms_db": -26.51
+    },
+    "after": {
+      "dur": 7.776,
+      "rate": 2.701,
+      "rms_db": -29.18
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M06/M06_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 7.68,
+      "rate": 2.734,
+      "rms_db": -22.32
+    },
+    "after": {
+      "dur": 7.787,
+      "rate": 2.697,
+      "rms_db": -25.02
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M07/M07_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 7.52,
+      "rate": 2.793,
+      "rms_db": -24.91
+    },
+    "after": {
+      "dur": 7.787,
+      "rate": 2.697,
+      "rms_db": -27.78
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M08/M08_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 7.12,
+      "rate": 2.949,
+      "rms_db": -20.97
+    },
+    "after": {
+      "dur": 7.776,
+      "rate": 2.701,
+      "rms_db": -22.98
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M09/M09_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 7.04,
+      "rate": 2.983,
+      "rms_db": -21.12
+    },
+    "after": {
+      "dur": 7.787,
+      "rate": 2.697,
+      "rms_db": -24.17
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M10/M10_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 6.48,
+      "rate": 3.241,
+      "rms_db": -23.99
+    },
+    "after": {
+      "dur": 7.776,
+      "rate": 2.701,
+      "rms_db": -27.66
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M11/M11_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 6.48,
+      "rate": 3.241,
+      "rms_db": -22.38
+    },
+    "after": {
+      "dur": 7.776,
+      "rate": 2.701,
+      "rms_db": -26.0
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M12/M12_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 6.08,
+      "rate": 3.454,
+      "rms_db": -21.44
+    },
+    "after": {
+      "dur": 7.787,
+      "rate": 2.697,
+      "rms_db": -24.38
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M13/M13_le.wav",
+    "emotion": "le",
+    "changed": false,
+    "before": {
+      "dur": 8.48,
+      "rate": 2.476,
+      "rms_db": -21.71
+    },
+    "after": {
+      "dur": 8.48,
+      "rate": 2.476,
+      "rms_db": -21.71
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M14/M14_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 7.44,
+      "rate": 2.823,
+      "rms_db": -23.49
+    },
+    "after": {
+      "dur": 7.776,
+      "rate": 2.701,
+      "rms_db": -26.06
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M15/M15_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 5.68,
+      "rate": 3.697,
+      "rms_db": -20.99
+    },
+    "after": {
+      "dur": 7.776,
+      "rate": 2.701,
+      "rms_db": -23.91
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M16/M16_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 7.36,
+      "rate": 2.853,
+      "rms_db": -20.6
+    },
+    "after": {
+      "dur": 7.787,
+      "rate": 2.697,
+      "rms_db": -23.05
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M17/M17_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 7.36,
+      "rate": 2.853,
+      "rms_db": -22.47
+    },
+    "after": {
+      "dur": 7.787,
+      "rate": 2.697,
+      "rms_db": -25.26
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M18/M18_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 7.12,
+      "rate": 2.949,
+      "rms_db": -21.48
+    },
+    "after": {
+      "dur": 7.776,
+      "rate": 2.701,
+      "rms_db": -25.26
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M19/M19_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 7.76,
+      "rate": 2.706,
+      "rms_db": -23.29
+    },
+    "after": {
+      "dur": 7.776,
+      "rate": 2.701,
+      "rms_db": -30.12
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M20/M20_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 6.72,
+      "rate": 3.125,
+      "rms_db": -20.93
+    },
+    "after": {
+      "dur": 7.787,
+      "rate": 2.697,
+      "rms_db": -23.41
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M21/M21_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 6.64,
+      "rate": 3.163,
+      "rms_db": -21.41
+    },
+    "after": {
+      "dur": 7.776,
+      "rate": 2.701,
+      "rms_db": -24.68
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M22/M22_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 6.8,
+      "rate": 3.088,
+      "rms_db": -25.18
+    },
+    "after": {
+      "dur": 7.776,
+      "rate": 2.701,
+      "rms_db": -28.58
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M23/M23_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 6.64,
+      "rate": 3.163,
+      "rms_db": -22.24
+    },
+    "after": {
+      "dur": 7.776,
+      "rate": 2.701,
+      "rms_db": -25.15
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M24/M24_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 6.4,
+      "rate": 3.281,
+      "rms_db": -24.03
+    },
+    "after": {
+      "dur": 7.787,
+      "rate": 2.697,
+      "rms_db": -27.39
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M25/M25_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 5.92,
+      "rate": 3.547,
+      "rms_db": -22.11
+    },
+    "after": {
+      "dur": 7.787,
+      "rate": 2.697,
+      "rms_db": -24.83
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M26/M26_le.wav",
+    "emotion": "le",
+    "changed": false,
+    "before": {
+      "dur": 7.84,
+      "rate": 2.679,
+      "rms_db": -23.12
+    },
+    "after": {
+      "dur": 7.84,
+      "rate": 2.679,
+      "rms_db": -23.12
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M27/M27_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 6.8,
+      "rate": 3.088,
+      "rms_db": -21.25
+    },
+    "after": {
+      "dur": 7.776,
+      "rate": 2.701,
+      "rms_db": -25.51
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M28/M28_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 6.8,
+      "rate": 3.088,
+      "rms_db": -22.89
+    },
+    "after": {
+      "dur": 7.776,
+      "rate": 2.701,
+      "rms_db": -25.54
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M29/M29_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 6.96,
+      "rate": 3.017,
+      "rms_db": -19.82
+    },
+    "after": {
+      "dur": 7.776,
+      "rate": 2.701,
+      "rms_db": -22.7
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M30/M30_le.wav",
+    "emotion": "le",
+    "changed": false,
+    "before": {
+      "dur": 8.24,
+      "rate": 2.549,
+      "rms_db": -26.47
+    },
+    "after": {
+      "dur": 8.24,
+      "rate": 2.549,
+      "rms_db": -26.47
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M31/M31_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 6.0,
+      "rate": 3.5,
+      "rms_db": -23.65
+    },
+    "after": {
+      "dur": 7.776,
+      "rate": 2.701,
+      "rms_db": -26.99
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M32/M32_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 7.6,
+      "rate": 2.763,
+      "rms_db": -22.13
+    },
+    "after": {
+      "dur": 7.776,
+      "rate": 2.701,
+      "rms_db": -23.74
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M33/M33_le.wav",
+    "emotion": "le",
+    "changed": false,
+    "before": {
+      "dur": 7.84,
+      "rate": 2.679,
+      "rms_db": -23.16
+    },
+    "after": {
+      "dur": 7.84,
+      "rate": 2.679,
+      "rms_db": -23.16
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M34/M34_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 6.4,
+      "rate": 3.281,
+      "rms_db": -20.94
+    },
+    "after": {
+      "dur": 7.787,
+      "rate": 2.697,
+      "rms_db": -25.08
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M35/M35_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 6.72,
+      "rate": 3.125,
+      "rms_db": -19.65
+    },
+    "after": {
+      "dur": 7.787,
+      "rate": 2.697,
+      "rms_db": -23.85
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M36/M36_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 7.2,
+      "rate": 2.917,
+      "rms_db": -23.04
+    },
+    "after": {
+      "dur": 7.787,
+      "rate": 2.697,
+      "rms_db": -25.22
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M37/M37_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 6.88,
+      "rate": 3.052,
+      "rms_db": -17.71
+    },
+    "after": {
+      "dur": 7.787,
+      "rate": 2.697,
+      "rms_db": -20.5
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M38/M38_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 7.2,
+      "rate": 2.917,
+      "rms_db": -20.83
+    },
+    "after": {
+      "dur": 7.787,
+      "rate": 2.697,
+      "rms_db": -23.16
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M39/M39_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 7.76,
+      "rate": 2.706,
+      "rms_db": -23.75
+    },
+    "after": {
+      "dur": 7.776,
+      "rate": 2.701,
+      "rms_db": -26.23
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M40/M40_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 7.76,
+      "rate": 2.706,
+      "rms_db": -19.3
+    },
+    "after": {
+      "dur": 7.776,
+      "rate": 2.701,
+      "rms_db": -22.92
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M41/M41_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 6.64,
+      "rate": 3.163,
+      "rms_db": -20.71
+    },
+    "after": {
+      "dur": 7.776,
+      "rate": 2.701,
+      "rms_db": -24.67
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M42/M42_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 6.32,
+      "rate": 3.323,
+      "rms_db": -21.32
+    },
+    "after": {
+      "dur": 7.776,
+      "rate": 2.701,
+      "rms_db": -24.47
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M43/M43_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 7.12,
+      "rate": 2.949,
+      "rms_db": -19.27
+    },
+    "after": {
+      "dur": 7.776,
+      "rate": 2.701,
+      "rms_db": -22.57
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M44/M44_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 6.4,
+      "rate": 3.281,
+      "rms_db": -22.41
+    },
+    "after": {
+      "dur": 7.787,
+      "rate": 2.697,
+      "rms_db": -25.97
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M45/M45_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 6.96,
+      "rate": 3.017,
+      "rms_db": -19.96
+    },
+    "after": {
+      "dur": 7.776,
+      "rate": 2.701,
+      "rms_db": -23.41
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M46/M46_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 6.4,
+      "rate": 3.281,
+      "rms_db": -21.6
+    },
+    "after": {
+      "dur": 7.787,
+      "rate": 2.697,
+      "rms_db": -23.96
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M47/M47_le.wav",
+    "emotion": "le",
+    "changed": false,
+    "before": {
+      "dur": 8.4,
+      "rate": 2.5,
+      "rms_db": -21.1
+    },
+    "after": {
+      "dur": 8.4,
+      "rate": 2.5,
+      "rms_db": -21.1
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M48/M48_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 7.04,
+      "rate": 2.983,
+      "rms_db": -19.32
+    },
+    "after": {
+      "dur": 7.787,
+      "rate": 2.697,
+      "rms_db": -22.42
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M49/M49_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 7.68,
+      "rate": 2.734,
+      "rms_db": -18.77
+    },
+    "after": {
+      "dur": 7.787,
+      "rate": 2.697,
+      "rms_db": -21.7
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M50/M50_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 7.28,
+      "rate": 2.885,
+      "rms_db": -18.16
+    },
+    "after": {
+      "dur": 7.776,
+      "rate": 2.701,
+      "rms_db": -20.98
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M51/M51_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 7.76,
+      "rate": 2.706,
+      "rms_db": -23.26
+    },
+    "after": {
+      "dur": 7.776,
+      "rate": 2.701,
+      "rms_db": -24.4
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M52/M52_le.wav",
+    "emotion": "le",
+    "changed": false,
+    "before": {
+      "dur": 9.76,
+      "rate": 2.152,
+      "rms_db": -28.23
+    },
+    "after": {
+      "dur": 9.76,
+      "rate": 2.152,
+      "rms_db": -28.23
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M53/M53_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 7.2,
+      "rate": 2.917,
+      "rms_db": -18.19
+    },
+    "after": {
+      "dur": 7.787,
+      "rate": 2.697,
+      "rms_db": -20.5
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M54/M54_le.wav",
+    "emotion": "le",
+    "changed": false,
+    "before": {
+      "dur": 7.92,
+      "rate": 2.652,
+      "rms_db": -23.48
+    },
+    "after": {
+      "dur": 7.92,
+      "rate": 2.652,
+      "rms_db": -23.48
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M55/M55_le.wav",
+    "emotion": "le",
+    "changed": false,
+    "before": {
+      "dur": 8.16,
+      "rate": 2.574,
+      "rms_db": -22.59
+    },
+    "after": {
+      "dur": 8.16,
+      "rate": 2.574,
+      "rms_db": -22.59
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M56/M56_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 6.72,
+      "rate": 3.125,
+      "rms_db": -21.28
+    },
+    "after": {
+      "dur": 7.787,
+      "rate": 2.697,
+      "rms_db": -23.88
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M57/M57_le.wav",
+    "emotion": "le",
+    "changed": false,
+    "before": {
+      "dur": 7.92,
+      "rate": 2.652,
+      "rms_db": -22.97
+    },
+    "after": {
+      "dur": 7.92,
+      "rate": 2.652,
+      "rms_db": -22.97
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M58/M58_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 7.6,
+      "rate": 2.763,
+      "rms_db": -25.13
+    },
+    "after": {
+      "dur": 7.776,
+      "rate": 2.701,
+      "rms_db": -28.21
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M59/M59_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 6.88,
+      "rate": 3.052,
+      "rms_db": -21.53
+    },
+    "after": {
+      "dur": 7.787,
+      "rate": 2.697,
+      "rms_db": -25.48
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M60/M60_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 7.04,
+      "rate": 2.983,
+      "rms_db": -24.94
+    },
+    "after": {
+      "dur": 7.787,
+      "rate": 2.697,
+      "rms_db": -28.41
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M61/M61_le.wav",
+    "emotion": "le",
+    "changed": false,
+    "before": {
+      "dur": 9.04,
+      "rate": 2.323,
+      "rms_db": -30.09
+    },
+    "after": {
+      "dur": 9.04,
+      "rate": 2.323,
+      "rms_db": -30.09
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M62/M62_le.wav",
+    "emotion": "le",
+    "changed": false,
+    "before": {
+      "dur": 8.0,
+      "rate": 2.625,
+      "rms_db": -19.63
+    },
+    "after": {
+      "dur": 8.0,
+      "rate": 2.625,
+      "rms_db": -19.63
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M63/M63_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 7.36,
+      "rate": 2.853,
+      "rms_db": -23.72
+    },
+    "after": {
+      "dur": 7.787,
+      "rate": 2.697,
+      "rms_db": -25.69
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M64/M64_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 7.6,
+      "rate": 2.763,
+      "rms_db": -20.6
+    },
+    "after": {
+      "dur": 7.776,
+      "rate": 2.701,
+      "rms_db": -23.29
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M65/M65_le.wav",
+    "emotion": "le",
+    "changed": false,
+    "before": {
+      "dur": 8.56,
+      "rate": 2.453,
+      "rms_db": -22.18
+    },
+    "after": {
+      "dur": 8.56,
+      "rate": 2.453,
+      "rms_db": -22.18
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M66/M66_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 7.76,
+      "rate": 2.706,
+      "rms_db": -21.55
+    },
+    "after": {
+      "dur": 7.776,
+      "rate": 2.701,
+      "rms_db": -23.49
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M67/M67_le.wav",
+    "emotion": "le",
+    "changed": false,
+    "before": {
+      "dur": 8.24,
+      "rate": 2.549,
+      "rms_db": -21.45
+    },
+    "after": {
+      "dur": 8.24,
+      "rate": 2.549,
+      "rms_db": -21.45
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M68/M68_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 6.4,
+      "rate": 3.281,
+      "rms_db": -22.39
+    },
+    "after": {
+      "dur": 7.787,
+      "rate": 2.697,
+      "rms_db": -26.39
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M69/M69_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 6.16,
+      "rate": 3.409,
+      "rms_db": -21.38
+    },
+    "after": {
+      "dur": 7.776,
+      "rate": 2.701,
+      "rms_db": -24.52
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M70/M70_le.wav",
+    "emotion": "le",
+    "changed": false,
+    "before": {
+      "dur": 8.72,
+      "rate": 2.408,
+      "rms_db": -25.62
+    },
+    "after": {
+      "dur": 8.72,
+      "rate": 2.408,
+      "rms_db": -25.62
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M71/M71_le.wav",
+    "emotion": "le",
+    "changed": false,
+    "before": {
+      "dur": 8.16,
+      "rate": 2.574,
+      "rms_db": -17.79
+    },
+    "after": {
+      "dur": 8.16,
+      "rate": 2.574,
+      "rms_db": -17.79
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M72/M72_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 7.28,
+      "rate": 2.885,
+      "rms_db": -22.1
+    },
+    "after": {
+      "dur": 7.776,
+      "rate": 2.701,
+      "rms_db": -24.95
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M73/M73_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 6.4,
+      "rate": 3.281,
+      "rms_db": -22.58
+    },
+    "after": {
+      "dur": 7.787,
+      "rate": 2.697,
+      "rms_db": -26.03
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M74/M74_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 7.6,
+      "rate": 2.763,
+      "rms_db": -24.09
+    },
+    "after": {
+      "dur": 7.776,
+      "rate": 2.701,
+      "rms_db": -26.24
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M75/M75_le.wav",
+    "emotion": "le",
+    "changed": false,
+    "before": {
+      "dur": 9.04,
+      "rate": 2.323,
+      "rms_db": -24.2
+    },
+    "after": {
+      "dur": 9.04,
+      "rate": 2.323,
+      "rms_db": -24.2
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M76/M76_le.wav",
+    "emotion": "le",
+    "changed": false,
+    "before": {
+      "dur": 8.72,
+      "rate": 2.408,
+      "rms_db": -24.79
+    },
+    "after": {
+      "dur": 8.72,
+      "rate": 2.408,
+      "rms_db": -24.79
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M77/M77_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 7.52,
+      "rate": 2.793,
+      "rms_db": -25.37
+    },
+    "after": {
+      "dur": 7.787,
+      "rate": 2.697,
+      "rms_db": -27.23
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M78/M78_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 7.52,
+      "rate": 2.793,
+      "rms_db": -23.62
+    },
+    "after": {
+      "dur": 7.787,
+      "rate": 2.697,
+      "rms_db": -25.99
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M79/M79_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 6.96,
+      "rate": 3.017,
+      "rms_db": -21.98
+    },
+    "after": {
+      "dur": 7.776,
+      "rate": 2.701,
+      "rms_db": -24.14
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M80/M80_le.wav",
+    "emotion": "le",
+    "changed": true,
+    "before": {
+      "dur": 6.8,
+      "rate": 3.088,
+      "rms_db": -22.59
+    },
+    "after": {
+      "dur": 7.776,
+      "rate": 2.701,
+      "rms_db": -26.89
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F01/F01_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 11.04,
+      "rate": 2.264,
+      "rms_db": -21.79
+    },
+    "after": {
+      "dur": 11.04,
+      "rate": 2.264,
+      "rms_db": -21.81
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F02/F02_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 9.92,
+      "rate": 2.52,
+      "rms_db": -25.03
+    },
+    "after": {
+      "dur": 9.92,
+      "rate": 2.52,
+      "rms_db": -25.05
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F03/F03_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 10.64,
+      "rate": 2.35,
+      "rms_db": -24.05
+    },
+    "after": {
+      "dur": 10.64,
+      "rate": 2.35,
+      "rms_db": -24.12
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F04/F04_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 11.2,
+      "rate": 2.232,
+      "rms_db": -21.49
+    },
+    "after": {
+      "dur": 11.2,
+      "rate": 2.232,
+      "rms_db": -21.5
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F05/F05_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 9.84,
+      "rate": 2.541,
+      "rms_db": -24.67
+    },
+    "after": {
+      "dur": 9.84,
+      "rate": 2.541,
+      "rms_db": -24.74
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F06/F06_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 9.52,
+      "rate": 2.626,
+      "rms_db": -21.56
+    },
+    "after": {
+      "dur": 9.52,
+      "rate": 2.626,
+      "rms_db": -21.6
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F07/F07_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 9.68,
+      "rate": 2.583,
+      "rms_db": -19.04
+    },
+    "after": {
+      "dur": 9.68,
+      "rate": 2.583,
+      "rms_db": -19.08
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F08/F08_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 15.2,
+      "rate": 1.645,
+      "rms_db": -21.2
+    },
+    "after": {
+      "dur": 15.2,
+      "rate": 1.645,
+      "rms_db": -21.22
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F09/F09_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 11.44,
+      "rate": 2.185,
+      "rms_db": -21.98
+    },
+    "after": {
+      "dur": 11.44,
+      "rate": 2.185,
+      "rms_db": -22.04
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F10/F10_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 10.24,
+      "rate": 2.441,
+      "rms_db": -21.36
+    },
+    "after": {
+      "dur": 10.24,
+      "rate": 2.441,
+      "rms_db": -21.42
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F11/F11_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 10.32,
+      "rate": 2.422,
+      "rms_db": -25.22
+    },
+    "after": {
+      "dur": 10.32,
+      "rate": 2.422,
+      "rms_db": -25.27
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F12/F12_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 10.72,
+      "rate": 2.332,
+      "rms_db": -24.61
+    },
+    "after": {
+      "dur": 10.72,
+      "rate": 2.332,
+      "rms_db": -24.68
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F13/F13_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 9.2,
+      "rate": 2.717,
+      "rms_db": -20.58
+    },
+    "after": {
+      "dur": 9.2,
+      "rate": 2.717,
+      "rms_db": -20.64
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F14/F14_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 9.36,
+      "rate": 2.671,
+      "rms_db": -23.39
+    },
+    "after": {
+      "dur": 9.36,
+      "rate": 2.671,
+      "rms_db": -23.41
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F15/F15_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 9.04,
+      "rate": 2.765,
+      "rms_db": -21.95
+    },
+    "after": {
+      "dur": 9.04,
+      "rate": 2.765,
+      "rms_db": -21.98
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F16/F16_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 10.16,
+      "rate": 2.461,
+      "rms_db": -29.38
+    },
+    "after": {
+      "dur": 10.16,
+      "rate": 2.461,
+      "rms_db": -29.51
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F17/F17_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 10.96,
+      "rate": 2.281,
+      "rms_db": -22.86
+    },
+    "after": {
+      "dur": 10.96,
+      "rate": 2.281,
+      "rms_db": -22.88
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F18/F18_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 9.52,
+      "rate": 2.626,
+      "rms_db": -24.13
+    },
+    "after": {
+      "dur": 9.52,
+      "rate": 2.626,
+      "rms_db": -24.18
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F19/F19_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 12.4,
+      "rate": 2.016,
+      "rms_db": -23.96
+    },
+    "after": {
+      "dur": 12.4,
+      "rate": 2.016,
+      "rms_db": -24.0
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F20/F20_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 9.6,
+      "rate": 2.604,
+      "rms_db": -21.17
+    },
+    "after": {
+      "dur": 9.6,
+      "rate": 2.604,
+      "rms_db": -21.25
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F21/F21_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 9.28,
+      "rate": 2.694,
+      "rms_db": -22.55
+    },
+    "after": {
+      "dur": 9.28,
+      "rate": 2.694,
+      "rms_db": -22.57
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F22/F22_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 13.12,
+      "rate": 1.905,
+      "rms_db": -25.38
+    },
+    "after": {
+      "dur": 13.12,
+      "rate": 1.905,
+      "rms_db": -25.46
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F23/F23_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 9.28,
+      "rate": 2.694,
+      "rms_db": -23.09
+    },
+    "after": {
+      "dur": 9.28,
+      "rate": 2.694,
+      "rms_db": -23.14
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F24/F24_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 10.4,
+      "rate": 2.404,
+      "rms_db": -24.16
+    },
+    "after": {
+      "dur": 10.4,
+      "rate": 2.404,
+      "rms_db": -24.21
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F25/F25_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 8.8,
+      "rate": 2.841,
+      "rms_db": -21.33
+    },
+    "after": {
+      "dur": 8.8,
+      "rate": 2.841,
+      "rms_db": -21.34
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F26/F26_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 12.88,
+      "rate": 1.941,
+      "rms_db": -28.46
+    },
+    "after": {
+      "dur": 12.88,
+      "rate": 1.941,
+      "rms_db": -28.62
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F27/F27_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 10.32,
+      "rate": 2.422,
+      "rms_db": -22.73
+    },
+    "after": {
+      "dur": 10.32,
+      "rate": 2.422,
+      "rms_db": -22.78
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F28/F28_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 10.56,
+      "rate": 2.367,
+      "rms_db": -25.49
+    },
+    "after": {
+      "dur": 10.56,
+      "rate": 2.367,
+      "rms_db": -25.56
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F29/F29_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 9.12,
+      "rate": 2.741,
+      "rms_db": -19.85
+    },
+    "after": {
+      "dur": 9.12,
+      "rate": 2.741,
+      "rms_db": -19.89
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F30/F30_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 9.76,
+      "rate": 2.561,
+      "rms_db": -21.64
+    },
+    "after": {
+      "dur": 9.76,
+      "rate": 2.561,
+      "rms_db": -21.69
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F31/F31_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 10.24,
+      "rate": 2.441,
+      "rms_db": -22.93
+    },
+    "after": {
+      "dur": 10.24,
+      "rate": 2.441,
+      "rms_db": -22.96
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F32/F32_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 10.96,
+      "rate": 2.281,
+      "rms_db": -22.36
+    },
+    "after": {
+      "dur": 10.96,
+      "rate": 2.281,
+      "rms_db": -22.4
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F33/F33_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 10.0,
+      "rate": 2.5,
+      "rms_db": -24.87
+    },
+    "after": {
+      "dur": 10.0,
+      "rate": 2.5,
+      "rms_db": -24.91
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F34/F34_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 12.56,
+      "rate": 1.99,
+      "rms_db": -22.44
+    },
+    "after": {
+      "dur": 12.56,
+      "rate": 1.99,
+      "rms_db": -22.44
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F35/F35_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 9.2,
+      "rate": 2.717,
+      "rms_db": -24.84
+    },
+    "after": {
+      "dur": 9.2,
+      "rate": 2.717,
+      "rms_db": -24.95
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F36/F36_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 10.88,
+      "rate": 2.298,
+      "rms_db": -23.31
+    },
+    "after": {
+      "dur": 10.88,
+      "rate": 2.298,
+      "rms_db": -23.38
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F37/F37_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 10.16,
+      "rate": 2.461,
+      "rms_db": -20.68
+    },
+    "after": {
+      "dur": 10.16,
+      "rate": 2.461,
+      "rms_db": -20.71
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F38/F38_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 9.52,
+      "rate": 2.626,
+      "rms_db": -22.12
+    },
+    "after": {
+      "dur": 9.52,
+      "rate": 2.626,
+      "rms_db": -22.15
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F39/F39_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 9.12,
+      "rate": 2.741,
+      "rms_db": -21.77
+    },
+    "after": {
+      "dur": 9.12,
+      "rate": 2.741,
+      "rms_db": -21.8
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F40/F40_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 9.6,
+      "rate": 2.604,
+      "rms_db": -22.23
+    },
+    "after": {
+      "dur": 9.6,
+      "rate": 2.604,
+      "rms_db": -22.3
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F41/F41_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 11.68,
+      "rate": 2.14,
+      "rms_db": -22.0
+    },
+    "after": {
+      "dur": 11.68,
+      "rate": 2.14,
+      "rms_db": -22.03
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F42/F42_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 9.44,
+      "rate": 2.648,
+      "rms_db": -30.42
+    },
+    "after": {
+      "dur": 9.44,
+      "rate": 2.648,
+      "rms_db": -30.49
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F43/F43_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 12.24,
+      "rate": 2.042,
+      "rms_db": -22.74
+    },
+    "after": {
+      "dur": 12.24,
+      "rate": 2.042,
+      "rms_db": -22.78
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F44/F44_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 8.72,
+      "rate": 2.867,
+      "rms_db": -20.79
+    },
+    "after": {
+      "dur": 8.72,
+      "rate": 2.867,
+      "rms_db": -20.81
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F45/F45_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 9.92,
+      "rate": 2.52,
+      "rms_db": -23.29
+    },
+    "after": {
+      "dur": 9.92,
+      "rate": 2.52,
+      "rms_db": -23.35
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F46/F46_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 8.48,
+      "rate": 2.948,
+      "rms_db": -20.85
+    },
+    "after": {
+      "dur": 8.48,
+      "rate": 2.948,
+      "rms_db": -20.89
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F47/F47_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 10.8,
+      "rate": 2.315,
+      "rms_db": -21.76
+    },
+    "after": {
+      "dur": 10.8,
+      "rate": 2.315,
+      "rms_db": -21.78
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F48/F48_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 9.04,
+      "rate": 2.765,
+      "rms_db": -22.95
+    },
+    "after": {
+      "dur": 9.04,
+      "rate": 2.765,
+      "rms_db": -23.01
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F49/F49_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 9.84,
+      "rate": 2.541,
+      "rms_db": -21.92
+    },
+    "after": {
+      "dur": 9.84,
+      "rate": 2.541,
+      "rms_db": -21.97
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F50/F50_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 9.36,
+      "rate": 2.671,
+      "rms_db": -25.32
+    },
+    "after": {
+      "dur": 9.36,
+      "rate": 2.671,
+      "rms_db": -25.37
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F51/F51_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 8.64,
+      "rate": 2.894,
+      "rms_db": -23.2
+    },
+    "after": {
+      "dur": 8.64,
+      "rate": 2.894,
+      "rms_db": -23.27
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F52/F52_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 10.96,
+      "rate": 2.281,
+      "rms_db": -22.16
+    },
+    "after": {
+      "dur": 10.96,
+      "rate": 2.281,
+      "rms_db": -22.2
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F53/F53_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 9.84,
+      "rate": 2.541,
+      "rms_db": -24.27
+    },
+    "after": {
+      "dur": 9.84,
+      "rate": 2.541,
+      "rms_db": -24.28
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F54/F54_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 10.24,
+      "rate": 2.441,
+      "rms_db": -23.07
+    },
+    "after": {
+      "dur": 10.24,
+      "rate": 2.441,
+      "rms_db": -23.12
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F55/F55_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 14.48,
+      "rate": 1.727,
+      "rms_db": -22.37
+    },
+    "after": {
+      "dur": 14.48,
+      "rate": 1.727,
+      "rms_db": -22.4
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F56/F56_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 9.12,
+      "rate": 2.741,
+      "rms_db": -24.38
+    },
+    "after": {
+      "dur": 9.12,
+      "rate": 2.741,
+      "rms_db": -24.41
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F57/F57_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 12.24,
+      "rate": 2.042,
+      "rms_db": -21.63
+    },
+    "after": {
+      "dur": 12.24,
+      "rate": 2.042,
+      "rms_db": -21.68
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F58/F58_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 10.64,
+      "rate": 2.35,
+      "rms_db": -22.51
+    },
+    "after": {
+      "dur": 10.64,
+      "rate": 2.35,
+      "rms_db": -22.55
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F59/F59_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 11.36,
+      "rate": 2.201,
+      "rms_db": -24.59
+    },
+    "after": {
+      "dur": 11.36,
+      "rate": 2.201,
+      "rms_db": -24.61
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F60/F60_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 9.6,
+      "rate": 2.604,
+      "rms_db": -25.45
+    },
+    "after": {
+      "dur": 9.6,
+      "rate": 2.604,
+      "rms_db": -25.49
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F61/F61_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 11.28,
+      "rate": 2.216,
+      "rms_db": -23.37
+    },
+    "after": {
+      "dur": 11.28,
+      "rate": 2.216,
+      "rms_db": -23.39
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F62/F62_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 11.44,
+      "rate": 2.185,
+      "rms_db": -24.03
+    },
+    "after": {
+      "dur": 11.44,
+      "rate": 2.185,
+      "rms_db": -24.06
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F63/F63_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 10.32,
+      "rate": 2.422,
+      "rms_db": -24.6
+    },
+    "after": {
+      "dur": 10.32,
+      "rate": 2.422,
+      "rms_db": -24.66
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F64/F64_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 10.56,
+      "rate": 2.367,
+      "rms_db": -20.49
+    },
+    "after": {
+      "dur": 10.56,
+      "rate": 2.367,
+      "rms_db": -20.52
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F65/F65_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 9.2,
+      "rate": 2.717,
+      "rms_db": -20.05
+    },
+    "after": {
+      "dur": 9.2,
+      "rate": 2.717,
+      "rms_db": -20.07
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F66/F66_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 10.56,
+      "rate": 2.367,
+      "rms_db": -22.73
+    },
+    "after": {
+      "dur": 10.56,
+      "rate": 2.367,
+      "rms_db": -22.77
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F67/F67_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 9.52,
+      "rate": 2.626,
+      "rms_db": -23.48
+    },
+    "after": {
+      "dur": 9.52,
+      "rate": 2.626,
+      "rms_db": -23.52
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F68/F68_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 8.8,
+      "rate": 2.841,
+      "rms_db": -23.71
+    },
+    "after": {
+      "dur": 8.8,
+      "rate": 2.841,
+      "rms_db": -23.82
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F69/F69_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 9.36,
+      "rate": 2.671,
+      "rms_db": -23.0
+    },
+    "after": {
+      "dur": 9.36,
+      "rate": 2.671,
+      "rms_db": -23.04
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F70/F70_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 9.04,
+      "rate": 2.765,
+      "rms_db": -22.71
+    },
+    "after": {
+      "dur": 9.04,
+      "rate": 2.765,
+      "rms_db": -22.77
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M01/M01_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 10.08,
+      "rate": 2.48,
+      "rms_db": -22.6
+    },
+    "after": {
+      "dur": 10.08,
+      "rate": 2.48,
+      "rms_db": -22.68
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M02/M02_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 7.76,
+      "rate": 3.222,
+      "rms_db": -21.15
+    },
+    "after": {
+      "dur": 7.76,
+      "rate": 3.222,
+      "rms_db": -21.17
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M03/M03_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 12.16,
+      "rate": 2.056,
+      "rms_db": -25.39
+    },
+    "after": {
+      "dur": 12.16,
+      "rate": 2.056,
+      "rms_db": -25.4
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M04/M04_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 9.36,
+      "rate": 2.671,
+      "rms_db": -22.39
+    },
+    "after": {
+      "dur": 9.36,
+      "rate": 2.671,
+      "rms_db": -22.43
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M05/M05_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 9.2,
+      "rate": 2.717,
+      "rms_db": -26.95
+    },
+    "after": {
+      "dur": 9.2,
+      "rate": 2.717,
+      "rms_db": -26.96
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M06/M06_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 8.08,
+      "rate": 3.094,
+      "rms_db": -22.58
+    },
+    "after": {
+      "dur": 8.08,
+      "rate": 3.094,
+      "rms_db": -22.6
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M07/M07_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 8.8,
+      "rate": 2.841,
+      "rms_db": -21.89
+    },
+    "after": {
+      "dur": 8.8,
+      "rate": 2.841,
+      "rms_db": -21.98
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M08/M08_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 10.24,
+      "rate": 2.441,
+      "rms_db": -24.7
+    },
+    "after": {
+      "dur": 10.24,
+      "rate": 2.441,
+      "rms_db": -24.73
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M09/M09_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 8.88,
+      "rate": 2.815,
+      "rms_db": -22.92
+    },
+    "after": {
+      "dur": 8.88,
+      "rate": 2.815,
+      "rms_db": -22.98
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M10/M10_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 8.72,
+      "rate": 2.867,
+      "rms_db": -22.14
+    },
+    "after": {
+      "dur": 8.72,
+      "rate": 2.867,
+      "rms_db": -22.19
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M11/M11_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 9.52,
+      "rate": 2.626,
+      "rms_db": -22.86
+    },
+    "after": {
+      "dur": 9.52,
+      "rate": 2.626,
+      "rms_db": -22.89
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M12/M12_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 10.4,
+      "rate": 2.404,
+      "rms_db": -24.01
+    },
+    "after": {
+      "dur": 10.4,
+      "rate": 2.404,
+      "rms_db": -24.04
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M13/M13_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 8.64,
+      "rate": 2.894,
+      "rms_db": -23.23
+    },
+    "after": {
+      "dur": 8.64,
+      "rate": 2.894,
+      "rms_db": -23.29
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M14/M14_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 7.52,
+      "rate": 3.324,
+      "rms_db": -23.17
+    },
+    "after": {
+      "dur": 7.52,
+      "rate": 3.324,
+      "rms_db": -23.2
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M15/M15_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 8.8,
+      "rate": 2.841,
+      "rms_db": -22.89
+    },
+    "after": {
+      "dur": 8.8,
+      "rate": 2.841,
+      "rms_db": -22.9
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M16/M16_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 12.0,
+      "rate": 2.083,
+      "rms_db": -25.22
+    },
+    "after": {
+      "dur": 12.0,
+      "rate": 2.083,
+      "rms_db": -25.22
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M17/M17_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 8.72,
+      "rate": 2.867,
+      "rms_db": -22.97
+    },
+    "after": {
+      "dur": 8.72,
+      "rate": 2.867,
+      "rms_db": -23.01
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M18/M18_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 9.68,
+      "rate": 2.583,
+      "rms_db": -21.37
+    },
+    "after": {
+      "dur": 9.68,
+      "rate": 2.583,
+      "rms_db": -21.4
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M19/M19_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 10.4,
+      "rate": 2.404,
+      "rms_db": -22.84
+    },
+    "after": {
+      "dur": 10.4,
+      "rate": 2.404,
+      "rms_db": -22.91
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M20/M20_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 9.76,
+      "rate": 2.561,
+      "rms_db": -22.46
+    },
+    "after": {
+      "dur": 9.76,
+      "rate": 2.561,
+      "rms_db": -22.52
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M21/M21_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 8.72,
+      "rate": 2.867,
+      "rms_db": -21.62
+    },
+    "after": {
+      "dur": 8.72,
+      "rate": 2.867,
+      "rms_db": -21.68
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M22/M22_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 8.64,
+      "rate": 2.894,
+      "rms_db": -22.61
+    },
+    "after": {
+      "dur": 8.64,
+      "rate": 2.894,
+      "rms_db": -22.64
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M23/M23_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 10.08,
+      "rate": 2.48,
+      "rms_db": -23.0
+    },
+    "after": {
+      "dur": 10.08,
+      "rate": 2.48,
+      "rms_db": -23.04
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M24/M24_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 8.8,
+      "rate": 2.841,
+      "rms_db": -24.36
+    },
+    "after": {
+      "dur": 8.8,
+      "rate": 2.841,
+      "rms_db": -24.39
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M25/M25_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 10.48,
+      "rate": 2.385,
+      "rms_db": -21.52
+    },
+    "after": {
+      "dur": 10.48,
+      "rate": 2.385,
+      "rms_db": -21.54
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M26/M26_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 10.56,
+      "rate": 2.367,
+      "rms_db": -21.88
+    },
+    "after": {
+      "dur": 10.56,
+      "rate": 2.367,
+      "rms_db": -21.91
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M27/M27_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 9.52,
+      "rate": 2.626,
+      "rms_db": -22.03
+    },
+    "after": {
+      "dur": 9.52,
+      "rate": 2.626,
+      "rms_db": -22.06
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M28/M28_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 11.2,
+      "rate": 2.232,
+      "rms_db": -23.87
+    },
+    "after": {
+      "dur": 11.2,
+      "rate": 2.232,
+      "rms_db": -23.91
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M29/M29_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 10.48,
+      "rate": 2.385,
+      "rms_db": -23.18
+    },
+    "after": {
+      "dur": 10.48,
+      "rate": 2.385,
+      "rms_db": -23.18
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M30/M30_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 9.68,
+      "rate": 2.583,
+      "rms_db": -25.25
+    },
+    "after": {
+      "dur": 9.68,
+      "rate": 2.583,
+      "rms_db": -25.26
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M31/M31_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 10.64,
+      "rate": 2.35,
+      "rms_db": -24.64
+    },
+    "after": {
+      "dur": 10.64,
+      "rate": 2.35,
+      "rms_db": -24.68
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M32/M32_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 9.76,
+      "rate": 2.561,
+      "rms_db": -24.79
+    },
+    "after": {
+      "dur": 9.76,
+      "rate": 2.561,
+      "rms_db": -24.89
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M33/M33_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 9.6,
+      "rate": 2.604,
+      "rms_db": -27.54
+    },
+    "after": {
+      "dur": 9.6,
+      "rate": 2.604,
+      "rms_db": -27.61
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M34/M34_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 9.6,
+      "rate": 2.604,
+      "rms_db": -25.61
+    },
+    "after": {
+      "dur": 9.6,
+      "rate": 2.604,
+      "rms_db": -25.66
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M35/M35_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 10.32,
+      "rate": 2.422,
+      "rms_db": -27.67
+    },
+    "after": {
+      "dur": 10.32,
+      "rate": 2.422,
+      "rms_db": -27.73
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M36/M36_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 8.16,
+      "rate": 3.064,
+      "rms_db": -22.44
+    },
+    "after": {
+      "dur": 8.16,
+      "rate": 3.064,
+      "rms_db": -22.48
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M37/M37_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 10.24,
+      "rate": 2.441,
+      "rms_db": -24.42
+    },
+    "after": {
+      "dur": 10.24,
+      "rate": 2.441,
+      "rms_db": -24.48
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M38/M38_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 9.52,
+      "rate": 2.626,
+      "rms_db": -23.75
+    },
+    "after": {
+      "dur": 9.52,
+      "rate": 2.626,
+      "rms_db": -23.79
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M39/M39_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 10.8,
+      "rate": 2.315,
+      "rms_db": -20.8
+    },
+    "after": {
+      "dur": 10.8,
+      "rate": 2.315,
+      "rms_db": -20.83
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M40/M40_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 7.84,
+      "rate": 3.189,
+      "rms_db": -25.46
+    },
+    "after": {
+      "dur": 7.84,
+      "rate": 3.189,
+      "rms_db": -25.54
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M41/M41_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 9.44,
+      "rate": 2.648,
+      "rms_db": -23.49
+    },
+    "after": {
+      "dur": 9.44,
+      "rate": 2.648,
+      "rms_db": -23.55
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M42/M42_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 9.92,
+      "rate": 2.52,
+      "rms_db": -26.38
+    },
+    "after": {
+      "dur": 9.92,
+      "rate": 2.52,
+      "rms_db": -26.49
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M43/M43_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 8.88,
+      "rate": 2.815,
+      "rms_db": -21.63
+    },
+    "after": {
+      "dur": 8.88,
+      "rate": 2.815,
+      "rms_db": -21.66
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M44/M44_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 8.32,
+      "rate": 3.005,
+      "rms_db": -23.82
+    },
+    "after": {
+      "dur": 8.32,
+      "rate": 3.005,
+      "rms_db": -23.89
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M45/M45_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 12.16,
+      "rate": 2.056,
+      "rms_db": -21.38
+    },
+    "after": {
+      "dur": 12.16,
+      "rate": 2.056,
+      "rms_db": -21.43
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M46/M46_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 11.36,
+      "rate": 2.201,
+      "rms_db": -23.42
+    },
+    "after": {
+      "dur": 11.36,
+      "rate": 2.201,
+      "rms_db": -23.51
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M47/M47_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 9.2,
+      "rate": 2.717,
+      "rms_db": -24.31
+    },
+    "after": {
+      "dur": 9.2,
+      "rate": 2.717,
+      "rms_db": -24.33
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M48/M48_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 9.68,
+      "rate": 2.583,
+      "rms_db": -21.05
+    },
+    "after": {
+      "dur": 9.68,
+      "rate": 2.583,
+      "rms_db": -21.09
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M49/M49_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 10.0,
+      "rate": 2.5,
+      "rms_db": -22.57
+    },
+    "after": {
+      "dur": 10.0,
+      "rate": 2.5,
+      "rms_db": -22.59
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M50/M50_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 11.04,
+      "rate": 2.264,
+      "rms_db": -24.43
+    },
+    "after": {
+      "dur": 11.04,
+      "rate": 2.264,
+      "rms_db": -24.45
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M51/M51_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 13.84,
+      "rate": 1.806,
+      "rms_db": -27.68
+    },
+    "after": {
+      "dur": 13.84,
+      "rate": 1.806,
+      "rms_db": -27.79
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M52/M52_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 12.56,
+      "rate": 1.99,
+      "rms_db": -21.37
+    },
+    "after": {
+      "dur": 12.56,
+      "rate": 1.99,
+      "rms_db": -21.39
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M53/M53_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 18.24,
+      "rate": 1.371,
+      "rms_db": -22.51
+    },
+    "after": {
+      "dur": 18.24,
+      "rate": 1.371,
+      "rms_db": -22.57
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M54/M54_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 9.68,
+      "rate": 2.583,
+      "rms_db": -22.84
+    },
+    "after": {
+      "dur": 9.68,
+      "rate": 2.583,
+      "rms_db": -22.86
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M55/M55_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 10.64,
+      "rate": 2.35,
+      "rms_db": -23.88
+    },
+    "after": {
+      "dur": 10.64,
+      "rate": 2.35,
+      "rms_db": -23.9
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M56/M56_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 12.0,
+      "rate": 2.083,
+      "rms_db": -20.63
+    },
+    "after": {
+      "dur": 12.0,
+      "rate": 2.083,
+      "rms_db": -20.68
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M57/M57_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 8.96,
+      "rate": 2.79,
+      "rms_db": -24.03
+    },
+    "after": {
+      "dur": 8.96,
+      "rate": 2.79,
+      "rms_db": -24.09
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M58/M58_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 12.4,
+      "rate": 2.016,
+      "rms_db": -22.0
+    },
+    "after": {
+      "dur": 12.4,
+      "rate": 2.016,
+      "rms_db": -22.01
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M59/M59_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 10.48,
+      "rate": 2.385,
+      "rms_db": -24.49
+    },
+    "after": {
+      "dur": 10.48,
+      "rate": 2.385,
+      "rms_db": -24.59
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M60/M60_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 10.48,
+      "rate": 2.385,
+      "rms_db": -23.95
+    },
+    "after": {
+      "dur": 10.48,
+      "rate": 2.385,
+      "rms_db": -23.98
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M61/M61_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 10.4,
+      "rate": 2.404,
+      "rms_db": -26.99
+    },
+    "after": {
+      "dur": 10.4,
+      "rate": 2.404,
+      "rms_db": -27.01
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M62/M62_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 10.48,
+      "rate": 2.385,
+      "rms_db": -22.85
+    },
+    "after": {
+      "dur": 10.48,
+      "rate": 2.385,
+      "rms_db": -22.89
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M63/M63_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 10.4,
+      "rate": 2.404,
+      "rms_db": -25.89
+    },
+    "after": {
+      "dur": 10.4,
+      "rate": 2.404,
+      "rms_db": -25.91
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M64/M64_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 11.28,
+      "rate": 2.216,
+      "rms_db": -21.09
+    },
+    "after": {
+      "dur": 11.28,
+      "rate": 2.216,
+      "rms_db": -21.13
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M65/M65_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 9.92,
+      "rate": 2.52,
+      "rms_db": -23.11
+    },
+    "after": {
+      "dur": 9.92,
+      "rate": 2.52,
+      "rms_db": -23.14
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M66/M66_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 10.0,
+      "rate": 2.5,
+      "rms_db": -27.7
+    },
+    "after": {
+      "dur": 10.0,
+      "rate": 2.5,
+      "rms_db": -27.76
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M67/M67_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 8.64,
+      "rate": 2.894,
+      "rms_db": -21.59
+    },
+    "after": {
+      "dur": 8.64,
+      "rate": 2.894,
+      "rms_db": -21.62
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M68/M68_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 10.88,
+      "rate": 2.298,
+      "rms_db": -27.34
+    },
+    "after": {
+      "dur": 10.88,
+      "rate": 2.298,
+      "rms_db": -27.38
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M69/M69_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 9.68,
+      "rate": 2.583,
+      "rms_db": -21.52
+    },
+    "after": {
+      "dur": 9.68,
+      "rate": 2.583,
+      "rms_db": -21.57
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M70/M70_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 10.0,
+      "rate": 2.5,
+      "rms_db": -32.96
+    },
+    "after": {
+      "dur": 10.0,
+      "rate": 2.5,
+      "rms_db": -33.03
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M71/M71_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 9.68,
+      "rate": 2.583,
+      "rms_db": -22.78
+    },
+    "after": {
+      "dur": 9.68,
+      "rate": 2.583,
+      "rms_db": -22.82
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M72/M72_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 10.48,
+      "rate": 2.385,
+      "rms_db": -23.74
+    },
+    "after": {
+      "dur": 10.48,
+      "rate": 2.385,
+      "rms_db": -23.76
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M73/M73_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 9.2,
+      "rate": 2.717,
+      "rms_db": -23.15
+    },
+    "after": {
+      "dur": 9.2,
+      "rate": 2.717,
+      "rms_db": -23.16
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M74/M74_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 9.2,
+      "rate": 2.717,
+      "rms_db": -24.84
+    },
+    "after": {
+      "dur": 9.2,
+      "rate": 2.717,
+      "rms_db": -24.86
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M75/M75_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 18.64,
+      "rate": 1.341,
+      "rms_db": -25.67
+    },
+    "after": {
+      "dur": 18.64,
+      "rate": 1.341,
+      "rms_db": -25.72
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M76/M76_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 11.04,
+      "rate": 2.264,
+      "rms_db": -24.51
+    },
+    "after": {
+      "dur": 11.04,
+      "rate": 2.264,
+      "rms_db": -24.51
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M77/M77_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 9.68,
+      "rate": 2.583,
+      "rms_db": -25.86
+    },
+    "after": {
+      "dur": 9.68,
+      "rate": 2.583,
+      "rms_db": -25.97
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M78/M78_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 8.96,
+      "rate": 2.79,
+      "rms_db": -21.98
+    },
+    "after": {
+      "dur": 8.96,
+      "rate": 2.79,
+      "rms_db": -22.02
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M79/M79_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 13.92,
+      "rate": 1.796,
+      "rms_db": -23.5
+    },
+    "after": {
+      "dur": 13.92,
+      "rate": 1.796,
+      "rms_db": -23.52
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M80/M80_ai.wav",
+    "emotion": "ai",
+    "changed": true,
+    "before": {
+      "dur": 10.16,
+      "rate": 2.461,
+      "rms_db": -23.29
+    },
+    "after": {
+      "dur": 10.16,
+      "rate": 2.461,
+      "rms_db": -23.32
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F01/F01_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 10.72,
+      "rate": 1.399,
+      "rms_db": -27.42
+    },
+    "after": {
+      "dur": 10.72,
+      "rate": 1.399,
+      "rms_db": -27.95
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F02/F02_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 9.36,
+      "rate": 1.603,
+      "rms_db": -19.94
+    },
+    "after": {
+      "dur": 9.36,
+      "rate": 1.603,
+      "rms_db": -20.48
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F03/F03_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 9.52,
+      "rate": 1.576,
+      "rms_db": -31.82
+    },
+    "after": {
+      "dur": 9.52,
+      "rate": 1.576,
+      "rms_db": -32.33
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F04/F04_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 6.8,
+      "rate": 2.206,
+      "rms_db": -22.44
+    },
+    "after": {
+      "dur": 6.8,
+      "rate": 2.206,
+      "rms_db": -22.97
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F05/F05_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 8.96,
+      "rate": 1.674,
+      "rms_db": -22.1
+    },
+    "after": {
+      "dur": 8.96,
+      "rate": 1.674,
+      "rms_db": -22.63
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F06/F06_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 9.28,
+      "rate": 1.616,
+      "rms_db": -23.76
+    },
+    "after": {
+      "dur": 9.28,
+      "rate": 1.616,
+      "rms_db": -24.3
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F07/F07_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 8.88,
+      "rate": 1.689,
+      "rms_db": -24.5
+    },
+    "after": {
+      "dur": 8.88,
+      "rate": 1.689,
+      "rms_db": -25.04
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F08/F08_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 8.0,
+      "rate": 1.875,
+      "rms_db": -31.61
+    },
+    "after": {
+      "dur": 8.0,
+      "rate": 1.875,
+      "rms_db": -32.12
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F09/F09_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 8.32,
+      "rate": 1.803,
+      "rms_db": -22.94
+    },
+    "after": {
+      "dur": 8.32,
+      "rate": 1.803,
+      "rms_db": -23.47
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F10/F10_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 10.0,
+      "rate": 1.5,
+      "rms_db": -24.49
+    },
+    "after": {
+      "dur": 10.0,
+      "rate": 1.5,
+      "rms_db": -25.02
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F11/F11_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 7.44,
+      "rate": 2.016,
+      "rms_db": -25.02
+    },
+    "after": {
+      "dur": 7.44,
+      "rate": 2.016,
+      "rms_db": -25.55
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F12/F12_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 8.24,
+      "rate": 1.82,
+      "rms_db": -22.73
+    },
+    "after": {
+      "dur": 8.24,
+      "rate": 1.82,
+      "rms_db": -23.27
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F13/F13_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 8.64,
+      "rate": 1.736,
+      "rms_db": -20.81
+    },
+    "after": {
+      "dur": 8.64,
+      "rate": 1.736,
+      "rms_db": -21.34
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F14/F14_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 8.48,
+      "rate": 1.769,
+      "rms_db": -28.73
+    },
+    "after": {
+      "dur": 8.48,
+      "rate": 1.769,
+      "rms_db": -29.26
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F15/F15_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 8.32,
+      "rate": 1.803,
+      "rms_db": -21.4
+    },
+    "after": {
+      "dur": 8.32,
+      "rate": 1.803,
+      "rms_db": -21.93
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F16/F16_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 7.6,
+      "rate": 1.974,
+      "rms_db": -23.21
+    },
+    "after": {
+      "dur": 7.6,
+      "rate": 1.974,
+      "rms_db": -23.74
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F17/F17_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 9.68,
+      "rate": 1.55,
+      "rms_db": -25.85
+    },
+    "after": {
+      "dur": 9.68,
+      "rate": 1.55,
+      "rms_db": -26.38
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F18/F18_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 9.28,
+      "rate": 1.616,
+      "rms_db": -23.6
+    },
+    "after": {
+      "dur": 9.28,
+      "rate": 1.616,
+      "rms_db": -24.14
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F19/F19_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 6.96,
+      "rate": 2.155,
+      "rms_db": -25.14
+    },
+    "after": {
+      "dur": 6.96,
+      "rate": 2.155,
+      "rms_db": -25.67
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F20/F20_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 8.56,
+      "rate": 1.752,
+      "rms_db": -22.28
+    },
+    "after": {
+      "dur": 8.56,
+      "rate": 1.752,
+      "rms_db": -22.81
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F21/F21_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 7.84,
+      "rate": 1.913,
+      "rms_db": -28.16
+    },
+    "after": {
+      "dur": 7.84,
+      "rate": 1.913,
+      "rms_db": -28.68
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F22/F22_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 7.52,
+      "rate": 1.995,
+      "rms_db": -22.82
+    },
+    "after": {
+      "dur": 7.52,
+      "rate": 1.995,
+      "rms_db": -23.35
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F23/F23_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 8.96,
+      "rate": 1.674,
+      "rms_db": -20.73
+    },
+    "after": {
+      "dur": 8.96,
+      "rate": 1.674,
+      "rms_db": -21.27
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F24/F24_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 8.56,
+      "rate": 1.752,
+      "rms_db": -27.0
+    },
+    "after": {
+      "dur": 8.56,
+      "rate": 1.752,
+      "rms_db": -27.53
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F25/F25_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 8.16,
+      "rate": 1.838,
+      "rms_db": -23.3
+    },
+    "after": {
+      "dur": 8.16,
+      "rate": 1.838,
+      "rms_db": -23.84
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F26/F26_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 7.6,
+      "rate": 1.974,
+      "rms_db": -22.79
+    },
+    "after": {
+      "dur": 7.6,
+      "rate": 1.974,
+      "rms_db": -23.32
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F27/F27_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 11.76,
+      "rate": 1.276,
+      "rms_db": -29.14
+    },
+    "after": {
+      "dur": 11.76,
+      "rate": 1.276,
+      "rms_db": -29.67
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F28/F28_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 10.48,
+      "rate": 1.431,
+      "rms_db": -25.18
+    },
+    "after": {
+      "dur": 10.48,
+      "rate": 1.431,
+      "rms_db": -25.71
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F29/F29_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 9.92,
+      "rate": 1.512,
+      "rms_db": -24.05
+    },
+    "after": {
+      "dur": 9.92,
+      "rate": 1.512,
+      "rms_db": -24.58
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F30/F30_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 11.28,
+      "rate": 1.33,
+      "rms_db": -27.23
+    },
+    "after": {
+      "dur": 11.28,
+      "rate": 1.33,
+      "rms_db": -27.76
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F31/F31_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 7.76,
+      "rate": 1.933,
+      "rms_db": -20.17
+    },
+    "after": {
+      "dur": 7.76,
+      "rate": 1.933,
+      "rms_db": -20.71
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F32/F32_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 8.16,
+      "rate": 1.838,
+      "rms_db": -24.63
+    },
+    "after": {
+      "dur": 8.16,
+      "rate": 1.838,
+      "rms_db": -25.16
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F33/F33_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 8.8,
+      "rate": 1.705,
+      "rms_db": -24.61
+    },
+    "after": {
+      "dur": 8.8,
+      "rate": 1.705,
+      "rms_db": -25.14
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F34/F34_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 9.36,
+      "rate": 1.603,
+      "rms_db": -23.39
+    },
+    "after": {
+      "dur": 9.36,
+      "rate": 1.603,
+      "rms_db": -23.92
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F35/F35_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 7.68,
+      "rate": 1.953,
+      "rms_db": -20.77
+    },
+    "after": {
+      "dur": 7.68,
+      "rate": 1.953,
+      "rms_db": -21.31
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F36/F36_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 10.56,
+      "rate": 1.42,
+      "rms_db": -25.15
+    },
+    "after": {
+      "dur": 10.56,
+      "rate": 1.42,
+      "rms_db": -25.68
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F37/F37_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 9.2,
+      "rate": 1.63,
+      "rms_db": -27.73
+    },
+    "after": {
+      "dur": 9.2,
+      "rate": 1.63,
+      "rms_db": -28.26
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F38/F38_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 12.08,
+      "rate": 1.242,
+      "rms_db": -25.5
+    },
+    "after": {
+      "dur": 12.08,
+      "rate": 1.242,
+      "rms_db": -26.04
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F39/F39_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 8.16,
+      "rate": 1.838,
+      "rms_db": -25.1
+    },
+    "after": {
+      "dur": 8.16,
+      "rate": 1.838,
+      "rms_db": -25.63
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F40/F40_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 11.04,
+      "rate": 1.359,
+      "rms_db": -25.39
+    },
+    "after": {
+      "dur": 11.04,
+      "rate": 1.359,
+      "rms_db": -25.92
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F41/F41_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 7.2,
+      "rate": 2.083,
+      "rms_db": -22.11
+    },
+    "after": {
+      "dur": 7.2,
+      "rate": 2.083,
+      "rms_db": -22.65
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F42/F42_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 9.68,
+      "rate": 1.55,
+      "rms_db": -25.65
+    },
+    "after": {
+      "dur": 9.68,
+      "rate": 1.55,
+      "rms_db": -26.18
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F43/F43_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 8.72,
+      "rate": 1.72,
+      "rms_db": -22.12
+    },
+    "after": {
+      "dur": 8.72,
+      "rate": 1.72,
+      "rms_db": -22.65
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F44/F44_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 9.2,
+      "rate": 1.63,
+      "rms_db": -24.73
+    },
+    "after": {
+      "dur": 9.2,
+      "rate": 1.63,
+      "rms_db": -25.26
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F45/F45_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 7.92,
+      "rate": 1.894,
+      "rms_db": -22.65
+    },
+    "after": {
+      "dur": 7.92,
+      "rate": 1.894,
+      "rms_db": -23.18
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F46/F46_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 9.12,
+      "rate": 1.645,
+      "rms_db": -26.08
+    },
+    "after": {
+      "dur": 9.12,
+      "rate": 1.645,
+      "rms_db": -26.61
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F47/F47_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 7.84,
+      "rate": 1.913,
+      "rms_db": -25.31
+    },
+    "after": {
+      "dur": 7.84,
+      "rate": 1.913,
+      "rms_db": -25.84
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F48/F48_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 8.32,
+      "rate": 1.803,
+      "rms_db": -24.84
+    },
+    "after": {
+      "dur": 8.32,
+      "rate": 1.803,
+      "rms_db": -25.37
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F49/F49_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 9.04,
+      "rate": 1.659,
+      "rms_db": -25.46
+    },
+    "after": {
+      "dur": 9.04,
+      "rate": 1.659,
+      "rms_db": -25.99
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F50/F50_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 7.6,
+      "rate": 1.974,
+      "rms_db": -22.95
+    },
+    "after": {
+      "dur": 7.6,
+      "rate": 1.974,
+      "rms_db": -23.48
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F51/F51_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 9.2,
+      "rate": 1.63,
+      "rms_db": -25.06
+    },
+    "after": {
+      "dur": 9.2,
+      "rate": 1.63,
+      "rms_db": -25.59
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F52/F52_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 8.24,
+      "rate": 1.82,
+      "rms_db": -24.13
+    },
+    "after": {
+      "dur": 8.24,
+      "rate": 1.82,
+      "rms_db": -24.66
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F53/F53_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 7.12,
+      "rate": 2.107,
+      "rms_db": -22.61
+    },
+    "after": {
+      "dur": 7.12,
+      "rate": 2.107,
+      "rms_db": -23.14
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F54/F54_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 8.64,
+      "rate": 1.736,
+      "rms_db": -22.74
+    },
+    "after": {
+      "dur": 8.64,
+      "rate": 1.736,
+      "rms_db": -23.28
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F55/F55_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 8.4,
+      "rate": 1.786,
+      "rms_db": -22.09
+    },
+    "after": {
+      "dur": 8.4,
+      "rate": 1.786,
+      "rms_db": -22.63
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F56/F56_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 8.64,
+      "rate": 1.736,
+      "rms_db": -24.21
+    },
+    "after": {
+      "dur": 8.64,
+      "rate": 1.736,
+      "rms_db": -24.74
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F57/F57_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 9.36,
+      "rate": 1.603,
+      "rms_db": -22.12
+    },
+    "after": {
+      "dur": 9.36,
+      "rate": 1.603,
+      "rms_db": -22.65
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F58/F58_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 10.64,
+      "rate": 1.41,
+      "rms_db": -24.9
+    },
+    "after": {
+      "dur": 10.64,
+      "rate": 1.41,
+      "rms_db": -25.43
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F59/F59_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 8.72,
+      "rate": 1.72,
+      "rms_db": -21.32
+    },
+    "after": {
+      "dur": 8.72,
+      "rate": 1.72,
+      "rms_db": -21.86
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F60/F60_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 7.84,
+      "rate": 1.913,
+      "rms_db": -22.58
+    },
+    "after": {
+      "dur": 7.84,
+      "rate": 1.913,
+      "rms_db": -23.11
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F61/F61_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 7.2,
+      "rate": 2.083,
+      "rms_db": -23.41
+    },
+    "after": {
+      "dur": 7.2,
+      "rate": 2.083,
+      "rms_db": -23.95
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F62/F62_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 7.68,
+      "rate": 1.953,
+      "rms_db": -26.08
+    },
+    "after": {
+      "dur": 7.68,
+      "rate": 1.953,
+      "rms_db": -26.61
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F63/F63_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 11.44,
+      "rate": 1.311,
+      "rms_db": -30.64
+    },
+    "after": {
+      "dur": 11.44,
+      "rate": 1.311,
+      "rms_db": -31.16
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F64/F64_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 6.88,
+      "rate": 2.18,
+      "rms_db": -22.65
+    },
+    "after": {
+      "dur": 6.88,
+      "rate": 2.18,
+      "rms_db": -23.19
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F65/F65_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 6.96,
+      "rate": 2.155,
+      "rms_db": -23.84
+    },
+    "after": {
+      "dur": 6.96,
+      "rate": 2.155,
+      "rms_db": -24.37
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F66/F66_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 8.8,
+      "rate": 1.705,
+      "rms_db": -24.08
+    },
+    "after": {
+      "dur": 8.8,
+      "rate": 1.705,
+      "rms_db": -24.61
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F67/F67_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 8.64,
+      "rate": 1.736,
+      "rms_db": -24.66
+    },
+    "after": {
+      "dur": 8.64,
+      "rate": 1.736,
+      "rms_db": -25.19
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F68/F68_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 6.8,
+      "rate": 2.206,
+      "rms_db": -22.98
+    },
+    "after": {
+      "dur": 6.8,
+      "rate": 2.206,
+      "rms_db": -23.51
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F69/F69_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 8.88,
+      "rate": 1.689,
+      "rms_db": -23.38
+    },
+    "after": {
+      "dur": 8.88,
+      "rate": 1.689,
+      "rms_db": -23.91
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/F70/F70_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 8.88,
+      "rate": 1.689,
+      "rms_db": -22.47
+    },
+    "after": {
+      "dur": 8.88,
+      "rate": 1.689,
+      "rms_db": -23.01
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M01/M01_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 8.4,
+      "rate": 1.786,
+      "rms_db": -23.05
+    },
+    "after": {
+      "dur": 8.4,
+      "rate": 1.786,
+      "rms_db": -23.58
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M02/M02_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 9.76,
+      "rate": 1.537,
+      "rms_db": -29.91
+    },
+    "after": {
+      "dur": 9.76,
+      "rate": 1.537,
+      "rms_db": -30.43
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M03/M03_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 8.24,
+      "rate": 1.82,
+      "rms_db": -24.62
+    },
+    "after": {
+      "dur": 8.24,
+      "rate": 1.82,
+      "rms_db": -25.15
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M04/M04_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 9.2,
+      "rate": 1.63,
+      "rms_db": -25.54
+    },
+    "after": {
+      "dur": 9.2,
+      "rate": 1.63,
+      "rms_db": -26.07
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M05/M05_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 8.0,
+      "rate": 1.875,
+      "rms_db": -24.58
+    },
+    "after": {
+      "dur": 8.0,
+      "rate": 1.875,
+      "rms_db": -25.11
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M06/M06_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 9.44,
+      "rate": 1.589,
+      "rms_db": -23.11
+    },
+    "after": {
+      "dur": 9.44,
+      "rate": 1.589,
+      "rms_db": -23.64
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M07/M07_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 6.88,
+      "rate": 2.18,
+      "rms_db": -23.44
+    },
+    "after": {
+      "dur": 6.88,
+      "rate": 2.18,
+      "rms_db": -23.97
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M08/M08_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 7.68,
+      "rate": 1.953,
+      "rms_db": -22.81
+    },
+    "after": {
+      "dur": 7.68,
+      "rate": 1.953,
+      "rms_db": -23.34
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M09/M09_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 9.12,
+      "rate": 1.645,
+      "rms_db": -24.32
+    },
+    "after": {
+      "dur": 9.12,
+      "rate": 1.645,
+      "rms_db": -24.86
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M10/M10_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 8.08,
+      "rate": 1.856,
+      "rms_db": -22.64
+    },
+    "after": {
+      "dur": 8.08,
+      "rate": 1.856,
+      "rms_db": -23.18
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M11/M11_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 9.36,
+      "rate": 1.603,
+      "rms_db": -25.69
+    },
+    "after": {
+      "dur": 9.36,
+      "rate": 1.603,
+      "rms_db": -26.22
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M12/M12_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 9.2,
+      "rate": 1.63,
+      "rms_db": -23.48
+    },
+    "after": {
+      "dur": 9.2,
+      "rate": 1.63,
+      "rms_db": -24.01
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M13/M13_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 8.24,
+      "rate": 1.82,
+      "rms_db": -25.96
+    },
+    "after": {
+      "dur": 8.24,
+      "rate": 1.82,
+      "rms_db": -26.49
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M14/M14_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 12.16,
+      "rate": 1.234,
+      "rms_db": -22.9
+    },
+    "after": {
+      "dur": 12.16,
+      "rate": 1.234,
+      "rms_db": -23.43
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M15/M15_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 7.84,
+      "rate": 1.913,
+      "rms_db": -23.42
+    },
+    "after": {
+      "dur": 7.84,
+      "rate": 1.913,
+      "rms_db": -23.96
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M16/M16_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 10.48,
+      "rate": 1.431,
+      "rms_db": -29.12
+    },
+    "after": {
+      "dur": 10.48,
+      "rate": 1.431,
+      "rms_db": -29.64
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M17/M17_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 7.68,
+      "rate": 1.953,
+      "rms_db": -28.44
+    },
+    "after": {
+      "dur": 7.68,
+      "rate": 1.953,
+      "rms_db": -28.96
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M18/M18_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 10.0,
+      "rate": 1.5,
+      "rms_db": -30.44
+    },
+    "after": {
+      "dur": 10.0,
+      "rate": 1.5,
+      "rms_db": -30.96
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M19/M19_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 9.28,
+      "rate": 1.616,
+      "rms_db": -25.96
+    },
+    "after": {
+      "dur": 9.28,
+      "rate": 1.616,
+      "rms_db": -26.49
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M20/M20_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 9.76,
+      "rate": 1.537,
+      "rms_db": -24.71
+    },
+    "after": {
+      "dur": 9.76,
+      "rate": 1.537,
+      "rms_db": -25.24
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M21/M21_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 8.16,
+      "rate": 1.838,
+      "rms_db": -21.97
+    },
+    "after": {
+      "dur": 8.16,
+      "rate": 1.838,
+      "rms_db": -22.51
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M22/M22_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 9.12,
+      "rate": 1.645,
+      "rms_db": -30.48
+    },
+    "after": {
+      "dur": 9.12,
+      "rate": 1.645,
+      "rms_db": -31.0
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M23/M23_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 10.24,
+      "rate": 1.465,
+      "rms_db": -24.63
+    },
+    "after": {
+      "dur": 10.24,
+      "rate": 1.465,
+      "rms_db": -25.16
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M24/M24_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 9.44,
+      "rate": 1.589,
+      "rms_db": -26.4
+    },
+    "after": {
+      "dur": 9.44,
+      "rate": 1.589,
+      "rms_db": -26.93
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M25/M25_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 10.72,
+      "rate": 1.399,
+      "rms_db": -27.93
+    },
+    "after": {
+      "dur": 10.72,
+      "rate": 1.399,
+      "rms_db": -28.45
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M26/M26_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 10.56,
+      "rate": 1.42,
+      "rms_db": -29.0
+    },
+    "after": {
+      "dur": 10.56,
+      "rate": 1.42,
+      "rms_db": -29.53
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M27/M27_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 8.24,
+      "rate": 1.82,
+      "rms_db": -24.84
+    },
+    "after": {
+      "dur": 8.24,
+      "rate": 1.82,
+      "rms_db": -25.37
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M28/M28_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 9.36,
+      "rate": 1.603,
+      "rms_db": -29.56
+    },
+    "after": {
+      "dur": 9.36,
+      "rate": 1.603,
+      "rms_db": -30.09
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M29/M29_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 7.6,
+      "rate": 1.974,
+      "rms_db": -25.62
+    },
+    "after": {
+      "dur": 7.6,
+      "rate": 1.974,
+      "rms_db": -26.15
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M30/M30_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 10.8,
+      "rate": 1.389,
+      "rms_db": -30.85
+    },
+    "after": {
+      "dur": 10.8,
+      "rate": 1.389,
+      "rms_db": -31.37
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M31/M31_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 9.76,
+      "rate": 1.537,
+      "rms_db": -24.03
+    },
+    "after": {
+      "dur": 9.76,
+      "rate": 1.537,
+      "rms_db": -24.57
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M32/M32_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 10.48,
+      "rate": 1.431,
+      "rms_db": -27.13
+    },
+    "after": {
+      "dur": 10.48,
+      "rate": 1.431,
+      "rms_db": -27.66
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M33/M33_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 7.84,
+      "rate": 1.913,
+      "rms_db": -23.15
+    },
+    "after": {
+      "dur": 7.84,
+      "rate": 1.913,
+      "rms_db": -23.68
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M34/M34_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 8.4,
+      "rate": 1.786,
+      "rms_db": -22.49
+    },
+    "after": {
+      "dur": 8.4,
+      "rate": 1.786,
+      "rms_db": -23.02
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M35/M35_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 10.0,
+      "rate": 1.5,
+      "rms_db": -28.1
+    },
+    "after": {
+      "dur": 10.0,
+      "rate": 1.5,
+      "rms_db": -28.63
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M36/M36_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 6.72,
+      "rate": 2.232,
+      "rms_db": -21.5
+    },
+    "after": {
+      "dur": 6.72,
+      "rate": 2.232,
+      "rms_db": -22.03
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M37/M37_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 9.44,
+      "rate": 1.589,
+      "rms_db": -22.98
+    },
+    "after": {
+      "dur": 9.44,
+      "rate": 1.589,
+      "rms_db": -23.51
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M38/M38_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 9.28,
+      "rate": 1.616,
+      "rms_db": -20.98
+    },
+    "after": {
+      "dur": 9.28,
+      "rate": 1.616,
+      "rms_db": -21.52
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M39/M39_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 8.08,
+      "rate": 1.856,
+      "rms_db": -24.34
+    },
+    "after": {
+      "dur": 8.08,
+      "rate": 1.856,
+      "rms_db": -24.87
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M40/M40_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 8.24,
+      "rate": 1.82,
+      "rms_db": -24.79
+    },
+    "after": {
+      "dur": 8.24,
+      "rate": 1.82,
+      "rms_db": -25.33
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M41/M41_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 8.56,
+      "rate": 1.752,
+      "rms_db": -23.76
+    },
+    "after": {
+      "dur": 8.56,
+      "rate": 1.752,
+      "rms_db": -24.3
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M42/M42_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 7.04,
+      "rate": 2.131,
+      "rms_db": -23.38
+    },
+    "after": {
+      "dur": 7.04,
+      "rate": 2.131,
+      "rms_db": -23.91
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M43/M43_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 9.12,
+      "rate": 1.645,
+      "rms_db": -26.65
+    },
+    "after": {
+      "dur": 9.12,
+      "rate": 1.645,
+      "rms_db": -27.18
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M44/M44_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 9.68,
+      "rate": 1.55,
+      "rms_db": -23.81
+    },
+    "after": {
+      "dur": 9.68,
+      "rate": 1.55,
+      "rms_db": -24.35
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M45/M45_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 7.28,
+      "rate": 2.06,
+      "rms_db": -23.88
+    },
+    "after": {
+      "dur": 7.28,
+      "rate": 2.06,
+      "rms_db": -24.41
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M46/M46_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 7.28,
+      "rate": 2.06,
+      "rms_db": -23.26
+    },
+    "after": {
+      "dur": 7.28,
+      "rate": 2.06,
+      "rms_db": -23.79
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M47/M47_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 10.48,
+      "rate": 1.431,
+      "rms_db": -26.93
+    },
+    "after": {
+      "dur": 10.48,
+      "rate": 1.431,
+      "rms_db": -27.46
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M48/M48_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 7.92,
+      "rate": 1.894,
+      "rms_db": -24.11
+    },
+    "after": {
+      "dur": 7.92,
+      "rate": 1.894,
+      "rms_db": -24.64
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M49/M49_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 10.0,
+      "rate": 1.5,
+      "rms_db": -23.4
+    },
+    "after": {
+      "dur": 10.0,
+      "rate": 1.5,
+      "rms_db": -23.94
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M50/M50_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 9.92,
+      "rate": 1.512,
+      "rms_db": -31.85
+    },
+    "after": {
+      "dur": 9.92,
+      "rate": 1.512,
+      "rms_db": -32.36
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M51/M51_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 6.8,
+      "rate": 2.206,
+      "rms_db": -23.71
+    },
+    "after": {
+      "dur": 6.8,
+      "rate": 2.206,
+      "rms_db": -24.25
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M52/M52_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 11.28,
+      "rate": 1.33,
+      "rms_db": -25.15
+    },
+    "after": {
+      "dur": 11.28,
+      "rate": 1.33,
+      "rms_db": -25.68
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M53/M53_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 8.24,
+      "rate": 1.82,
+      "rms_db": -21.94
+    },
+    "after": {
+      "dur": 8.24,
+      "rate": 1.82,
+      "rms_db": -22.48
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M54/M54_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 9.28,
+      "rate": 1.616,
+      "rms_db": -27.81
+    },
+    "after": {
+      "dur": 9.28,
+      "rate": 1.616,
+      "rms_db": -28.34
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M55/M55_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 11.68,
+      "rate": 1.284,
+      "rms_db": -29.22
+    },
+    "after": {
+      "dur": 11.68,
+      "rate": 1.284,
+      "rms_db": -29.75
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M56/M56_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 7.68,
+      "rate": 1.953,
+      "rms_db": -24.38
+    },
+    "after": {
+      "dur": 7.68,
+      "rate": 1.953,
+      "rms_db": -24.91
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M57/M57_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 8.96,
+      "rate": 1.674,
+      "rms_db": -26.96
+    },
+    "after": {
+      "dur": 8.96,
+      "rate": 1.674,
+      "rms_db": -27.49
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M58/M58_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 8.4,
+      "rate": 1.786,
+      "rms_db": -25.99
+    },
+    "after": {
+      "dur": 8.4,
+      "rate": 1.786,
+      "rms_db": -26.52
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M59/M59_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 11.52,
+      "rate": 1.302,
+      "rms_db": -24.1
+    },
+    "after": {
+      "dur": 11.52,
+      "rate": 1.302,
+      "rms_db": -24.63
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M60/M60_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 9.52,
+      "rate": 1.576,
+      "rms_db": -25.64
+    },
+    "after": {
+      "dur": 9.52,
+      "rate": 1.576,
+      "rms_db": -26.17
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M61/M61_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 10.88,
+      "rate": 1.379,
+      "rms_db": -32.61
+    },
+    "after": {
+      "dur": 10.88,
+      "rate": 1.379,
+      "rms_db": -33.12
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M62/M62_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 10.72,
+      "rate": 1.399,
+      "rms_db": -27.35
+    },
+    "after": {
+      "dur": 10.72,
+      "rate": 1.399,
+      "rms_db": -27.87
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M63/M63_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 9.12,
+      "rate": 1.645,
+      "rms_db": -25.14
+    },
+    "after": {
+      "dur": 9.12,
+      "rate": 1.645,
+      "rms_db": -25.67
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M64/M64_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 7.44,
+      "rate": 2.016,
+      "rms_db": -23.39
+    },
+    "after": {
+      "dur": 7.44,
+      "rate": 2.016,
+      "rms_db": -23.92
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M65/M65_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 8.8,
+      "rate": 1.705,
+      "rms_db": -29.95
+    },
+    "after": {
+      "dur": 8.8,
+      "rate": 1.705,
+      "rms_db": -30.47
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M66/M66_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 8.64,
+      "rate": 1.736,
+      "rms_db": -21.59
+    },
+    "after": {
+      "dur": 8.64,
+      "rate": 1.736,
+      "rms_db": -22.12
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M67/M67_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 8.0,
+      "rate": 1.875,
+      "rms_db": -25.98
+    },
+    "after": {
+      "dur": 8.0,
+      "rate": 1.875,
+      "rms_db": -26.51
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M68/M68_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 8.0,
+      "rate": 1.875,
+      "rms_db": -21.68
+    },
+    "after": {
+      "dur": 8.0,
+      "rate": 1.875,
+      "rms_db": -22.22
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M69/M69_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 8.72,
+      "rate": 1.72,
+      "rms_db": -24.97
+    },
+    "after": {
+      "dur": 8.72,
+      "rate": 1.72,
+      "rms_db": -25.5
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M70/M70_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 10.08,
+      "rate": 1.488,
+      "rms_db": -23.37
+    },
+    "after": {
+      "dur": 10.08,
+      "rate": 1.488,
+      "rms_db": -23.91
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M71/M71_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 10.96,
+      "rate": 1.369,
+      "rms_db": -22.4
+    },
+    "after": {
+      "dur": 10.96,
+      "rate": 1.369,
+      "rms_db": -22.94
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M72/M72_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 10.24,
+      "rate": 1.465,
+      "rms_db": -29.73
+    },
+    "after": {
+      "dur": 10.24,
+      "rate": 1.465,
+      "rms_db": -30.25
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M73/M73_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 8.24,
+      "rate": 1.82,
+      "rms_db": -21.99
+    },
+    "after": {
+      "dur": 8.24,
+      "rate": 1.82,
+      "rms_db": -22.53
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M74/M74_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 10.64,
+      "rate": 1.41,
+      "rms_db": -33.07
+    },
+    "after": {
+      "dur": 10.64,
+      "rate": 1.41,
+      "rms_db": -33.57
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M75/M75_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 8.8,
+      "rate": 1.705,
+      "rms_db": -25.85
+    },
+    "after": {
+      "dur": 8.8,
+      "rate": 1.705,
+      "rms_db": -26.38
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M76/M76_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 8.8,
+      "rate": 1.705,
+      "rms_db": -24.62
+    },
+    "after": {
+      "dur": 8.8,
+      "rate": 1.705,
+      "rms_db": -25.15
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M77/M77_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 8.64,
+      "rate": 1.736,
+      "rms_db": -29.32
+    },
+    "after": {
+      "dur": 8.64,
+      "rate": 1.736,
+      "rms_db": -29.84
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M78/M78_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 8.32,
+      "rate": 1.803,
+      "rms_db": -22.87
+    },
+    "after": {
+      "dur": 8.32,
+      "rate": 1.803,
+      "rms_db": -23.4
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M79/M79_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 7.68,
+      "rate": 1.953,
+      "rms_db": -22.07
+    },
+    "after": {
+      "dur": 7.68,
+      "rate": 1.953,
+      "rms_db": -22.61
+    }
+  },
+  {
+    "path": "/ssd2/duanju/voices/emotions/M80/M80_xiu.wav",
+    "emotion": "xiu",
+    "changed": true,
+    "before": {
+      "dur": 11.52,
+      "rate": 1.302,
+      "rms_db": -31.62
+    },
+    "after": {
+      "dur": 11.52,
+      "rate": 1.302,
+      "rms_db": -32.14
+    }
+  }
+]

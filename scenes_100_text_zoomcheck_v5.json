@@ -1,0 +1,16 @@
+[
+  {
+    "sid": "bg_boutique",
+    "crops": [
+      "morph_00.png",
+      "region_00.png",
+      "region_01.png"
+    ],
+    "answer": "FJAA | [REAL]\n精品店 | [CJK]\nFJAA | [REAL]",
+    "lines": [
+      "FJAA | [REAL]",
+      "精品店 | [CJK]",
+      "FJAA | [REAL]"
+    ]
+  }
+]

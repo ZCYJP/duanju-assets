@@ -1,0 +1,2297 @@
+[
+  {
+    "sid": "bg_airport",
+    "crops": [
+      {
+        "crop": "morph_00.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "morph_01.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_02.png",
+        "label": "C",
+        "raw": "C"
+      }
+    ]
+  },
+  {
+    "sid": "bg_apothecary",
+    "crops": [
+      {
+        "crop": "morph_00.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "C",
+        "raw": "C"
+      }
+    ]
+  },
+  {
+    "sid": "bg_art_studio",
+    "crops": [
+      {
+        "crop": "morph_00.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "C",
+        "raw": "C"
+      }
+    ]
+  },
+  {
+    "sid": "bg_auto_shop",
+    "crops": [
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "C",
+        "raw": "C"
+      }
+    ]
+  },
+  {
+    "sid": "bg_back_office",
+    "crops": [
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_02.png",
+        "label": "C",
+        "raw": "C"
+      }
+    ]
+  },
+  {
+    "sid": "bg_bakery",
+    "crops": [
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "C",
+        "raw": "C"
+      }
+    ]
+  },
+  {
+    "sid": "bg_bakery_shop",
+    "crops": [
+      {
+        "crop": "morph_00.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "morph_01.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "morph_02.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_02.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_03.png",
+        "label": "C",
+        "raw": "C"
+      }
+    ]
+  },
+  {
+    "sid": "bg_baking_class",
+    "crops": [
+      {
+        "crop": "morph_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      }
+    ]
+  },
+  {
+    "sid": "bg_beauty_room",
+    "crops": [
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      }
+    ]
+  },
+  {
+    "sid": "bg_boarding_gate",
+    "crops": [
+      {
+        "crop": "morph_00.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_02.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_03.png",
+        "label": "C",
+        "raw": "C"
+      }
+    ]
+  },
+  {
+    "sid": "bg_bookstore",
+    "crops": [
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      }
+    ]
+  },
+  {
+    "sid": "bg_boutique",
+    "crops": [
+      {
+        "crop": "morph_00.png",
+        "label": "B",
+        "raw": "B"
+      },
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "B",
+        "raw": "B"
+      }
+    ]
+  },
+  {
+    "sid": "bg_boutique_floor",
+    "crops": [
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      }
+    ]
+  },
+  {
+    "sid": "bg_bubble_tea",
+    "crops": [
+      {
+        "crop": "morph_00.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_02.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_03.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_04.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_05.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_06.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_07.png",
+        "label": "C",
+        "raw": "C"
+      }
+    ]
+  },
+  {
+    "sid": "bg_butchershop",
+    "crops": [
+      {
+        "crop": "morph_00.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "C",
+        "raw": "C"
+      }
+    ]
+  },
+  {
+    "sid": "bg_cafe",
+    "crops": [
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      }
+    ]
+  },
+  {
+    "sid": "bg_canteen",
+    "crops": [
+      {
+        "crop": "morph_00.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "C",
+        "raw": "C"
+      }
+    ]
+  },
+  {
+    "sid": "bg_cargo_deck",
+    "crops": [
+      {
+        "crop": "morph_00.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "morph_01.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_02.png",
+        "label": "C",
+        "raw": "C"
+      }
+    ]
+  },
+  {
+    "sid": "bg_car_interior",
+    "crops": [
+      {
+        "crop": "morph_00.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "C",
+        "raw": "C"
+      }
+    ]
+  },
+  {
+    "sid": "bg_car_repair_bay",
+    "crops": [
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "A",
+        "raw": "A"
+      }
+    ]
+  },
+  {
+    "sid": "bg_classroom",
+    "crops": [
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      }
+    ]
+  },
+  {
+    "sid": "bg_clinic_ward",
+    "crops": [
+      {
+        "crop": "morph_00.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "C",
+        "raw": "C"
+      }
+    ]
+  },
+  {
+    "sid": "bg_cold_store",
+    "crops": [
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "C",
+        "raw": "C"
+      }
+    ]
+  },
+  {
+    "sid": "bg_conference",
+    "crops": [
+      {
+        "crop": "morph_00.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "C",
+        "raw": "C"
+      }
+    ]
+  },
+  {
+    "sid": "bg_construction_site",
+    "crops": [
+      {
+        "crop": "morph_00.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "morph_01.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "morph_02.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "morph_03.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_02.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_03.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_04.png",
+        "label": "C",
+        "raw": "C"
+      }
+    ]
+  },
+  {
+    "sid": "bg_corporate_lobby",
+    "crops": [
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      }
+    ]
+  },
+  {
+    "sid": "bg_delivery_station",
+    "crops": [
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_02.png",
+        "label": "C",
+        "raw": "C"
+      }
+    ]
+  },
+  {
+    "sid": "bg_delivery_street",
+    "crops": [
+      {
+        "crop": "morph_00.png",
+        "label": "B",
+        "raw": "B"
+      },
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "B",
+        "raw": "B"
+      },
+      {
+        "crop": "region_02.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_03.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_04.png",
+        "label": "C",
+        "raw": "C"
+      }
+    ]
+  },
+  {
+    "sid": "bg_dessert_bar",
+    "crops": [
+      {
+        "crop": "morph_00.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "morph_01.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_02.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_03.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_04.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_05.png",
+        "label": "C",
+        "raw": "C"
+      }
+    ]
+  },
+  {
+    "sid": "bg_dispatch_room",
+    "crops": [
+      {
+        "crop": "morph_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "morph_01.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "morph_02.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "morph_03.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "morph_04.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_02.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_03.png",
+        "label": "B",
+        "raw": "B"
+      },
+      {
+        "crop": "region_04.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_05.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_06.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_07.png",
+        "label": "C",
+        "raw": "C"
+      }
+    ]
+  },
+  {
+    "sid": "bg_dock_market",
+    "crops": [
+      {
+        "crop": "morph_00.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "morph_01.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_02.png",
+        "label": "C",
+        "raw": "C"
+      }
+    ]
+  },
+  {
+    "sid": "bg_dorm_room",
+    "crops": [
+      {
+        "crop": "morph_00.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_02.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_03.png",
+        "label": "C",
+        "raw": "C"
+      }
+    ]
+  },
+  {
+    "sid": "bg_driving_office",
+    "crops": [
+      {
+        "crop": "morph_00.png",
+        "label": "B",
+        "raw": "B"
+      },
+      {
+        "crop": "morph_01.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_02.png",
+        "label": "B",
+        "raw": "B"
+      },
+      {
+        "crop": "region_03.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_04.png",
+        "label": "C",
+        "raw": "C"
+      }
+    ]
+  },
+  {
+    "sid": "bg_driving_school",
+    "crops": [
+      {
+        "crop": "morph_00.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "morph_01.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_00.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "A",
+        "raw": "A"
+      }
+    ]
+  },
+  {
+    "sid": "bg_factory_dorm",
+    "crops": [
+      {
+        "crop": "morph_00.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_02.png",
+        "label": "C",
+        "raw": "C"
+      }
+    ]
+  },
+  {
+    "sid": "bg_factory_gate",
+    "crops": [
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      }
+    ]
+  },
+  {
+    "sid": "bg_fire_station",
+    "crops": [
+      {
+        "crop": "morph_00.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_02.png",
+        "label": "C",
+        "raw": "C"
+      }
+    ]
+  },
+  {
+    "sid": "bg_fishing_dock",
+    "crops": [
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      }
+    ]
+  },
+  {
+    "sid": "bg_flower_shop",
+    "crops": [
+      {
+        "crop": "morph_00.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "C",
+        "raw": "C"
+      }
+    ]
+  },
+  {
+    "sid": "bg_flower_stall",
+    "crops": [
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      }
+    ]
+  },
+  {
+    "sid": "bg_fresh_aisle",
+    "crops": [
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      }
+    ]
+  },
+  {
+    "sid": "bg_game_studio",
+    "crops": [
+      {
+        "crop": "morph_00.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "morph_01.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "morph_02.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_02.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_03.png",
+        "label": "C",
+        "raw": "C"
+      }
+    ]
+  },
+  {
+    "sid": "bg_grain_depot",
+    "crops": [
+      {
+        "crop": "morph_00.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "morph_01.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "B",
+        "raw": "B"
+      },
+      {
+        "crop": "region_02.png",
+        "label": "B",
+        "raw": "B"
+      },
+      {
+        "crop": "region_03.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_04.png",
+        "label": "C",
+        "raw": "C"
+      }
+    ]
+  },
+  {
+    "sid": "bg_guardhouse",
+    "crops": [
+      {
+        "crop": "morph_00.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "morph_01.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_02.png",
+        "label": "A",
+        "raw": "A"
+      }
+    ]
+  },
+  {
+    "sid": "bg_gym",
+    "crops": [
+      {
+        "crop": "morph_00.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "C",
+        "raw": "C"
+      }
+    ]
+  },
+  {
+    "sid": "bg_gym_reception",
+    "crops": [
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      }
+    ]
+  },
+  {
+    "sid": "bg_harbour_fishing",
+    "crops": [
+      {
+        "crop": "morph_00.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "morph_01.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_02.png",
+        "label": "C",
+        "raw": "C"
+      }
+    ]
+  },
+  {
+    "sid": "bg_harbour_office",
+    "crops": [
+      {
+        "crop": "morph_00.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_02.png",
+        "label": "C",
+        "raw": "C"
+      }
+    ]
+  },
+  {
+    "sid": "bg_highspeed_station",
+    "crops": [
+      {
+        "crop": "morph_00.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "B",
+        "raw": "B"
+      },
+      {
+        "crop": "region_02.png",
+        "label": "C",
+        "raw": "C"
+      }
+    ]
+  },
+  {
+    "sid": "bg_home_services",
+    "crops": [
+      {
+        "crop": "morph_00.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "morph_01.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "morph_02.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_02.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_03.png",
+        "label": "B",
+        "raw": "B"
+      },
+      {
+        "crop": "region_04.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_05.png",
+        "label": "B",
+        "raw": "B"
+      },
+      {
+        "crop": "region_06.png",
+        "label": "B",
+        "raw": "B"
+      },
+      {
+        "crop": "region_07.png",
+        "label": "A",
+        "raw": "A"
+      }
+    ]
+  },
+  {
+    "sid": "bg_hospital_dir",
+    "crops": [
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      }
+    ]
+  },
+  {
+    "sid": "bg_industrial_office",
+    "crops": [
+      {
+        "crop": "morph_00.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "C",
+        "raw": "C"
+      }
+    ]
+  },
+  {
+    "sid": "bg_insurance",
+    "crops": [
+      {
+        "crop": "morph_00.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "C",
+        "raw": "C"
+      }
+    ]
+  },
+  {
+    "sid": "bg_kindergarten",
+    "crops": [
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "A",
+        "raw": "A"
+      }
+    ]
+  },
+  {
+    "sid": "bg_kindergarten_paint",
+    "crops": [
+      {
+        "crop": "morph_00.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "C",
+        "raw": "C"
+      }
+    ]
+  },
+  {
+    "sid": "bg_law_office",
+    "crops": [
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      }
+    ]
+  },
+  {
+    "sid": "bg_logistics_yard",
+    "crops": [
+      {
+        "crop": "morph_00.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_02.png",
+        "label": "C",
+        "raw": "C"
+      }
+    ]
+  },
+  {
+    "sid": "bg_lumber_yard",
+    "crops": [
+      {
+        "crop": "morph_00.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "morph_01.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_02.png",
+        "label": "C",
+        "raw": "C"
+      }
+    ]
+  },
+  {
+    "sid": "bg_makeup_room",
+    "crops": [
+      {
+        "crop": "morph_00.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "C",
+        "raw": "C"
+      }
+    ]
+  },
+  {
+    "sid": "bg_market_alley",
+    "crops": [
+      {
+        "crop": "morph_00.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_02.png",
+        "label": "C",
+        "raw": "C"
+      }
+    ]
+  },
+  {
+    "sid": "bg_nail_salon",
+    "crops": [
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_02.png",
+        "label": "C",
+        "raw": "C"
+      }
+    ]
+  },
+  {
+    "sid": "bg_night_market",
+    "crops": [
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      }
+    ]
+  },
+  {
+    "sid": "bg_nursery",
+    "crops": [
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      }
+    ]
+  },
+  {
+    "sid": "bg_old_stairwell",
+    "crops": [
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "C",
+        "raw": "C"
+      }
+    ]
+  },
+  {
+    "sid": "bg_open_office",
+    "crops": [
+      {
+        "crop": "morph_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      }
+    ]
+  },
+  {
+    "sid": "bg_parcel_station",
+    "crops": [
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "C",
+        "raw": "C"
+      }
+    ]
+  },
+  {
+    "sid": "bg_pet_shop",
+    "crops": [
+      {
+        "crop": "morph_00.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "C",
+        "raw": "C"
+      }
+    ]
+  },
+  {
+    "sid": "bg_playground",
+    "crops": [
+      {
+        "crop": "morph_00.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "C",
+        "raw": "C"
+      }
+    ]
+  },
+  {
+    "sid": "bg_precision_factory",
+    "crops": [
+      {
+        "crop": "morph_00.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_02.png",
+        "label": "C",
+        "raw": "C"
+      }
+    ]
+  },
+  {
+    "sid": "bg_principal_office",
+    "crops": [
+      {
+        "crop": "morph_00.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_02.png",
+        "label": "C",
+        "raw": "C"
+      }
+    ]
+  },
+  {
+    "sid": "bg_reno_site",
+    "crops": [
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      }
+    ]
+  },
+  {
+    "sid": "bg_restaurant_private",
+    "crops": [
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_02.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_03.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_04.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_05.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_06.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_07.png",
+        "label": "C",
+        "raw": "C"
+      }
+    ]
+  },
+  {
+    "sid": "bg_salon_front",
+    "crops": [
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_02.png",
+        "label": "A",
+        "raw": "A"
+      }
+    ]
+  },
+  {
+    "sid": "bg_sample_room",
+    "crops": [
+      {
+        "crop": "morph_00.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "C",
+        "raw": "C"
+      }
+    ]
+  },
+  {
+    "sid": "bg_school_field",
+    "crops": [
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      }
+    ]
+  },
+  {
+    "sid": "bg_school_gate",
+    "crops": [
+      {
+        "crop": "morph_00.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_02.png",
+        "label": "C",
+        "raw": "C"
+      }
+    ]
+  },
+  {
+    "sid": "bg_school_office",
+    "crops": [
+      {
+        "crop": "morph_00.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_02.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_03.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_04.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_05.png",
+        "label": "C",
+        "raw": "C"
+      }
+    ]
+  },
+  {
+    "sid": "bg_senior_centre",
+    "crops": [
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      }
+    ]
+  },
+  {
+    "sid": "bg_small_restaurant",
+    "crops": [
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      }
+    ]
+  },
+  {
+    "sid": "bg_sorting_centre",
+    "crops": [
+      {
+        "crop": "morph_00.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "C",
+        "raw": "C"
+      }
+    ]
+  },
+  {
+    "sid": "bg_startup_desk",
+    "crops": [
+      {
+        "crop": "morph_00.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "C",
+        "raw": "C"
+      }
+    ]
+  },
+  {
+    "sid": "bg_steel_mill",
+    "crops": [
+      {
+        "crop": "morph_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "morph_01.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_02.png",
+        "label": "C",
+        "raw": "C"
+      }
+    ]
+  },
+  {
+    "sid": "bg_subway_station",
+    "crops": [
+      {
+        "crop": "morph_00.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "morph_01.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_02.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_03.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_04.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_05.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_06.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_07.png",
+        "label": "C",
+        "raw": "C"
+      }
+    ]
+  },
+  {
+    "sid": "bg_supermarket",
+    "crops": [
+      {
+        "crop": "morph_00.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "C",
+        "raw": "C"
+      }
+    ]
+  },
+  {
+    "sid": "bg_support_centre",
+    "crops": [
+      {
+        "crop": "morph_00.png",
+        "label": "B",
+        "raw": "B"
+      },
+      {
+        "crop": "morph_01.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "B",
+        "raw": "B"
+      },
+      {
+        "crop": "region_02.png",
+        "label": "C",
+        "raw": "C"
+      }
+    ]
+  },
+  {
+    "sid": "bg_tailor_shop",
+    "crops": [
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      }
+    ]
+  },
+  {
+    "sid": "bg_tcm_clinic",
+    "crops": [
+      {
+        "crop": "morph_00.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_02.png",
+        "label": "C",
+        "raw": "C"
+      }
+    ]
+  },
+  {
+    "sid": "bg_tea_house",
+    "crops": [
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      }
+    ]
+  },
+  {
+    "sid": "bg_tea_prep",
+    "crops": [
+      {
+        "crop": "morph_00.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "C",
+        "raw": "C"
+      }
+    ]
+  },
+  {
+    "sid": "bg_test_field",
+    "crops": [
+      {
+        "crop": "morph_00.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "C",
+        "raw": "C"
+      }
+    ]
+  },
+  {
+    "sid": "bg_textile_mill",
+    "crops": [
+      {
+        "crop": "morph_00.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_02.png",
+        "label": "C",
+        "raw": "C"
+      }
+    ]
+  },
+  {
+    "sid": "bg_tile_warehouse",
+    "crops": [
+      {
+        "crop": "morph_00.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "C",
+        "raw": "C"
+      }
+    ]
+  },
+  {
+    "sid": "bg_tofu_stall",
+    "crops": [
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_02.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_03.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_04.png",
+        "label": "B",
+        "raw": "B"
+      },
+      {
+        "crop": "region_05.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_06.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_07.png",
+        "label": "A",
+        "raw": "A"
+      }
+    ]
+  },
+  {
+    "sid": "bg_track_field",
+    "crops": [
+      {
+        "crop": "morph_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "morph_01.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "morph_02.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "morph_03.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "morph_04.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_02.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_03.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_04.png",
+        "label": "C",
+        "raw": "C"
+      }
+    ]
+  },
+  {
+    "sid": "bg_training_centre",
+    "crops": [
+      {
+        "crop": "morph_00.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "C",
+        "raw": "C"
+      }
+    ]
+  },
+  {
+    "sid": "bg_train_platform",
+    "crops": [
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      }
+    ]
+  },
+  {
+    "sid": "bg_warehouse_rack",
+    "crops": [
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      }
+    ]
+  },
+  {
+    "sid": "bg_wet_market",
+    "crops": [
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_02.png",
+        "label": "C",
+        "raw": "C"
+      }
+    ]
+  },
+  {
+    "sid": "bg_wheat_field",
+    "crops": [
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      }
+    ]
+  },
+  {
+    "sid": "bg_yoga_studio",
+    "crops": [
+      {
+        "crop": "morph_00.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "morph_01.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_00.png",
+        "label": "A",
+        "raw": "A"
+      },
+      {
+        "crop": "region_01.png",
+        "label": "C",
+        "raw": "C"
+      },
+      {
+        "crop": "region_02.png",
+        "label": "C",
+        "raw": "C"
+      }
+    ]
+  }
+]

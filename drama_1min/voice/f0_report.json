@@ -1,0 +1,149 @@
+[
+  {
+    "issues": [],
+    "dur": 3.52,
+    "peak": 0.3965,
+    "f0": 0.0,
+    "gender": "female",
+    "seed": 42,
+    "shot": "s01_hook_fold",
+    "speaker": "苏清晚",
+    "char": "F01",
+    "text": "三年了。这笔账，今天结清。"
+  },
+  {
+    "issues": [],
+    "dur": 3.44,
+    "peak": 0.416,
+    "f0": 212.4,
+    "gender": "female",
+    "seed": 42,
+    "shot": "s02_ally_lawyer",
+    "speaker": "苏蔓",
+    "char": "F03",
+    "text": "清晚，股权书我带来了。"
+  },
+  {
+    "issues": [],
+    "dur": 4.08,
+    "peak": 0.582,
+    "f0": 179.1,
+    "gender": "male",
+    "seed": 42,
+    "shot": "s03_villain_seat",
+    "speaker": "裴九渊",
+    "char": "M03",
+    "text": "苏小姐，这张桌子，姓裴了。"
+  },
+  {
+    "issues": [],
+    "dur": 2.72,
+    "peak": 0.5234,
+    "f0": 210.5,
+    "gender": "female",
+    "seed": 42,
+    "shot": "s04_exec_silent",
+    "speaker": "宋佳宁",
+    "char": "F08",
+    "text": "……董事会，签到齐了。"
+  },
+  {
+    "issues": [],
+    "dur": 3.44,
+    "peak": 0.4844,
+    "f0": 0.0,
+    "gender": "female",
+    "seed": 42,
+    "shot": "s05_break_alone",
+    "speaker": "苏清晚",
+    "char": "F01",
+    "text": "爸，你走的那年，我十九。"
+  },
+  {
+    "issues": [],
+    "dur": 2.4,
+    "peak": 0.5508,
+    "f0": 0.0,
+    "gender": "male",
+    "seed": 42,
+    "shot": "s06_garage_arrival",
+    "speaker": "陆沉",
+    "char": "M01",
+    "text": "三年，我等这句话。"
+  },
+  {
+    "issues": [],
+    "dur": 2.96,
+    "peak": 0.5781,
+    "f0": 121.8,
+    "gender": "male",
+    "seed": 42,
+    "shot": "s07_rain_street",
+    "speaker": "陆沉",
+    "char": "M01",
+    "text": "苏家的债，我三年前就接手了。"
+  },
+  {
+    "issues": [],
+    "dur": 2.32,
+    "peak": 0.5391,
+    "f0": 0.0,
+    "gender": "male",
+    "seed": 42,
+    "shot": "s08_villain_rage",
+    "speaker": "裴九渊",
+    "char": "M03",
+    "text": "陆沉，你还敢回来？"
+  },
+  {
+    "issues": [],
+    "dur": 3.36,
+    "peak": 0.5781,
+    "f0": 205.1,
+    "gender": "female",
+    "seed": 42,
+    "shot": "s09_lawyer_cards",
+    "speaker": "苏蔓",
+    "char": "F03",
+    "text": "裴先生，文件我念给你听。"
+  },
+  {
+    "issues": [
+      "女声F0=110Hz<150 熔断",
+      "全部seed未全过，采用最佳候选"
+    ],
+    "dur": 2.88,
+    "peak": 0.4238,
+    "f0": 109.7,
+    "gender": "female",
+    "seed": 42,
+    "shot": "s10_exec_reveal",
+    "speaker": "宋佳宁",
+    "char": "F08",
+    "text": "签约方，写的是裴九渊。"
+  },
+  {
+    "issues": [],
+    "dur": 2.64,
+    "peak": 0.4766,
+    "f0": 0.0,
+    "gender": "female",
+    "seed": 42,
+    "shot": "s11_topfloor_reversal",
+    "speaker": "苏清晚",
+    "char": "F01",
+    "text": "你买走的，是我的旧账。"
+  },
+  {
+    "issues": [],
+    "dur": 2.16,
+    "peak": 0.6016,
+    "f0": 112.7,
+    "gender": "male",
+    "seed": 42,
+    "shot": "s12_finale_hook",
+    "speaker": "陆沉",
+    "char": "M01",
+    "text": "苏清晚，欢迎回家。"
+  }
+]

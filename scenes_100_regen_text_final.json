@@ -1,0 +1,896 @@
+{
+  "meta": {
+    "rule": "允许字符: CJK统一 U+4E00-U+9FFF / CJK兼容 U+F900-U+FAFF / 假名 U+3040-U+30FF / 谚文 U+AC00-U+D7AF / ASCII字母数字; 私用区与罕见符号判为伪文字",
+    "match_threshold": 0.5,
+    "match_metric": "min(SequenceMatcher.ratio, 预期串覆盖率)",
+    "evidence_layers": {
+      "L1_ocr": "/ssd2/duanju/scenes_100_regen_text_audit.json",
+      "L2_vl_full": "/ssd2/duanju/scenes_100_regen_text_vl_verify.json",
+      "L3_vl_sign": "/ssd2/duanju/scenes_100_regen_text_signcheck.json",
+      "L4_vl_zoom": "/ssd2/duanju/scenes_100_regen_text_zoomcheck.json",
+      "L4b_latin_semantic": "/ssd2/duanju/scenes_100_regen_text_semantic.json"
+    },
+    "crop_dir": "/ssd2/duanju/bg_text_crops",
+    "no_images_modified": true
+  },
+  "summary": {
+    "total": 9,
+    "真实文字": 8,
+    "真实文字图片": [
+      "bg_auto_shop.png",
+      "bg_delivery_street.png",
+      "bg_grain_depot.png",
+      "bg_home_services.png",
+      "bg_kindergarten_paint.png",
+      "bg_law_office.png",
+      "bg_pet_shop.png",
+      "bg_tofu_stall.png"
+    ],
+    "伪文字": 1,
+    "伪文字图片": [
+      "bg_driving_office.png"
+    ],
+    "无文字": 0,
+    "无文字图片": [],
+    "高置信": 9,
+    "含伪文字细节": {
+      "bg_driving_office.png": [
+        "[伪文字]",
+        "AIY",
+        "AIY | 伪文字（乱码/扭曲/镜像/形近字堆叠）"
+      ]
+    }
+  },
+  "items": [
+    {
+      "file": "bg_auto_shop.png",
+      "sid": "bg_auto_shop",
+      "expected": "整備工場",
+      "lang": "日语",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 0.75 / VL覆盖 0.75), 预期='整備工場'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 0.75,
+      "ocr_best": "整薩工場",
+      "vl_similarity": 0.75,
+      "vl_best": "整催工場",
+      "vl_lines": [
+        "整催工場"
+      ],
+      "signcheck_lines": [
+        "整催工場 | 真实字符"
+      ],
+      "zoom_lines": [
+        "整催工場 | [无法辨认]/[无法辨认]/[CJK]"
+      ],
+      "n_text_regions": 0,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/scenes_100_regen/_crops/bg_auto_shop/region_00.png",
+          "kind": "region",
+          "box": [
+            287,
+            307,
+            664,
+            188
+          ]
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_delivery_street.png",
+      "sid": "bg_delivery_street",
+      "expected": "外卖驿站",
+      "lang": "简体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='外卖驿站'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "外卖驿站",
+      "vl_similarity": 1.0,
+      "vl_best": "外卖驿站",
+      "vl_lines": [
+        "外卖驿站",
+        "外卖驿站"
+      ],
+      "signcheck_lines": [
+        "外卖驿站 | 真实字符"
+      ],
+      "zoom_lines": [
+        "外卖驿站 | [REAL]/[无法辨认]/[CJK]",
+        "旅似斯 | [REAL]/[无法辨认]/[CJK]",
+        "无法辨认 | [无法辨认]/[无法辨认]/[无法辨认]",
+        "外卖驿站 | [REAL]/[无法辨认]/[CJK]",
+        "无法辨认 | [无法辨认]/[无法辨认]/[无法辨认]",
+        "无法辨认 | [无法辨认]/[无法辨认]/[无法辨认]"
+      ],
+      "n_text_regions": 0,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/scenes_100_regen/_crops/bg_delivery_street/region_00.png",
+          "kind": "region",
+          "box": [
+            327,
+            312,
+            587,
+            170
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/scenes_100_regen/_crops/bg_delivery_street/region_01.png",
+          "kind": "region",
+          "box": [
+            1081,
+            24,
+            187,
+            177
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/scenes_100_regen/_crops/bg_delivery_street/region_02.png",
+          "kind": "region",
+          "box": [
+            -1,
+            180,
+            130,
+            99
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/scenes_100_regen/_crops/bg_delivery_street/region_03.png",
+          "kind": "region",
+          "box": [
+            121,
+            230,
+            107,
+            82
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/scenes_100_regen/_crops/bg_delivery_street/region_04.png",
+          "kind": "region",
+          "box": [
+            901,
+            0,
+            53,
+            101
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/scenes_100_regen/_crops/bg_delivery_street/region_05.png",
+          "kind": "region",
+          "box": [
+            15,
+            241,
+            58,
+            35
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/scenes_100_regen/_crops/bg_delivery_street/region_06.png",
+          "kind": "region",
+          "box": [
+            0,
+            183,
+            26,
+            47
+          ]
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_driving_office.png",
+      "sid": "bg_driving_office",
+      "expected": "DRIVE SAFE",
+      "lang": "英语",
+      "verdict": "伪文字",
+      "confidence": "高",
+      "reason": "检出伪文字证据 3 条: ['[伪文字]', 'AIY', 'AIY | 伪文字（乱码/扭曲/镜像/形近字堆叠）']",
+      "pseudo_evidence": [
+        "[伪文字]",
+        "AIY",
+        "AIY | 伪文字（乱码/扭曲/镜像/形近字堆叠）"
+      ],
+      "ocr_similarity": 0.5556,
+      "ocr_best": "DRIVE",
+      "vl_similarity": 0.5556,
+      "vl_best": "DRIVE",
+      "vl_lines": [
+        "DRIVE",
+        "SAFE",
+        "AIY",
+        "[伪文字]",
+        "[伪文字]"
+      ],
+      "signcheck_lines": [
+        "AIY | 伪文字（乱码/扭曲/镜像/形近字堆叠）",
+        "DRIVE SAFE | 真实字符"
+      ],
+      "zoom_lines": [
+        "无法辨认 | [无法辨认]",
+        "无法辨认 | [无法辨认]",
+        "无法辨认 | [无法辨认]",
+        "无法辨认 | [无法辨认]",
+        "无法辨认 | [无法辨认]",
+        "无法辨认 | [无法辨认]"
+      ],
+      "n_text_regions": 1,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/scenes_100_regen/_crops/bg_driving_office/region_00.png",
+          "kind": "region",
+          "box": [
+            373,
+            359,
+            485,
+            199
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/scenes_100_regen/_crops/bg_driving_office/region_01.png",
+          "kind": "region",
+          "box": [
+            360,
+            207,
+            523,
+            173
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/scenes_100_regen/_crops/bg_driving_office/region_02.png",
+          "kind": "region",
+          "box": [
+            103,
+            276,
+            202,
+            114
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/scenes_100_regen/_crops/bg_driving_office/region_03.png",
+          "kind": "region",
+          "box": [
+            155,
+            404,
+            76,
+            19
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/scenes_100_regen/_crops/bg_driving_office/region_04.png",
+          "kind": "region",
+          "box": [
+            139,
+            264,
+            80,
+            17
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/scenes_100_regen/_crops/bg_driving_office/region_05.png",
+          "kind": "region",
+          "box": [
+            1208,
+            295,
+            40,
+            33
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/scenes_100_regen/_crops/bg_driving_office/region_06.png",
+          "kind": "region",
+          "box": [
+            251,
+            404,
+            36,
+            13
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/scenes_100_regen/_crops/bg_driving_office/region_07.png",
+          "kind": "region",
+          "box": [
+            363,
+            171,
+            23,
+            17
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/scenes_100_regen/_crops/bg_driving_office/morph_00.png",
+          "kind": "morph",
+          "n_comp": 3
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_grain_depot.png",
+      "sid": "bg_grain_depot",
+      "expected": "粮食储备",
+      "lang": "简体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='粮食储备'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "粮食储备",
+      "vl_similarity": 1.0,
+      "vl_best": "粮食储备",
+      "vl_lines": [
+        "粮食储备"
+      ],
+      "signcheck_lines": [
+        "粮食储备 | 真实字符"
+      ],
+      "zoom_lines": [
+        "粮食储备 | [CJK]"
+      ],
+      "n_text_regions": 1,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/scenes_100_regen/_crops/bg_grain_depot/region_00.png",
+          "kind": "region",
+          "box": [
+            396,
+            104,
+            453,
+            134
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/scenes_100_regen/_crops/bg_grain_depot/region_01.png",
+          "kind": "region",
+          "box": [
+            184,
+            649,
+            130,
+            27
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/scenes_100_regen/_crops/bg_grain_depot/morph_00.png",
+          "kind": "morph",
+          "n_comp": 8
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_home_services.png",
+      "sid": "bg_home_services",
+      "expected": "家政服務",
+      "lang": "繁体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='家政服務'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "家政服務",
+      "vl_similarity": 1.0,
+      "vl_best": "家政服務",
+      "vl_lines": [
+        "家政服務"
+      ],
+      "signcheck_lines": [
+        "家政服務 | 真实字符",
+        "SONGS | 伪文字（扭曲）",
+        "SONG | 伪文字（扭曲）",
+        "SONGS | 伪文字（扭曲）",
+        "SONGS | 伪文字（扭曲）",
+        "SONGS | 伪文字（扭曲）",
+        "SONGS | 伪文字（扭曲）",
+        "SONGS | 伪文字（扭曲）",
+        "SONGS | 伪文字（扭曲）",
+        "SONGS | 伪文字（扭曲）",
+        "SONGS | 伪文字（扭曲）",
+        "SONGS | 伪文字（扭曲）",
+        "SONGS | 伪文字（扭曲）",
+        "SONGS | 伪文字（扭曲）",
+        "SONGS | 伪文字（扭曲）",
+        "SONGS | 伪文字（扭曲）",
+        "SONGS | 伪文字（扭曲）",
+        "SONGS | 伪文字（扭曲）",
+        "SONGS | 伪文字（扭曲）",
+        "SONGS | 伪文字（扭曲）",
+        "SONGS | 伪文字（扭曲）",
+        "SONGS | 伪文字（扭曲）",
+        "SONGS | 伪文字（扭曲）",
+        "SONGS | 伪文字（扭曲）",
+        "SONGS |"
+      ],
+      "zoom_lines": [
+        "SONICS | [REAL]",
+        "无法辨认 | [无法辨认]",
+        "无法辨认 | [无法辨认]",
+        "JOOD | [REAL]",
+        "家政服務 | [CJK]"
+      ],
+      "n_text_regions": 4,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/scenes_100_regen/_crops/bg_home_services/region_00.png",
+          "kind": "region",
+          "box": [
+            299,
+            311,
+            637,
+            185
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/scenes_100_regen/_crops/bg_home_services/region_01.png",
+          "kind": "region",
+          "box": [
+            0,
+            683,
+            143,
+            48
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/scenes_100_regen/_crops/bg_home_services/region_02.png",
+          "kind": "region",
+          "box": [
+            476,
+            122,
+            92,
+            26
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/scenes_100_regen/_crops/bg_home_services/region_03.png",
+          "kind": "region",
+          "box": [
+            328,
+            124,
+            99,
+            24
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/scenes_100_regen/_crops/bg_home_services/region_04.png",
+          "kind": "region",
+          "box": [
+            624,
+            123,
+            88,
+            25
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/scenes_100_regen/_crops/bg_home_services/region_05.png",
+          "kind": "region",
+          "box": [
+            49,
+            151,
+            121,
+            18
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/scenes_100_regen/_crops/bg_home_services/region_06.png",
+          "kind": "region",
+          "box": [
+            0,
+            613,
+            118,
+            18
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/scenes_100_regen/_crops/bg_home_services/region_07.png",
+          "kind": "region",
+          "box": [
+            51,
+            305,
+            115,
+            18
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/scenes_100_regen/_crops/bg_home_services/morph_00.png",
+          "kind": "morph",
+          "n_comp": 6
+        },
+        {
+          "file": "/ssd2/duanju/scenes_100_regen/_crops/bg_home_services/morph_01.png",
+          "kind": "morph",
+          "n_comp": 4
+        },
+        {
+          "file": "/ssd2/duanju/scenes_100_regen/_crops/bg_home_services/morph_02.png",
+          "kind": "morph",
+          "n_comp": 3
+        },
+        {
+          "file": "/ssd2/duanju/scenes_100_regen/_crops/bg_home_services/morph_03.png",
+          "kind": "morph",
+          "n_comp": 3
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_kindergarten_paint.png",
+      "sid": "bg_kindergarten_paint",
+      "expected": "あそび",
+      "lang": "日语",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 0.67 / VL覆盖 0.67), 预期='あそび'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 0.6667,
+      "ocr_best": "あごび",
+      "vl_similarity": 0.6667,
+      "vl_best": "あごび",
+      "vl_lines": [
+        "あごび"
+      ],
+      "signcheck_lines": [
+        "あごび | 真实字符"
+      ],
+      "zoom_lines": [
+        "无法辨认 | [无法辨认]",
+        "无法辨认 | [无法辨认]",
+        "あごび | [CJK]",
+        "无法辨认 | [无法辨认]",
+        "无法辨认 | [无法辨认]",
+        "无法辨认 | [无法辨认]"
+      ],
+      "n_text_regions": 2,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/scenes_100_regen/_crops/bg_kindergarten_paint/region_00.png",
+          "kind": "region",
+          "box": [
+            341,
+            292,
+            571,
+            225
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/scenes_100_regen/_crops/bg_kindergarten_paint/region_01.png",
+          "kind": "region",
+          "box": [
+            0,
+            650,
+            280,
+            140
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/scenes_100_regen/_crops/bg_kindergarten_paint/region_02.png",
+          "kind": "region",
+          "box": [
+            687,
+            661,
+            231,
+            117
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/scenes_100_regen/_crops/bg_kindergarten_paint/region_03.png",
+          "kind": "region",
+          "box": [
+            988,
+            582,
+            153,
+            103
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/scenes_100_regen/_crops/bg_kindergarten_paint/region_04.png",
+          "kind": "region",
+          "box": [
+            23,
+            768,
+            192,
+            64
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/scenes_100_regen/_crops/bg_kindergarten_paint/region_05.png",
+          "kind": "region",
+          "box": [
+            768,
+            764,
+            176,
+            68
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/scenes_100_regen/_crops/bg_kindergarten_paint/region_06.png",
+          "kind": "region",
+          "box": [
+            473,
+            124,
+            108,
+            105
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/scenes_100_regen/_crops/bg_kindergarten_paint/region_07.png",
+          "kind": "region",
+          "box": [
+            1067,
+            775,
+            147,
+            57
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/scenes_100_regen/_crops/bg_kindergarten_paint/morph_00.png",
+          "kind": "morph",
+          "n_comp": 4
+        },
+        {
+          "file": "/ssd2/duanju/scenes_100_regen/_crops/bg_kindergarten_paint/morph_01.png",
+          "kind": "morph",
+          "n_comp": 3
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_law_office.png",
+      "sid": "bg_law_office",
+      "expected": "诚信律师事務所",
+      "lang": "繁体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 0.86 / VL覆盖 0.86), 预期='诚信律师事務所'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 0.8571,
+      "ocr_best": "诚信律师事掰所",
+      "vl_similarity": 0.8571,
+      "vl_best": "诚信律师事务所",
+      "vl_lines": [
+        "诚信律师事务所"
+      ],
+      "signcheck_lines": [
+        "诚信律师事务所 | 真实字符"
+      ],
+      "zoom_lines": [
+        "诚信律师事务所 | [REAL]/[无法辨认]/[CJK]"
+      ],
+      "n_text_regions": 1,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/scenes_100_regen/_crops/bg_law_office/region_00.png",
+          "kind": "region",
+          "box": [
+            231,
+            324,
+            782,
+            146
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/scenes_100_regen/_crops/bg_law_office/region_01.png",
+          "kind": "region",
+          "box": [
+            1200,
+            605,
+            48,
+            51
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/scenes_100_regen/_crops/bg_law_office/morph_00.png",
+          "kind": "morph",
+          "n_comp": 3
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_pet_shop.png",
+      "sid": "bg_pet_shop",
+      "expected": "宠物店",
+      "lang": "简体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='宠物店'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "宠物店",
+      "vl_similarity": 1.0,
+      "vl_best": "宠物店",
+      "vl_lines": [
+        "宠物店"
+      ],
+      "signcheck_lines": [
+        "宠物店 | 真实字符"
+      ],
+      "zoom_lines": [
+        "宠物店 | [REAL]/[无法辨认]/[CJK]"
+      ],
+      "n_text_regions": 1,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/scenes_100_regen/_crops/bg_pet_shop/region_00.png",
+          "kind": "region",
+          "box": [
+            334,
+            287,
+            577,
+            221
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/scenes_100_regen/_crops/bg_pet_shop/region_01.png",
+          "kind": "region",
+          "box": [
+            967,
+            260,
+            92,
+            43
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/scenes_100_regen/_crops/bg_pet_shop/morph_00.png",
+          "kind": "morph",
+          "n_comp": 4
+        }
+      ],
+      "size_ok": false
+    },
+    {
+      "file": "bg_tofu_stall.png",
+      "sid": "bg_tofu_stall",
+      "expected": "石磨豆腐",
+      "lang": "简体中文",
+      "verdict": "真实文字",
+      "confidence": "高",
+      "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='石磨豆腐'",
+      "pseudo_evidence": [],
+      "ocr_similarity": 1.0,
+      "ocr_best": "石磨豆腐",
+      "vl_similarity": 1.0,
+      "vl_best": "石磨豆腐",
+      "vl_lines": [
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐",
+        "石磨豆腐"
+      ],
+      "signcheck_lines": [
+        "石磨豆腐 | 真实字符"
+      ],
+      "zoom_lines": [
+        "石磨豆腐 | [无法辨认]/[无法辨认]/[CJK]/[无法辨认]",
+        "石磨豆腐 | [无法辨认]/[无法辨认]/[CJK]/[无法辨认]",
+        "石磨豆腐 | [无法辨认]/[无法辨认]/[CJK]/[无法辨认]",
+        "石磨豆腐 | [无法辨认]/[无法辨认]/[CJK]/[无法辨认]",
+        "石磨豆腐 | [无法辨认]/[无法辨认]/[CJK]/[无法辨认]",
+        "石磨豆腐 | [无法辨认]/[无法辨认]/[CJK]/[无法辨认]"
+      ],
+      "n_text_regions": 0,
+      "crops": [
+        {
+          "file": "/ssd2/duanju/scenes_100_regen/_crops/bg_tofu_stall/region_00.png",
+          "kind": "region",
+          "box": [
+            347,
+            64,
+            537,
+            170
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/scenes_100_regen/_crops/bg_tofu_stall/region_01.png",
+          "kind": "region",
+          "box": [
+            171,
+            671,
+            93,
+            36
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/scenes_100_regen/_crops/bg_tofu_stall/region_02.png",
+          "kind": "region",
+          "box": [
+            166,
+            771,
+            90,
+            33
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/scenes_100_regen/_crops/bg_tofu_stall/region_03.png",
+          "kind": "region",
+          "box": [
+            311,
+            675,
+            89,
+            33
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/scenes_100_regen/_crops/bg_tofu_stall/region_04.png",
+          "kind": "region",
+          "box": [
+            313,
+            589,
+            88,
+            33
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/scenes_100_regen/_crops/bg_tofu_stall/region_05.png",
+          "kind": "region",
+          "box": [
+            302,
+            770,
+            90,
+            32
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/scenes_100_regen/_crops/bg_tofu_stall/region_06.png",
+          "kind": "region",
+          "box": [
+            192,
+            591,
+            80,
+            31
+          ]
+        },
+        {
+          "file": "/ssd2/duanju/scenes_100_regen/_crops/bg_tofu_stall/region_07.png",
+          "kind": "region",
+          "box": [
+            413,
+            753,
+            40,
+            47
+          ]
+        }
+      ],
+      "size_ok": false
+    }
+  ]
+}

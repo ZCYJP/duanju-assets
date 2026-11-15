@@ -1,0 +1,19 @@
+{
+  "frames": 960,
+  "fps": 16,
+  "duration": 60.0,
+  "black": [],
+  "over": [],
+  "flat": [
+    0,
+    1,
+    2,
+    14,
+    15
+  ],
+  "freeze_count": 57,
+  "brightness_mean": 0.2533,
+  "contrast_mean": 0.2364,
+  "saturation_mean": 0.5018,
+  "costume_issues": []
+}

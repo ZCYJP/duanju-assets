@@ -1,0 +1,23 @@
+[
+  {
+    "sid": "bg_flower_stall",
+    "expected": "鮮花",
+    "lang": "繁体中文",
+    "got": "鲜花",
+    "status": "MISMATCH"
+  },
+  {
+    "sid": "bg_cafe",
+    "expected": "珈琲のひととき",
+    "lang": "日语",
+    "got": "CoffeeTime",
+    "status": "MISMATCH"
+  },
+  {
+    "sid": "bg_driving_office",
+    "expected": "Drive Safe",
+    "lang": "英语",
+    "got": "DRIVESAFE",
+    "status": "MISMATCH"
+  }
+]

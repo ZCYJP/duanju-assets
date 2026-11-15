@@ -1,0 +1,147 @@
+[
+  {
+    "sid": "bg_auto_shop",
+    "crops": [
+      "region_00.png"
+    ],
+    "answer": "整催工場 | [无法辨认]/[无法辨认]/[CJK]",
+    "lines": [
+      "整催工場 | [无法辨认]/[无法辨认]/[CJK]"
+    ]
+  },
+  {
+    "sid": "bg_delivery_street",
+    "crops": [
+      "region_00.png",
+      "region_01.png",
+      "region_02.png",
+      "region_03.png",
+      "region_04.png",
+      "region_05.png"
+    ],
+    "answer": "外卖驿站 | [REAL]/[无法辨认]/[CJK]\n旅似斯 | [REAL]/[无法辨认]/[CJK]\n无法辨认 | [无法辨认]/[无法辨认]/[无法辨认]\n外卖驿站 | [REAL]/[无法辨认]/[CJK]\n无法辨认 | [无法辨认]/[无法辨认]/[无法辨认]\n无法辨认 | [无法辨认]/[无法辨认]/[无法辨认]",
+    "lines": [
+      "外卖驿站 | [REAL]/[无法辨认]/[CJK]",
+      "旅似斯 | [REAL]/[无法辨认]/[CJK]",
+      "无法辨认 | [无法辨认]/[无法辨认]/[无法辨认]",
+      "外卖驿站 | [REAL]/[无法辨认]/[CJK]",
+      "无法辨认 | [无法辨认]/[无法辨认]/[无法辨认]",
+      "无法辨认 | [无法辨认]/[无法辨认]/[无法辨认]"
+    ]
+  },
+  {
+    "sid": "bg_driving_office",
+    "crops": [
+      "morph_00.png",
+      "region_00.png",
+      "region_01.png",
+      "region_02.png",
+      "region_03.png",
+      "region_04.png"
+    ],
+    "answer": "无法辨认 | [无法辨认]\n无法辨认 | [无法辨认]\n无法辨认 | [无法辨认]\n无法辨认 | [无法辨认]\n无法辨认 | [无法辨认]\n无法辨认 | [无法辨认]",
+    "lines": [
+      "无法辨认 | [无法辨认]",
+      "无法辨认 | [无法辨认]",
+      "无法辨认 | [无法辨认]",
+      "无法辨认 | [无法辨认]",
+      "无法辨认 | [无法辨认]",
+      "无法辨认 | [无法辨认]"
+    ]
+  },
+  {
+    "sid": "bg_grain_depot",
+    "crops": [
+      "morph_00.png",
+      "region_00.png",
+      "region_01.png"
+    ],
+    "answer": "粮食储备 | [CJK]",
+    "lines": [
+      "粮食储备 | [CJK]"
+    ]
+  },
+  {
+    "sid": "bg_home_services",
+    "crops": [
+      "morph_00.png",
+      "morph_01.png",
+      "morph_02.png",
+      "morph_03.png",
+      "region_00.png",
+      "region_01.png"
+    ],
+    "answer": "SONICS | [REAL]\n无法辨认 | [无法辨认]\n无法辨认 | [无法辨认]\nJOOD | [REAL]\n家政服務 | [CJK]",
+    "lines": [
+      "SONICS | [REAL]",
+      "无法辨认 | [无法辨认]",
+      "无法辨认 | [无法辨认]",
+      "JOOD | [REAL]",
+      "家政服務 | [CJK]"
+    ]
+  },
+  {
+    "sid": "bg_kindergarten_paint",
+    "crops": [
+      "morph_00.png",
+      "morph_01.png",
+      "region_00.png",
+      "region_01.png",
+      "region_02.png",
+      "region_03.png"
+    ],
+    "answer": "无法辨认 | [无法辨认]\n无法辨认 | [无法辨认]\nあごび | [CJK]\n无法辨认 | [无法辨认]\n无法辨认 | [无法辨认]\n无法辨认 | [无法辨认]",
+    "lines": [
+      "无法辨认 | [无法辨认]",
+      "无法辨认 | [无法辨认]",
+      "あごび | [CJK]",
+      "无法辨认 | [无法辨认]",
+      "无法辨认 | [无法辨认]",
+      "无法辨认 | [无法辨认]"
+    ]
+  },
+  {
+    "sid": "bg_law_office",
+    "crops": [
+      "morph_00.png",
+      "region_00.png",
+      "region_01.png"
+    ],
+    "answer": "诚信律师事务所 | [REAL]/[无法辨认]/[CJK]",
+    "lines": [
+      "诚信律师事务所 | [REAL]/[无法辨认]/[CJK]"
+    ]
+  },
+  {
+    "sid": "bg_pet_shop",
+    "crops": [
+      "morph_00.png",
+      "region_00.png",
+      "region_01.png"
+    ],
+    "answer": "宠物店 | [REAL]/[无法辨认]/[CJK]",
+    "lines": [
+      "宠物店 | [REAL]/[无法辨认]/[CJK]"
+    ]
+  },
+  {
+    "sid": "bg_tofu_stall",
+    "crops": [
+      "region_00.png",
+      "region_01.png",
+      "region_02.png",
+      "region_03.png",
+      "region_04.png",
+      "region_05.png"
+    ],
+    "answer": "石磨豆腐 | [无法辨认]/[无法辨认]/[CJK]/[无法辨认]\n石磨豆腐 | [无法辨认]/[无法辨认]/[CJK]/[无法辨认]\n石磨豆腐 | [无法辨认]/[无法辨认]/[CJK]/[无法辨认]\n石磨豆腐 | [无法辨认]/[无法辨认]/[CJK]/[无法辨认]\n石磨豆腐 | [无法辨认]/[无法辨认]/[CJK]/[无法辨认]\n石磨豆腐 | [无法辨认]/[无法辨认]/[CJK]/[无法辨认]",
+    "lines": [
+      "石磨豆腐 | [无法辨认]/[无法辨认]/[CJK]/[无法辨认]",
+      "石磨豆腐 | [无法辨认]/[无法辨认]/[CJK]/[无法辨认]",
+      "石磨豆腐 | [无法辨认]/[无法辨认]/[CJK]/[无法辨认]",
+      "石磨豆腐 | [无法辨认]/[无法辨认]/[CJK]/[无法辨认]",
+      "石磨豆腐 | [无法辨认]/[无法辨认]/[CJK]/[无法辨认]",
+      "石磨豆腐 | [无法辨认]/[无法辨认]/[CJK]/[无法辨认]"
+    ]
+  }
+]

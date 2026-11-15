@@ -1,0 +1,70 @@
+[
+  {
+    "cid": "F01",
+    "variant": "F01_mangzhong",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_smoke.json",
+    "sim": 0.8696,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8696 >= 0.45"
+  },
+  {
+    "cid": "F02",
+    "variant": "F02_dahan",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_smoke.json",
+    "sim": 0.8791,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.8791 >= 0.45"
+  },
+  {
+    "cid": "F02",
+    "variant": "F02_daxue",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_smoke.json",
+    "sim": 0.9243,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9243 >= 0.45"
+  },
+  {
+    "cid": "F02",
+    "variant": "F02_guyu",
+    "orig": "存疑",
+    "raw": [
+      "是",
+      "否"
+    ],
+    "src": "qc_smoke.json",
+    "sim": 0.9135,
+    "third": [
+      "1",
+      "2"
+    ],
+    "final": "同人",
+    "reason": "embed_sim=0.9135 >= 0.45"
+  }
+]

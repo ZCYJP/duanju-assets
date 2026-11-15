@@ -1,0 +1,35 @@
+{
+  "fixed": [
+    {
+      "id": "M36",
+      "f0": 120.6,
+      "seed": 9649,
+      "changed": true
+    },
+    {
+      "id": "M27",
+      "f0": 177.8,
+      "seed": 9533,
+      "changed": true
+    },
+    {
+      "id": "M73",
+      "f0": 212.4,
+      "seed": 10315,
+      "changed": true
+    },
+    {
+      "id": "M78",
+      "f0": 181.8,
+      "seed": 10474,
+      "changed": true
+    },
+    {
+      "id": "M69",
+      "f0": 200.9,
+      "seed": 10247,
+      "changed": true
+    }
+  ],
+  "failed": []
+}

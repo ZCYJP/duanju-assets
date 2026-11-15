@@ -1,0 +1,4802 @@
+{
+ "M01": {
+  "scale": 112.16,
+  "pyin": 112.16,
+  "presence": 112.16,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.024,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.507,
+    "k2.0": 2.017,
+    "score": 0.024
+   },
+   "half": {
+    "k0.5": 1.015,
+    "k2.0": 4.035,
+    "score": 2.55
+   },
+   "double": {
+    "k0.5": 0.254,
+    "k2.0": 1.009,
+    "score": 1.237
+   }
+  },
+  "gender": "男",
+  "range": [
+   75.0,
+   200.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples/M01_陆沉_voice.wav"
+ },
+ "M02": {
+  "scale": 76.83,
+  "pyin": 76.83,
+  "presence": 76.83,
+  "fp_verdict": "f0",
+  "selfcal_branch": "half",
+  "selfcal_score": 0.0,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.545,
+    "k2.0": 2.047,
+    "score": 0.092
+   },
+   "half": {
+    "k0.5": 0.0,
+    "k2.0": 0.0,
+    "score": 0.0
+   },
+   "double": {
+    "k0.5": 0.273,
+    "k2.0": 1.023,
+    "score": 1.204
+   }
+  },
+  "gender": "男",
+  "range": [
+   75.0,
+   200.0
+  ],
+  "confidence": "mid",
+  "path": "/ssd2/duanju/voices/samples/M02_沈知白_voice.wav"
+ },
+ "M03": {
+  "scale": 67.66,
+  "pyin": 67.66,
+  "presence": 67.66,
+  "fp_verdict": "f0",
+  "selfcal_branch": "half",
+  "selfcal_score": 0.0,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.637,
+    "k2.0": 1.988,
+    "score": 0.149
+   },
+   "half": {
+    "k0.5": 0.0,
+    "k2.0": 0.0,
+    "score": 0.0
+   },
+   "double": {
+    "k0.5": 0.319,
+    "k2.0": 0.994,
+    "score": 1.187
+   }
+  },
+  "gender": "男",
+  "range": [
+   75.0,
+   200.0
+  ],
+  "confidence": "mid",
+  "path": "/ssd2/duanju/voices/samples/M03_裴九渊_voice.wav"
+ },
+ "M04": {
+  "scale": 177.53,
+  "pyin": 177.53,
+  "presence": 177.53,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.012,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.5,
+    "k2.0": 2.012,
+    "score": 0.012
+   },
+   "half": {
+    "k0.5": 1.0,
+    "k2.0": 4.023,
+    "score": 2.523
+   },
+   "double": {
+    "k0.5": 0.25,
+    "k2.0": 1.006,
+    "score": 1.244
+   }
+  },
+  "gender": "男",
+  "range": [
+   75.0,
+   200.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples/M04_林昭_voice.wav"
+ },
+ "M05": {
+  "scale": 68.45,
+  "pyin": 68.45,
+  "presence": 68.45,
+  "fp_verdict": "f0",
+  "selfcal_branch": "half",
+  "selfcal_score": 0.0,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.626,
+    "k2.0": 2.035,
+    "score": 0.161
+   },
+   "half": {
+    "k0.5": 0.0,
+    "k2.0": 0.0,
+    "score": 0.0
+   },
+   "double": {
+    "k0.5": 0.313,
+    "k2.0": 1.017,
+    "score": 1.17
+   }
+  },
+  "gender": "男",
+  "range": [
+   75.0,
+   200.0
+  ],
+  "confidence": "mid",
+  "path": "/ssd2/duanju/voices/samples/M05_顾怀砚_voice.wav"
+ },
+ "M06": {
+  "scale": 120.56,
+  "pyin": 120.56,
+  "presence": 120.56,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.298,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.527,
+    "k2.0": 2.271,
+    "score": 0.298
+   },
+   "half": {
+    "k0.5": 1.053,
+    "k2.0": 4.542,
+    "score": 3.095
+   },
+   "double": {
+    "k0.5": 0.263,
+    "k2.0": 1.136,
+    "score": 1.101
+   }
+  },
+  "gender": "男",
+  "range": [
+   75.0,
+   200.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples/M06_陆峥_voice.wav"
+ },
+ "M07": {
+  "scale": 109.28,
+  "pyin": 109.28,
+  "presence": 109.28,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.048,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.536,
+    "k2.0": 2.012,
+    "score": 0.048
+   },
+   "half": {
+    "k0.5": 1.072,
+    "k2.0": 4.023,
+    "score": 2.595
+   },
+   "double": {
+    "k0.5": 0.268,
+    "k2.0": 1.006,
+    "score": 1.226
+   }
+  },
+  "gender": "男",
+  "range": [
+   75.0,
+   200.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples/M07_江临_voice.wav"
+ },
+ "M08": {
+  "scale": 98.49,
+  "pyin": 98.49,
+  "presence": 98.49,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.08,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.545,
+    "k2.0": 2.035,
+    "score": 0.08
+   },
+   "half": {
+    "k0.5": 1.091,
+    "k2.0": 4.07,
+    "score": 2.661
+   },
+   "double": {
+    "k0.5": 0.273,
+    "k2.0": 1.017,
+    "score": 1.21
+   }
+  },
+  "gender": "男",
+  "range": [
+   75.0,
+   200.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples/M08_萧衍_voice.wav"
+ },
+ "M09": {
+  "scale": 81.87,
+  "pyin": 81.87,
+  "presence": 81.87,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.105,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.588,
+    "k2.0": 1.983,
+    "score": 0.105
+   },
+   "half": {
+    "k0.5": 1.176,
+    "k2.0": 3.966,
+    "score": 2.642
+   },
+   "double": {
+    "k0.5": 0.294,
+    "k2.0": 0.991,
+    "score": 1.215
+   }
+  },
+  "gender": "男",
+  "range": [
+   75.0,
+   200.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples/M09_顾承渊_voice.wav"
+ },
+ "M10": {
+  "scale": 78.17,
+  "pyin": 78.17,
+  "presence": 78.17,
+  "fp_verdict": "f0",
+  "selfcal_branch": "half",
+  "selfcal_score": 0.0,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.709,
+    "k2.0": 2.083,
+    "score": 0.292
+   },
+   "half": {
+    "k0.5": 0.0,
+    "k2.0": 0.0,
+    "score": 0.0
+   },
+   "double": {
+    "k0.5": 0.355,
+    "k2.0": 1.041,
+    "score": 1.104
+   }
+  },
+  "gender": "男",
+  "range": [
+   75.0,
+   200.0
+  ],
+  "confidence": "mid",
+  "path": "/ssd2/duanju/voices/samples/M10_周砚青_voice.wav"
+ },
+ "M11": {
+  "scale": 84.76,
+  "pyin": 84.76,
+  "presence": 84.76,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.027,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.527,
+    "k2.0": 2.0,
+    "score": 0.027
+   },
+   "half": {
+    "k0.5": 1.053,
+    "k2.0": 4.0,
+    "score": 2.553
+   },
+   "double": {
+    "k0.5": 0.263,
+    "k2.0": 1.0,
+    "score": 1.237
+   }
+  },
+  "gender": "男",
+  "range": [
+   75.0,
+   200.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples/M11_韩铁山_voice.wav"
+ },
+ "M12": {
+  "scale": 81.4,
+  "pyin": 81.4,
+  "presence": 81.4,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.027,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.527,
+    "k2.0": 2.0,
+    "score": 0.027
+   },
+   "half": {
+    "k0.5": 1.053,
+    "k2.0": 4.0,
+    "score": 2.553
+   },
+   "double": {
+    "k0.5": 0.263,
+    "k2.0": 1.0,
+    "score": 1.237
+   }
+  },
+  "gender": "男",
+  "range": [
+   75.0,
+   200.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples/M12_唐牧云_voice.wav"
+ },
+ "M13": {
+  "scale": 66.12,
+  "pyin": 66.12,
+  "presence": 66.12,
+  "fp_verdict": "f0",
+  "selfcal_branch": "half",
+  "selfcal_score": 0.0,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.679,
+    "k2.0": 2.006,
+    "score": 0.185
+   },
+   "half": {
+    "k0.5": 0.0,
+    "k2.0": 0.0,
+    "score": 0.0
+   },
+   "double": {
+    "k0.5": 0.34,
+    "k2.0": 1.003,
+    "score": 1.157
+   }
+  },
+  "gender": "男",
+  "range": [
+   75.0,
+   200.0
+  ],
+  "confidence": "mid",
+  "path": "/ssd2/duanju/voices/samples/M13_徐怀瑾_voice.wav"
+ },
+ "M14": {
+  "scale": 100.79,
+  "pyin": 100.79,
+  "presence": 100.79,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.03,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.53,
+    "k2.0": 2.0,
+    "score": 0.03
+   },
+   "half": {
+    "k0.5": 1.059,
+    "k2.0": 4.0,
+    "score": 2.559
+   },
+   "double": {
+    "k0.5": 0.265,
+    "k2.0": 1.0,
+    "score": 1.235
+   }
+  },
+  "gender": "男",
+  "range": [
+   75.0,
+   200.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples/M14_傅斯年_voice.wav"
+ },
+ "M15": {
+  "scale": 199.27,
+  "pyin": 199.27,
+  "presence": 199.27,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.025,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.519,
+    "k2.0": 1.994,
+    "score": 0.025
+   },
+   "half": {
+    "k0.5": 1.038,
+    "k2.0": 3.988,
+    "score": 2.526
+   },
+   "double": {
+    "k0.5": 0.26,
+    "k2.0": 0.997,
+    "score": 1.243
+   }
+  },
+  "gender": "男",
+  "range": [
+   75.0,
+   200.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples/M15_黎昭_voice.wav"
+ },
+ "M16": {
+  "scale": 97.92,
+  "pyin": 97.92,
+  "presence": 97.92,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.064,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.518,
+    "k2.0": 1.954,
+    "score": 0.064
+   },
+   "half": {
+    "k0.5": 1.035,
+    "k2.0": 3.909,
+    "score": 2.444
+   },
+   "double": {
+    "k0.5": 0.259,
+    "k2.0": 0.977,
+    "score": 1.264
+   }
+  },
+  "gender": "男",
+  "range": [
+   75.0,
+   200.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples/M16_苏鹤鸣_voice.wav"
+ },
+ "M17": {
+  "scale": 229.57,
+  "pyin": 229.57,
+  "presence": 229.57,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.063,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.51,
+    "k2.0": 2.053,
+    "score": 0.063
+   },
+   "half": {
+    "k0.5": 1.02,
+    "k2.0": 4.105,
+    "score": 2.625
+   },
+   "double": {
+    "k0.5": 0.255,
+    "k2.0": 1.026,
+    "score": 1.219
+   }
+  },
+  "gender": "男",
+  "range": [
+   75.0,
+   200.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples/M17_郑亦驰_voice.wav"
+ },
+ "M18": {
+  "scale": 75.95,
+  "pyin": 75.95,
+  "presence": 75.95,
+  "fp_verdict": "f0",
+  "selfcal_branch": "half",
+  "selfcal_score": 0.0,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.641,
+    "k2.0": 2.012,
+    "score": 0.153
+   },
+   "half": {
+    "k0.5": 0.0,
+    "k2.0": 0.0,
+    "score": 0.0
+   },
+   "double": {
+    "k0.5": 0.32,
+    "k2.0": 1.006,
+    "score": 1.174
+   }
+  },
+  "gender": "男",
+  "range": [
+   75.0,
+   200.0
+  ],
+  "confidence": "mid",
+  "path": "/ssd2/duanju/voices/samples/M18_钟离墨_voice.wav"
+ },
+ "M19": {
+  "scale": 116.79,
+  "pyin": 116.79,
+  "presence": 116.79,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.009,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.503,
+    "k2.0": 1.994,
+    "score": 0.009
+   },
+   "half": {
+    "k0.5": 1.006,
+    "k2.0": 3.988,
+    "score": 2.494
+   },
+   "double": {
+    "k0.5": 0.251,
+    "k2.0": 0.997,
+    "score": 1.252
+   }
+  },
+  "gender": "男",
+  "range": [
+   75.0,
+   200.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples/M19_温朗_voice.wav"
+ },
+ "M20": {
+  "scale": 100.79,
+  "pyin": 100.79,
+  "presence": 100.79,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.095,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.536,
+    "k2.0": 2.059,
+    "score": 0.095
+   },
+   "half": {
+    "k0.5": 1.072,
+    "k2.0": 4.117,
+    "score": 2.689
+   },
+   "double": {
+    "k0.5": 0.268,
+    "k2.0": 1.029,
+    "score": 1.203
+   }
+  },
+  "gender": "男",
+  "range": [
+   75.0,
+   200.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples/M20_何重山_voice.wav"
+ },
+ "M21": {
+  "scale": 217.94,
+  "pyin": 217.94,
+  "presence": 217.94,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.121,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.396,
+    "k2.0": 2.017,
+    "score": 0.121
+   },
+   "half": {
+    "k0.5": 0.791,
+    "k2.0": 4.035,
+    "score": 2.326
+   },
+   "double": {
+    "k0.5": 0.198,
+    "k2.0": 1.009,
+    "score": 1.293
+   }
+  },
+  "gender": "男",
+  "range": [
+   75.0,
+   200.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples/M21_洛星辰_voice.wav"
+ },
+ "M22": {
+  "scale": 85.25,
+  "pyin": 85.25,
+  "presence": 85.25,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.154,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.571,
+    "k2.0": 2.083,
+    "score": 0.154
+   },
+   "half": {
+    "k0.5": 1.142,
+    "k2.0": 4.165,
+    "score": 2.807
+   },
+   "double": {
+    "k0.5": 0.286,
+    "k2.0": 1.041,
+    "score": 1.173
+   }
+  },
+  "gender": "男",
+  "range": [
+   75.0,
+   200.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples/M22_白玉京_voice.wav"
+ },
+ "M23": {
+  "scale": 198.7,
+  "pyin": 198.7,
+  "presence": 198.7,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.386,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.437,
+    "k2.0": 1.677,
+    "score": 0.386
+   },
+   "half": {
+    "k0.5": 0.873,
+    "k2.0": 3.354,
+    "score": 1.727
+   },
+   "double": {
+    "k0.5": 0.218,
+    "k2.0": 0.838,
+    "score": 1.444
+   }
+  },
+  "gender": "男",
+  "range": [
+   75.0,
+   200.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples/M23_顾行舟_voice.wav"
+ },
+ "M24": {
+  "scale": 98.21,
+  "pyin": 98.21,
+  "presence": 98.21,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.077,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.537,
+    "k2.0": 1.96,
+    "score": 0.077
+   },
+   "half": {
+    "k0.5": 1.075,
+    "k2.0": 3.92,
+    "score": 2.495
+   },
+   "double": {
+    "k0.5": 0.269,
+    "k2.0": 0.98,
+    "score": 1.251
+   }
+  },
+  "gender": "男",
+  "range": [
+   75.0,
+   200.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples/M24_秦墨白_voice.wav"
+ },
+ "M25": {
+  "scale": 74.21,
+  "pyin": 74.21,
+  "presence": 74.21,
+  "fp_verdict": "f0",
+  "selfcal_branch": "half",
+  "selfcal_score": 0.0,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.588,
+    "k2.0": 2.0,
+    "score": 0.088
+   },
+   "half": {
+    "k0.5": 0.0,
+    "k2.0": 0.0,
+    "score": 0.0
+   },
+   "double": {
+    "k0.5": 0.294,
+    "k2.0": 1.0,
+    "score": 1.206
+   }
+  },
+  "gender": "男",
+  "range": [
+   75.0,
+   200.0
+  ],
+  "confidence": "mid",
+  "path": "/ssd2/duanju/voices/samples/M25_江停云_voice.wav"
+ },
+ "F01": {
+  "scale": 166.6,
+  "pyin": 166.6,
+  "presence": 166.6,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.036,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.501,
+    "k2.0": 2.035,
+    "score": 0.036
+   },
+   "half": {
+    "k0.5": 1.003,
+    "k2.0": 4.07,
+    "score": 2.573
+   },
+   "double": {
+    "k0.5": 0.251,
+    "k2.0": 1.017,
+    "score": 1.232
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples/F01_苏清晚_voice.wav"
+ },
+ "F02": {
+  "scale": 214.81,
+  "pyin": 214.81,
+  "presence": 214.81,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.015,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.491,
+    "k2.0": 2.006,
+    "score": 0.015
+   },
+   "half": {
+    "k0.5": 0.983,
+    "k2.0": 4.012,
+    "score": 2.495
+   },
+   "double": {
+    "k0.5": 0.246,
+    "k2.0": 1.003,
+    "score": 1.251
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples/F02_温念_voice.wav"
+ },
+ "F03": {
+  "scale": 202.17,
+  "pyin": 202.17,
+  "presence": 202.17,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.022,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.484,
+    "k2.0": 2.006,
+    "score": 0.022
+   },
+   "half": {
+    "k0.5": 0.969,
+    "k2.0": 4.012,
+    "score": 2.481
+   },
+   "double": {
+    "k0.5": 0.242,
+    "k2.0": 1.003,
+    "score": 1.255
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples/F03_苏蔓_voice.wav"
+ },
+ "F04": {
+  "scale": 183.79,
+  "pyin": 183.79,
+  "presence": 183.79,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.056,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.497,
+    "k2.0": 2.053,
+    "score": 0.056
+   },
+   "half": {
+    "k0.5": 0.994,
+    "k2.0": 4.105,
+    "score": 2.599
+   },
+   "double": {
+    "k0.5": 0.249,
+    "k2.0": 1.026,
+    "score": 1.225
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples/F04_柳如烟_voice.wav"
+ },
+ "F05": {
+  "scale": 178.05,
+  "pyin": 178.05,
+  "presence": 178.05,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.123,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.51,
+    "k2.0": 2.113,
+    "score": 0.123
+   },
+   "half": {
+    "k0.5": 1.02,
+    "k2.0": 4.226,
+    "score": 2.746
+   },
+   "double": {
+    "k0.5": 0.255,
+    "k2.0": 1.056,
+    "score": 1.189
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples/F05_沈霜_voice.wav"
+ },
+ "F06": {
+  "scale": 148.43,
+  "pyin": 148.43,
+  "presence": 148.43,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.015,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.497,
+    "k2.0": 2.012,
+    "score": 0.015
+   },
+   "half": {
+    "k0.5": 0.994,
+    "k2.0": 4.023,
+    "score": 2.517
+   },
+   "double": {
+    "k0.5": 0.249,
+    "k2.0": 1.006,
+    "score": 1.245
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples/F06_顾兰芝_voice.wav"
+ },
+ "F07": {
+  "scale": 362.32,
+  "pyin": 362.32,
+  "presence": 362.32,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.427,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.499,
+    "k2.0": 1.574,
+    "score": 0.427
+   },
+   "half": {
+    "k0.5": 0.997,
+    "k2.0": 3.147,
+    "score": 1.644
+   },
+   "double": {
+    "k0.5": 0.249,
+    "k2.0": 0.787,
+    "score": 1.464
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples/F07_夏糖_voice.wav"
+ },
+ "F08": {
+  "scale": 249.62,
+  "pyin": 249.62,
+  "presence": 249.62,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.021,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.509,
+    "k2.0": 2.012,
+    "score": 0.021
+   },
+   "half": {
+    "k0.5": 1.017,
+    "k2.0": 4.023,
+    "score": 2.54
+   },
+   "double": {
+    "k0.5": 0.254,
+    "k2.0": 1.006,
+    "score": 1.24
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples/F08_宋佳宁_voice.wav"
+ },
+ "F09": {
+  "scale": 273.79,
+  "pyin": 273.79,
+  "presence": 273.79,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.057,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.5,
+    "k2.0": 1.943,
+    "score": 0.057
+   },
+   "half": {
+    "k0.5": 1.0,
+    "k2.0": 3.886,
+    "score": 2.386
+   },
+   "double": {
+    "k0.5": 0.25,
+    "k2.0": 0.972,
+    "score": 1.278
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples/F09_楚云绾_voice.wav"
+ },
+ "F10": {
+  "scale": 160.93,
+  "pyin": 160.93,
+  "presence": 160.93,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.027,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.521,
+    "k2.0": 2.006,
+    "score": 0.027
+   },
+   "half": {
+    "k0.5": 1.041,
+    "k2.0": 4.012,
+    "score": 2.553
+   },
+   "double": {
+    "k0.5": 0.26,
+    "k2.0": 1.003,
+    "score": 1.237
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples/F10_白露_voice.wav"
+ },
+ "F11": {
+  "scale": 162.8,
+  "pyin": 162.8,
+  "presence": 162.8,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.012,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.512,
+    "k2.0": 2.0,
+    "score": 0.012
+   },
+   "half": {
+    "k0.5": 1.023,
+    "k2.0": 4.0,
+    "score": 2.523
+   },
+   "double": {
+    "k0.5": 0.256,
+    "k2.0": 1.0,
+    "score": 1.244
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples/F11_顾雪柔_voice.wav"
+ },
+ "F12": {
+  "scale": 169.51,
+  "pyin": 169.51,
+  "presence": 169.51,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.006,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.506,
+    "k2.0": 2.0,
+    "score": 0.006
+   },
+   "half": {
+    "k0.5": 1.012,
+    "k2.0": 4.0,
+    "score": 2.512
+   },
+   "double": {
+    "k0.5": 0.253,
+    "k2.0": 1.0,
+    "score": 1.247
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples/F12_林晚棠_voice.wav"
+ },
+ "F13": {
+  "scale": 171.98,
+  "pyin": 171.98,
+  "presence": 171.98,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.06,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.507,
+    "k2.0": 2.053,
+    "score": 0.06
+   },
+   "half": {
+    "k0.5": 1.015,
+    "k2.0": 4.105,
+    "score": 2.62
+   },
+   "double": {
+    "k0.5": 0.254,
+    "k2.0": 1.026,
+    "score": 1.22
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples/F13_叶轻罗_voice.wav"
+ },
+ "F14": {
+  "scale": 215.43,
+  "pyin": 215.43,
+  "presence": 215.43,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.083,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.468,
+    "k2.0": 1.949,
+    "score": 0.083
+   },
+   "half": {
+    "k0.5": 0.936,
+    "k2.0": 3.897,
+    "score": 2.333
+   },
+   "double": {
+    "k0.5": 0.234,
+    "k2.0": 0.974,
+    "score": 1.292
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples/F14_江听荷_voice.wav"
+ },
+ "F15": {
+  "scale": 196.98,
+  "pyin": 196.98,
+  "presence": 196.98,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.006,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.5,
+    "k2.0": 2.006,
+    "score": 0.006
+   },
+   "half": {
+    "k0.5": 1.0,
+    "k2.0": 4.012,
+    "score": 2.512
+   },
+   "double": {
+    "k0.5": 0.25,
+    "k2.0": 1.003,
+    "score": 1.247
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples/F15_苏念安_voice.wav"
+ },
+ "F16": {
+  "scale": 191.38,
+  "pyin": 191.38,
+  "presence": 191.38,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.036,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.524,
+    "k2.0": 1.988,
+    "score": 0.036
+   },
+   "half": {
+    "k0.5": 1.047,
+    "k2.0": 3.977,
+    "score": 2.524
+   },
+   "double": {
+    "k0.5": 0.262,
+    "k2.0": 0.994,
+    "score": 1.244
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples/F16_陈薇_voice.wav"
+ },
+ "F17": {
+  "scale": 157.25,
+  "pyin": 157.25,
+  "presence": 157.25,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.05,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.533,
+    "k2.0": 2.017,
+    "score": 0.05
+   },
+   "half": {
+    "k0.5": 1.066,
+    "k2.0": 4.035,
+    "score": 2.601
+   },
+   "double": {
+    "k0.5": 0.266,
+    "k2.0": 1.009,
+    "score": 1.225
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples/F17_秦妙真_voice.wav"
+ },
+ "F18": {
+  "scale": 170.5,
+  "pyin": 340.99,
+  "presence": 170.5,
+  "fp_verdict": "half",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.455,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.494,
+    "k2.0": 1.551,
+    "score": 0.455
+   },
+   "half": {
+    "k0.5": 0.989,
+    "k2.0": 3.102,
+    "score": 1.591
+   },
+   "double": {
+    "k0.5": 0.247,
+    "k2.0": 0.776,
+    "score": 1.477
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "mid",
+  "path": "/ssd2/duanju/voices/samples/F18_韩雨薇_voice.wav"
+ },
+ "F19": {
+  "scale": 243.92,
+  "pyin": 243.92,
+  "presence": 243.92,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.032,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.503,
+    "k2.0": 2.029,
+    "score": 0.032
+   },
+   "half": {
+    "k0.5": 1.006,
+    "k2.0": 4.058,
+    "score": 2.564
+   },
+   "double": {
+    "k0.5": 0.251,
+    "k2.0": 1.015,
+    "score": 1.234
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples/F19_谢瑶光_voice.wav"
+ },
+ "F20": {
+  "scale": 348.96,
+  "pyin": 348.96,
+  "presence": 348.96,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.143,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.509,
+    "k2.0": 1.866,
+    "score": 0.143
+   },
+   "half": {
+    "k0.5": 1.017,
+    "k2.0": 3.732,
+    "score": 2.249
+   },
+   "double": {
+    "k0.5": 0.254,
+    "k2.0": 0.933,
+    "score": 1.313
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples/F20_唐糖糖_voice.wav"
+ },
+ "F21": {
+  "scale": 243.22,
+  "pyin": 243.22,
+  "presence": 243.22,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.006,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.5,
+    "k2.0": 1.994,
+    "score": 0.006
+   },
+   "half": {
+    "k0.5": 1.0,
+    "k2.0": 3.988,
+    "score": 2.488
+   },
+   "double": {
+    "k0.5": 0.25,
+    "k2.0": 0.997,
+    "score": 1.253
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples/F21_罗蔓青_voice.wav"
+ },
+ "F22": {
+  "scale": 173.48,
+  "pyin": 173.48,
+  "presence": 173.48,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.026,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.503,
+    "k2.0": 2.023,
+    "score": 0.026
+   },
+   "half": {
+    "k0.5": 1.006,
+    "k2.0": 4.046,
+    "score": 2.552
+   },
+   "double": {
+    "k0.5": 0.251,
+    "k2.0": 1.012,
+    "score": 1.237
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples/F22_沈青梧_voice.wav"
+ },
+ "F23": {
+  "scale": 194.72,
+  "pyin": 194.72,
+  "presence": 194.72,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.021,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.509,
+    "k2.0": 2.012,
+    "score": 0.021
+   },
+   "half": {
+    "k0.5": 1.017,
+    "k2.0": 4.023,
+    "score": 2.54
+   },
+   "double": {
+    "k0.5": 0.254,
+    "k2.0": 1.006,
+    "score": 1.24
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples/F23_周砚清_voice.wav"
+ },
+ "F24": {
+  "scale": 180.63,
+  "pyin": 180.63,
+  "presence": 180.63,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.018,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.494,
+    "k2.0": 1.988,
+    "score": 0.018
+   },
+   "half": {
+    "k0.5": 0.989,
+    "k2.0": 3.977,
+    "score": 2.466
+   },
+   "double": {
+    "k0.5": 0.247,
+    "k2.0": 0.994,
+    "score": 1.259
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples/F24_梁听雪_voice.wav"
+ },
+ "F25": {
+  "scale": 302.04,
+  "pyin": 302.04,
+  "presence": 302.04,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.055,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.491,
+    "k2.0": 1.954,
+    "score": 0.055
+   },
+   "half": {
+    "k0.5": 0.983,
+    "k2.0": 3.909,
+    "score": 2.392
+   },
+   "double": {
+    "k0.5": 0.246,
+    "k2.0": 0.977,
+    "score": 1.277
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples/F25_邱以沫_voice.wav"
+ },
+ "M26": {
+  "scale": 77.72,
+  "pyin": 77.72,
+  "presence": 77.72,
+  "fp_verdict": "f0",
+  "selfcal_branch": "half",
+  "selfcal_score": 0.0,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.558,
+    "k2.0": 1.943,
+    "score": 0.115
+   },
+   "half": {
+    "k0.5": 0.0,
+    "k2.0": 0.0,
+    "score": 0.0
+   },
+   "double": {
+    "k0.5": 0.279,
+    "k2.0": 0.972,
+    "score": 1.249
+   }
+  },
+  "gender": "男",
+  "range": [
+   75.0,
+   200.0
+  ],
+  "confidence": "mid",
+  "path": "/ssd2/duanju/voices/samples_ext/M26_顾青山_voice.wav"
+ },
+ "M27": {
+  "scale": 203.93,
+  "pyin": 203.93,
+  "presence": 203.93,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.048,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.464,
+    "k2.0": 1.988,
+    "score": 0.048
+   },
+   "half": {
+    "k0.5": 0.928,
+    "k2.0": 3.977,
+    "score": 2.405
+   },
+   "double": {
+    "k0.5": 0.232,
+    "k2.0": 0.994,
+    "score": 1.274
+   }
+  },
+  "gender": "男",
+  "range": [
+   75.0,
+   200.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/M27_赵铁山_voice.wav"
+ },
+ "M28": {
+  "scale": 76.83,
+  "pyin": 76.83,
+  "presence": 76.83,
+  "fp_verdict": "f0",
+  "selfcal_branch": "half",
+  "selfcal_score": 0.0,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.558,
+    "k2.0": 2.012,
+    "score": 0.07
+   },
+   "half": {
+    "k0.5": 0.0,
+    "k2.0": 0.0,
+    "score": 0.0
+   },
+   "double": {
+    "k0.5": 0.279,
+    "k2.0": 1.006,
+    "score": 1.215
+   }
+  },
+  "gender": "男",
+  "range": [
+   75.0,
+   200.0
+  ],
+  "confidence": "mid",
+  "path": "/ssd2/duanju/voices/samples_ext/M28_钱守田_voice.wav"
+ },
+ "M29": {
+  "scale": 136.9,
+  "pyin": 136.9,
+  "presence": 136.9,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.288,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.504,
+    "k2.0": 2.284,
+    "score": 0.288
+   },
+   "half": {
+    "k0.5": 1.009,
+    "k2.0": 4.568,
+    "score": 3.077
+   },
+   "double": {
+    "k0.5": 0.252,
+    "k2.0": 1.142,
+    "score": 1.106
+   }
+  },
+  "gender": "男",
+  "range": [
+   75.0,
+   200.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/M29_孙大江_voice.wav"
+ },
+ "M30": {
+  "scale": 90.84,
+  "pyin": 90.84,
+  "presence": 90.84,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.036,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.524,
+    "k2.0": 1.988,
+    "score": 0.036
+   },
+   "half": {
+    "k0.5": 1.047,
+    "k2.0": 3.977,
+    "score": 2.524
+   },
+   "double": {
+    "k0.5": 0.262,
+    "k2.0": 0.994,
+    "score": 1.244
+   }
+  },
+  "gender": "男",
+  "range": [
+   75.0,
+   200.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/M30_周正平_voice.wav"
+ },
+ "M31": {
+  "scale": 167.57,
+  "pyin": 167.57,
+  "presence": 167.57,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.015,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.497,
+    "k2.0": 1.988,
+    "score": 0.015
+   },
+   "half": {
+    "k0.5": 0.994,
+    "k2.0": 3.977,
+    "score": 2.471
+   },
+   "double": {
+    "k0.5": 0.249,
+    "k2.0": 0.994,
+    "score": 1.257
+   }
+  },
+  "gender": "男",
+  "range": [
+   75.0,
+   200.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/M31_吴承志_voice.wav"
+ },
+ "M32": {
+  "scale": 121.96,
+  "pyin": 121.96,
+  "presence": 121.96,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.126,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.555,
+    "k2.0": 2.071,
+    "score": 0.126
+   },
+   "half": {
+    "k0.5": 1.11,
+    "k2.0": 4.141,
+    "score": 2.751
+   },
+   "double": {
+    "k0.5": 0.277,
+    "k2.0": 1.035,
+    "score": 1.188
+   }
+  },
+  "gender": "男",
+  "range": [
+   75.0,
+   200.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/M32_郑国栋_voice.wav"
+ },
+ "M33": {
+  "scale": 83.3,
+  "pyin": 83.3,
+  "presence": 83.3,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.042,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.542,
+    "k2.0": 2.0,
+    "score": 0.042
+   },
+   "half": {
+    "k0.5": 1.084,
+    "k2.0": 4.0,
+    "score": 2.584
+   },
+   "double": {
+    "k0.5": 0.271,
+    "k2.0": 1.0,
+    "score": 1.229
+   }
+  },
+  "gender": "男",
+  "range": [
+   75.0,
+   200.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/M33_王秀山_voice.wav"
+ },
+ "M34": {
+  "scale": 237.66,
+  "pyin": 237.66,
+  "presence": 237.66,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.081,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.482,
+    "k2.0": 1.937,
+    "score": 0.081
+   },
+   "half": {
+    "k0.5": 0.963,
+    "k2.0": 3.875,
+    "score": 2.338
+   },
+   "double": {
+    "k0.5": 0.241,
+    "k2.0": 0.969,
+    "score": 1.29
+   }
+  },
+  "gender": "男",
+  "range": [
+   75.0,
+   200.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/M34_李铁柱_voice.wav"
+ },
+ "M35": {
+  "scale": 168.54,
+  "pyin": 168.54,
+  "presence": 168.54,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.075,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.518,
+    "k2.0": 1.943,
+    "score": 0.075
+   },
+   "half": {
+    "k0.5": 1.035,
+    "k2.0": 3.886,
+    "score": 2.421
+   },
+   "double": {
+    "k0.5": 0.259,
+    "k2.0": 0.972,
+    "score": 1.269
+   }
+  },
+  "gender": "男",
+  "range": [
+   75.0,
+   200.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/M35_赵海军_voice.wav"
+ },
+ "M36": {
+  "scale": 109.28,
+  "pyin": 109.28,
+  "presence": 109.28,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.126,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.497,
+    "k2.0": 1.877,
+    "score": 0.126
+   },
+   "half": {
+    "k0.5": 0.994,
+    "k2.0": 3.754,
+    "score": 2.248
+   },
+   "double": {
+    "k0.5": 0.249,
+    "k2.0": 0.938,
+    "score": 1.313
+   }
+  },
+  "gender": "男",
+  "range": [
+   75.0,
+   200.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/M36_孙小军_voice.wav"
+ },
+ "M37": {
+  "scale": 195.28,
+  "pyin": 195.28,
+  "presence": 195.28,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.034,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.489,
+    "k2.0": 2.023,
+    "score": 0.034
+   },
+   "half": {
+    "k0.5": 0.977,
+    "k2.0": 4.046,
+    "score": 2.523
+   },
+   "double": {
+    "k0.5": 0.244,
+    "k2.0": 1.012,
+    "score": 1.244
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/M37_周明月_voice.wav"
+ },
+ "M38": {
+  "scale": 218.57,
+  "pyin": 218.57,
+  "presence": 218.57,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.038,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.491,
+    "k2.0": 2.029,
+    "score": 0.038
+   },
+   "half": {
+    "k0.5": 0.983,
+    "k2.0": 4.058,
+    "score": 2.541
+   },
+   "double": {
+    "k0.5": 0.246,
+    "k2.0": 1.015,
+    "score": 1.239
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/M38_吴丽君_voice.wav"
+ },
+ "M39": {
+  "scale": 112.49,
+  "pyin": 112.49,
+  "presence": 112.49,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.009,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.491,
+    "k2.0": 2.0,
+    "score": 0.009
+   },
+   "half": {
+    "k0.5": 0.983,
+    "k2.0": 4.0,
+    "score": 2.483
+   },
+   "double": {
+    "k0.5": 0.246,
+    "k2.0": 1.0,
+    "score": 1.254
+   }
+  },
+  "gender": "男",
+  "range": [
+   75.0,
+   200.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/M39_郑文彬_voice.wav"
+ },
+ "M40": {
+  "scale": 164.69,
+  "pyin": 164.69,
+  "presence": 164.69,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.031,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.531,
+    "k2.0": 2.0,
+    "score": 0.031
+   },
+   "half": {
+    "k0.5": 1.063,
+    "k2.0": 4.0,
+    "score": 2.563
+   },
+   "double": {
+    "k0.5": 0.266,
+    "k2.0": 1.0,
+    "score": 1.234
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/M40_王秀英_voice.wav"
+ },
+ "M41": {
+  "scale": 224.97,
+  "pyin": 224.97,
+  "presence": 224.97,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.035,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.506,
+    "k2.0": 2.029,
+    "score": 0.035
+   },
+   "half": {
+    "k0.5": 1.012,
+    "k2.0": 4.058,
+    "score": 2.57
+   },
+   "double": {
+    "k0.5": 0.253,
+    "k2.0": 1.015,
+    "score": 1.232
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/M41_李春梅_voice.wav"
+ },
+ "M42": {
+  "scale": 95.69,
+  "pyin": 95.69,
+  "presence": 95.69,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.038,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.515,
+    "k2.0": 2.023,
+    "score": 0.038
+   },
+   "half": {
+    "k0.5": 1.029,
+    "k2.0": 4.046,
+    "score": 2.575
+   },
+   "double": {
+    "k0.5": 0.257,
+    "k2.0": 1.012,
+    "score": 1.231
+   }
+  },
+  "gender": "男",
+  "range": [
+   75.0,
+   200.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/M42_孙德才_voice.wav"
+ },
+ "M43": {
+  "scale": 312.69,
+  "pyin": 312.69,
+  "presence": 312.69,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.158,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.503,
+    "k2.0": 1.845,
+    "score": 0.158
+   },
+   "half": {
+    "k0.5": 1.006,
+    "k2.0": 3.689,
+    "score": 2.195
+   },
+   "double": {
+    "k0.5": 0.251,
+    "k2.0": 0.922,
+    "score": 1.327
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/M43_周慧敏_voice.wav"
+ },
+ "M44": {
+  "scale": 156.8,
+  "pyin": 156.8,
+  "presence": 156.8,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.079,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.573,
+    "k2.0": 1.994,
+    "score": 0.079
+   },
+   "half": {
+    "k0.5": 1.145,
+    "k2.0": 3.988,
+    "score": 2.633
+   },
+   "double": {
+    "k0.5": 0.286,
+    "k2.0": 0.997,
+    "score": 1.217
+   }
+  },
+  "gender": "男",
+  "range": [
+   75.0,
+   200.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/M44_吴国栋_voice.wav"
+ },
+ "M45": {
+  "scale": 185.39,
+  "pyin": 370.78,
+  "presence": 185.39,
+  "fp_verdict": "half",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.61,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.455,
+    "k2.0": 1.435,
+    "score": 0.61
+   },
+   "half": {
+    "k0.5": 0.909,
+    "k2.0": 2.87,
+    "score": 1.279
+   },
+   "double": {
+    "k0.5": 0.227,
+    "k2.0": 0.717,
+    "score": 1.556
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "mid",
+  "path": "/ssd2/duanju/voices/samples_ext/M45_郑淑芬_voice.wav"
+ },
+ "M46": {
+  "scale": 131.47,
+  "pyin": 131.47,
+  "presence": 131.47,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.044,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.497,
+    "k2.0": 2.041,
+    "score": 0.044
+   },
+   "half": {
+    "k0.5": 0.994,
+    "k2.0": 4.082,
+    "score": 2.576
+   },
+   "double": {
+    "k0.5": 0.249,
+    "k2.0": 1.02,
+    "score": 1.231
+   }
+  },
+  "gender": "男",
+  "range": [
+   75.0,
+   200.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/M46_王大川_voice.wav"
+ },
+ "M47": {
+  "scale": 75.95,
+  "pyin": 75.95,
+  "presence": 75.95,
+  "fp_verdict": "f0",
+  "selfcal_branch": "half",
+  "selfcal_score": 0.0,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.555,
+    "k2.0": 1.977,
+    "score": 0.078
+   },
+   "half": {
+    "k0.5": 0.0,
+    "k2.0": 0.0,
+    "score": 0.0
+   },
+   "double": {
+    "k0.5": 0.277,
+    "k2.0": 0.989,
+    "score": 1.234
+   }
+  },
+  "gender": "男",
+  "range": [
+   75.0,
+   200.0
+  ],
+  "confidence": "mid",
+  "path": "/ssd2/duanju/voices/samples_ext/M47_李向阳_voice.wav"
+ },
+ "M48": {
+  "scale": 205.11,
+  "pyin": 205.11,
+  "presence": 205.11,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.031,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.469,
+    "k2.0": 2.0,
+    "score": 0.031
+   },
+   "half": {
+    "k0.5": 0.938,
+    "k2.0": 4.0,
+    "score": 2.438
+   },
+   "double": {
+    "k0.5": 0.235,
+    "k2.0": 1.0,
+    "score": 1.265
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/M48_孙明月_voice.wav"
+ },
+ "M49": {
+  "scale": 199.85,
+  "pyin": 199.85,
+  "presence": 199.85,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.016,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.504,
+    "k2.0": 1.988,
+    "score": 0.016
+   },
+   "half": {
+    "k0.5": 1.009,
+    "k2.0": 3.977,
+    "score": 2.486
+   },
+   "double": {
+    "k0.5": 0.252,
+    "k2.0": 0.994,
+    "score": 1.254
+   }
+  },
+  "gender": "男",
+  "range": [
+   75.0,
+   200.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/M49_周立新_voice.wav"
+ },
+ "M50": {
+  "scale": 163.74,
+  "pyin": 163.74,
+  "presence": 163.74,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.015,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.503,
+    "k2.0": 2.012,
+    "score": 0.015
+   },
+   "half": {
+    "k0.5": 1.006,
+    "k2.0": 4.023,
+    "score": 2.529
+   },
+   "double": {
+    "k0.5": 0.251,
+    "k2.0": 1.006,
+    "score": 1.243
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/M50_吴秀英_voice.wav"
+ },
+ "M51": {
+  "scale": 102.56,
+  "pyin": 205.11,
+  "presence": 102.56,
+  "fp_verdict": "half",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.146,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.527,
+    "k2.0": 2.119,
+    "score": 0.146
+   },
+   "half": {
+    "k0.5": 1.053,
+    "k2.0": 4.238,
+    "score": 2.791
+   },
+   "double": {
+    "k0.5": 0.263,
+    "k2.0": 1.059,
+    "score": 1.178
+   }
+  },
+  "gender": "男",
+  "range": [
+   75.0,
+   200.0
+  ],
+  "confidence": "mid",
+  "path": "/ssd2/duanju/voices/samples_ext/M51_郑天佑_voice.wav"
+ },
+ "M52": {
+  "scale": 86.24,
+  "pyin": 86.24,
+  "presence": 86.24,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.068,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.533,
+    "k2.0": 2.035,
+    "score": 0.068
+   },
+   "half": {
+    "k0.5": 1.066,
+    "k2.0": 4.07,
+    "score": 2.636
+   },
+   "double": {
+    "k0.5": 0.266,
+    "k2.0": 1.017,
+    "score": 1.217
+   }
+  },
+  "gender": "男",
+  "range": [
+   75.0,
+   200.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/M52_王保安_voice.wav"
+ },
+ "M53": {
+  "scale": 305.55,
+  "pyin": 305.55,
+  "presence": 305.55,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.126,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.497,
+    "k2.0": 1.877,
+    "score": 0.126
+   },
+   "half": {
+    "k0.5": 0.994,
+    "k2.0": 3.754,
+    "score": 2.248
+   },
+   "double": {
+    "k0.5": 0.249,
+    "k2.0": 0.938,
+    "score": 1.313
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/M53_李梦琪_voice.wav"
+ },
+ "M54": {
+  "scale": 85.25,
+  "pyin": 85.25,
+  "presence": 85.25,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.073,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.573,
+    "k2.0": 2.0,
+    "score": 0.073
+   },
+   "half": {
+    "k0.5": 1.145,
+    "k2.0": 4.0,
+    "score": 2.645
+   },
+   "double": {
+    "k0.5": 0.286,
+    "k2.0": 1.0,
+    "score": 1.214
+   }
+  },
+  "gender": "男",
+  "range": [
+   75.0,
+   200.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/M54_孙毅_voice.wav"
+ },
+ "M55": {
+  "scale": 128.1,
+  "pyin": 128.1,
+  "presence": 128.1,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.028,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.522,
+    "k2.0": 2.006,
+    "score": 0.028
+   },
+   "half": {
+    "k0.5": 1.044,
+    "k2.0": 4.012,
+    "score": 2.556
+   },
+   "double": {
+    "k0.5": 0.261,
+    "k2.0": 1.003,
+    "score": 1.236
+   }
+  },
+  "gender": "男",
+  "range": [
+   75.0,
+   200.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/M55_周立春_voice.wav"
+ },
+ "M56": {
+  "scale": 179.08,
+  "pyin": 179.08,
+  "presence": 179.08,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.007,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.499,
+    "k2.0": 1.994,
+    "score": 0.007
+   },
+   "half": {
+    "k0.5": 0.997,
+    "k2.0": 3.988,
+    "score": 2.485
+   },
+   "double": {
+    "k0.5": 0.249,
+    "k2.0": 0.997,
+    "score": 1.254
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/M56_吴慧_voice.wav"
+ },
+ "M57": {
+  "scale": 106.79,
+  "pyin": 106.79,
+  "presence": 106.79,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.045,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.545,
+    "k2.0": 2.0,
+    "score": 0.045
+   },
+   "half": {
+    "k0.5": 1.091,
+    "k2.0": 4.0,
+    "score": 2.591
+   },
+   "double": {
+    "k0.5": 0.273,
+    "k2.0": 1.0,
+    "score": 1.227
+   }
+  },
+  "gender": "男",
+  "range": [
+   75.0,
+   200.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/M57_郑明_voice.wav"
+ },
+ "M58": {
+  "scale": 113.14,
+  "pyin": 113.14,
+  "presence": 113.14,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.074,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.483,
+    "k2.0": 1.943,
+    "score": 0.074
+   },
+   "half": {
+    "k0.5": 0.966,
+    "k2.0": 3.886,
+    "score": 2.352
+   },
+   "double": {
+    "k0.5": 0.241,
+    "k2.0": 0.972,
+    "score": 1.287
+   }
+  },
+  "gender": "男",
+  "range": [
+   75.0,
+   200.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/M58_王海涛_voice.wav"
+ },
+ "M59": {
+  "scale": 357.12,
+  "pyin": 357.12,
+  "presence": 357.12,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.082,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.503,
+    "k2.0": 1.921,
+    "score": 0.082
+   },
+   "half": {
+    "k0.5": 1.006,
+    "k2.0": 3.841,
+    "score": 2.347
+   },
+   "double": {
+    "k0.5": 0.251,
+    "k2.0": 0.96,
+    "score": 1.289
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/M59_李凤兰_voice.wav"
+ },
+ "M60": {
+  "scale": 82.34,
+  "pyin": 82.34,
+  "presence": 82.34,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.086,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.569,
+    "k2.0": 1.983,
+    "score": 0.086
+   },
+   "half": {
+    "k0.5": 1.139,
+    "k2.0": 3.966,
+    "score": 2.605
+   },
+   "double": {
+    "k0.5": 0.285,
+    "k2.0": 0.991,
+    "score": 1.224
+   }
+  },
+  "gender": "男",
+  "range": [
+   75.0,
+   200.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/M60_孙强_voice.wav"
+ },
+ "M61": {
+  "scale": 75.08,
+  "pyin": 75.08,
+  "presence": 75.08,
+  "fp_verdict": "f0",
+  "selfcal_branch": "half",
+  "selfcal_score": 0.0,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.576,
+    "k2.0": 1.977,
+    "score": 0.099
+   },
+   "half": {
+    "k0.5": 0.0,
+    "k2.0": 0.0,
+    "score": 0.0
+   },
+   "double": {
+    "k0.5": 0.288,
+    "k2.0": 0.989,
+    "score": 1.223
+   }
+  },
+  "gender": "男",
+  "range": [
+   75.0,
+   200.0
+  ],
+  "confidence": "mid",
+  "path": "/ssd2/duanju/voices/samples_ext/M61_周敬亭_voice.wav"
+ },
+ "M62": {
+  "scale": 202.76,
+  "pyin": 202.76,
+  "presence": 202.76,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.004,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.504,
+    "k2.0": 2.0,
+    "score": 0.004
+   },
+   "half": {
+    "k0.5": 1.009,
+    "k2.0": 4.0,
+    "score": 2.509
+   },
+   "double": {
+    "k0.5": 0.252,
+    "k2.0": 1.0,
+    "score": 1.248
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/M62_吴丽娟_voice.wav"
+ },
+ "M63": {
+  "scale": 158.62,
+  "pyin": 158.62,
+  "presence": 158.62,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.15,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.531,
+    "k2.0": 2.119,
+    "score": 0.15
+   },
+   "half": {
+    "k0.5": 1.063,
+    "k2.0": 4.238,
+    "score": 2.801
+   },
+   "double": {
+    "k0.5": 0.266,
+    "k2.0": 1.059,
+    "score": 1.175
+   }
+  },
+  "gender": "男",
+  "range": [
+   75.0,
+   200.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/M63_郑德福_voice.wav"
+ },
+ "M64": {
+  "scale": 228.9,
+  "pyin": 228.9,
+  "presence": 228.9,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.027,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.515,
+    "k2.0": 2.012,
+    "score": 0.027
+   },
+   "half": {
+    "k0.5": 1.029,
+    "k2.0": 4.023,
+    "score": 2.552
+   },
+   "double": {
+    "k0.5": 0.257,
+    "k2.0": 1.006,
+    "score": 1.237
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/M64_王雨欣_voice.wav"
+ },
+ "M65": {
+  "scale": 82.82,
+  "pyin": 82.82,
+  "presence": 82.82,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.033,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.521,
+    "k2.0": 2.012,
+    "score": 0.033
+   },
+   "half": {
+    "k0.5": 1.041,
+    "k2.0": 4.023,
+    "score": 2.564
+   },
+   "double": {
+    "k0.5": 0.26,
+    "k2.0": 1.006,
+    "score": 1.234
+   }
+  },
+  "gender": "男",
+  "range": [
+   75.0,
+   200.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/M65_李文远_voice.wav"
+ },
+ "M66": {
+  "scale": 270.65,
+  "pyin": 270.65,
+  "presence": 270.65,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.026,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.497,
+    "k2.0": 1.977,
+    "score": 0.026
+   },
+   "half": {
+    "k0.5": 0.994,
+    "k2.0": 3.954,
+    "score": 2.448
+   },
+   "double": {
+    "k0.5": 0.249,
+    "k2.0": 0.989,
+    "score": 1.262
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/M66_孙晓棠_voice.wav"
+ },
+ "M67": {
+  "scale": 205.71,
+  "pyin": 205.71,
+  "presence": 205.71,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.049,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.48,
+    "k2.0": 1.971,
+    "score": 0.049
+   },
+   "half": {
+    "k0.5": 0.96,
+    "k2.0": 3.943,
+    "score": 2.403
+   },
+   "double": {
+    "k0.5": 0.24,
+    "k2.0": 0.986,
+    "score": 1.274
+   }
+  },
+  "gender": "男",
+  "range": [
+   75.0,
+   200.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/M67_周立新2_voice.wav"
+ },
+ "M68": {
+  "scale": 180.11,
+  "pyin": 180.11,
+  "presence": 180.11,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.068,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.497,
+    "k2.0": 2.065,
+    "score": 0.068
+   },
+   "half": {
+    "k0.5": 0.994,
+    "k2.0": 4.129,
+    "score": 2.623
+   },
+   "double": {
+    "k0.5": 0.249,
+    "k2.0": 1.032,
+    "score": 1.219
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/M68_吴秀英2_voice.wav"
+ },
+ "M69": {
+  "scale": 112.48,
+  "pyin": 224.97,
+  "presence": 112.48,
+  "fp_verdict": "half",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.115,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.453,
+    "k2.0": 1.932,
+    "score": 0.115
+   },
+   "half": {
+    "k0.5": 0.906,
+    "k2.0": 3.864,
+    "score": 2.27
+   },
+   "double": {
+    "k0.5": 0.227,
+    "k2.0": 0.966,
+    "score": 1.307
+   }
+  },
+  "gender": "男",
+  "range": [
+   75.0,
+   200.0
+  ],
+  "confidence": "mid",
+  "path": "/ssd2/duanju/voices/samples_ext/M69_郑阿明_voice.wav"
+ },
+ "M70": {
+  "scale": 99.92,
+  "pyin": 99.92,
+  "presence": 99.92,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.181,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.556,
+    "k2.0": 2.125,
+    "score": 0.181
+   },
+   "half": {
+    "k0.5": 1.113,
+    "k2.0": 4.25,
+    "score": 2.863
+   },
+   "double": {
+    "k0.5": 0.278,
+    "k2.0": 1.063,
+    "score": 1.159
+   }
+  },
+  "gender": "男",
+  "range": [
+   75.0,
+   200.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/M70_王铁锤_voice.wav"
+ },
+ "F26": {
+  "scale": 241.12,
+  "pyin": 241.12,
+  "presence": 241.12,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.006,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.494,
+    "k2.0": 2.0,
+    "score": 0.006
+   },
+   "half": {
+    "k0.5": 0.989,
+    "k2.0": 4.0,
+    "score": 2.489
+   },
+   "double": {
+    "k0.5": 0.247,
+    "k2.0": 1.0,
+    "score": 1.253
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/F26_陈美玲_voice.wav"
+ },
+ "F27": {
+  "scale": 318.16,
+  "pyin": 318.16,
+  "presence": 318.16,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.077,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.486,
+    "k2.0": 1.937,
+    "score": 0.077
+   },
+   "half": {
+    "k0.5": 0.972,
+    "k2.0": 3.875,
+    "score": 2.347
+   },
+   "double": {
+    "k0.5": 0.243,
+    "k2.0": 0.969,
+    "score": 1.288
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/F27_林巧云_voice.wav"
+ },
+ "F28": {
+  "scale": 183.79,
+  "pyin": 183.79,
+  "presence": 183.79,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.038,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.503,
+    "k2.0": 2.035,
+    "score": 0.038
+   },
+   "half": {
+    "k0.5": 1.006,
+    "k2.0": 4.07,
+    "score": 2.576
+   },
+   "double": {
+    "k0.5": 0.251,
+    "k2.0": 1.017,
+    "score": 1.232
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/F28_黄丽华_voice.wav"
+ },
+ "F29": {
+  "scale": 243.22,
+  "pyin": 243.22,
+  "presence": 243.22,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.06,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.507,
+    "k2.0": 2.053,
+    "score": 0.06
+   },
+   "half": {
+    "k0.5": 1.015,
+    "k2.0": 4.105,
+    "score": 2.62
+   },
+   "double": {
+    "k0.5": 0.254,
+    "k2.0": 1.026,
+    "score": 1.22
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/F29_张雅琴_voice.wav"
+ },
+ "F30": {
+  "scale": 167.57,
+  "pyin": 167.57,
+  "presence": 167.57,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.023,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.5,
+    "k2.0": 2.023,
+    "score": 0.023
+   },
+   "half": {
+    "k0.5": 1.0,
+    "k2.0": 4.046,
+    "score": 2.546
+   },
+   "double": {
+    "k0.5": 0.25,
+    "k2.0": 1.012,
+    "score": 1.238
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/F30_刘桂香_voice.wav"
+ },
+ "F31": {
+  "scale": 181.68,
+  "pyin": 181.68,
+  "presence": 181.68,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.003,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.503,
+    "k2.0": 2.0,
+    "score": 0.003
+   },
+   "half": {
+    "k0.5": 1.006,
+    "k2.0": 4.0,
+    "score": 2.506
+   },
+   "double": {
+    "k0.5": 0.251,
+    "k2.0": 1.0,
+    "score": 1.249
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/F31_陈静怡_voice.wav"
+ },
+ "F32": {
+  "scale": 170.5,
+  "pyin": 170.5,
+  "presence": 170.5,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.029,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.506,
+    "k2.0": 2.023,
+    "score": 0.029
+   },
+   "half": {
+    "k0.5": 1.012,
+    "k2.0": 4.046,
+    "score": 2.558
+   },
+   "double": {
+    "k0.5": 0.253,
+    "k2.0": 1.012,
+    "score": 1.235
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/F32_林雪梅_voice.wav"
+ },
+ "F33": {
+  "scale": 206.3,
+  "pyin": 206.3,
+  "presence": 206.3,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.0,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.5,
+    "k2.0": 2.0,
+    "score": 0.0
+   },
+   "half": {
+    "k0.5": 1.0,
+    "k2.0": 4.0,
+    "score": 2.5
+   },
+   "double": {
+    "k0.5": 0.25,
+    "k2.0": 1.0,
+    "score": 1.25
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/F33_黄美玲_voice.wav"
+ },
+ "F34": {
+  "scale": 278.58,
+  "pyin": 278.58,
+  "presence": 278.58,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.02,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.497,
+    "k2.0": 2.017,
+    "score": 0.02
+   },
+   "half": {
+    "k0.5": 0.994,
+    "k2.0": 4.035,
+    "score": 2.529
+   },
+   "double": {
+    "k0.5": 0.249,
+    "k2.0": 1.009,
+    "score": 1.242
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/F34_张美凤_voice.wav"
+ },
+ "F35": {
+  "scale": 216.68,
+  "pyin": 216.68,
+  "presence": 216.68,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.057,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.504,
+    "k2.0": 2.053,
+    "score": 0.057
+   },
+   "half": {
+    "k0.5": 1.009,
+    "k2.0": 4.105,
+    "score": 2.614
+   },
+   "double": {
+    "k0.5": 0.252,
+    "k2.0": 1.026,
+    "score": 1.222
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/F35_刘雪_voice.wav"
+ },
+ "F36": {
+  "scale": 158.62,
+  "pyin": 158.62,
+  "presence": 158.62,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.023,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.506,
+    "k2.0": 2.017,
+    "score": 0.023
+   },
+   "half": {
+    "k0.5": 1.012,
+    "k2.0": 4.035,
+    "score": 2.547
+   },
+   "double": {
+    "k0.5": 0.253,
+    "k2.0": 1.009,
+    "score": 1.238
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/F36_陈婉仪_voice.wav"
+ },
+ "F37": {
+  "scale": 280.19,
+  "pyin": 280.19,
+  "presence": 280.19,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.012,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.5,
+    "k2.0": 1.988,
+    "score": 0.012
+   },
+   "half": {
+    "k0.5": 1.0,
+    "k2.0": 3.977,
+    "score": 2.477
+   },
+   "double": {
+    "k0.5": 0.25,
+    "k2.0": 0.994,
+    "score": 1.256
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/F37_林巧珍_voice.wav"
+ },
+ "F38": {
+  "scale": 288.4,
+  "pyin": 288.4,
+  "presence": 288.4,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.123,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.533,
+    "k2.0": 1.91,
+    "score": 0.123
+   },
+   "half": {
+    "k0.5": 1.066,
+    "k2.0": 3.819,
+    "score": 2.385
+   },
+   "double": {
+    "k0.5": 0.266,
+    "k2.0": 0.955,
+    "score": 1.279
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/F38_黄丽娜_voice.wav"
+ },
+ "F39": {
+  "scale": 193.6,
+  "pyin": 193.6,
+  "presence": 193.6,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.041,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.506,
+    "k2.0": 2.035,
+    "score": 0.041
+   },
+   "half": {
+    "k0.5": 1.012,
+    "k2.0": 4.07,
+    "score": 2.582
+   },
+   "double": {
+    "k0.5": 0.253,
+    "k2.0": 1.017,
+    "score": 1.23
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/F39_张雨薇_voice.wav"
+ },
+ "F40": {
+  "scale": 209.91,
+  "pyin": 209.91,
+  "presence": 209.91,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.059,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.506,
+    "k2.0": 2.053,
+    "score": 0.059
+   },
+   "half": {
+    "k0.5": 1.012,
+    "k2.0": 4.105,
+    "score": 2.617
+   },
+   "double": {
+    "k0.5": 0.253,
+    "k2.0": 1.026,
+    "score": 1.221
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/F40_刘桂芳_voice.wav"
+ },
+ "F41": {
+  "scale": 298.57,
+  "pyin": 298.57,
+  "presence": 298.57,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.105,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.504,
+    "k2.0": 1.899,
+    "score": 0.105
+   },
+   "half": {
+    "k0.5": 1.009,
+    "k2.0": 3.797,
+    "score": 2.306
+   },
+   "double": {
+    "k0.5": 0.252,
+    "k2.0": 0.949,
+    "score": 1.299
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/F41_陈慧珍_voice.wav"
+ },
+ "F42": {
+  "scale": 174.48,
+  "pyin": 174.48,
+  "presence": 174.48,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.012,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.5,
+    "k2.0": 2.012,
+    "score": 0.012
+   },
+   "half": {
+    "k0.5": 1.0,
+    "k2.0": 4.023,
+    "score": 2.523
+   },
+   "double": {
+    "k0.5": 0.25,
+    "k2.0": 1.006,
+    "score": 1.244
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/F42_林雪儿_voice.wav"
+ },
+ "F43": {
+  "scale": 262.94,
+  "pyin": 262.94,
+  "presence": 262.94,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.032,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.491,
+    "k2.0": 1.977,
+    "score": 0.032
+   },
+   "half": {
+    "k0.5": 0.983,
+    "k2.0": 3.954,
+    "score": 2.437
+   },
+   "double": {
+    "k0.5": 0.246,
+    "k2.0": 0.989,
+    "score": 1.265
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/F43_黄秀英_voice.wav"
+ },
+ "F44": {
+  "scale": 249.62,
+  "pyin": 249.62,
+  "presence": 249.62,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.044,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.509,
+    "k2.0": 2.035,
+    "score": 0.044
+   },
+   "half": {
+    "k0.5": 1.017,
+    "k2.0": 4.07,
+    "score": 2.587
+   },
+   "double": {
+    "k0.5": 0.254,
+    "k2.0": 1.017,
+    "score": 1.229
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/F44_张秀珍_voice.wav"
+ },
+ "F45": {
+  "scale": 227.58,
+  "pyin": 227.58,
+  "presence": 227.58,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.053,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.518,
+    "k2.0": 2.035,
+    "score": 0.053
+   },
+   "half": {
+    "k0.5": 1.035,
+    "k2.0": 4.07,
+    "score": 2.605
+   },
+   "double": {
+    "k0.5": 0.259,
+    "k2.0": 1.017,
+    "score": 1.224
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/F45_刘雅琴_voice.wav"
+ },
+ "F46": {
+  "scale": 231.56,
+  "pyin": 231.56,
+  "presence": 231.56,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.012,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.5,
+    "k2.0": 1.988,
+    "score": 0.012
+   },
+   "half": {
+    "k0.5": 1.0,
+    "k2.0": 3.977,
+    "score": 2.477
+   },
+   "double": {
+    "k0.5": 0.25,
+    "k2.0": 0.994,
+    "score": 1.256
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/F46_陈慧_voice.wav"
+ },
+ "F47": {
+  "scale": 230.23,
+  "pyin": 230.23,
+  "presence": 230.23,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.062,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.515,
+    "k2.0": 2.047,
+    "score": 0.062
+   },
+   "half": {
+    "k0.5": 1.029,
+    "k2.0": 4.093,
+    "score": 2.622
+   },
+   "double": {
+    "k0.5": 0.257,
+    "k2.0": 1.023,
+    "score": 1.22
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/F47_林静怡_voice.wav"
+ },
+ "F48": {
+  "scale": 275.38,
+  "pyin": 275.38,
+  "presence": 275.38,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.068,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.489,
+    "k2.0": 1.943,
+    "score": 0.068
+   },
+   "half": {
+    "k0.5": 0.977,
+    "k2.0": 3.886,
+    "score": 2.363
+   },
+   "double": {
+    "k0.5": 0.244,
+    "k2.0": 0.972,
+    "score": 1.284
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/F48_黄雅静_voice.wav"
+ },
+ "F49": {
+  "scale": 188.09,
+  "pyin": 188.09,
+  "presence": 188.09,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.044,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.509,
+    "k2.0": 2.035,
+    "score": 0.044
+   },
+   "half": {
+    "k0.5": 1.017,
+    "k2.0": 4.07,
+    "score": 2.587
+   },
+   "double": {
+    "k0.5": 0.254,
+    "k2.0": 1.017,
+    "score": 1.229
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/F49_张美玲_voice.wav"
+ },
+ "F50": {
+  "scale": 158.16,
+  "pyin": 158.16,
+  "presence": 158.16,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.016,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.496,
+    "k2.0": 1.988,
+    "score": 0.016
+   },
+   "half": {
+    "k0.5": 0.991,
+    "k2.0": 3.977,
+    "score": 2.468
+   },
+   "double": {
+    "k0.5": 0.248,
+    "k2.0": 0.994,
+    "score": 1.258
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/F50_刘芳_voice.wav"
+ },
+ "F51": {
+  "scale": 246.75,
+  "pyin": 246.75,
+  "presence": 246.75,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.034,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.5,
+    "k2.0": 1.966,
+    "score": 0.034
+   },
+   "half": {
+    "k0.5": 1.0,
+    "k2.0": 3.931,
+    "score": 2.431
+   },
+   "double": {
+    "k0.5": 0.25,
+    "k2.0": 0.983,
+    "score": 1.267
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/F51_陈慧兰_voice.wav"
+ },
+ "F52": {
+  "scale": 175.49,
+  "pyin": 175.49,
+  "presence": 175.49,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.003,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.503,
+    "k2.0": 2.0,
+    "score": 0.003
+   },
+   "half": {
+    "k0.5": 1.006,
+    "k2.0": 4.0,
+    "score": 2.506
+   },
+   "double": {
+    "k0.5": 0.251,
+    "k2.0": 1.0,
+    "score": 1.249
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/F52_林婉婷_voice.wav"
+ },
+ "F53": {
+  "scale": 333.2,
+  "pyin": 333.2,
+  "presence": 333.2,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.203,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.494,
+    "k2.0": 1.803,
+    "score": 0.203
+   },
+   "half": {
+    "k0.5": 0.989,
+    "k2.0": 3.605,
+    "score": 2.094
+   },
+   "double": {
+    "k0.5": 0.247,
+    "k2.0": 0.901,
+    "score": 1.352
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/F53_黄书瑶_voice.wav"
+ },
+ "F54": {
+  "scale": 190.27,
+  "pyin": 190.27,
+  "presence": 190.27,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.026,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.503,
+    "k2.0": 2.023,
+    "score": 0.026
+   },
+   "half": {
+    "k0.5": 1.006,
+    "k2.0": 4.046,
+    "score": 2.552
+   },
+   "double": {
+    "k0.5": 0.251,
+    "k2.0": 1.012,
+    "score": 1.237
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/F54_张云卿_voice.wav"
+ },
+ "F55": {
+  "scale": 211.12,
+  "pyin": 211.12,
+  "presence": 211.12,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.0,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.5,
+    "k2.0": 2.0,
+    "score": 0.0
+   },
+   "half": {
+    "k0.5": 1.0,
+    "k2.0": 4.0,
+    "score": 2.5
+   },
+   "double": {
+    "k0.5": 0.25,
+    "k2.0": 1.0,
+    "score": 1.25
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/F55_刘春梅_voice.wav"
+ },
+ "F56": {
+  "scale": 285.91,
+  "pyin": 285.91,
+  "presence": 285.91,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.052,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.499,
+    "k2.0": 1.949,
+    "score": 0.052
+   },
+   "half": {
+    "k0.5": 0.997,
+    "k2.0": 3.897,
+    "score": 2.394
+   },
+   "double": {
+    "k0.5": 0.249,
+    "k2.0": 0.974,
+    "score": 1.277
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/F56_陈诗涵_voice.wav"
+ },
+ "F57": {
+  "scale": 254.72,
+  "pyin": 254.72,
+  "presence": 254.72,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.024,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.507,
+    "k2.0": 2.017,
+    "score": 0.024
+   },
+   "half": {
+    "k0.5": 1.015,
+    "k2.0": 4.035,
+    "score": 2.55
+   },
+   "double": {
+    "k0.5": 0.254,
+    "k2.0": 1.009,
+    "score": 1.237
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/F57_林秀珍_voice.wav"
+ },
+ "F58": {
+  "scale": 272.21,
+  "pyin": 272.21,
+  "presence": 272.21,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.023,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.489,
+    "k2.0": 2.012,
+    "score": 0.023
+   },
+   "half": {
+    "k0.5": 0.977,
+    "k2.0": 4.023,
+    "score": 2.5
+   },
+   "double": {
+    "k0.5": 0.244,
+    "k2.0": 1.006,
+    "score": 1.25
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/F58_黄雪莉_voice.wav"
+ },
+ "F59": {
+  "scale": 212.34,
+  "pyin": 212.34,
+  "presence": 212.34,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.007,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.499,
+    "k2.0": 1.994,
+    "score": 0.007
+   },
+   "half": {
+    "k0.5": 0.997,
+    "k2.0": 3.988,
+    "score": 2.485
+   },
+   "double": {
+    "k0.5": 0.249,
+    "k2.0": 0.997,
+    "score": 1.254
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/F59_张晓燕_voice.wav"
+ },
+ "F60": {
+  "scale": 176.0,
+  "pyin": 176.0,
+  "presence": 176.0,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.009,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.497,
+    "k2.0": 2.006,
+    "score": 0.009
+   },
+   "half": {
+    "k0.5": 0.994,
+    "k2.0": 4.012,
+    "score": 2.506
+   },
+   "double": {
+    "k0.5": 0.249,
+    "k2.0": 1.003,
+    "score": 1.248
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/F60_刘欣怡_voice.wav"
+ },
+ "F61": {
+  "scale": 166.6,
+  "pyin": 166.6,
+  "presence": 166.6,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.026,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.503,
+    "k2.0": 1.977,
+    "score": 0.026
+   },
+   "half": {
+    "k0.5": 1.006,
+    "k2.0": 3.954,
+    "score": 2.46
+   },
+   "double": {
+    "k0.5": 0.251,
+    "k2.0": 0.989,
+    "score": 1.26
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/F61_陈雅琳_voice.wav"
+ },
+ "F62": {
+  "scale": 251.07,
+  "pyin": 251.07,
+  "presence": 251.07,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.093,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.497,
+    "k2.0": 1.91,
+    "score": 0.093
+   },
+   "half": {
+    "k0.5": 0.994,
+    "k2.0": 3.819,
+    "score": 2.313
+   },
+   "double": {
+    "k0.5": 0.249,
+    "k2.0": 0.955,
+    "score": 1.296
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/F62_林笑笑_voice.wav"
+ },
+ "F63": {
+  "scale": 262.94,
+  "pyin": 262.94,
+  "presence": 262.94,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.029,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.506,
+    "k2.0": 1.977,
+    "score": 0.029
+   },
+   "half": {
+    "k0.5": 1.012,
+    "k2.0": 3.954,
+    "score": 2.466
+   },
+   "double": {
+    "k0.5": 0.253,
+    "k2.0": 0.989,
+    "score": 1.258
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/F63_黄淑芬_voice.wav"
+ },
+ "F64": {
+  "scale": 214.81,
+  "pyin": 214.81,
+  "presence": 214.81,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.023,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.489,
+    "k2.0": 1.988,
+    "score": 0.023
+   },
+   "half": {
+    "k0.5": 0.977,
+    "k2.0": 3.977,
+    "score": 2.454
+   },
+   "double": {
+    "k0.5": 0.244,
+    "k2.0": 0.994,
+    "score": 1.262
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/F64_张雅琳_voice.wav"
+ },
+ "F65": {
+  "scale": 255.46,
+  "pyin": 255.46,
+  "presence": 255.46,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.026,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.486,
+    "k2.0": 1.988,
+    "score": 0.026
+   },
+   "half": {
+    "k0.5": 0.972,
+    "k2.0": 3.977,
+    "score": 2.449
+   },
+   "double": {
+    "k0.5": 0.243,
+    "k2.0": 0.994,
+    "score": 1.263
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/F65_刘雨晴_voice.wav"
+ },
+ "F66": {
+  "scale": 173.48,
+  "pyin": 173.48,
+  "presence": 173.48,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.035,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.518,
+    "k2.0": 2.017,
+    "score": 0.035
+   },
+   "half": {
+    "k0.5": 1.035,
+    "k2.0": 4.035,
+    "score": 2.57
+   },
+   "double": {
+    "k0.5": 0.259,
+    "k2.0": 1.009,
+    "score": 1.232
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/F66_陈诗雨_voice.wav"
+ },
+ "F67": {
+  "scale": 153.22,
+  "pyin": 153.22,
+  "presence": 153.22,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.033,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.496,
+    "k2.0": 2.029,
+    "score": 0.033
+   },
+   "half": {
+    "k0.5": 0.991,
+    "k2.0": 4.058,
+    "score": 2.549
+   },
+   "double": {
+    "k0.5": 0.248,
+    "k2.0": 1.015,
+    "score": 1.237
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/F67_林素云_voice.wav"
+ },
+ "F68": {
+  "scale": 227.58,
+  "pyin": 227.58,
+  "presence": 227.58,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.033,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.521,
+    "k2.0": 2.012,
+    "score": 0.033
+   },
+   "half": {
+    "k0.5": 1.041,
+    "k2.0": 4.023,
+    "score": 2.564
+   },
+   "double": {
+    "k0.5": 0.26,
+    "k2.0": 1.006,
+    "score": 1.234
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/F68_黄雅琴_voice.wav"
+ },
+ "F69": {
+  "scale": 176.51,
+  "pyin": 176.51,
+  "presence": 176.51,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.049,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.48,
+    "k2.0": 2.029,
+    "score": 0.049
+   },
+   "half": {
+    "k0.5": 0.96,
+    "k2.0": 4.058,
+    "score": 2.518
+   },
+   "double": {
+    "k0.5": 0.24,
+    "k2.0": 1.015,
+    "score": 1.245
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/F69_张倩_voice.wav"
+ },
+ "F70": {
+  "scale": 327.48,
+  "pyin": 327.48,
+  "presence": 327.48,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.135,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.477,
+    "k2.0": 1.888,
+    "score": 0.135
+   },
+   "half": {
+    "k0.5": 0.955,
+    "k2.0": 3.775,
+    "score": 2.23
+   },
+   "double": {
+    "k0.5": 0.239,
+    "k2.0": 0.944,
+    "score": 1.317
+   }
+  },
+  "gender": "女",
+  "range": [
+   150.0,
+   285.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/F70_刘小曼_voice.wav"
+ },
+ "M71": {
+  "scale": 69.64,
+  "pyin": 69.64,
+  "presence": 69.64,
+  "fp_verdict": "f0",
+  "selfcal_branch": "half",
+  "selfcal_score": 0.0,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.619,
+    "k2.0": 2.047,
+    "score": 0.166
+   },
+   "half": {
+    "k0.5": 0.0,
+    "k2.0": 0.0,
+    "score": 0.0
+   },
+   "double": {
+    "k0.5": 0.31,
+    "k2.0": 1.023,
+    "score": 1.167
+   }
+  },
+  "gender": "男",
+  "range": [
+   75.0,
+   200.0
+  ],
+  "confidence": "mid",
+  "path": "/ssd2/duanju/voices/samples_ext/M71_马国栋_voice.wav"
+ },
+ "M72": {
+  "scale": 134.54,
+  "pyin": 134.54,
+  "presence": 134.54,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.027,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.496,
+    "k2.0": 1.977,
+    "score": 0.027
+   },
+   "half": {
+    "k0.5": 0.991,
+    "k2.0": 3.954,
+    "score": 2.445
+   },
+   "double": {
+    "k0.5": 0.248,
+    "k2.0": 0.989,
+    "score": 1.263
+   }
+  },
+  "gender": "男",
+  "range": [
+   75.0,
+   200.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/M72_胡建军_voice.wav"
+ },
+ "M73": {
+  "scale": 223.68,
+  "pyin": 223.68,
+  "presence": 223.68,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.023,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.5,
+    "k2.0": 1.977,
+    "score": 0.023
+   },
+   "half": {
+    "k0.5": 1.0,
+    "k2.0": 3.954,
+    "score": 2.454
+   },
+   "double": {
+    "k0.5": 0.25,
+    "k2.0": 0.989,
+    "score": 1.261
+   }
+  },
+  "gender": "男",
+  "range": [
+   75.0,
+   200.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/M73_高文斌_voice.wav"
+ },
+ "M74": {
+  "scale": 194.72,
+  "pyin": 194.72,
+  "presence": 194.72,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.071,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.512,
+    "k2.0": 2.059,
+    "score": 0.071
+   },
+   "half": {
+    "k0.5": 1.023,
+    "k2.0": 4.117,
+    "score": 2.64
+   },
+   "double": {
+    "k0.5": 0.256,
+    "k2.0": 1.029,
+    "score": 1.215
+   }
+  },
+  "gender": "男",
+  "range": [
+   75.0,
+   200.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/M74_罗建军_voice.wav"
+ },
+ "M75": {
+  "scale": 179.59,
+  "pyin": 179.59,
+  "presence": 179.59,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.012,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.5,
+    "k2.0": 2.012,
+    "score": 0.012
+   },
+   "half": {
+    "k0.5": 1.0,
+    "k2.0": 4.023,
+    "score": 2.523
+   },
+   "double": {
+    "k0.5": 0.25,
+    "k2.0": 1.006,
+    "score": 1.244
+   }
+  },
+  "gender": "男",
+  "range": [
+   75.0,
+   200.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/M75_崔志远_voice.wav"
+ },
+ "M76": {
+  "scale": 67.86,
+  "pyin": 67.86,
+  "presence": 67.86,
+  "fp_verdict": "f0",
+  "selfcal_branch": "half",
+  "selfcal_score": 0.0,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.61,
+    "k2.0": 1.983,
+    "score": 0.127
+   },
+   "half": {
+    "k0.5": 0.0,
+    "k2.0": 0.0,
+    "score": 0.0
+   },
+   "double": {
+    "k0.5": 0.305,
+    "k2.0": 0.991,
+    "score": 1.204
+   }
+  },
+  "gender": "男",
+  "range": [
+   75.0,
+   200.0
+  ],
+  "confidence": "mid",
+  "path": "/ssd2/duanju/voices/samples_ext/M76_田建国_voice.wav"
+ },
+ "M77": {
+  "scale": 82.34,
+  "pyin": 82.34,
+  "presence": 82.34,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.143,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.531,
+    "k2.0": 1.888,
+    "score": 0.143
+   },
+   "half": {
+    "k0.5": 1.063,
+    "k2.0": 3.775,
+    "score": 2.338
+   },
+   "double": {
+    "k0.5": 0.266,
+    "k2.0": 0.944,
+    "score": 1.29
+   }
+  },
+  "gender": "男",
+  "range": [
+   75.0,
+   200.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/M77_卢志远_voice.wav"
+ },
+ "M78": {
+  "scale": 187.0,
+  "pyin": 187.0,
+  "presence": 187.0,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.057,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.5,
+    "k2.0": 1.943,
+    "score": 0.057
+   },
+   "half": {
+    "k0.5": 1.0,
+    "k2.0": 3.886,
+    "score": 2.386
+   },
+   "double": {
+    "k0.5": 0.25,
+    "k2.0": 0.972,
+    "score": 1.278
+   }
+  },
+  "gender": "男",
+  "range": [
+   75.0,
+   200.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/M78_雷大勇_voice.wav"
+ },
+ "M79": {
+  "scale": 140.09,
+  "pyin": 140.09,
+  "presence": 140.09,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.036,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.513,
+    "k2.0": 2.023,
+    "score": 0.036
+   },
+   "half": {
+    "k0.5": 1.026,
+    "k2.0": 4.046,
+    "score": 2.572
+   },
+   "double": {
+    "k0.5": 0.257,
+    "k2.0": 1.012,
+    "score": 1.231
+   }
+  },
+  "gender": "男",
+  "range": [
+   75.0,
+   200.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/M79_钟一鸣_voice.wav"
+ },
+ "M80": {
+  "scale": 91.9,
+  "pyin": 91.9,
+  "presence": 91.9,
+  "fp_verdict": "f0",
+  "selfcal_branch": "f0",
+  "selfcal_score": 0.079,
+  "selfcal": {
+   "f0": {
+    "k0.5": 0.545,
+    "k2.0": 1.966,
+    "score": 0.079
+   },
+   "half": {
+    "k0.5": 1.091,
+    "k2.0": 3.931,
+    "score": 2.522
+   },
+   "double": {
+    "k0.5": 0.273,
+    "k2.0": 0.983,
+    "score": 1.244
+   }
+  },
+  "gender": "男",
+  "range": [
+   75.0,
+   200.0
+  ],
+  "confidence": "high",
+  "path": "/ssd2/duanju/voices/samples_ext/M80_孔繁盛_voice.wav"
+ }
+}

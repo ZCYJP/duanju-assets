@@ -1,0 +1,1310 @@
+[
+  {
+    "sid": "bg_airport",
+    "crops": [
+      "morph_00.png",
+      "morph_01.png",
+      "region_00.png",
+      "region_01.png",
+      "region_02.png"
+    ],
+    "answer": "出发大厅 | [无法辨认]/[无法辨认]/[CJK]/[无法辨认]",
+    "lines": [
+      "出发大厅 | [无法辨认]/[无法辨认]/[CJK]/[无法辨认]"
+    ]
+  },
+  {
+    "sid": "bg_apothecary",
+    "crops": [
+      "morph_00.png",
+      "region_00.png",
+      "region_01.png"
+    ],
+    "answer": "同德堂藥號 | [REAL]/[FAKE]/[CJK]/[无法辨认]",
+    "lines": [
+      "同德堂藥號 | [REAL]/[FAKE]/[CJK]/[无法辨认]"
+    ]
+  },
+  {
+    "sid": "bg_art_studio",
+    "crops": [
+      "morph_00.png",
+      "region_00.png",
+      "region_01.png"
+    ],
+    "answer": "无法辨认 | [无法辨认]\n美術學院 | [CJK]",
+    "lines": [
+      "无法辨认 | [无法辨认]",
+      "美術學院 | [CJK]"
+    ]
+  },
+  {
+    "sid": "bg_auto_shop",
+    "crops": [
+      "region_00.png",
+      "region_01.png"
+    ],
+    "answer": "整儲工場 | [无法辨认]/[无法辨认]/[CJK]/[无法辨认]\n610517 | [REAL]/[FAKE]/[无法辨认]/[无法辨认]",
+    "lines": [
+      "整儲工場 | [无法辨认]/[无法辨认]/[CJK]/[无法辨认]",
+      "610517 | [REAL]/[FAKE]/[无法辨认]/[无法辨认]"
+    ]
+  },
+  {
+    "sid": "bg_back_office",
+    "crops": [
+      "region_00.png",
+      "region_01.png",
+      "region_02.png"
+    ],
+    "answer": "採購部 | [无法辨认]\nCOOKED | [REAL]/[无法辨认]/[无法辨认]\n百貨入口 | [无法辨认]/[无法辨认]/[无法辨认]",
+    "lines": [
+      "採購部 | [无法辨认]",
+      "COOKED | [REAL]/[无法辨认]/[无法辨认]",
+      "百貨入口 | [无法辨认]/[无法辨认]/[无法辨认]"
+    ]
+  },
+  {
+    "sid": "bg_bakery",
+    "crops": [
+      "region_00.png",
+      "region_01.png"
+    ],
+    "answer": "BAKERY | [REAL]",
+    "lines": [
+      "BAKERY | [REAL]"
+    ]
+  },
+  {
+    "sid": "bg_bakery_shop",
+    "crops": [
+      "morph_00.png",
+      "morph_01.png",
+      "morph_02.png",
+      "region_00.png",
+      "region_01.png",
+      "region_02.png"
+    ],
+    "answer": "Boulangerie | [REAL]/[FAKE]/[无法辨认]",
+    "lines": [
+      "Boulangerie | [REAL]/[FAKE]/[无法辨认]"
+    ]
+  },
+  {
+    "sid": "bg_baking_class",
+    "crops": [
+      "morph_00.png",
+      "region_00.png"
+    ],
+    "answer": "烘焙课程 | [REAL]/[FAKE]/[CJK]/[无法辨认]",
+    "lines": [
+      "烘焙课程 | [REAL]/[FAKE]/[CJK]/[无法辨认]"
+    ]
+  },
+  {
+    "sid": "bg_beauty_room",
+    "crops": [
+      "region_00.png"
+    ],
+    "answer": "Beauty | [REAL]\nCare | [REAL]",
+    "lines": [
+      "Beauty | [REAL]",
+      "Care | [REAL]"
+    ]
+  },
+  {
+    "sid": "bg_boarding_gate",
+    "crops": [
+      "morph_00.png",
+      "region_00.png",
+      "region_01.png",
+      "region_02.png",
+      "region_03.png"
+    ],
+    "answer": "登机口 | [无法辨认]/[无法辨认]/[CJK]/[无法辨认]",
+    "lines": [
+      "登机口 | [无法辨认]/[无法辨认]/[CJK]/[无法辨认]"
+    ]
+  },
+  {
+    "sid": "bg_bookstore",
+    "crops": [
+      "region_00.png"
+    ],
+    "answer": "读书斋 | [REAL]/[FAKE]/[CJK]/[无法辨认]",
+    "lines": [
+      "读书斋 | [REAL]/[FAKE]/[CJK]/[无法辨认]"
+    ]
+  },
+  {
+    "sid": "bg_boutique_floor",
+    "crops": [
+      "region_00.png"
+    ],
+    "answer": "新款上市 | [REAL]/[FAKE]/[CJK]/[无法辨认]",
+    "lines": [
+      "新款上市 | [REAL]/[FAKE]/[CJK]/[无法辨认]"
+    ]
+  },
+  {
+    "sid": "bg_boutique",
+    "crops": [
+      "morph_00.png",
+      "region_00.png",
+      "region_01.png"
+    ],
+    "answer": "FJAA | [FAKE]\n精品店 | [CJK]",
+    "lines": [
+      "FJAA | [FAKE]",
+      "精品店 | [CJK]"
+    ]
+  },
+  {
+    "sid": "bg_bubble_tea",
+    "crops": [
+      "morph_00.png",
+      "region_00.png",
+      "region_01.png",
+      "region_02.png",
+      "region_03.png",
+      "region_04.png"
+    ],
+    "answer": "奶茶の店 | [CJK]",
+    "lines": [
+      "奶茶の店 | [CJK]"
+    ]
+  },
+  {
+    "sid": "bg_butchershop",
+    "crops": [
+      "morph_00.png",
+      "region_00.png",
+      "region_01.png"
+    ],
+    "answer": "鲜肉铺 | [CJK]",
+    "lines": [
+      "鲜肉铺 | [CJK]"
+    ]
+  },
+  {
+    "sid": "bg_cafe",
+    "crops": [
+      "region_00.png"
+    ],
+    "answer": "COFFEE | [REAL]",
+    "lines": [
+      "COFFEE | [REAL]"
+    ]
+  },
+  {
+    "sid": "bg_canteen",
+    "crops": [
+      "morph_00.png",
+      "region_00.png",
+      "region_01.png"
+    ],
+    "answer": "职工食堂 | [REAL]/[无法辨认]/[CJK]",
+    "lines": [
+      "职工食堂 | [REAL]/[无法辨认]/[CJK]"
+    ]
+  },
+  {
+    "sid": "bg_cargo_deck",
+    "crops": [
+      "morph_00.png",
+      "morph_01.png",
+      "region_00.png",
+      "region_01.png",
+      "region_02.png"
+    ],
+    "answer": "无法辨认 | [无法辨认]\n无法辨认 | [无法辨认]\nOCEAN STAR | [REAL]\n无法辨认 | [无法辨认]\n无法辨认 | [无法辨认]",
+    "lines": [
+      "无法辨认 | [无法辨认]",
+      "无法辨认 | [无法辨认]",
+      "OCEAN STAR | [REAL]",
+      "无法辨认 | [无法辨认]",
+      "无法辨认 | [无法辨认]"
+    ]
+  },
+  {
+    "sid": "bg_car_interior",
+    "crops": [
+      "morph_00.png",
+      "region_00.png",
+      "region_01.png"
+    ],
+    "answer": "安全驾驶 | [REAL]/[FAKE]/[CJK]",
+    "lines": [
+      "安全驾驶 | [REAL]/[FAKE]/[CJK]"
+    ]
+  },
+  {
+    "sid": "bg_car_repair_bay",
+    "crops": [
+      "region_00.png",
+      "region_01.png"
+    ],
+    "answer": "洗車場 | [REAL]/[FAKE]/[CJK]",
+    "lines": [
+      "洗車場 | [REAL]/[FAKE]/[CJK]"
+    ]
+  },
+  {
+    "sid": "bg_classroom",
+    "crops": [
+      "region_00.png"
+    ],
+    "answer": "知识改变命运 | [REAL]/[FAKE]/[CJK]/[无法辨认]",
+    "lines": [
+      "知识改变命运 | [REAL]/[FAKE]/[CJK]/[无法辨认]"
+    ]
+  },
+  {
+    "sid": "bg_clinic_ward",
+    "crops": [
+      "morph_00.png",
+      "region_00.png",
+      "region_01.png"
+    ],
+    "answer": "住院部 | [CJK]",
+    "lines": [
+      "住院部 | [CJK]"
+    ]
+  },
+  {
+    "sid": "bg_cold_store",
+    "crops": [
+      "region_00.png",
+      "region_01.png"
+    ],
+    "answer": "冷链仓库 | [REAL]/[FAKE]/[CJK]/[无法辨认]",
+    "lines": [
+      "冷链仓库 | [REAL]/[FAKE]/[CJK]/[无法辨认]"
+    ]
+  },
+  {
+    "sid": "bg_conference",
+    "crops": [
+      "morph_00.png",
+      "region_00.png",
+      "region_01.png"
+    ],
+    "answer": "會議室 | [REAL]/[FAKE]/[CJK]/[无法辨认]",
+    "lines": [
+      "會議室 | [REAL]/[FAKE]/[CJK]/[无法辨认]"
+    ]
+  },
+  {
+    "sid": "bg_construction_site",
+    "crops": [
+      "morph_00.png",
+      "morph_01.png",
+      "morph_02.png",
+      "morph_03.png",
+      "region_00.png",
+      "region_01.png"
+    ],
+    "answer": "在建工程 | [REAL]/[FAKE]/[CJK]",
+    "lines": [
+      "在建工程 | [REAL]/[FAKE]/[CJK]"
+    ]
+  },
+  {
+    "sid": "bg_corporate_lobby",
+    "crops": [
+      "region_00.png"
+    ],
+    "answer": "远景集团 | [无法辨认]/[无法辨认]/[CJK]",
+    "lines": [
+      "远景集团 | [无法辨认]/[无法辨认]/[CJK]"
+    ]
+  },
+  {
+    "sid": "bg_delivery_station",
+    "crops": [
+      "region_00.png",
+      "region_01.png",
+      "region_02.png"
+    ],
+    "answer": "蜂鸟配送 | [无法辨认]/[无法辨认]/[CJK]\nBEEFLY | [REAL]/[无法辨认]/[无法辨认]\n超值优惠 | [无法辨认]/[无法辨认]/[CJK]",
+    "lines": [
+      "蜂鸟配送 | [无法辨认]/[无法辨认]/[CJK]",
+      "BEEFLY | [REAL]/[无法辨认]/[无法辨认]",
+      "超值优惠 | [无法辨认]/[无法辨认]/[CJK]"
+    ]
+  },
+  {
+    "sid": "bg_delivery_street",
+    "crops": [
+      "morph_00.png",
+      "region_00.png",
+      "region_01.png",
+      "region_02.png",
+      "region_03.png",
+      "region_04.png"
+    ],
+    "answer": "EXAACT | [REAL]/[FAKE]/[CJK]/[无法辨认]\n外卖驿站 | [REAL]/[FAKE]/[CJK]/[无法辨认]\nEXAACT | [REAL]/[FAKE]/[CJK]/[无法辨认]\n无法辨认 | [REAL]/[FAKE]/[CJK]/[无法辨认]\n上排椅 | [REAL]/[FAKE]/[CJK]/[无法辨认]\n无法辨认 | [REAL]/[FAKE]/[CJK]/[无法辨认]",
+    "lines": [
+      "EXAACT | [REAL]/[FAKE]/[CJK]/[无法辨认]",
+      "外卖驿站 | [REAL]/[FAKE]/[CJK]/[无法辨认]",
+      "EXAACT | [REAL]/[FAKE]/[CJK]/[无法辨认]",
+      "无法辨认 | [REAL]/[FAKE]/[CJK]/[无法辨认]",
+      "上排椅 | [REAL]/[FAKE]/[CJK]/[无法辨认]",
+      "无法辨认 | [REAL]/[FAKE]/[CJK]/[无法辨认]"
+    ]
+  },
+  {
+    "sid": "bg_dessert_bar",
+    "crops": [
+      "morph_00.png",
+      "morph_01.png",
+      "region_00.png",
+      "region_01.png",
+      "region_02.png",
+      "region_03.png"
+    ],
+    "answer": "无法辨认 | [无法辨认]",
+    "lines": [
+      "无法辨认 | [无法辨认]"
+    ]
+  },
+  {
+    "sid": "bg_dispatch_room",
+    "crops": [
+      "morph_00.png",
+      "morph_01.png",
+      "morph_02.png",
+      "morph_03.png",
+      "morph_04.png",
+      "region_00.png"
+    ],
+    "answer": "生产调度室 | [REAL]/[FAKE]/[CJK]/[无法辨认]",
+    "lines": [
+      "生产调度室 | [REAL]/[FAKE]/[CJK]/[无法辨认]"
+    ]
+  },
+  {
+    "sid": "bg_dock_market",
+    "crops": [
+      "morph_00.png",
+      "morph_01.png",
+      "region_00.png",
+      "region_01.png",
+      "region_02.png"
+    ],
+    "answer": "農貿市場 | [无法辨认]/[无法辨认]/[CJK]/[无法辨认]",
+    "lines": [
+      "農貿市場 | [无法辨认]/[无法辨认]/[CJK]/[无法辨认]"
+    ]
+  },
+  {
+    "sid": "bg_dorm_room",
+    "crops": [
+      "morph_00.png",
+      "region_00.png",
+      "region_01.png",
+      "region_02.png",
+      "region_03.png"
+    ],
+    "answer": "计算机学院 | [REAL]/[FAKE]/[CJK]",
+    "lines": [
+      "计算机学院 | [REAL]/[FAKE]/[CJK]"
+    ]
+  },
+  {
+    "sid": "bg_driving_office",
+    "crops": [
+      "morph_00.png",
+      "morph_01.png",
+      "region_00.png",
+      "region_01.png",
+      "region_02.png",
+      "region_03.png"
+    ],
+    "answer": "FRUNIC /AOI TVEFA | [REAL]/[REAL]/[无法辨认]\nVOH | [无法辨认]/[无法辨认]/[无法辨认]\nDRIVE | [REAL]/[REAL]/[无法辨认]\nSAFE | [REAL]/[REAL]/[无法辨认]\nFRUNIC /AOI TVEFA | [REAL]/[REAL]/[无法辨认]",
+    "lines": [
+      "FRUNIC /AOI TVEFA | [REAL]/[REAL]/[无法辨认]",
+      "VOH | [无法辨认]/[无法辨认]/[无法辨认]",
+      "DRIVE | [REAL]/[REAL]/[无法辨认]",
+      "SAFE | [REAL]/[REAL]/[无法辨认]",
+      "FRUNIC /AOI TVEFA | [REAL]/[REAL]/[无法辨认]"
+    ]
+  },
+  {
+    "sid": "bg_driving_school",
+    "crops": [
+      "morph_00.png",
+      "morph_01.png",
+      "region_00.png",
+      "region_01.png"
+    ],
+    "answer": "宏达驾 | [FAKE]/[CJK]\n宏达驾校 | [REAL]/[CJK]",
+    "lines": [
+      "宏达驾 | [FAKE]/[CJK]",
+      "宏达驾校 | [REAL]/[CJK]"
+    ]
+  },
+  {
+    "sid": "bg_factory_dorm",
+    "crops": [
+      "morph_00.png",
+      "region_00.png",
+      "region_01.png",
+      "region_02.png"
+    ],
+    "answer": "幸福公寓 | [REAL]/[FAKE]/[CJK]/[无法辨认]",
+    "lines": [
+      "幸福公寓 | [REAL]/[FAKE]/[CJK]/[无法辨认]"
+    ]
+  },
+  {
+    "sid": "bg_factory_gate",
+    "crops": [
+      "region_00.png"
+    ],
+    "answer": "国营第三机械厂 | [无法辨认]/[无法辨认]/[无法辨认]",
+    "lines": [
+      "国营第三机械厂 | [无法辨认]/[无法辨认]/[无法辨认]"
+    ]
+  },
+  {
+    "sid": "bg_fire_station",
+    "crops": [
+      "morph_00.png",
+      "region_00.png",
+      "region_01.png",
+      "region_02.png"
+    ],
+    "answer": "无法辨认 | [无法辨认]\n为民服务 | [REAL]/[CJK]\n人民消防 | [REAL]/[CJK]\n无法辨认 | [无法辨认]",
+    "lines": [
+      "无法辨认 | [无法辨认]",
+      "为民服务 | [REAL]/[CJK]",
+      "人民消防 | [REAL]/[CJK]",
+      "无法辨认 | [无法辨认]"
+    ]
+  },
+  {
+    "sid": "bg_fishing_dock",
+    "crops": [
+      "region_00.png"
+    ],
+    "answer": "漁港 | [无法辨认]/[无法辨认]/[CJK]",
+    "lines": [
+      "漁港 | [无法辨认]/[无法辨认]/[CJK]"
+    ]
+  },
+  {
+    "sid": "bg_flower_shop",
+    "crops": [
+      "morph_00.png",
+      "region_00.png",
+      "region_01.png"
+    ],
+    "answer": "Fleur | [REAL]/[FAKE]/[无法辨认]",
+    "lines": [
+      "Fleur | [REAL]/[FAKE]/[无法辨认]"
+    ]
+  },
+  {
+    "sid": "bg_flower_stall",
+    "crops": [
+      "region_00.png"
+    ],
+    "answer": "鮮花 | [REAL]/[FAKE]/[CJK]/[无法辨认]",
+    "lines": [
+      "鮮花 | [REAL]/[FAKE]/[CJK]/[无法辨认]"
+    ]
+  },
+  {
+    "sid": "bg_fresh_aisle",
+    "crops": [
+      "region_00.png"
+    ],
+    "answer": "新鲜蔬菜 | [REAL]/[FAKE]/[CJK]/[无法辨认]\n每日直供 | [REAL]/[FAKE]/[CJK]/[无法辨认]",
+    "lines": [
+      "新鲜蔬菜 | [REAL]/[FAKE]/[CJK]/[无法辨认]",
+      "每日直供 | [REAL]/[FAKE]/[CJK]/[无法辨认]"
+    ]
+  },
+  {
+    "sid": "bg_game_studio",
+    "crops": [
+      "morph_00.png",
+      "morph_01.png",
+      "morph_02.png",
+      "region_00.png",
+      "region_01.png",
+      "region_02.png"
+    ],
+    "answer": "无法辨认 | [无法辨认]\n无法辨认 | [无法辨认]\n无法辨认 | [无法辨认]\n像素工作室 | [REAL]/[无法辨认]/[无法辨认]\n无法辨认 | [无法辨认]\n无法辨认 | [无法辨认]",
+    "lines": [
+      "无法辨认 | [无法辨认]",
+      "无法辨认 | [无法辨认]",
+      "无法辨认 | [无法辨认]",
+      "像素工作室 | [REAL]/[无法辨认]/[无法辨认]",
+      "无法辨认 | [无法辨认]",
+      "无法辨认 | [无法辨认]"
+    ]
+  },
+  {
+    "sid": "bg_grain_depot",
+    "crops": [
+      "morph_00.png",
+      "morph_01.png",
+      "region_00.png",
+      "region_01.png",
+      "region_02.png",
+      "region_03.png"
+    ],
+    "answer": "粮食储备 | [REAL]/[FAKE]/[CJK]/[无法辨认]",
+    "lines": [
+      "粮食储备 | [REAL]/[FAKE]/[CJK]/[无法辨认]"
+    ]
+  },
+  {
+    "sid": "bg_guardhouse",
+    "crops": [
+      "morph_00.png",
+      "morph_01.png",
+      "region_00.png",
+      "region_01.png",
+      "region_02.png"
+    ],
+    "answer": "小区保安 | [REAL]/[FAKE]/[CJK]\n小区保安室 | [REAL]/[FAKE]/[CJK]\n无法辨认 | [无法辨认]",
+    "lines": [
+      "小区保安 | [REAL]/[FAKE]/[CJK]",
+      "小区保安室 | [REAL]/[FAKE]/[CJK]",
+      "无法辨认 | [无法辨认]"
+    ]
+  },
+  {
+    "sid": "bg_gym",
+    "crops": [
+      "morph_00.png",
+      "region_00.png",
+      "region_01.png"
+    ],
+    "answer": "力量训练 | [REAL]/[FAKE]/[CJK]/[无法辨认]",
+    "lines": [
+      "力量训练 | [REAL]/[FAKE]/[CJK]/[无法辨认]"
+    ]
+  },
+  {
+    "sid": "bg_gym_reception",
+    "crops": [
+      "region_00.png"
+    ],
+    "answer": "健身會所 | [REAL]/[FAKE]/[CJK]/[无法辨认]",
+    "lines": [
+      "健身會所 | [REAL]/[FAKE]/[CJK]/[无法辨认]"
+    ]
+  },
+  {
+    "sid": "bg_harbour_fishing",
+    "crops": [
+      "morph_00.png",
+      "morph_01.png",
+      "region_00.png",
+      "region_01.png",
+      "region_02.png"
+    ],
+    "answer": "无法辨认 | [无法辨认]\n无法辨认 | [无法辨认]\n遠洋漁港 | [CJK]\n无法辨认 | [无法辨认]\n无法辨认 | [无法辨认]",
+    "lines": [
+      "无法辨认 | [无法辨认]",
+      "无法辨认 | [无法辨认]",
+      "遠洋漁港 | [CJK]",
+      "无法辨认 | [无法辨认]",
+      "无法辨认 | [无法辨认]"
+    ]
+  },
+  {
+    "sid": "bg_harbour_office",
+    "crops": [
+      "morph_00.png",
+      "region_00.png",
+      "region_01.png",
+      "region_02.png"
+    ],
+    "answer": "无法辨认 | [无法辨认]\n无法辨认 | [无法辨认]\n无法辨认 | [无法辨认]\n无法辨认 | [无法辨认]",
+    "lines": [
+      "无法辨认 | [无法辨认]",
+      "无法辨认 | [无法辨认]",
+      "无法辨认 | [无法辨认]",
+      "无法辨认 | [无法辨认]"
+    ]
+  },
+  {
+    "sid": "bg_highspeed_station",
+    "crops": [
+      "morph_00.png",
+      "region_00.png",
+      "region_01.png",
+      "region_02.png"
+    ],
+    "answer": "候車大庁 | [无法辨认]/[无法辨认]/[CJK]/[无法辨认]",
+    "lines": [
+      "候車大庁 | [无法辨认]/[无法辨认]/[CJK]/[无法辨认]"
+    ]
+  },
+  {
+    "sid": "bg_home_services",
+    "crops": [
+      "morph_00.png",
+      "morph_01.png",
+      "morph_02.png",
+      "region_00.png",
+      "region_01.png",
+      "region_02.png"
+    ],
+    "answer": "无法辨认 | [无法辨认]\n无法辨认 | [无法辨认]\n无法辨认 | [无法辨认]\n无法辨认 | [无法辨认]\n无法辨认 | [无法辨认]\nFABLISATESRIC | [FAKE]",
+    "lines": [
+      "无法辨认 | [无法辨认]",
+      "无法辨认 | [无法辨认]",
+      "无法辨认 | [无法辨认]",
+      "无法辨认 | [无法辨认]",
+      "无法辨认 | [无法辨认]",
+      "FABLISATESRIC | [FAKE]"
+    ]
+  },
+  {
+    "sid": "bg_hospital_dir",
+    "crops": [
+      "region_00.png"
+    ],
+    "answer": "人民医院 | [无法辨认]/[无法辨认]/[无法辨认]",
+    "lines": [
+      "人民医院 | [无法辨认]/[无法辨认]/[无法辨认]"
+    ]
+  },
+  {
+    "sid": "bg_industrial_office",
+    "crops": [
+      "morph_00.png",
+      "region_00.png",
+      "region_01.png"
+    ],
+    "answer": "工业制造基地 | [REAL]/[FAKE]/[CJK]/[无法辨认]",
+    "lines": [
+      "工业制造基地 | [REAL]/[FAKE]/[CJK]/[无法辨认]"
+    ]
+  },
+  {
+    "sid": "bg_insurance",
+    "crops": [
+      "morph_00.png",
+      "region_00.png",
+      "region_01.png"
+    ],
+    "answer": "保险公司 | [REAL]/[FAKE]/[CJK]",
+    "lines": [
+      "保险公司 | [REAL]/[FAKE]/[CJK]"
+    ]
+  },
+  {
+    "sid": "bg_kindergarten_paint",
+    "crops": [
+      "morph_00.png",
+      "region_00.png",
+      "region_01.png"
+    ],
+    "answer": "あどび | [FAKE]/[CJK]",
+    "lines": [
+      "あどび | [FAKE]/[CJK]"
+    ]
+  },
+  {
+    "sid": "bg_kindergarten",
+    "crops": [
+      "region_00.png",
+      "region_01.png"
+    ],
+    "answer": "快乐成长 | [REAL]/[FAKE]/[CJK]/[无法辨认]",
+    "lines": [
+      "快乐成长 | [REAL]/[FAKE]/[CJK]/[无法辨认]"
+    ]
+  },
+  {
+    "sid": "bg_law_office",
+    "crops": [
+      "region_00.png"
+    ],
+    "answer": "诚信律师事务所 | [REAL]/[FAKE]/[CJK]/[无法辨认]",
+    "lines": [
+      "诚信律师事务所 | [REAL]/[FAKE]/[CJK]/[无法辨认]"
+    ]
+  },
+  {
+    "sid": "bg_logistics_yard",
+    "crops": [
+      "morph_00.png",
+      "region_00.png",
+      "region_01.png",
+      "region_02.png"
+    ],
+    "answer": "无法辨认 | [无法辨认]\n物流园 | [REAL]/[CJK]\n无法辨认 | [无法辨认]",
+    "lines": [
+      "无法辨认 | [无法辨认]",
+      "物流园 | [REAL]/[CJK]",
+      "无法辨认 | [无法辨认]"
+    ]
+  },
+  {
+    "sid": "bg_lumber_yard",
+    "crops": [
+      "morph_00.png",
+      "morph_01.png",
+      "region_00.png",
+      "region_01.png",
+      "region_02.png"
+    ],
+    "answer": "木材加工 | [REAL]/[FAKE]/[CJK]/[无法辨认]",
+    "lines": [
+      "木材加工 | [REAL]/[FAKE]/[CJK]/[无法辨认]"
+    ]
+  },
+  {
+    "sid": "bg_makeup_room",
+    "crops": [
+      "morph_00.png",
+      "region_00.png",
+      "region_01.png"
+    ],
+    "answer": "Beauty Studio | [REAL]/[无法辨认]/[无法辨认]/[无法辨认]",
+    "lines": [
+      "Beauty Studio | [REAL]/[无法辨认]/[无法辨认]/[无法辨认]"
+    ]
+  },
+  {
+    "sid": "bg_market_alley",
+    "crops": [
+      "morph_00.png",
+      "region_00.png",
+      "region_01.png",
+      "region_02.png"
+    ],
+    "answer": "福安巷 | [REAL]/[FAKE]/[CJK]/[无法辨认]",
+    "lines": [
+      "福安巷 | [REAL]/[FAKE]/[CJK]/[无法辨认]"
+    ]
+  },
+  {
+    "sid": "bg_nail_salon",
+    "crops": [
+      "region_00.png",
+      "region_01.png",
+      "region_02.png"
+    ],
+    "answer": "指尖美学 | [REAL]/[FAKE]/[CJK]/[无法辨认]",
+    "lines": [
+      "指尖美学 | [REAL]/[FAKE]/[CJK]/[无法辨认]"
+    ]
+  },
+  {
+    "sid": "bg_night_market",
+    "crops": [
+      "region_00.png"
+    ],
+    "answer": "夜市 | [REAL]/[FAKE]/[CJK]/[无法辨认]",
+    "lines": [
+      "夜市 | [REAL]/[FAKE]/[CJK]/[无法辨认]"
+    ]
+  },
+  {
+    "sid": "bg_nursery",
+    "crops": [
+      "region_00.png"
+    ],
+    "answer": "母婴护理中心 | [REAL]/[FAKE]/[CJK]",
+    "lines": [
+      "母婴护理中心 | [REAL]/[FAKE]/[CJK]"
+    ]
+  },
+  {
+    "sid": "bg_old_stairwell",
+    "crops": [
+      "region_00.png",
+      "region_01.png"
+    ],
+    "answer": "幸福家园 | [无法辨认]/[无法辨认]/[CJK]/[无法辨认]",
+    "lines": [
+      "幸福家园 | [无法辨认]/[无法辨认]/[CJK]/[无法辨认]"
+    ]
+  },
+  {
+    "sid": "bg_open_office",
+    "crops": [
+      "morph_00.png",
+      "region_00.png"
+    ],
+    "answer": "创科网络科技 | [REAL]/[FAKE]/[CJK]",
+    "lines": [
+      "创科网络科技 | [REAL]/[FAKE]/[CJK]"
+    ]
+  },
+  {
+    "sid": "bg_parcel_station",
+    "crops": [
+      "region_00.png",
+      "region_01.png"
+    ],
+    "answer": "快递代收点 | [REAL]/[FAKE]/[CJK]/[无法辨认]",
+    "lines": [
+      "快递代收点 | [REAL]/[FAKE]/[CJK]/[无法辨认]"
+    ]
+  },
+  {
+    "sid": "bg_pet_shop",
+    "crops": [
+      "morph_00.png",
+      "region_00.png",
+      "region_01.png"
+    ],
+    "answer": "无法辨认 | [无法辨认]\n宠物店 | [REAL]/[无法辨认]/[CJK]",
+    "lines": [
+      "无法辨认 | [无法辨认]",
+      "宠物店 | [REAL]/[无法辨认]/[CJK]"
+    ]
+  },
+  {
+    "sid": "bg_playground",
+    "crops": [
+      "morph_00.png",
+      "region_00.png",
+      "region_01.png"
+    ],
+    "answer": "儿童乐园 | [REAL]/[FAKE]/[CJK]/[无法辨认]",
+    "lines": [
+      "儿童乐园 | [REAL]/[FAKE]/[CJK]/[无法辨认]"
+    ]
+  },
+  {
+    "sid": "bg_precision_factory",
+    "crops": [
+      "morph_00.png",
+      "region_00.png",
+      "region_01.png",
+      "region_02.png"
+    ],
+    "answer": "智能制造 | [REAL]/[FAKE]/[CJK]/[无法辨认]",
+    "lines": [
+      "智能制造 | [REAL]/[FAKE]/[CJK]/[无法辨认]"
+    ]
+  },
+  {
+    "sid": "bg_principal_office",
+    "crops": [
+      "morph_00.png",
+      "region_00.png",
+      "region_01.png",
+      "region_02.png"
+    ],
+    "answer": "幼稚園 | [CJK]",
+    "lines": [
+      "幼稚園 | [CJK]"
+    ]
+  },
+  {
+    "sid": "bg_reno_site",
+    "crops": [
+      "region_00.png"
+    ],
+    "answer": "精工装修 | [无法辨认]/[无法辨认]/[无法辨认]",
+    "lines": [
+      "精工装修 | [无法辨认]/[无法辨认]/[无法辨认]"
+    ]
+  },
+  {
+    "sid": "bg_restaurant_private",
+    "crops": [
+      "region_00.png",
+      "region_01.png",
+      "region_02.png",
+      "region_03.png",
+      "region_04.png",
+      "region_05.png"
+    ],
+    "answer": "雅聚轩 | [REAL]/[CJK]\n无法辨认 | [无法辨认]\n无法辨认 | [无法辨认]\n无法辨认 | [无法辨认]\n无法辨认 | [无法辨认]\n无法辨认 | [无法辨认]",
+    "lines": [
+      "雅聚轩 | [REAL]/[CJK]",
+      "无法辨认 | [无法辨认]",
+      "无法辨认 | [无法辨认]",
+      "无法辨认 | [无法辨认]",
+      "无法辨认 | [无法辨认]",
+      "无法辨认 | [无法辨认]"
+    ]
+  },
+  {
+    "sid": "bg_salon_front",
+    "crops": [
+      "region_00.png",
+      "region_01.png",
+      "region_02.png"
+    ],
+    "answer": "Salon de Beauté | REAL/[无法辨认]/[无法辨认]\nSalon | REAL/[无法辨认]/[无法辨认]\nBeauté | REAL/[无法辨认]/[无法辨认]",
+    "lines": [
+      "Salon de Beauté | REAL/[无法辨认]/[无法辨认]",
+      "Salon | REAL/[无法辨认]/[无法辨认]",
+      "Beauté | REAL/[无法辨认]/[无法辨认]"
+    ]
+  },
+  {
+    "sid": "bg_sample_room",
+    "crops": [
+      "morph_00.png",
+      "region_00.png",
+      "region_01.png"
+    ],
+    "answer": "样衣间 | [CJK]",
+    "lines": [
+      "样衣间 | [CJK]"
+    ]
+  },
+  {
+    "sid": "bg_school_field",
+    "crops": [
+      "region_00.png"
+    ],
+    "answer": "運動会 | [REAL]/[FAKE]/[CJK]",
+    "lines": [
+      "運動会 | [REAL]/[FAKE]/[CJK]"
+    ]
+  },
+  {
+    "sid": "bg_school_gate",
+    "crops": [
+      "morph_00.png",
+      "region_00.png",
+      "region_01.png",
+      "region_02.png"
+    ],
+    "answer": "无法辨认 | [无法辨认]\n实验中学 | [REAL]/[CJK]\n实验大世大脊势 | [REAL]/[CJK]",
+    "lines": [
+      "无法辨认 | [无法辨认]",
+      "实验中学 | [REAL]/[CJK]",
+      "实验大世大脊势 | [REAL]/[CJK]"
+    ]
+  },
+  {
+    "sid": "bg_school_office",
+    "crops": [
+      "morph_00.png",
+      "region_00.png",
+      "region_01.png",
+      "region_02.png",
+      "region_03.png",
+      "region_04.png"
+    ],
+    "answer": "无法辨认 | [无法辨认]",
+    "lines": [
+      "无法辨认 | [无法辨认]"
+    ]
+  },
+  {
+    "sid": "bg_senior_centre",
+    "crops": [
+      "region_00.png"
+    ],
+    "answer": "敬老院 | [REAL]/[FAKE]/[CJK]",
+    "lines": [
+      "敬老院 | [REAL]/[FAKE]/[CJK]"
+    ]
+  },
+  {
+    "sid": "bg_small_restaurant",
+    "crops": [
+      "region_00.png"
+    ],
+    "answer": "家常小館 | [无法辨认]/[无法辨认]/[CJK]/[无法辨认]",
+    "lines": [
+      "家常小館 | [无法辨认]/[无法辨认]/[CJK]/[无法辨认]"
+    ]
+  },
+  {
+    "sid": "bg_sorting_centre",
+    "crops": [
+      "morph_00.png",
+      "region_00.png",
+      "region_01.png"
+    ],
+    "answer": "分损中心 | [无法辨认]/[无法辨认]/[CJK]/[无法辨认]",
+    "lines": [
+      "分损中心 | [无法辨认]/[无法辨认]/[CJK]/[无法辨认]"
+    ]
+  },
+  {
+    "sid": "bg_startup_desk",
+    "crops": [
+      "morph_00.png",
+      "region_00.png",
+      "region_01.png"
+    ],
+    "answer": "云启科技 | [REAL]/[FAKE]/[CJK]/[无法辨认]",
+    "lines": [
+      "云启科技 | [REAL]/[FAKE]/[CJK]/[无法辨认]"
+    ]
+  },
+  {
+    "sid": "bg_steel_mill",
+    "crops": [
+      "morph_00.png",
+      "morph_01.png",
+      "region_00.png",
+      "region_01.png",
+      "region_02.png"
+    ],
+    "answer": "安全第一 | [REAL]/[FAKE]/[CJK]\n预防为主 | [REAL]/[FAKE]/[CJK]",
+    "lines": [
+      "安全第一 | [REAL]/[FAKE]/[CJK]",
+      "预防为主 | [REAL]/[FAKE]/[CJK]"
+    ]
+  },
+  {
+    "sid": "bg_subway_station",
+    "crops": [
+      "morph_00.png",
+      "morph_01.png",
+      "region_00.png",
+      "region_01.png",
+      "region_02.png",
+      "region_03.png"
+    ],
+    "answer": "地铁站台 | [REAL]/[FAKE]/[CJK]/[无法辨认]",
+    "lines": [
+      "地铁站台 | [REAL]/[FAKE]/[CJK]/[无法辨认]"
+    ]
+  },
+  {
+    "sid": "bg_supermarket",
+    "crops": [
+      "morph_00.png",
+      "region_00.png",
+      "region_01.png"
+    ],
+    "answer": "无法辨认 | [无法辨认]\n无法辨认 | [无法辨认]\n无法辨认 | [无法辨认]\n无法辨认 | [无法辨认]\n无法辨认 | [无法辨认]\n无法辨认 | [无法辨认]\n无法辨认 | [无法辨认]\n无法辨认 | [无法辨认]\n无法辨认 | [无法辨认]\n无法辨认 | [无法辨认]\n无法辨认 | [无法辨认]\n无法辨认 | [无法辨认]\n无法辨认 | [无法辨认]\n无法辨认 | [无法辨认]\n无法辨认 | [无法辨认]\n无法辨认 | [无法辨认]\n无法辨认 | [无法辨认]\n无法辨认 | [无法辨认]\n无法辨认 | [无法辨认]\n无法辨认 | [无法辨认]\n无法辨认 | [无法辨认]\n无法辨认 | [无法辨认]\n无法辨",
+    "lines": [
+      "无法辨认 | [无法辨认]",
+      "无法辨认 | [无法辨认]",
+      "无法辨认 | [无法辨认]",
+      "无法辨认 | [无法辨认]",
+      "无法辨认 | [无法辨认]",
+      "无法辨认 | [无法辨认]",
+      "无法辨认 | [无法辨认]",
+      "无法辨认 | [无法辨认]",
+      "无法辨认 | [无法辨认]",
+      "无法辨认 | [无法辨认]",
+      "无法辨认 | [无法辨认]",
+      "无法辨认 | [无法辨认]",
+      "无法辨认 | [无法辨认]",
+      "无法辨认 | [无法辨认]",
+      "无法辨认 | [无法辨认]",
+      "无法辨认 | [无法辨认]",
+      "无法辨认 | [无法辨认]",
+      "无法辨认 | [无法辨认]",
+      "无法辨认 | [无法辨认]",
+      "无法辨认 | [无法辨认]",
+      "无法辨认 | [无法辨认]",
+      "无法辨认 | [无法辨认]",
+      "无法辨"
+    ]
+  },
+  {
+    "sid": "bg_support_centre",
+    "crops": [
+      "morph_00.png",
+      "morph_01.png",
+      "region_00.png",
+      "region_01.png",
+      "region_02.png"
+    ],
+    "answer": "心 | [REAL]/[FAKE]/[CJK]/[无法辨认]",
+    "lines": [
+      "心 | [REAL]/[FAKE]/[CJK]/[无法辨认]"
+    ]
+  },
+  {
+    "sid": "bg_tailor_shop",
+    "crops": [
+      "region_00.png"
+    ],
+    "answer": "裁縫店 | [无法辨认]/[无法辨认]/[无法辨认]",
+    "lines": [
+      "裁縫店 | [无法辨认]/[无法辨认]/[无法辨认]"
+    ]
+  },
+  {
+    "sid": "bg_tcm_clinic",
+    "crops": [
+      "morph_00.png",
+      "region_00.png",
+      "region_01.png",
+      "region_02.png"
+    ],
+    "answer": "同仁堂 | [REAL]/[FAKE]/[CJK]/[无法辨认]",
+    "lines": [
+      "同仁堂 | [REAL]/[FAKE]/[CJK]/[无法辨认]"
+    ]
+  },
+  {
+    "sid": "bg_tea_house",
+    "crops": [
+      "region_00.png"
+    ],
+    "answer": "清心茶社 | [无法辨认]/[无法辨认]/[CJK]",
+    "lines": [
+      "清心茶社 | [无法辨认]/[无法辨认]/[CJK]"
+    ]
+  },
+  {
+    "sid": "bg_tea_prep",
+    "crops": [
+      "morph_00.png",
+      "region_00.png",
+      "region_01.png"
+    ],
+    "answer": "調製室 | [无法辨认]/[无法辨认]/[CJK]/[无法辨认]",
+    "lines": [
+      "調製室 | [无法辨认]/[无法辨认]/[CJK]/[无法辨认]"
+    ]
+  },
+  {
+    "sid": "bg_test_field",
+    "crops": [
+      "morph_00.png",
+      "region_00.png",
+      "region_01.png"
+    ],
+    "answer": "无法辨认 | [无法辨认]\n试验田 | [REAL]/[CJK]",
+    "lines": [
+      "无法辨认 | [无法辨认]",
+      "试验田 | [REAL]/[CJK]"
+    ]
+  },
+  {
+    "sid": "bg_textile_mill",
+    "crops": [
+      "morph_00.png",
+      "region_00.png",
+      "region_01.png",
+      "region_02.png"
+    ],
+    "answer": "纺织车间 | [CJK]",
+    "lines": [
+      "纺织车间 | [CJK]"
+    ]
+  },
+  {
+    "sid": "bg_tile_warehouse",
+    "crops": [
+      "morph_00.png",
+      "region_00.png",
+      "region_01.png"
+    ],
+    "answer": "建材批发中心 | [REAL]/[FAKE]/[CJK]/[无法辨认]",
+    "lines": [
+      "建材批发中心 | [REAL]/[FAKE]/[CJK]/[无法辨认]"
+    ]
+  },
+  {
+    "sid": "bg_tofu_stall",
+    "crops": [
+      "region_00.png",
+      "region_01.png",
+      "region_02.png",
+      "region_03.png",
+      "region_04.png",
+      "region_05.png"
+    ],
+    "answer": "石磨豆腐 | [CJK]\n北上尖腐 | [CJK]\n石磨腐豆腐 | [CJK]\n石磨豆腐 | [CJK]\n右火磨 | [FAKE]\n右磨豆腐 | [CJK]",
+    "lines": [
+      "石磨豆腐 | [CJK]",
+      "北上尖腐 | [CJK]",
+      "石磨腐豆腐 | [CJK]",
+      "石磨豆腐 | [CJK]",
+      "右火磨 | [FAKE]",
+      "右磨豆腐 | [CJK]"
+    ]
+  },
+  {
+    "sid": "bg_track_field",
+    "crops": [
+      "morph_00.png",
+      "morph_01.png",
+      "morph_02.png",
+      "morph_03.png",
+      "morph_04.png",
+      "region_00.png"
+    ],
+    "answer": "更快 更高 更强 更团结 | [REAL]/[FAKE]/[CJK]/[无法辨认]",
+    "lines": [
+      "更快 更高 更强 更团结 | [REAL]/[FAKE]/[CJK]/[无法辨认]"
+    ]
+  },
+  {
+    "sid": "bg_training_centre",
+    "crops": [
+      "morph_00.png",
+      "region_00.png",
+      "region_01.png"
+    ],
+    "answer": "职业培训 | [REAL]/[FAKE]/[CJK]/[无法辨认]",
+    "lines": [
+      "职业培训 | [REAL]/[FAKE]/[CJK]/[无法辨认]"
+    ]
+  },
+  {
+    "sid": "bg_train_platform",
+    "crops": [
+      "region_00.png"
+    ],
+    "answer": "懷舊車站 | [无法辨认]/[无法辨认]/[无法辨认]",
+    "lines": [
+      "懷舊車站 | [无法辨认]/[无法辨认]/[无法辨认]"
+    ]
+  },
+  {
+    "sid": "bg_warehouse_rack",
+    "crops": [
+      "region_00.png"
+    ],
+    "answer": "立体仓库 | [REAL]/[FAKE]/[CJK]/[无法辨认]",
+    "lines": [
+      "立体仓库 | [REAL]/[FAKE]/[CJK]/[无法辨认]"
+    ]
+  },
+  {
+    "sid": "bg_wet_market",
+    "crops": [
+      "region_00.png",
+      "region_01.png",
+      "region_02.png"
+    ],
+    "answer": "菜市場 | [REAL]/[FAKE]/[CJK]",
+    "lines": [
+      "菜市場 | [REAL]/[FAKE]/[CJK]"
+    ]
+  },
+  {
+    "sid": "bg_wheat_field",
+    "crops": [
+      "region_00.png"
+    ],
+    "answer": "丰收中国 | [REAL]/[FAKE]/[CJK]",
+    "lines": [
+      "丰收中国 | [REAL]/[FAKE]/[CJK]"
+    ]
+  },
+  {
+    "sid": "bg_yoga_studio",
+    "crops": [
+      "morph_00.png",
+      "morph_01.png",
+      "region_00.png",
+      "region_01.png",
+      "region_02.png"
+    ],
+    "answer": "瑜伽馆 | [REAL]/[FAKE]/[CJK]/[无法辨认]",
+    "lines": [
+      "瑜伽馆 | [REAL]/[FAKE]/[CJK]/[无法辨认]"
+    ]
+  }
+]

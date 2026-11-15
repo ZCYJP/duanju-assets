@@ -1,0 +1,93 @@
+{
+  "total_dur": 60.0,
+  "final_dur": 60.0,
+  "intro_dur": 1.0,
+  "pad_head": 0.35,
+  "pad_tail": 0.45,
+  "shots": [
+    {
+      "shot": "s01_hook_fold",
+      "speaker": "苏清晚",
+      "text": "三年了。这笔账，今天结清。",
+      "start": 1.35,
+      "end": 4.87
+    },
+    {
+      "shot": "s02_ally_lawyer",
+      "speaker": "苏蔓",
+      "text": "清晚，股权书我带来了。",
+      "start": 6.35,
+      "end": 9.39
+    },
+    {
+      "shot": "s03_villain_seat",
+      "speaker": "裴九渊",
+      "text": "苏小姐，这张桌子，姓裴了。",
+      "start": 11.35,
+      "end": 15.43
+    },
+    {
+      "shot": "s04_exec_silent",
+      "speaker": "宋佳宁",
+      "text": "……董事会，签到齐了。",
+      "start": 16.35,
+      "end": 19.07
+    },
+    {
+      "shot": "s05_break_alone",
+      "speaker": "苏清晚",
+      "text": "爸，你走的那年，我十九。",
+      "start": 21.35,
+      "end": 24.79
+    },
+    {
+      "shot": "s06_garage_arrival",
+      "speaker": "陆沉",
+      "text": "三年，我等这句话。",
+      "start": 26.35,
+      "end": 28.75
+    },
+    {
+      "shot": "s07_rain_street",
+      "speaker": "陆沉",
+      "text": "苏家的债，我三年前就接手了。",
+      "start": 31.35,
+      "end": 34.31
+    },
+    {
+      "shot": "s08_villain_rage",
+      "speaker": "裴九渊",
+      "text": "陆沉，你还敢回来？",
+      "start": 36.35,
+      "end": 38.67
+    },
+    {
+      "shot": "s09_lawyer_cards",
+      "speaker": "苏蔓",
+      "text": "裴先生，文件我念给你听。",
+      "start": 41.35,
+      "end": 44.71
+    },
+    {
+      "shot": "s10_exec_reveal",
+      "speaker": "宋佳宁",
+      "text": "签约方，写的是裴九渊。",
+      "start": 46.35,
+      "end": 49.23
+    },
+    {
+      "shot": "s11_topfloor_reversal",
+      "speaker": "苏清晚",
+      "text": "你买走的，是我的旧账。",
+      "start": 51.35,
+      "end": 53.99
+    },
+    {
+      "shot": "s12_finale_hook",
+      "speaker": "陆沉",
+      "text": "苏清晚，欢迎回家。",
+      "start": 56.35,
+      "end": 58.51
+    }
+  ]
+}

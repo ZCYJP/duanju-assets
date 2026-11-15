@@ -1,0 +1,1187 @@
+[
+  {
+    "sid": "bg_airport",
+    "expected": "出发大厅",
+    "lang": "简体中文",
+    "vl_answer": "出发大厅",
+    "vl_lines": [
+      "出发大厅"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_apothecary",
+    "expected": "同德堂藥號",
+    "lang": "繁体中文",
+    "vl_answer": "同德堂藥號",
+    "vl_lines": [
+      "同德堂藥號"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_art_studio",
+    "expected": "美術學院",
+    "lang": "繁体中文",
+    "vl_answer": "美術學院",
+    "vl_lines": [
+      "美術學院"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_auto_shop",
+    "expected": "整備工場",
+    "lang": "日语",
+    "vl_answer": "整儲工場",
+    "vl_lines": [
+      "整儲工場"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_back_office",
+    "expected": "採購部",
+    "lang": "繁体中文",
+    "vl_answer": "採購部",
+    "vl_lines": [
+      "採購部"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_bakery",
+    "expected": "BAKERY",
+    "lang": "英语",
+    "vl_answer": "BAKERY",
+    "vl_lines": [
+      "BAKERY"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_bakery_shop",
+    "expected": "Boulangerie",
+    "lang": "法语",
+    "vl_answer": "Boulangerie",
+    "vl_lines": [
+      "Boulangerie"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_baking_class",
+    "expected": "烘焙课程",
+    "lang": "简体中文",
+    "vl_answer": "烘焙课程",
+    "vl_lines": [
+      "烘焙课程"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_beauty_room",
+    "expected": "Beauty Care",
+    "lang": "英语",
+    "vl_answer": "Beauty Care",
+    "vl_lines": [
+      "Beauty Care"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_boarding_gate",
+    "expected": "登机口",
+    "lang": "简体中文",
+    "vl_answer": "登机口",
+    "vl_lines": [
+      "登机口"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_bookstore",
+    "expected": "读书斋",
+    "lang": "简体中文",
+    "vl_answer": "读书斋",
+    "vl_lines": [
+      "读书斋"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_boutique",
+    "expected": "精品店",
+    "lang": "简体中文",
+    "vl_answer": "精品店",
+    "vl_lines": [
+      "精品店"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_boutique_floor",
+    "expected": "新款上市",
+    "lang": "简体中文",
+    "vl_answer": "新款上市",
+    "vl_lines": [
+      "新款上市"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_bubble_tea",
+    "expected": "奶茶の店",
+    "lang": "日语",
+    "vl_answer": "奶茶の店",
+    "vl_lines": [
+      "奶茶の店"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_butchershop",
+    "expected": "鲜肉铺",
+    "lang": "简体中文",
+    "vl_answer": "鲜肉铺",
+    "vl_lines": [
+      "鲜肉铺"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_cafe",
+    "expected": "COFFEE",
+    "lang": "英语",
+    "vl_answer": "COFFEE",
+    "vl_lines": [
+      "COFFEE"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_canteen",
+    "expected": "职工食堂",
+    "lang": "简体中文",
+    "vl_answer": "职工食堂",
+    "vl_lines": [
+      "职工食堂"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_car_interior",
+    "expected": "安全驾驶",
+    "lang": "简体中文",
+    "vl_answer": "安全驾驶\n安全驾驶\n女主驾驶\n无文字",
+    "vl_lines": [
+      "安全驾驶",
+      "安全驾驶",
+      "女主驾驶",
+      "无文字"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_car_repair_bay",
+    "expected": "洗車場",
+    "lang": "繁体中文",
+    "vl_answer": "洗車場\n洗車場\n洗車場\n[无文字]",
+    "vl_lines": [
+      "洗車場",
+      "洗車場",
+      "洗車場",
+      "[无文字]"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": true
+  },
+  {
+    "sid": "bg_cargo_deck",
+    "expected": "OCEAN STAR",
+    "lang": "英语",
+    "vl_answer": "OCEAN STAR",
+    "vl_lines": [
+      "OCEAN STAR"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_classroom",
+    "expected": "知识改变命运",
+    "lang": "简体中文",
+    "vl_answer": "知识改变命运",
+    "vl_lines": [
+      "知识改变命运"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_clinic_ward",
+    "expected": "住院部",
+    "lang": "简体中文",
+    "vl_answer": "住院部",
+    "vl_lines": [
+      "住院部"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_cold_store",
+    "expected": "冷链仓库",
+    "lang": "简体中文",
+    "vl_answer": "冷链仓库",
+    "vl_lines": [
+      "冷链仓库"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_conference",
+    "expected": "会議室",
+    "lang": "日语",
+    "vl_answer": "会議室",
+    "vl_lines": [
+      "会議室"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_construction_site",
+    "expected": "在建工程",
+    "lang": "简体中文",
+    "vl_answer": "在建工程",
+    "vl_lines": [
+      "在建工程"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_corporate_lobby",
+    "expected": "远景集团",
+    "lang": "简体中文",
+    "vl_answer": "远景集团",
+    "vl_lines": [
+      "远景集团"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_delivery_station",
+    "expected": "蜂鸟配送",
+    "lang": "简体中文",
+    "vl_answer": "蜂鸟配送",
+    "vl_lines": [
+      "蜂鸟配送"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_delivery_street",
+    "expected": "外卖驿站",
+    "lang": "简体中文",
+    "vl_answer": "EXAACT\n外卖驿站\n[伪文字]\n外卖驿站",
+    "vl_lines": [
+      "EXAACT",
+      "外卖驿站",
+      "[伪文字]",
+      "外卖驿站"
+    ],
+    "has_pseudo_marker": true,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_dessert_bar",
+    "expected": "甜品屋",
+    "lang": "简体中文",
+    "vl_answer": "甜品屋\n甜品屋\n甜品屋\n甜品屋",
+    "vl_lines": [
+      "甜品屋",
+      "甜品屋",
+      "甜品屋",
+      "甜品屋"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_dispatch_room",
+    "expected": "生产调度室",
+    "lang": "简体中文",
+    "vl_answer": "生产调度室",
+    "vl_lines": [
+      "生产调度室"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_dock_market",
+    "expected": "農貿市場",
+    "lang": "繁体中文",
+    "vl_answer": "農貿市場",
+    "vl_lines": [
+      "農貿市場"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_dorm_room",
+    "expected": "计算机学院",
+    "lang": "简体中文",
+    "vl_answer": "计算机学院",
+    "vl_lines": [
+      "计算机学院"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_driving_office",
+    "expected": "DRIVE SAFE",
+    "lang": "英语",
+    "vl_answer": "FRUNIC /AOI TYEFA\nDRIVE SAFE\nDRIVE\n[无文字]",
+    "vl_lines": [
+      "FRUNIC /AOI TYEFA",
+      "DRIVE SAFE",
+      "DRIVE",
+      "[无文字]"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": true
+  },
+  {
+    "sid": "bg_driving_school",
+    "expected": "宏达驾校",
+    "lang": "简体中文",
+    "vl_answer": "宏达驾校",
+    "vl_lines": [
+      "宏达驾校"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_factory_dorm",
+    "expected": "幸福公寓",
+    "lang": "简体中文",
+    "vl_answer": "幸福公寓",
+    "vl_lines": [
+      "幸福公寓"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_factory_gate",
+    "expected": "国营第三机械厂",
+    "lang": "简体中文",
+    "vl_answer": "国营第三机械厂",
+    "vl_lines": [
+      "国营第三机械厂"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_fire_station",
+    "expected": "人民消防 为民服务",
+    "lang": "简体中文",
+    "vl_answer": "人民消防\n为民服务\n[无文字]\n[无文字]",
+    "vl_lines": [
+      "人民消防",
+      "为民服务",
+      "[无文字]",
+      "[无文字]"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": true
+  },
+  {
+    "sid": "bg_fishing_dock",
+    "expected": "漁港",
+    "lang": "繁体中文",
+    "vl_answer": "漁港",
+    "vl_lines": [
+      "漁港"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_flower_shop",
+    "expected": "Fleur",
+    "lang": "法语",
+    "vl_answer": "Fleur",
+    "vl_lines": [
+      "Fleur"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_flower_stall",
+    "expected": "鮮花",
+    "lang": "繁体中文",
+    "vl_answer": "鮮花",
+    "vl_lines": [
+      "鮮花"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_fresh_aisle",
+    "expected": "新鲜蔬菜 每日直供",
+    "lang": "简体中文",
+    "vl_answer": "新鲜蔬菜\n每日直供",
+    "vl_lines": [
+      "新鲜蔬菜",
+      "每日直供"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_game_studio",
+    "expected": "像素工作室",
+    "lang": "简体中文",
+    "vl_answer": "像素工作室",
+    "vl_lines": [
+      "像素工作室"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_grain_depot",
+    "expected": "粮食储备",
+    "lang": "简体中文",
+    "vl_answer": "粮食储备\n-02\nZBR",
+    "vl_lines": [
+      "粮食储备",
+      "-02",
+      "ZBR"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_guardhouse",
+    "expected": "小区保安室",
+    "lang": "简体中文",
+    "vl_answer": "小区保安室\nI",
+    "vl_lines": [
+      "小区保安室",
+      "I"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_gym",
+    "expected": "力量训练",
+    "lang": "简体中文",
+    "vl_answer": "力量训练",
+    "vl_lines": [
+      "力量训练"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_gym_reception",
+    "expected": "健身會所",
+    "lang": "繁体中文",
+    "vl_answer": "健身會所",
+    "vl_lines": [
+      "健身會所"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_harbour_fishing",
+    "expected": "遠洋漁港",
+    "lang": "繁体中文",
+    "vl_answer": "遠洋漁港",
+    "vl_lines": [
+      "遠洋漁港"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_harbour_office",
+    "expected": "港口調度",
+    "lang": "简体中文",
+    "vl_answer": "港口调度",
+    "vl_lines": [
+      "港口调度"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_highspeed_station",
+    "expected": "候車大廳",
+    "lang": "繁体中文",
+    "vl_answer": "候車大廳",
+    "vl_lines": [
+      "候車大廳"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_home_services",
+    "expected": "家政服務",
+    "lang": "繁体中文",
+    "vl_answer": "FABLISATEBIC\n家政服務\n[无文字]",
+    "vl_lines": [
+      "FABLISATEBIC",
+      "家政服務",
+      "[无文字]"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": true
+  },
+  {
+    "sid": "bg_hospital_dir",
+    "expected": "人民医院",
+    "lang": "简体中文",
+    "vl_answer": "人民医院",
+    "vl_lines": [
+      "人民医院"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_industrial_office",
+    "expected": "工业制造基地",
+    "lang": "简体中文",
+    "vl_answer": "工业制造基地",
+    "vl_lines": [
+      "工业制造基地"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_insurance",
+    "expected": "保险公司",
+    "lang": "简体中文",
+    "vl_answer": "保险公司\n[无文字]",
+    "vl_lines": [
+      "保险公司",
+      "[无文字]"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": true
+  },
+  {
+    "sid": "bg_kindergarten",
+    "expected": "快乐成长",
+    "lang": "简体中文",
+    "vl_answer": "快乐成长\n快乐成长\n快乐成长\n快乐成长",
+    "vl_lines": [
+      "快乐成长",
+      "快乐成长",
+      "快乐成长",
+      "快乐成长"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_kindergarten_paint",
+    "expected": "あそび",
+    "lang": "日语",
+    "vl_answer": "あどび",
+    "vl_lines": [
+      "あどび"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_law_office",
+    "expected": "诚信律师事務所",
+    "lang": "繁体中文",
+    "vl_answer": "诚信律师事务所",
+    "vl_lines": [
+      "诚信律师事务所"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_logistics_yard",
+    "expected": "物流园",
+    "lang": "简体中文",
+    "vl_answer": "物流园\n[无文字]\n[无文字]",
+    "vl_lines": [
+      "物流园",
+      "[无文字]",
+      "[无文字]"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": true
+  },
+  {
+    "sid": "bg_lumber_yard",
+    "expected": "木材加工",
+    "lang": "简体中文",
+    "vl_answer": "木材加工",
+    "vl_lines": [
+      "木材加工"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_makeup_room",
+    "expected": "Beauty Studio",
+    "lang": "英语",
+    "vl_answer": "Beauty Studio",
+    "vl_lines": [
+      "Beauty Studio"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_market_alley",
+    "expected": "福安巷",
+    "lang": "简体中文",
+    "vl_answer": "福安巷",
+    "vl_lines": [
+      "福安巷"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_nail_salon",
+    "expected": "指尖美学",
+    "lang": "简体中文",
+    "vl_answer": "指尖美学",
+    "vl_lines": [
+      "指尖美学"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_night_market",
+    "expected": "夜市",
+    "lang": "繁体中文",
+    "vl_answer": "夜市",
+    "vl_lines": [
+      "夜市"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_nursery",
+    "expected": "母婴护理中心",
+    "lang": "简体中文",
+    "vl_answer": "母婴护理中心",
+    "vl_lines": [
+      "母婴护理中心"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_old_stairwell",
+    "expected": "幸福家园",
+    "lang": "简体中文",
+    "vl_answer": "幸福家园",
+    "vl_lines": [
+      "幸福家园"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_open_office",
+    "expected": "创科网络科技",
+    "lang": "简体中文",
+    "vl_answer": "创科网络科技",
+    "vl_lines": [
+      "创科网络科技"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_parcel_station",
+    "expected": "快递代收点",
+    "lang": "简体中文",
+    "vl_answer": "快递代收点",
+    "vl_lines": [
+      "快递代收点"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_pet_shop",
+    "expected": "宠物店",
+    "lang": "简体中文",
+    "vl_answer": "宠物店\n宠[伪文字]物店",
+    "vl_lines": [
+      "宠物店",
+      "宠[伪文字]物店"
+    ],
+    "has_pseudo_marker": true,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_playground",
+    "expected": "儿童乐园",
+    "lang": "简体中文",
+    "vl_answer": "儿童乐园",
+    "vl_lines": [
+      "儿童乐园"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_precision_factory",
+    "expected": "智能制造",
+    "lang": "简体中文",
+    "vl_answer": "智能制造\n智能制造",
+    "vl_lines": [
+      "智能制造",
+      "智能制造"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_principal_office",
+    "expected": "幼稚園",
+    "lang": "日语",
+    "vl_answer": "幼稚園\n幼稚園\n幼稚園\n[无文字]",
+    "vl_lines": [
+      "幼稚園",
+      "幼稚園",
+      "幼稚園",
+      "[无文字]"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": true
+  },
+  {
+    "sid": "bg_reno_site",
+    "expected": "精工装修",
+    "lang": "简体中文",
+    "vl_answer": "精工装修",
+    "vl_lines": [
+      "精工装修"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_restaurant_private",
+    "expected": "雅聚轩",
+    "lang": "简体中文",
+    "vl_answer": "雅聚轩",
+    "vl_lines": [
+      "雅聚轩"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_salon_front",
+    "expected": "Salon de Beauté",
+    "lang": "法语",
+    "vl_answer": "Salon de Beauté\nSalon de Beauté\nSalon de Beaute\n无文字",
+    "vl_lines": [
+      "Salon de Beauté",
+      "Salon de Beauté",
+      "Salon de Beaute",
+      "无文字"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_sample_room",
+    "expected": "样衣间",
+    "lang": "简体中文",
+    "vl_answer": "样衣间",
+    "vl_lines": [
+      "样衣间"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_school_field",
+    "expected": "運動会",
+    "lang": "繁体中文",
+    "vl_answer": "運動会",
+    "vl_lines": [
+      "運動会"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_school_gate",
+    "expected": "实验中学",
+    "lang": "简体中文",
+    "vl_answer": "实验中学\n实验太坦大肯势\n实验中学\n无文字",
+    "vl_lines": [
+      "实验中学",
+      "实验太坦大肯势",
+      "实验中学",
+      "无文字"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_school_office",
+    "expected": "教研室",
+    "lang": "简体中文",
+    "vl_answer": "教研室",
+    "vl_lines": [
+      "教研室"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_senior_centre",
+    "expected": "敬老院",
+    "lang": "简体中文",
+    "vl_answer": "敬老院\n敬老院",
+    "vl_lines": [
+      "敬老院",
+      "敬老院"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_small_restaurant",
+    "expected": "家常小館",
+    "lang": "繁体中文",
+    "vl_answer": "家常小館",
+    "vl_lines": [
+      "家常小館"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_sorting_centre",
+    "expected": "分拣中心",
+    "lang": "简体中文",
+    "vl_answer": "分揀中心",
+    "vl_lines": [
+      "分揀中心"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_startup_desk",
+    "expected": "云启科技",
+    "lang": "简体中文",
+    "vl_answer": "云启科技",
+    "vl_lines": [
+      "云启科技"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_steel_mill",
+    "expected": "安全第一 预防为主",
+    "lang": "简体中文",
+    "vl_answer": "安全第一\n预防为主",
+    "vl_lines": [
+      "安全第一",
+      "预防为主"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_subway_station",
+    "expected": "地铁站台",
+    "lang": "简体中文",
+    "vl_answer": "地铁站台",
+    "vl_lines": [
+      "地铁站台"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_supermarket",
+    "expected": "惠民超市",
+    "lang": "简体中文",
+    "vl_answer": "惠民超市",
+    "vl_lines": [
+      "惠民超市"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_support_centre",
+    "expected": "客服中心",
+    "lang": "简体中文",
+    "vl_answer": "客服中心",
+    "vl_lines": [
+      "客服中心"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_tailor_shop",
+    "expected": "裁縫店",
+    "lang": "繁体中文",
+    "vl_answer": "裁縫店",
+    "vl_lines": [
+      "裁縫店"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_tcm_clinic",
+    "expected": "同仁堂",
+    "lang": "繁体中文",
+    "vl_answer": "同仁堂\n同仁堂\n同仁堂\n无文字",
+    "vl_lines": [
+      "同仁堂",
+      "同仁堂",
+      "同仁堂",
+      "无文字"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_tea_house",
+    "expected": "清心茶社",
+    "lang": "简体中文",
+    "vl_answer": "清心茶社",
+    "vl_lines": [
+      "清心茶社"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_tea_prep",
+    "expected": "調製室",
+    "lang": "繁体中文",
+    "vl_answer": "調製室",
+    "vl_lines": [
+      "調製室"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_test_field",
+    "expected": "试验田",
+    "lang": "简体中文",
+    "vl_answer": "试验田",
+    "vl_lines": [
+      "试验田"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_textile_mill",
+    "expected": "纺织车间",
+    "lang": "简体中文",
+    "vl_answer": "纺织车间",
+    "vl_lines": [
+      "纺织车间"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_tile_warehouse",
+    "expected": "建材批发中心",
+    "lang": "简体中文",
+    "vl_answer": "建材批发中心",
+    "vl_lines": [
+      "建材批发中心"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_tofu_stall",
+    "expected": "石磨豆腐",
+    "lang": "简体中文",
+    "vl_answer": "石磨豆腐\n石磨豆腐\n石磨豆腐\n石磨豆腐\n石磨豆腐\n石磨豆腐\n石磨豆腐\n石磨豆腐\n石磨豆腐\n石磨豆腐\n石磨豆腐\n石磨豆腐\n石磨豆腐\n石磨豆腐\n石磨豆腐\n石磨豆腐\n石磨豆腐\n石磨豆腐\n石磨豆腐\n石磨豆腐\n石磨豆腐\n石磨豆腐\n石磨豆腐\n石磨豆腐\n石磨豆腐\n石磨豆腐\n石磨豆腐\n石磨豆腐\n石磨豆腐\n石磨豆腐\n石磨豆腐\n石磨豆腐\n石磨豆腐\n石磨豆腐\n石磨豆腐\n石磨豆腐\n石磨豆腐\n石磨豆腐\n石磨豆腐\n石磨豆腐\n",
+    "vl_lines": [
+      "石磨豆腐",
+      "石磨豆腐",
+      "石磨豆腐",
+      "石磨豆腐",
+      "石磨豆腐",
+      "石磨豆腐",
+      "石磨豆腐",
+      "石磨豆腐",
+      "石磨豆腐",
+      "石磨豆腐",
+      "石磨豆腐",
+      "石磨豆腐",
+      "石磨豆腐",
+      "石磨豆腐",
+      "石磨豆腐",
+      "石磨豆腐",
+      "石磨豆腐",
+      "石磨豆腐",
+      "石磨豆腐",
+      "石磨豆腐",
+      "石磨豆腐",
+      "石磨豆腐",
+      "石磨豆腐",
+      "石磨豆腐",
+      "石磨豆腐",
+      "石磨豆腐",
+      "石磨豆腐",
+      "石磨豆腐",
+      "石磨豆腐",
+      "石磨豆腐",
+      "石磨豆腐",
+      "石磨豆腐",
+      "石磨豆腐",
+      "石磨豆腐",
+      "石磨豆腐",
+      "石磨豆腐",
+      "石磨豆腐",
+      "石磨豆腐",
+      "石磨豆腐",
+      "石磨豆腐"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_track_field",
+    "expected": "更快 更高 更强 更团结",
+    "lang": "简体中文",
+    "vl_answer": "更快 更高 更强 更团结",
+    "vl_lines": [
+      "更快 更高 更强 更团结"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_train_platform",
+    "expected": "懷舊車站",
+    "lang": "繁体中文",
+    "vl_answer": "懷舊車站",
+    "vl_lines": [
+      "懷舊車站"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_training_centre",
+    "expected": "职业培训",
+    "lang": "简体中文",
+    "vl_answer": "职业培训",
+    "vl_lines": [
+      "职业培训"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_warehouse_rack",
+    "expected": "立体仓库",
+    "lang": "简体中文",
+    "vl_answer": "立体仓库",
+    "vl_lines": [
+      "立体仓库"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_wet_market",
+    "expected": "菜市場",
+    "lang": "繁体中文",
+    "vl_answer": "菜市場",
+    "vl_lines": [
+      "菜市場"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_wheat_field",
+    "expected": "丰收中国",
+    "lang": "简体中文",
+    "vl_answer": "丰收中国",
+    "vl_lines": [
+      "丰收中国"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  },
+  {
+    "sid": "bg_yoga_studio",
+    "expected": "瑜伽馆",
+    "lang": "简体中文",
+    "vl_answer": "瑜伽馆",
+    "vl_lines": [
+      "瑜伽馆"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  }
+]

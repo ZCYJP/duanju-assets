@@ -1,0 +1,434 @@
+[
+  {
+    "cid": "F19",
+    "variant": "dashu",
+    "sim": 0.8887,
+    "verdict": "实际同人"
+  },
+  {
+    "cid": "F32",
+    "variant": "mangzhong",
+    "sim": 0.895,
+    "verdict": "实际同人"
+  },
+  {
+    "cid": "F44",
+    "variant": "mangzhong",
+    "sim": 0.7824,
+    "verdict": "实际同人"
+  },
+  {
+    "cid": "F44",
+    "variant": "summer",
+    "sim": 0.8437,
+    "verdict": "实际同人"
+  },
+  {
+    "cid": "F52",
+    "variant": "mangzhong",
+    "sim": 0.8656,
+    "verdict": "实际同人"
+  },
+  {
+    "cid": "F69",
+    "variant": "dahan",
+    "sim": 0.8888,
+    "verdict": "实际同人"
+  },
+  {
+    "cid": "M02",
+    "variant": "mangzhong",
+    "sim": 0.8116,
+    "verdict": "实际同人"
+  },
+  {
+    "cid": "M14",
+    "variant": "mangzhong",
+    "sim": 0.8157,
+    "verdict": "实际同人"
+  },
+  {
+    "cid": "M30",
+    "variant": "mangzhong",
+    "sim": 0.7796,
+    "verdict": "实际同人"
+  },
+  {
+    "cid": "M34",
+    "variant": "mangzhong",
+    "sim": 0.7777,
+    "verdict": "实际同人"
+  },
+  {
+    "cid": "M37",
+    "variant": "lixia",
+    "sim": 0.9192,
+    "verdict": "实际同人"
+  },
+  {
+    "cid": "M63",
+    "variant": "winter",
+    "sim": 0.8965,
+    "verdict": "实际同人"
+  },
+  {
+    "cid": "F22",
+    "variant": "xiaoman",
+    "sim": 0.8932,
+    "verdict": "实际同人"
+  },
+  {
+    "cid": "F30",
+    "variant": "mangzhong",
+    "sim": 0.8887,
+    "verdict": "实际同人"
+  },
+  {
+    "cid": "F31",
+    "variant": "mangzhong",
+    "sim": 0.7522,
+    "verdict": "实际同人"
+  },
+  {
+    "cid": "F31",
+    "variant": "xiaoshu",
+    "sim": 0.7723,
+    "verdict": "实际同人"
+  },
+  {
+    "cid": "F43",
+    "variant": "mangzhong",
+    "sim": 0.8921,
+    "verdict": "实际同人"
+  },
+  {
+    "cid": "F44",
+    "variant": "guyu",
+    "sim": 0.85,
+    "verdict": "实际同人"
+  },
+  {
+    "cid": "F65",
+    "variant": "dashu",
+    "sim": 0.8757,
+    "verdict": "实际同人"
+  },
+  {
+    "cid": "F67",
+    "variant": "mangzhong",
+    "sim": 0.8459,
+    "verdict": "实际同人"
+  },
+  {
+    "cid": "M04",
+    "variant": "xiaoman",
+    "sim": 0.7739,
+    "verdict": "实际同人"
+  },
+  {
+    "cid": "M13",
+    "variant": "mangzhong",
+    "sim": 0.671,
+    "verdict": "实际同人"
+  },
+  {
+    "cid": "M17",
+    "variant": "summer",
+    "sim": 0.8465,
+    "verdict": "实际同人"
+  },
+  {
+    "cid": "M33",
+    "variant": "summer",
+    "sim": 0.9087,
+    "verdict": "实际同人"
+  },
+  {
+    "cid": "M45",
+    "variant": "chushu",
+    "sim": 0.919,
+    "verdict": "实际同人"
+  },
+  {
+    "cid": "M45",
+    "variant": "mangzhong",
+    "sim": 0.9346,
+    "verdict": "实际同人"
+  },
+  {
+    "cid": "M45",
+    "variant": "summer",
+    "sim": 0.8813,
+    "verdict": "实际同人"
+  },
+  {
+    "cid": "M54",
+    "variant": "qingming",
+    "sim": 0.9338,
+    "verdict": "实际同人"
+  },
+  {
+    "cid": "M61",
+    "variant": "mangzhong",
+    "sim": 0.8563,
+    "verdict": "实际同人"
+  },
+  {
+    "cid": "M63",
+    "variant": "qiufen",
+    "sim": 0.9049,
+    "verdict": "实际同人"
+  },
+  {
+    "cid": "M65",
+    "variant": "mangzhong",
+    "sim": 0.8192,
+    "verdict": "实际同人"
+  },
+  {
+    "cid": "M70",
+    "variant": "guyu",
+    "sim": 0.7161,
+    "verdict": "实际同人"
+  },
+  {
+    "cid": "F03",
+    "variant": "chushu",
+    "sim": 0.8935,
+    "verdict": "实际同人"
+  },
+  {
+    "cid": "F07",
+    "variant": "mangzhong",
+    "sim": 0.8794,
+    "verdict": "实际同人"
+  },
+  {
+    "cid": "F14",
+    "variant": "mangzhong",
+    "sim": 0.7935,
+    "verdict": "实际同人"
+  },
+  {
+    "cid": "F14",
+    "variant": "summer",
+    "sim": 0.8474,
+    "verdict": "实际同人"
+  },
+  {
+    "cid": "F15",
+    "variant": "mangzhong",
+    "sim": 0.8881,
+    "verdict": "实际同人"
+  },
+  {
+    "cid": "F19",
+    "variant": "mangzhong",
+    "sim": 0.8402,
+    "verdict": "实际同人"
+  },
+  {
+    "cid": "F21",
+    "variant": "mangzhong",
+    "sim": 0.7944,
+    "verdict": "实际同人"
+  },
+  {
+    "cid": "F23",
+    "variant": "mangzhong",
+    "sim": 0.7525,
+    "verdict": "实际同人"
+  },
+  {
+    "cid": "F52",
+    "variant": "dashu",
+    "sim": 0.8537,
+    "verdict": "实际同人"
+  },
+  {
+    "cid": "M03",
+    "variant": "xiaoman",
+    "sim": 0.9071,
+    "verdict": "实际同人"
+  },
+  {
+    "cid": "M28",
+    "variant": "mangzhong",
+    "sim": 0.8397,
+    "verdict": "实际同人"
+  },
+  {
+    "cid": "M41",
+    "variant": "guyu",
+    "sim": 0.801,
+    "verdict": "实际同人"
+  },
+  {
+    "cid": "M44",
+    "variant": "mangzhong",
+    "sim": 0.7896,
+    "verdict": "实际同人"
+  },
+  {
+    "cid": "M63",
+    "variant": "chunfen",
+    "sim": 0.8706,
+    "verdict": "实际同人"
+  },
+  {
+    "cid": "M63",
+    "variant": "xiaoman",
+    "sim": 0.9607,
+    "verdict": "实际同人"
+  },
+  {
+    "cid": "M68",
+    "variant": "mangzhong",
+    "sim": 0.796,
+    "verdict": "实际同人"
+  },
+  {
+    "cid": "M68",
+    "variant": "xiaoshu",
+    "sim": 0.8581,
+    "verdict": "实际同人"
+  },
+  {
+    "cid": "F11",
+    "variant": "qingming",
+    "sim": 0.7314,
+    "verdict": "实际同人"
+  },
+  {
+    "cid": "F33",
+    "variant": "mangzhong",
+    "sim": 0.8805,
+    "verdict": "实际同人"
+  },
+  {
+    "cid": "F53",
+    "variant": "chushu",
+    "sim": 0.8694,
+    "verdict": "实际同人"
+  },
+  {
+    "cid": "F65",
+    "variant": "chushu",
+    "sim": 0.8769,
+    "verdict": "实际同人"
+  },
+  {
+    "cid": "F65",
+    "variant": "mangzhong",
+    "sim": 0.8664,
+    "verdict": "实际同人"
+  },
+  {
+    "cid": "F65",
+    "variant": "summer",
+    "sim": 0.8794,
+    "verdict": "实际同人"
+  },
+  {
+    "cid": "F69",
+    "variant": "mangzhong",
+    "sim": 0.8769,
+    "verdict": "实际同人"
+  },
+  {
+    "cid": "M14",
+    "variant": "lixia",
+    "sim": 0.8764,
+    "verdict": "实际同人"
+  },
+  {
+    "cid": "M14",
+    "variant": "xiaoman",
+    "sim": 0.8672,
+    "verdict": "实际同人"
+  },
+  {
+    "cid": "M21",
+    "variant": "liqiu",
+    "sim": 0.9031,
+    "verdict": "实际同人"
+  },
+  {
+    "cid": "M28",
+    "variant": "guyu",
+    "sim": 0.8461,
+    "verdict": "实际同人"
+  },
+  {
+    "cid": "M38",
+    "variant": "lixia",
+    "sim": 0.8672,
+    "verdict": "实际同人"
+  },
+  {
+    "cid": "M45",
+    "variant": "bailu",
+    "sim": 0.9612,
+    "verdict": "实际同人"
+  },
+  {
+    "cid": "M59",
+    "variant": "mangzhong",
+    "sim": 0.7848,
+    "verdict": "实际同人"
+  },
+  {
+    "cid": "M63",
+    "variant": "mangzhong",
+    "sim": 0.901,
+    "verdict": "实际同人"
+  },
+  {
+    "cid": "M66",
+    "variant": "lixia",
+    "sim": 0.9002,
+    "verdict": "实际同人"
+  },
+  {
+    "cid": "M68",
+    "variant": "guyu",
+    "sim": 0.82,
+    "verdict": "实际同人"
+  },
+  {
+    "cid": "M70",
+    "variant": "chunfen",
+    "sim": 0.7133,
+    "verdict": "实际同人"
+  },
+  {
+    "cid": "M71",
+    "variant": "mangzhong",
+    "sim": 0.8314,
+    "verdict": "实际同人"
+  },
+  {
+    "cid": "M44",
+    "variant": "yushui",
+    "sim": 0.8556,
+    "verdict": "实际同人"
+  },
+  {
+    "cid": "M76",
+    "variant": "yushui",
+    "sim": 0.7982,
+    "verdict": "实际同人"
+  },
+  {
+    "cid": "M54",
+    "variant": "yushui",
+    "sim": 0.8786,
+    "verdict": "实际同人"
+  },
+  {
+    "cid": "F22",
+    "variant": "yushui",
+    "sim": 0.8831,
+    "verdict": "实际同人"
+  }
+]

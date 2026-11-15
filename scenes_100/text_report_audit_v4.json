@@ -1,0 +1,1023 @@
+[
+ {
+  "sid": "bg_airport",
+  "lang": "简体中文",
+  "expected": "出发大厅",
+  "transcript": "出发大厅",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='出发大厅'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_apothecary",
+  "lang": "繁体中文",
+  "expected": "同德堂藥號",
+  "transcript": "同德堂藥號",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='同德堂藥號'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_art_studio",
+  "lang": "繁体中文",
+  "expected": "美術學院",
+  "transcript": "美街學院 / 美術學院",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 0.75 / VL覆盖 1.00), 预期='美術學院'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_auto_shop",
+  "lang": "日语",
+  "expected": "整備工場",
+  "transcript": "整健工場 / 整儲工場",
+  "status": "PSEUDO",
+  "confidence": "高",
+  "reason": "检出伪文字证据 1 条: ['610517']",
+  "pseudo_evidence": [
+   "610517"
+  ]
+ },
+ {
+  "sid": "bg_back_office",
+  "lang": "繁体中文",
+  "expected": "採購部",
+  "transcript": "搡購部 / 採購部",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 0.67 / VL覆盖 1.00), 预期='採購部'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_bakery",
+  "lang": "英语",
+  "expected": "BAKERY",
+  "transcript": "BAKERY",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='BAKERY'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_bakery_shop",
+  "lang": "法语",
+  "expected": "Boulangerie",
+  "transcript": "Boulangerie",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='Boulangerie'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_baking_class",
+  "lang": "简体中文",
+  "expected": "烘焙课程",
+  "transcript": "烘焙课程",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='烘焙课程'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_beauty_room",
+  "lang": "英语",
+  "expected": "Beauty Care",
+  "transcript": "tie / Beauty Care",
+  "status": "OK",
+  "confidence": "中",
+  "reason": "主招牌被正确读出 (OCR覆盖 0.10 / VL覆盖 1.00), 预期='Beauty Care'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_boarding_gate",
+  "lang": "简体中文",
+  "expected": "登机口",
+  "transcript": "登机口",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='登机口'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_bookstore",
+  "lang": "简体中文",
+  "expected": "读书斋",
+  "transcript": "读书斋",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='读书斋'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_boutique",
+  "lang": "简体中文",
+  "expected": "精品店",
+  "transcript": "精品店",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='精品店'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_boutique_floor",
+  "lang": "简体中文",
+  "expected": "新款上市",
+  "transcript": "新款上市",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='新款上市'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_bubble_tea",
+  "lang": "日语",
+  "expected": "奶茶の店",
+  "transcript": "朔茶の店 / 奶茶の店",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 0.75 / VL覆盖 1.00), 预期='奶茶の店'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_butchershop",
+  "lang": "简体中文",
+  "expected": "鲜肉铺",
+  "transcript": "鲜肉铺",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='鲜肉铺'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_cafe",
+  "lang": "英语",
+  "expected": "COFFEE",
+  "transcript": "COFFEE",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='COFFEE'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_canteen",
+  "lang": "简体中文",
+  "expected": "职工食堂",
+  "transcript": "职工食堂",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='职工食堂'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_car_interior",
+  "lang": "简体中文",
+  "expected": "安全驾驶",
+  "transcript": "安全驾驶 / 女主驾驶 / 无文字",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='安全驾驶'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_car_repair_bay",
+  "lang": "繁体中文",
+  "expected": "洗車場",
+  "transcript": "洗車場 / [无文字]",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='洗車場'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_cargo_deck",
+  "lang": "英语",
+  "expected": "OCEAN STAR",
+  "transcript": "OCEAN / OCEAN STAR",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 0.56 / VL覆盖 1.00), 预期='OCEAN STAR'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_classroom",
+  "lang": "简体中文",
+  "expected": "知识改变命运",
+  "transcript": "知识改娈命运 / 知识改变命运",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 0.83 / VL覆盖 1.00), 预期='知识改变命运'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_clinic_ward",
+  "lang": "简体中文",
+  "expected": "住院部",
+  "transcript": "住院部",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='住院部'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_cold_store",
+  "lang": "简体中文",
+  "expected": "冷链仓库",
+  "transcript": "冷链仓库",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='冷链仓库'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_conference",
+  "lang": "日语",
+  "expected": "会議室",
+  "transcript": "会譲室 / 会議室",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 0.67 / VL覆盖 1.00), 预期='会議室'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_construction_site",
+  "lang": "简体中文",
+  "expected": "在建工程",
+  "transcript": "在建工程",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='在建工程'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_corporate_lobby",
+  "lang": "简体中文",
+  "expected": "远景集团",
+  "transcript": "远景集团",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='远景集团'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_delivery_station",
+  "lang": "简体中文",
+  "expected": "蜂鸟配送",
+  "transcript": "蜂鸟配送",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='蜂鸟配送'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_delivery_street",
+  "lang": "简体中文",
+  "expected": "外卖驿站",
+  "transcript": "外卖驿站 / EXAACT / [伪文字]",
+  "status": "PSEUDO",
+  "confidence": "高",
+  "reason": "检出伪文字证据 3 条: ['[伪文字]', 'EXAACT', 'EXAACT | 真实字符']",
+  "pseudo_evidence": [
+   "[伪文字]",
+   "EXAACT",
+   "EXAACT | 真实字符"
+  ]
+ },
+ {
+  "sid": "bg_dessert_bar",
+  "lang": "简体中文",
+  "expected": "甜品屋",
+  "transcript": "甜品屋",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='甜品屋'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_dispatch_room",
+  "lang": "简体中文",
+  "expected": "生产调度室",
+  "transcript": "生产调度室",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='生产调度室'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_dock_market",
+  "lang": "繁体中文",
+  "expected": "農貿市場",
+  "transcript": "農貿市場",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='農貿市場'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_dorm_room",
+  "lang": "简体中文",
+  "expected": "计算机学院",
+  "transcript": "计算机学院",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='计算机学院'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_driving_office",
+  "lang": "英语",
+  "expected": "DRIVE SAFE",
+  "transcript": "DRIVE / DRIVE SAFE / FRUNIC /AOI TYEFA / [无文字]",
+  "status": "PSEUDO",
+  "confidence": "中",
+  "reason": "检出伪文字证据 2 条: ['FRUNIC /AOI TYEFA', 'FRUNIC /AOITVEFA | 真实字符']",
+  "pseudo_evidence": [
+   "FRUNIC /AOI TYEFA",
+   "FRUNIC /AOITVEFA | 真实字符"
+  ]
+ },
+ {
+  "sid": "bg_driving_school",
+  "lang": "简体中文",
+  "expected": "宏达驾校",
+  "transcript": "宏达驾校",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='宏达驾校'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_factory_dorm",
+  "lang": "简体中文",
+  "expected": "幸福公寓",
+  "transcript": "幸福公寓",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='幸福公寓'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_factory_gate",
+  "lang": "简体中文",
+  "expected": "国营第三机械厂",
+  "transcript": "国营第三机械厂",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='国营第三机械厂'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_fire_station",
+  "lang": "简体中文",
+  "expected": "人民消防 为民服务",
+  "transcript": "人民消防 / 为民服务 / [无文字]",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 0.50 / VL覆盖 0.50), 预期='人民消防 为民服务'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_fishing_dock",
+  "lang": "繁体中文",
+  "expected": "漁港",
+  "transcript": "漁港",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='漁港'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_flower_shop",
+  "lang": "法语",
+  "expected": "Fleur",
+  "transcript": "Fleur",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='Fleur'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_flower_stall",
+  "lang": "繁体中文",
+  "expected": "鮮花",
+  "transcript": "鮮花",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='鮮花'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_fresh_aisle",
+  "lang": "简体中文",
+  "expected": "新鲜蔬菜 每日直供",
+  "transcript": "新 / 新鲜蔬菜 / 每日直供",
+  "status": "OK",
+  "confidence": "中",
+  "reason": "主招牌被正确读出 (OCR覆盖 0.12 / VL覆盖 0.50), 预期='新鲜蔬菜 每日直供'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_game_studio",
+  "lang": "简体中文",
+  "expected": "像素工作室",
+  "transcript": "像素工作室",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='像素工作室'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_grain_depot",
+  "lang": "简体中文",
+  "expected": "粮食储备",
+  "transcript": "粮食储备 / -02 / ZBR",
+  "status": "PSEUDO",
+  "confidence": "中",
+  "reason": "检出伪文字证据 1 条: ['ZBR']",
+  "pseudo_evidence": [
+   "ZBR"
+  ]
+ },
+ {
+  "sid": "bg_guardhouse",
+  "lang": "简体中文",
+  "expected": "小区保安室",
+  "transcript": "小区保安室 / I",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='小区保安室'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_gym",
+  "lang": "简体中文",
+  "expected": "力量训练",
+  "transcript": "力量训练",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='力量训练'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_gym_reception",
+  "lang": "繁体中文",
+  "expected": "健身會所",
+  "transcript": "健身會所",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='健身會所'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_harbour_fishing",
+  "lang": "繁体中文",
+  "expected": "遠洋漁港",
+  "transcript": "遠洋漁港",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='遠洋漁港'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_harbour_office",
+  "lang": "简体中文",
+  "expected": "港口調度",
+  "transcript": "港口調度 / 港口调度",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 0.75), 预期='港口調度'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_highspeed_station",
+  "lang": "繁体中文",
+  "expected": "候車大廳",
+  "transcript": "候車大庭 / 候車大廳",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 0.75 / VL覆盖 1.00), 预期='候車大廳'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_home_services",
+  "lang": "繁体中文",
+  "expected": "家政服務",
+  "transcript": "家政服務 / FABLISATEBIC / [无文字]",
+  "status": "PSEUDO",
+  "confidence": "中",
+  "reason": "检出伪文字证据 1 条: ['FABLISATEBIC']",
+  "pseudo_evidence": [
+   "FABLISATEBIC"
+  ]
+ },
+ {
+  "sid": "bg_hospital_dir",
+  "lang": "简体中文",
+  "expected": "人民医院",
+  "transcript": "人民医院",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='人民医院'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_industrial_office",
+  "lang": "简体中文",
+  "expected": "工业制造基地",
+  "transcript": "工业制造基地",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='工业制造基地'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_insurance",
+  "lang": "简体中文",
+  "expected": "保险公司",
+  "transcript": "保险公司 / [无文字]",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='保险公司'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_kindergarten",
+  "lang": "简体中文",
+  "expected": "快乐成长",
+  "transcript": "快乐成长",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='快乐成长'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_kindergarten_paint",
+  "lang": "日语",
+  "expected": "あそび",
+  "transcript": "あとび / あどび",
+  "status": "PSEUDO",
+  "confidence": "高",
+  "reason": "检出伪文字证据 1 条: ['あどび']",
+  "pseudo_evidence": [
+   "あどび"
+  ]
+ },
+ {
+  "sid": "bg_law_office",
+  "lang": "繁体中文",
+  "expected": "诚信律师事務所",
+  "transcript": "诚信律师事掰所 / 诚信律师事务所",
+  "status": "PSEUDO",
+  "confidence": "高",
+  "reason": "检出伪文字证据 1 条: ['诚信律师事务所']",
+  "pseudo_evidence": [
+   "诚信律师事务所"
+  ]
+ },
+ {
+  "sid": "bg_logistics_yard",
+  "lang": "简体中文",
+  "expected": "物流园",
+  "transcript": "物流园 / [无文字]",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='物流园'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_lumber_yard",
+  "lang": "简体中文",
+  "expected": "木材加工",
+  "transcript": "木材加工",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='木材加工'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_makeup_room",
+  "lang": "英语",
+  "expected": "Beauty Studio",
+  "transcript": "Beat / Beauty Studio",
+  "status": "OK",
+  "confidence": "中",
+  "reason": "主招牌被正确读出 (OCR覆盖 0.33 / VL覆盖 1.00), 预期='Beauty Studio'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_market_alley",
+  "lang": "简体中文",
+  "expected": "福安巷",
+  "transcript": "福安巷",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='福安巷'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_nail_salon",
+  "lang": "简体中文",
+  "expected": "指尖美学",
+  "transcript": "指尖美学",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='指尖美学'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_night_market",
+  "lang": "繁体中文",
+  "expected": "夜市",
+  "transcript": "夜市",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='夜市'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_nursery",
+  "lang": "简体中文",
+  "expected": "母婴护理中心",
+  "transcript": "母婴护理中心",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='母婴护理中心'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_old_stairwell",
+  "lang": "简体中文",
+  "expected": "幸福家园",
+  "transcript": "幸福家园",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='幸福家园'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_open_office",
+  "lang": "简体中文",
+  "expected": "创科网络科技",
+  "transcript": "创科网络科技",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='创科网络科技'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_parcel_station",
+  "lang": "简体中文",
+  "expected": "快递代收点",
+  "transcript": "快递代收点",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='快递代收点'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_pet_shop",
+  "lang": "简体中文",
+  "expected": "宠物店",
+  "transcript": "宠物店 / 宠[伪文字]物店",
+  "status": "PSEUDO",
+  "confidence": "高",
+  "reason": "检出伪文字证据 1 条: ['宠[伪文字]物店']",
+  "pseudo_evidence": [
+   "宠[伪文字]物店"
+  ]
+ },
+ {
+  "sid": "bg_playground",
+  "lang": "简体中文",
+  "expected": "儿童乐园",
+  "transcript": "儿童乐园",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='儿童乐园'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_precision_factory",
+  "lang": "简体中文",
+  "expected": "智能制造",
+  "transcript": "智能制碴 / 智能制造",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 0.75 / VL覆盖 1.00), 预期='智能制造'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_principal_office",
+  "lang": "日语",
+  "expected": "幼稚園",
+  "transcript": "幼稚園 / [无文字]",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='幼稚園'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_reno_site",
+  "lang": "简体中文",
+  "expected": "精工装修",
+  "transcript": "精工装修",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='精工装修'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_restaurant_private",
+  "lang": "简体中文",
+  "expected": "雅聚轩",
+  "transcript": "雅聚轷 / 雅聚轩",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 0.67 / VL覆盖 1.00), 预期='雅聚轩'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_salon_front",
+  "lang": "法语",
+  "expected": "Salon de Beauté",
+  "transcript": "Salod / Salon de Beauté / Salon de Beaute / 无文字",
+  "status": "OK",
+  "confidence": "中",
+  "reason": "主招牌被正确读出 (OCR覆盖 0.38 / VL覆盖 1.00), 预期='Salon de Beauté'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_sample_room",
+  "lang": "简体中文",
+  "expected": "样衣间",
+  "transcript": "样衣间",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='样衣间'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_school_field",
+  "lang": "繁体中文",
+  "expected": "運動会",
+  "transcript": "運動会",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='運動会'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_school_gate",
+  "lang": "简体中文",
+  "expected": "实验中学",
+  "transcript": "实验中学 / 实验太坦大肯势 / 无文字",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='实验中学'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_school_office",
+  "lang": "简体中文",
+  "expected": "教研室",
+  "transcript": "教研室",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='教研室'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_senior_centre",
+  "lang": "简体中文",
+  "expected": "敬老院",
+  "transcript": "敬老院",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='敬老院'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_small_restaurant",
+  "lang": "繁体中文",
+  "expected": "家常小館",
+  "transcript": "家常小館",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='家常小館'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_sorting_centre",
+  "lang": "简体中文",
+  "expected": "分拣中心",
+  "transcript": "分扳中心 / 分揀中心",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 0.75 / VL覆盖 0.75), 预期='分拣中心'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_startup_desk",
+  "lang": "简体中文",
+  "expected": "云启科技",
+  "transcript": "云启科技",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='云启科技'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_steel_mill",
+  "lang": "简体中文",
+  "expected": "安全第一 预防为主",
+  "transcript": "安全第一 / 预防为主",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 0.50 / VL覆盖 0.50), 预期='安全第一 预防为主'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_subway_station",
+  "lang": "简体中文",
+  "expected": "地铁站台",
+  "transcript": "地铁站台",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='地铁站台'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_supermarket",
+  "lang": "简体中文",
+  "expected": "惠民超市",
+  "transcript": "惠民超市",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='惠民超市'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_support_centre",
+  "lang": "简体中文",
+  "expected": "客服中心",
+  "transcript": "客服中心",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='客服中心'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_tailor_shop",
+  "lang": "繁体中文",
+  "expected": "裁縫店",
+  "transcript": "裁縫店",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='裁縫店'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_tcm_clinic",
+  "lang": "繁体中文",
+  "expected": "同仁堂",
+  "transcript": "同仁堂 / 无文字",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='同仁堂'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_tea_house",
+  "lang": "简体中文",
+  "expected": "清心茶社",
+  "transcript": "清心茶社",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='清心茶社'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_tea_prep",
+  "lang": "繁体中文",
+  "expected": "調製室",
+  "transcript": "調製室",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='調製室'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_test_field",
+  "lang": "简体中文",
+  "expected": "试验田",
+  "transcript": "试验田",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='试验田'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_textile_mill",
+  "lang": "简体中文",
+  "expected": "纺织车间",
+  "transcript": "纺织车间",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='纺织车间'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_tile_warehouse",
+  "lang": "简体中文",
+  "expected": "建材批发中心",
+  "transcript": "建材批发中心",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='建材批发中心'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_tofu_stall",
+  "lang": "简体中文",
+  "expected": "石磨豆腐",
+  "transcript": "石磨豆腐",
+  "status": "PSEUDO",
+  "confidence": "高",
+  "reason": "检出伪文字证据 1 条: ['右火磨']",
+  "pseudo_evidence": [
+   "右火磨"
+  ]
+ },
+ {
+  "sid": "bg_track_field",
+  "lang": "简体中文",
+  "expected": "更快 更高 更强 更团结",
+  "transcript": "更快更高更强更团结 / 更快 更高 更强 更团结",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='更快 更高 更强 更团结'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_train_platform",
+  "lang": "繁体中文",
+  "expected": "懷舊車站",
+  "transcript": "懷舊車站",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='懷舊車站'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_training_centre",
+  "lang": "简体中文",
+  "expected": "职业培训",
+  "transcript": "职业增训 / 职业培训",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 0.75 / VL覆盖 1.00), 预期='职业培训'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_warehouse_rack",
+  "lang": "简体中文",
+  "expected": "立体仓库",
+  "transcript": "立体仓库",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='立体仓库'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_wet_market",
+  "lang": "繁体中文",
+  "expected": "菜市場",
+  "transcript": "菜市場",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='菜市場'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_wheat_field",
+  "lang": "简体中文",
+  "expected": "丰收中国",
+  "transcript": "丰收中国",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='丰收中国'",
+  "pseudo_evidence": []
+ },
+ {
+  "sid": "bg_yoga_studio",
+  "lang": "简体中文",
+  "expected": "瑜伽馆",
+  "transcript": "瑜伽馆",
+  "status": "OK",
+  "confidence": "高",
+  "reason": "主招牌被正确读出 (OCR覆盖 1.00 / VL覆盖 1.00), 预期='瑜伽馆'",
+  "pseudo_evidence": []
+ }
+]

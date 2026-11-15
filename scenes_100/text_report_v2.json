@@ -1,0 +1,16 @@
+[
+  {
+    "sid": "bg_pet_shop",
+    "expected": "宠物店",
+    "lang": "简体中文",
+    "transcript": "宠物店",
+    "status": "OK"
+  },
+  {
+    "sid": "bg_test_field",
+    "expected": "试验田",
+    "lang": "简体中文",
+    "transcript": "试验田",
+    "status": "OK"
+  }
+]

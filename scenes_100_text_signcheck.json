@@ -1,0 +1,728 @@
+[
+  {
+    "sid": "bg_airport",
+    "answer": "出发大厅 | 真实字符",
+    "lines": [
+      "出发大厅 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_apothecary",
+    "answer": "同德堂藥號 | 真实字符",
+    "lines": [
+      "同德堂藥號 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_art_studio",
+    "answer": "美術學院 | 真实字符",
+    "lines": [
+      "美術學院 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_auto_shop",
+    "answer": "整儲工場 | 真实字符",
+    "lines": [
+      "整儲工場 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_back_office",
+    "answer": "採購部 | 真实字符",
+    "lines": [
+      "採購部 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_bakery",
+    "answer": "BAKERY | 真实字符",
+    "lines": [
+      "BAKERY | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_bakery_shop",
+    "answer": "Boulangerie | 真实字符",
+    "lines": [
+      "Boulangerie | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_baking_class",
+    "answer": "烘焙课程 | 真实字符",
+    "lines": [
+      "烘焙课程 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_beauty_room",
+    "answer": "Beauty Care | 真实字符",
+    "lines": [
+      "Beauty Care | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_boarding_gate",
+    "answer": "登机口 | 真实字符",
+    "lines": [
+      "登机口 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_bookstore",
+    "answer": "读书斋 | 真实字符",
+    "lines": [
+      "读书斋 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_boutique_floor",
+    "answer": "无文字",
+    "lines": [
+      "无文字"
+    ]
+  },
+  {
+    "sid": "bg_boutique",
+    "answer": "精品店 | 真实字符",
+    "lines": [
+      "精品店 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_bubble_tea",
+    "answer": "奶茶の店 | 真实字符",
+    "lines": [
+      "奶茶の店 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_butchershop",
+    "answer": "鲜肉铺 | 真实字符",
+    "lines": [
+      "鲜肉铺 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_cafe",
+    "answer": "COFFEE | 真实字符",
+    "lines": [
+      "COFFEE | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_canteen",
+    "answer": "职工食堂 | 真实字符",
+    "lines": [
+      "职工食堂 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_cargo_deck",
+    "answer": "OCEAN STAR | 真实字符",
+    "lines": [
+      "OCEAN STAR | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_car_interior",
+    "answer": "安全驾驶 | 真实字符",
+    "lines": [
+      "安全驾驶 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_car_repair_bay",
+    "answer": "洗車場 | 真实字符\n洗車場 | 真实字符",
+    "lines": [
+      "洗車場 | 真实字符",
+      "洗車場 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_classroom",
+    "answer": "知识改变命运 | 真实字符",
+    "lines": [
+      "知识改变命运 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_clinic_ward",
+    "answer": "住院部 | 真实字符",
+    "lines": [
+      "住院部 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_cold_store",
+    "answer": "冷链仓库 | 真实字符",
+    "lines": [
+      "冷链仓库 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_conference",
+    "answer": "會議室 | 真实字符",
+    "lines": [
+      "會議室 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_construction_site",
+    "answer": "在建工程 | 真实字符",
+    "lines": [
+      "在建工程 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_corporate_lobby",
+    "answer": "远景集团 | 真实字符",
+    "lines": [
+      "远景集团 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_delivery_station",
+    "answer": "蜂鸟配送 | 真实字符",
+    "lines": [
+      "蜂鸟配送 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_delivery_street",
+    "answer": "EXAACT | 真实字符\n外卖驿站 | 真实字符",
+    "lines": [
+      "EXAACT | 真实字符",
+      "外卖驿站 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_dessert_bar",
+    "answer": "甜品屋 | 真实字符\n甜品屋 | 真实字符",
+    "lines": [
+      "甜品屋 | 真实字符",
+      "甜品屋 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_dispatch_room",
+    "answer": "生产调度室 | 真实字符",
+    "lines": [
+      "生产调度室 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_dock_market",
+    "answer": "農貿市場 | 真实字符",
+    "lines": [
+      "農貿市場 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_dorm_room",
+    "answer": "计算机學院 | 真实字符",
+    "lines": [
+      "计算机學院 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_driving_office",
+    "answer": "FRUNIC /AOITVEFA | 真实字符\nDRIVE SAFE | 真实字符",
+    "lines": [
+      "FRUNIC /AOITVEFA | 真实字符",
+      "DRIVE SAFE | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_driving_school",
+    "answer": "宏达驾校 | 真实字符",
+    "lines": [
+      "宏达驾校 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_factory_dorm",
+    "answer": "幸福公寓 | 真实字符",
+    "lines": [
+      "幸福公寓 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_factory_gate",
+    "answer": "国营第三机械厂 | 真实字符",
+    "lines": [
+      "国营第三机械厂 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_fire_station",
+    "answer": "人民消防 | 真实字符\n为民服务 | 真实字符",
+    "lines": [
+      "人民消防 | 真实字符",
+      "为民服务 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_fishing_dock",
+    "answer": "漁港 | 真实字符",
+    "lines": [
+      "漁港 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_flower_shop",
+    "answer": "Fleur | 真实字符",
+    "lines": [
+      "Fleur | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_flower_stall",
+    "answer": "鮮花 | 真实字符",
+    "lines": [
+      "鮮花 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_fresh_aisle",
+    "answer": "新鲜蔬菜\n每日直供\n无文字",
+    "lines": [
+      "新鲜蔬菜",
+      "每日直供",
+      "无文字"
+    ]
+  },
+  {
+    "sid": "bg_game_studio",
+    "answer": "像素工作室 | 真实字符",
+    "lines": [
+      "像素工作室 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_grain_depot",
+    "answer": "粮食储备 | 真实字符",
+    "lines": [
+      "粮食储备 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_guardhouse",
+    "answer": "小区保安室 | 真实字符",
+    "lines": [
+      "小区保安室 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_gym",
+    "answer": "力量训练 | 真实字符",
+    "lines": [
+      "力量训练 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_gym_reception",
+    "answer": "健身會所 | 真实字符",
+    "lines": [
+      "健身會所 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_harbour_fishing",
+    "answer": "遠洋漁港 | 真实字符",
+    "lines": [
+      "遠洋漁港 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_harbour_office",
+    "answer": "港口調度 | 真实字符",
+    "lines": [
+      "港口調度 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_highspeed_station",
+    "answer": "候車大廳 | 真实字符",
+    "lines": [
+      "候車大廳 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_home_services",
+    "answer": "家政服務 | 真实字符\nFABLISATESSIC | 真实字符\nPERF ANDO | 伪文字\nDOCEMORCE | 伪文字\nINAE DORAM | 伪文字\nCORRIN PARRABO | 伪文字\nCOCEHOMS 206 | 伪文字\nGONE 2039 | 伪文字\nGGECINAIE | 伪文字\nZERE 2099 | 伪文字\nPARE 2053/95 | 伪文字\n无文字 | 无文字",
+    "lines": [
+      "家政服務 | 真实字符",
+      "FABLISATESSIC | 真实字符",
+      "PERF ANDO | 伪文字",
+      "DOCEMORCE | 伪文字",
+      "INAE DORAM | 伪文字",
+      "CORRIN PARRABO | 伪文字",
+      "COCEHOMS 206 | 伪文字",
+      "GONE 2039 | 伪文字",
+      "GGECINAIE | 伪文字",
+      "ZERE 2099 | 伪文字",
+      "PARE 2053/95 | 伪文字",
+      "无文字 | 无文字"
+    ]
+  },
+  {
+    "sid": "bg_hospital_dir",
+    "answer": "人民医院 | 真实字符",
+    "lines": [
+      "人民医院 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_industrial_office",
+    "answer": "工业制造基地 | 真实字符",
+    "lines": [
+      "工业制造基地 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_insurance",
+    "answer": "保险公司 | 真实字符",
+    "lines": [
+      "保险公司 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_kindergarten_paint",
+    "answer": "あどび | 真实字符",
+    "lines": [
+      "あどび | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_kindergarten",
+    "answer": "快乐成长 | 真实字符\n快乐成长 | 真实字符",
+    "lines": [
+      "快乐成长 | 真实字符",
+      "快乐成长 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_law_office",
+    "answer": "诚信律师事务所 | 真实字符",
+    "lines": [
+      "诚信律师事务所 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_logistics_yard",
+    "answer": "物流园 | 真实字符",
+    "lines": [
+      "物流园 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_lumber_yard",
+    "answer": "木材加工 | 真实字符",
+    "lines": [
+      "木材加工 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_makeup_room",
+    "answer": "Beauty Studio | 真实字符",
+    "lines": [
+      "Beauty Studio | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_market_alley",
+    "answer": "福安巷 | 真实字符",
+    "lines": [
+      "福安巷 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_nail_salon",
+    "answer": "指尖美学 | 真实字符",
+    "lines": [
+      "指尖美学 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_night_market",
+    "answer": "夜市 | 真实字符",
+    "lines": [
+      "夜市 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_nursery",
+    "answer": "母婴护理中心 | 真实字符",
+    "lines": [
+      "母婴护理中心 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_old_stairwell",
+    "answer": "幸福家园 | 真实字符",
+    "lines": [
+      "幸福家园 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_open_office",
+    "answer": "创科网络科技 | 真实字符",
+    "lines": [
+      "创科网络科技 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_parcel_station",
+    "answer": "快递代收点 | 真实字符",
+    "lines": [
+      "快递代收点 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_pet_shop",
+    "answer": "宠物店 | 真实字符",
+    "lines": [
+      "宠物店 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_playground",
+    "answer": "儿童乐园 | 真实字符",
+    "lines": [
+      "儿童乐园 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_precision_factory",
+    "answer": "智能制造 | 真实字符\n智能制造 | 真实字符",
+    "lines": [
+      "智能制造 | 真实字符",
+      "智能制造 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_principal_office",
+    "answer": "幼稚園 | 真实字符\n幼稚園 | 真实字符",
+    "lines": [
+      "幼稚園 | 真实字符",
+      "幼稚園 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_reno_site",
+    "answer": "精工装修 | 真实字符",
+    "lines": [
+      "精工装修 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_restaurant_private",
+    "answer": "雅聚軒 | 真实字符",
+    "lines": [
+      "雅聚軒 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_salon_front",
+    "answer": "Salon de Beauté | 真实字符",
+    "lines": [
+      "Salon de Beauté | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_sample_room",
+    "answer": "样衣间 | 真实字符",
+    "lines": [
+      "样衣间 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_school_field",
+    "answer": "運動會 | 真实字符",
+    "lines": [
+      "運動會 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_school_gate",
+    "answer": "实验中学 | 真实字符\n实验大坦大肯势 | 真实字符",
+    "lines": [
+      "实验中学 | 真实字符",
+      "实验大坦大肯势 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_school_office",
+    "answer": "教研究室 | 真实字符",
+    "lines": [
+      "教研究室 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_senior_centre",
+    "answer": "敬老院 | 真实字符",
+    "lines": [
+      "敬老院 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_small_restaurant",
+    "answer": "家常小館 | 真实字符",
+    "lines": [
+      "家常小館 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_sorting_centre",
+    "answer": "分揹中心 | 真实字符",
+    "lines": [
+      "分揹中心 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_startup_desk",
+    "answer": "云启科技 | 真实字符",
+    "lines": [
+      "云启科技 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_steel_mill",
+    "answer": "安全第一 | 真实字符\n预防为主 | 真实字符",
+    "lines": [
+      "安全第一 | 真实字符",
+      "预防为主 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_subway_station",
+    "answer": "地铁站台 | 真实字符",
+    "lines": [
+      "地铁站台 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_supermarket",
+    "answer": "文字 | 真实字符/伪文字/无文字\n惠民超市 | 真实字符",
+    "lines": [
+      "文字 | 真实字符/伪文字/无文字",
+      "惠民超市 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_support_centre",
+    "answer": "客服中心 | 真实字符",
+    "lines": [
+      "客服中心 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_tailor_shop",
+    "answer": "裁縫店 | 真实字符",
+    "lines": [
+      "裁縫店 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_tcm_clinic",
+    "answer": "同仁堂 | 真实字符\n同仁堂 | 真实字符",
+    "lines": [
+      "同仁堂 | 真实字符",
+      "同仁堂 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_tea_house",
+    "answer": "清心茶社 | 真实字符",
+    "lines": [
+      "清心茶社 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_tea_prep",
+    "answer": "調製室 | 真实字符",
+    "lines": [
+      "調製室 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_test_field",
+    "answer": "试验田 | 真实字符",
+    "lines": [
+      "试验田 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_textile_mill",
+    "answer": "纺织车间 | 真实字符",
+    "lines": [
+      "纺织车间 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_tile_warehouse",
+    "answer": "建材批发中心 | 真实字符",
+    "lines": [
+      "建材批发中心 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_tofu_stall",
+    "answer": "石磨豆腐 | 真实字符",
+    "lines": [
+      "石磨豆腐 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_track_field",
+    "answer": "更快 更高 更强 更团结 | 真实字符",
+    "lines": [
+      "更快 更高 更强 更团结 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_training_centre",
+    "answer": "职业培训 | 真实字符",
+    "lines": [
+      "职业培训 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_train_platform",
+    "answer": "懷舊車站 | 真实字符",
+    "lines": [
+      "懷舊車站 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_warehouse_rack",
+    "answer": "立体仓库 | 真实字符",
+    "lines": [
+      "立体仓库 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_wet_market",
+    "answer": "菜市場 | 真实字符\n菜市場 | 真实字符",
+    "lines": [
+      "菜市場 | 真实字符",
+      "菜市場 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_wheat_field",
+    "answer": "丰收中国 | 真实字符",
+    "lines": [
+      "丰收中国 | 真实字符"
+    ]
+  },
+  {
+    "sid": "bg_yoga_studio",
+    "answer": "瑜伽馆 | 真实字符",
+    "lines": [
+      "瑜伽馆 | 真实字符"
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "candidates": [
+    "BAKERY",
+    "Boulangerie",
+    "Beauty Care",
+    "COFFEE",
+    "OCEAN STAR",
+    "DRIVE SAFE",
+    "Fleur",
+    "Beauty Studio",
+    "Salon de Beauté",
+    "Salon de Beaute"
+  ],
+  "verdicts": {
+    "BAKERY": "OK",
+    "Boulangerie": "OK",
+    "Beauty Care": "OK",
+    "COFFEE": "OK",
+    "OCEAN STAR": "OK",
+    "DRIVE SAFE": "OK",
+    "Fleur": "OK",
+    "Beauty Studio": "OK",
+    "Salon de Beauté": "OK",
+    "Salon de Beaute": "OK"
+  }
+}

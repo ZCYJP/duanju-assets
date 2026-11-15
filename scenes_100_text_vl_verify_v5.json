@@ -1,0 +1,13 @@
+[
+  {
+    "sid": "bg_boutique",
+    "expected": "精品店",
+    "lang": "简体中文",
+    "vl_answer": "精-品-店",
+    "vl_lines": [
+      "精-品-店"
+    ],
+    "has_pseudo_marker": false,
+    "says_no_text": false
+  }
+]
