@@ -33,6 +33,46 @@ BASE_LINE = "今天天气不错，我准备去附近走一走，看看有什么�
 ALL_DESC = dict(V2.DESC_V2)
 ALL_DESC.update(V2.DESC_V3)
 
+# 「惊」的打分口径修正（与 rescore_japanese_voices.py 保持一致）：
+# 原 V2.score 对 jing 用「相对基线倍率 1.05~1.40」+「性别相对倍率硬拦截」，
+# 而 VoiceDesign 的惊叫天然把音高拉到基线的 2.4 倍（低音高男声 107→258Hz），
+# 于是所有候选 score=0，选优退化为「取第一个候选」→ 惊情绪整批低分。
+# 修正：倍率放宽到 2.60，性别漂移改用绝对音高边界（男 70~320Hz / 女 110~430Hz）。
+JING_F0_RATIO = (1.05, 2.60)
+JING_TARGET = {"onset_jerk": (1.5, 12.0), "f0_mean": (240, 400), "rate": (2.6, 6.0)}
+GENDER_ABS_F0 = {"男": (70.0, 320.0), "女": (110.0, 430.0)}
+
+
+def score_jing(f, base_f0, gender):
+    s = 0.0
+    n = 0
+    for k, (lo, hi) in JING_TARGET.items():
+        v = f[k]
+        w = 3.0 if k == "f0_mean" else 1.0
+        n += w
+        if k == "f0_mean":
+            if base_f0 > 0:
+                r = v / base_f0
+                if JING_F0_RATIO[0] <= r <= JING_F0_RATIO[1]:
+                    s += w
+                else:
+                    span = (JING_F0_RATIO[1] - JING_F0_RATIO[0]) or 1.0
+                    d = (JING_F0_RATIO[0] - r) if r < JING_F0_RATIO[0] else (r - JING_F0_RATIO[1])
+                    s += w * max(0.0, 1.0 - d / span)
+            else:
+                s += w * 0.5
+            glo, ghi = GENDER_ABS_F0.get(gender, (60.0, 450.0))
+            if v < glo or v > ghi:
+                s -= w
+            continue
+        if lo <= v <= hi:
+            s += w
+        else:
+            span = (hi - lo) or 1.0
+            d = (lo - v) if v < lo else (v - hi)
+            s += w * max(0.0, 1.0 - d / span)
+    return max(0.0, s / n) * 100.0
+
 
 def main():
     ap = argparse.ArgumentParser()
@@ -112,7 +152,8 @@ def main():
                     wavs, sr = model.generate_voice_design(line, desc, "Chinese")
                     w = np.asarray(wavs[0], dtype=np.float32)
                     f = V2.feats(w, sr, n_syl)
-                    sc = V2.score(f, tgt, base_f0, gender, ek)
+                    sc = score_jing(f, base_f0, gender) if ek == "jing" \
+                        else V2.score(f, tgt, base_f0, gender, ek)
                     cands.append({"seed": seed, "score": round(sc, 1), "feats": f})
                     print(f"  [cand] {cid} {ezh} c{ci} score={sc:.1f} "
                           f"f0={f['f0_mean']}(base{base_f0}) rms={f['rms_db']} "
