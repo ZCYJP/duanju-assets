@@ -1,0 +1,1024 @@
+{
+ "summary": {
+  "total": 70,
+  "pass": 0,
+  "near": 0,
+  "fail": 70
+ },
+ "items": [
+  {
+   "sid": "bg100_exec_meeting",
+   "expected": "远景集团",
+   "got": [
+    "蕃"
+   ],
+   "best": "",
+   "sim": 0.0,
+   "verdict": "FAIL",
+   "style": "metal",
+   "plate_size": [
+    345,
+    183
+   ]
+  },
+  {
+   "sid": "bg100_tower_lobby",
+   "expected": "云顶国际",
+   "got": [],
+   "best": "",
+   "sim": 0.0,
+   "verdict": "FAIL",
+   "style": "lightbox",
+   "plate_size": [
+    327,
+    209
+   ]
+  },
+  {
+   "sid": "bg100_ceo_office",
+   "expected": "董事长办公室",
+   "got": [
+    "鼍"
+   ],
+   "best": "",
+   "sim": 0.0,
+   "verdict": "FAIL",
+   "style": "metal",
+   "plate_size": [
+    346,
+    183
+   ]
+  },
+  {
+   "sid": "bg100_fine_dining",
+   "expected": "和风料理",
+   "got": [],
+   "best": "",
+   "sim": 0.0,
+   "verdict": "FAIL",
+   "style": "lightbox",
+   "plate_size": [
+    345,
+    197
+   ]
+  },
+  {
+   "sid": "bg100_wine_cellar",
+   "expected": "藏酒阁",
+   "got": [
+    "."
+   ],
+   "best": "",
+   "sim": 0.0,
+   "verdict": "FAIL",
+   "style": "darkwood",
+   "plate_size": [
+    243,
+    552
+   ]
+  },
+  {
+   "sid": "bg100_elevator_lobby",
+   "expected": "26F",
+   "got": [
+    "舁"
+   ],
+   "best": "",
+   "sim": 0.0,
+   "verdict": "FAIL",
+   "style": "metal",
+   "plate_size": [
+    303,
+    201
+   ]
+  },
+  {
+   "sid": "bg100_airport_vip",
+   "expected": "贵宾休息室",
+   "got": [],
+   "best": "",
+   "sim": 0.0,
+   "verdict": "FAIL",
+   "style": "lightbox",
+   "plate_size": [
+    352,
+    189
+   ]
+  },
+  {
+   "sid": "bg100_rainy_neon",
+   "expected": "夜上海",
+   "got": [],
+   "best": "",
+   "sim": 0.0,
+   "verdict": "FAIL",
+   "style": "neon_pink",
+   "plate_size": [
+    393,
+    216
+   ]
+  },
+  {
+   "sid": "bg100_underground_park",
+   "expected": "地下车库",
+   "got": [
+    "纛"
+   ],
+   "best": "",
+   "sim": 0.0,
+   "verdict": "FAIL",
+   "style": "metal",
+   "plate_size": [
+    294,
+    177
+   ]
+  },
+  {
+   "sid": "bg100_office_cafe",
+   "expected": "SLOW COFFEE",
+   "got": [],
+   "best": "",
+   "sim": 0.0,
+   "verdict": "FAIL",
+   "style": "lightbox",
+   "plate_size": [
+    385,
+    178
+   ]
+  },
+  {
+   "sid": "bg100_law_meeting",
+   "expected": "明诚律师事务所",
+   "got": [
+    "鬟"
+   ],
+   "best": "",
+   "sim": 0.0,
+   "verdict": "FAIL",
+   "style": "plaque",
+   "plate_size": [
+    391,
+    197
+   ]
+  },
+  {
+   "sid": "bg100_vip_ward",
+   "expected": "特护病房",
+   "got": [
+    "蠹"
+   ],
+   "best": "",
+   "sim": 0.0,
+   "verdict": "FAIL",
+   "style": "metal",
+   "plate_size": [
+    248,
+    156
+   ]
+  },
+  {
+   "sid": "bg100_hotel_lobby",
+   "expected": "皇庭酒店",
+   "got": [
+    "瞿"
+   ],
+   "best": "",
+   "sim": 0.0,
+   "verdict": "FAIL",
+   "style": "plaque",
+   "plate_size": [
+    274,
+    201
+   ]
+  },
+  {
+   "sid": "bg100_fashion_boutique",
+   "expected": "MAISON",
+   "got": [],
+   "best": "",
+   "sim": 0.0,
+   "verdict": "FAIL",
+   "style": "lightbox",
+   "plate_size": [
+    339,
+    191
+   ]
+  },
+  {
+   "sid": "bg100_convenience_store",
+   "expected": "24小时便利店",
+   "got": [],
+   "best": "",
+   "sim": 0.0,
+   "verdict": "FAIL",
+   "style": "neon_warm",
+   "plate_size": [
+    459,
+    219
+   ]
+  },
+  {
+   "sid": "bg100_private_club",
+   "expected": "和悦会",
+   "got": [
+    "纂"
+   ],
+   "best": "",
+   "sim": 0.0,
+   "verdict": "FAIL",
+   "style": "plaque",
+   "plate_size": [
+    323,
+    205
+   ]
+  },
+  {
+   "sid": "bg100_art_gallery",
+   "expected": "云隐画廊",
+   "got": [],
+   "best": "",
+   "sim": 0.0,
+   "verdict": "FAIL",
+   "style": "lightbox",
+   "plate_size": [
+    324,
+    178
+   ]
+  },
+  {
+   "sid": "bg100_trading_floor",
+   "expected": "交易大厅",
+   "got": [
+    "警"
+   ],
+   "best": "",
+   "sim": 0.0,
+   "verdict": "FAIL",
+   "style": "metal",
+   "plate_size": [
+    362,
+    171
+   ]
+  },
+  {
+   "sid": "bg100_interrogation_room",
+   "expected": "审讯室",
+   "got": [
+    "焉"
+   ],
+   "best": "",
+   "sim": 0.0,
+   "verdict": "FAIL",
+   "style": "metal",
+   "plate_size": [
+    323,
+    191
+   ]
+  },
+  {
+   "sid": "bg100_mountain_gate",
+   "expected": "清虚门",
+   "got": [
+    "J"
+   ],
+   "best": "",
+   "sim": 0.0,
+   "verdict": "FAIL",
+   "style": "stone",
+   "plate_size": [
+    187,
+    623
+   ]
+  },
+  {
+   "sid": "bg100_golden_hall",
+   "expected": "正阳殿",
+   "got": [
+    "鼍"
+   ],
+   "best": "",
+   "sim": 0.0,
+   "verdict": "FAIL",
+   "style": "plaque",
+   "plate_size": [
+    359,
+    211
+   ]
+  },
+  {
+   "sid": "bg100_sect_arena",
+   "expected": "演武场",
+   "got": [
+    "鼍"
+   ],
+   "best": "",
+   "sim": 0.0,
+   "verdict": "FAIL",
+   "style": "wall",
+   "plate_size": [
+    323,
+    219
+   ]
+  },
+  {
+   "sid": "bg100_herb_hut",
+   "expected": "百草堂",
+   "got": [],
+   "best": "",
+   "sim": 0.0,
+   "verdict": "FAIL",
+   "style": "wood",
+   "plate_size": [
+    140,
+    496
+   ]
+  },
+  {
+   "sid": "bg100_scripture_pavilion",
+   "expected": "藏经阁",
+   "got": [
+    "鑫"
+   ],
+   "best": "",
+   "sim": 0.0,
+   "verdict": "FAIL",
+   "style": "plaque",
+   "plate_size": [
+    338,
+    219
+   ]
+  },
+  {
+   "sid": "bg100_inn_hall",
+   "expected": "悦来客栈",
+   "got": [
+    "囊"
+   ],
+   "best": "",
+   "sim": 0.0,
+   "verdict": "FAIL",
+   "style": "plaque",
+   "plate_size": [
+    345,
+    197
+   ]
+  },
+  {
+   "sid": "bg100_tavern_upper",
+   "expected": "临江楼",
+   "got": [
+    "覆"
+   ],
+   "best": "",
+   "sim": 0.0,
+   "verdict": "FAIL",
+   "style": "plaque",
+   "plate_size": [
+    323,
+    205
+   ]
+  },
+  {
+   "sid": "bg100_city_god_temple",
+   "expected": "城隍庙",
+   "got": [
+    "蠹"
+   ],
+   "best": "",
+   "sim": 0.0,
+   "verdict": "FAIL",
+   "style": "plaque",
+   "plate_size": [
+    338,
+    205
+   ]
+  },
+  {
+   "sid": "bg100_chancellor_court",
+   "expected": "丞相府",
+   "got": [
+    "l"
+   ],
+   "best": "",
+   "sim": 0.0,
+   "verdict": "FAIL",
+   "style": "plaque",
+   "plate_size": [
+    338,
+    206
+   ]
+  },
+  {
+   "sid": "bg100_bamboo_sword_hut",
+   "expected": "听风剑庐",
+   "got": [
+    "|"
+   ],
+   "best": "",
+   "sim": 0.0,
+   "verdict": "FAIL",
+   "style": "wood",
+   "plate_size": [
+    141,
+    523
+   ]
+  },
+  {
+   "sid": "bg100_alchemy_room",
+   "expected": "炼丹房",
+   "got": [
+    "噩"
+   ],
+   "best": "",
+   "sim": 0.0,
+   "verdict": "FAIL",
+   "style": "wall",
+   "plate_size": [
+    323,
+    246
+   ]
+  },
+  {
+   "sid": "bg100_council_hall",
+   "expected": "议事殿",
+   "got": [
+    "罐"
+   ],
+   "best": "",
+   "sim": 0.0,
+   "verdict": "FAIL",
+   "style": "plaque",
+   "plate_size": [
+    323,
+    191
+   ]
+  },
+  {
+   "sid": "bg100_abyss_gate",
+   "expected": "禁地",
+   "got": [
+    "U"
+   ],
+   "best": "",
+   "sim": 0.0,
+   "verdict": "FAIL",
+   "style": "stone",
+   "plate_size": [
+    186,
+    623
+   ]
+  },
+  {
+   "sid": "bg100_crane_pavilion",
+   "expected": "望鹤亭",
+   "got": [
+    "`"
+   ],
+   "best": "",
+   "sim": 0.0,
+   "verdict": "FAIL",
+   "style": "plaque",
+   "plate_size": [
+    287,
+    186
+   ]
+  },
+  {
+   "sid": "bg100_street_teahouse",
+   "expected": "清心茶社",
+   "got": [
+    "N"
+   ],
+   "best": "",
+   "sim": 0.0,
+   "verdict": "FAIL",
+   "style": "wood",
+   "plate_size": [
+    140,
+    523
+   ]
+  },
+  {
+   "sid": "bg100_academy",
+   "expected": "白鹿书院",
+   "got": [
+    "囊"
+   ],
+   "best": "",
+   "sim": 0.0,
+   "verdict": "FAIL",
+   "style": "plaque",
+   "plate_size": [
+    345,
+    197
+   ]
+  },
+  {
+   "sid": "bg100_blacksmith",
+   "expected": "张记铁铺",
+   "got": [
+    "J",
+    "岍"
+   ],
+   "best": "",
+   "sim": 0.0,
+   "verdict": "FAIL",
+   "style": "wood",
+   "plate_size": [
+    140,
+    496
+   ]
+  },
+  {
+   "sid": "bg100_escort_agency",
+   "expected": "威远镖局",
+   "got": [
+    "噩"
+   ],
+   "best": "",
+   "sim": 0.0,
+   "verdict": "FAIL",
+   "style": "plaque",
+   "plate_size": [
+    345,
+    197
+   ]
+  },
+  {
+   "sid": "bg100_tomb_stairs",
+   "expected": "禁入",
+   "got": [],
+   "best": "",
+   "sim": 0.0,
+   "verdict": "FAIL",
+   "style": "stone",
+   "plate_size": [
+    187,
+    595
+   ]
+  },
+  {
+   "sid": "bg100_seclusion_cave",
+   "expected": "玄元真君",
+   "got": [
+    "|",
+    "IIN"
+   ],
+   "best": "",
+   "sim": 0.0,
+   "verdict": "FAIL",
+   "style": "stone",
+   "plate_size": [
+    181,
+    589
+   ]
+  },
+  {
+   "sid": "bg100_sword_tomb",
+   "expected": "万剑冢",
+   "got": [
+    "州"
+   ],
+   "best": "",
+   "sim": 0.0,
+   "verdict": "FAIL",
+   "style": "stone",
+   "plate_size": [
+    187,
+    623
+   ]
+  },
+  {
+   "sid": "bg100_newchinese_tearoom",
+   "expected": "松风茶室",
+   "got": [
+    "N"
+   ],
+   "best": "",
+   "sim": 0.0,
+   "verdict": "FAIL",
+   "style": "wood",
+   "plate_size": [
+    140,
+    524
+   ]
+  },
+  {
+   "sid": "bg100_republic_shanghai",
+   "expected": "永安百货",
+   "got": [
+    "戆"
+   ],
+   "best": "",
+   "sim": 0.0,
+   "verdict": "FAIL",
+   "style": "plaque",
+   "plate_size": [
+    309,
+    191
+   ]
+  },
+  {
+   "sid": "bg100_republic_teahouse",
+   "expected": "云来茶楼",
+   "got": [
+    "蠡"
+   ],
+   "best": "",
+   "sim": 0.0,
+   "verdict": "FAIL",
+   "style": "plaque",
+   "plate_size": [
+    309,
+    191
+   ]
+  },
+  {
+   "sid": "bg100_republic_station",
+   "expected": "和平车站",
+   "got": [
+    "蠡"
+   ],
+   "best": "",
+   "sim": 0.0,
+   "verdict": "FAIL",
+   "style": "plaque",
+   "plate_size": [
+    345,
+    197
+   ]
+  },
+  {
+   "sid": "bg100_republic_pharmacy",
+   "expected": "济世堂",
+   "got": [
+    "蠡"
+   ],
+   "best": "",
+   "sim": 0.0,
+   "verdict": "FAIL",
+   "style": "plaque",
+   "plate_size": [
+    323,
+    206
+   ]
+  },
+  {
+   "sid": "bg100_republic_press",
+   "expected": "申报馆",
+   "got": [
+    "#"
+   ],
+   "best": "",
+   "sim": 0.0,
+   "verdict": "FAIL",
+   "style": "plaque",
+   "plate_size": [
+    338,
+    206
+   ]
+  },
+  {
+   "sid": "bg100_newchinese_office",
+   "expected": "和光",
+   "got": [],
+   "best": "",
+   "sim": 0.0,
+   "verdict": "FAIL",
+   "style": "lightbox",
+   "plate_size": [
+    311,
+    224
+   ]
+  },
+  {
+   "sid": "bg100_tang_market",
+   "expected": "西市",
+   "got": [
+    ":"
+   ],
+   "best": "",
+   "sim": 0.0,
+   "verdict": "FAIL",
+   "style": "plaque",
+   "plate_size": [
+    345,
+    213
+   ]
+  },
+  {
+   "sid": "bg100_song_tavern",
+   "expected": "望江楼",
+   "got": [
+    "黧"
+   ],
+   "best": "",
+   "sim": 0.0,
+   "verdict": "FAIL",
+   "style": "plaque",
+   "plate_size": [
+    323,
+    191
+   ]
+  },
+  {
+   "sid": "bg100_newchinese_cafe",
+   "expected": "有山",
+   "got": [],
+   "best": "",
+   "sim": 0.0,
+   "verdict": "FAIL",
+   "style": "lightbox",
+   "plate_size": [
+    267,
+    210
+   ]
+  },
+  {
+   "sid": "bg100_martial_stable",
+   "expected": "马厩",
+   "got": [
+    "州"
+   ],
+   "best": "",
+   "sim": 0.0,
+   "verdict": "FAIL",
+   "style": "wood",
+   "plate_size": [
+    140,
+    440
+   ]
+  },
+  {
+   "sid": "bg100_sword_sect_gate",
+   "expected": "玄剑门",
+   "got": [],
+   "best": "",
+   "sim": 0.0,
+   "verdict": "FAIL",
+   "style": "stone",
+   "plate_size": [
+    187,
+    623
+   ]
+  },
+  {
+   "sid": "bg100_ancestral_hall",
+   "expected": "陈氏宗祠",
+   "got": [
+    "噩"
+   ],
+   "best": "",
+   "sim": 0.0,
+   "verdict": "FAIL",
+   "style": "plaque",
+   "plate_size": [
+    345,
+    197
+   ]
+  },
+  {
+   "sid": "bg100_guochao_hotpot",
+   "expected": "老码头",
+   "got": [],
+   "best": "",
+   "sim": 0.0,
+   "verdict": "FAIL",
+   "style": "neon_warm",
+   "plate_size": [
+    372,
+    223
+   ]
+  },
+  {
+   "sid": "bg100_ink_barber",
+   "expected": "墨剪",
+   "got": [],
+   "best": "",
+   "sim": 0.0,
+   "verdict": "FAIL",
+   "style": "lightbox",
+   "plate_size": [
+    326,
+    224
+   ]
+  },
+  {
+   "sid": "bg100_herbal_counter",
+   "expected": "济生堂",
+   "got": [
+    "L"
+   ],
+   "best": "",
+   "sim": 0.0,
+   "verdict": "FAIL",
+   "style": "wood",
+   "plate_size": [
+    140,
+    524
+   ]
+  },
+  {
+   "sid": "bg100_snow_taoist",
+   "expected": "寒山观",
+   "got": [
+    "訾"
+   ],
+   "best": "",
+   "sim": 0.0,
+   "verdict": "FAIL",
+   "style": "plaque",
+   "plate_size": [
+    338,
+    205
+   ]
+  },
+  {
+   "sid": "bg100_morgue_corridor",
+   "expected": "解剖室",
+   "got": [
+    "鬻"
+   ],
+   "best": "",
+   "sim": 0.0,
+   "verdict": "FAIL",
+   "style": "metal",
+   "plate_size": [
+    270,
+    169
+   ]
+  },
+  {
+   "sid": "bg100_crime_scene_flat",
+   "expected": "警戒线",
+   "got": [
+    "#"
+   ],
+   "best": "",
+   "sim": 0.0,
+   "verdict": "FAIL",
+   "style": "paper",
+   "plate_size": [
+    195,
+    281
+   ]
+  },
+  {
+   "sid": "bg100_archive_room",
+   "expected": "档案室",
+   "got": [
+    "藤"
+   ],
+   "best": "",
+   "sim": 0.0,
+   "verdict": "FAIL",
+   "style": "metal",
+   "plate_size": [
+    306,
+    190
+   ]
+  },
+  {
+   "sid": "bg100_container_port",
+   "expected": "禁止靠近",
+   "got": [],
+   "best": "",
+   "sim": 0.0,
+   "verdict": "FAIL",
+   "style": "paper",
+   "plate_size": [
+    223,
+    251
+   ]
+  },
+  {
+   "sid": "bg100_control_room",
+   "expected": "监控中心",
+   "got": [
+    "黧"
+   ],
+   "best": "",
+   "sim": 0.0,
+   "verdict": "FAIL",
+   "style": "metal",
+   "plate_size": [
+    324,
+    163
+   ]
+  },
+  {
+   "sid": "bg100_phone_booth",
+   "expected": "公用电话",
+   "got": [],
+   "best": "",
+   "sim": 0.0,
+   "verdict": "FAIL",
+   "style": "lightbox",
+   "plate_size": [
+    294,
+    192
+   ]
+  },
+  {
+   "sid": "bg100_derelict_factory",
+   "expected": "禁止入内",
+   "got": [
+    "警"
+   ],
+   "best": "",
+   "sim": 0.0,
+   "verdict": "FAIL",
+   "style": "paper",
+   "plate_size": [
+    294,
+    205
+   ]
+  },
+  {
+   "sid": "bg100_car_wash",
+   "expected": "精洗",
+   "got": [],
+   "best": "",
+   "sim": 0.0,
+   "verdict": "FAIL",
+   "style": "neon_warm",
+   "plate_size": [
+    288,
+    215
+   ]
+  },
+  {
+   "sid": "bg100_underground_casino",
+   "expected": "百家乐",
+   "got": [],
+   "best": "",
+   "sim": 0.0,
+   "verdict": "FAIL",
+   "style": "neon_pink",
+   "plate_size": [
+    287,
+    213
+   ]
+  },
+  {
+   "sid": "bg100_old_theatre_backstage",
+   "expected": "后台",
+   "got": [
+    "恶"
+   ],
+   "best": "",
+   "sim": 0.0,
+   "verdict": "FAIL",
+   "style": "metal",
+   "plate_size": [
+    273,
+    187
+   ]
+  },
+  {
+   "sid": "bg100_funeral_shop",
+   "expected": "寿衣",
+   "got": [
+    "焱"
+   ],
+   "best": "",
+   "sim": 0.0,
+   "verdict": "FAIL",
+   "style": "paper",
+   "plate_size": [
+    232,
+    303
+   ]
+  },
+  {
+   "sid": "bg100_sanatorium",
+   "expected": "疗养院",
+   "got": [
+    "t"
+   ],
+   "best": "",
+   "sim": 0.0,
+   "verdict": "FAIL",
+   "style": "stone",
+   "plate_size": [
+    187,
+    595
+   ]
+  },
+  {
+   "sid": "bg100_police_evidence",
+   "expected": "证物室",
+   "got": [
+    "篝"
+   ],
+   "best": "",
+   "sim": 0.0,
+   "verdict": "FAIL",
+   "style": "metal",
+   "plate_size": [
+    306,
+    176
+   ]
+  }
+ ]
+}

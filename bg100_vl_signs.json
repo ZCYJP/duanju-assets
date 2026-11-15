@@ -1,0 +1,711 @@
+{
+ "summary": {
+  "total": 70,
+  "pass": 0,
+  "fail": 70,
+  "failed_sids": [
+   "bg100_exec_meeting",
+   "bg100_tower_lobby",
+   "bg100_ceo_office",
+   "bg100_fine_dining",
+   "bg100_wine_cellar",
+   "bg100_elevator_lobby",
+   "bg100_airport_vip",
+   "bg100_rainy_neon",
+   "bg100_underground_park",
+   "bg100_office_cafe",
+   "bg100_law_meeting",
+   "bg100_vip_ward",
+   "bg100_hotel_lobby",
+   "bg100_fashion_boutique",
+   "bg100_convenience_store",
+   "bg100_private_club",
+   "bg100_art_gallery",
+   "bg100_trading_floor",
+   "bg100_interrogation_room",
+   "bg100_mountain_gate",
+   "bg100_golden_hall",
+   "bg100_sect_arena",
+   "bg100_herb_hut",
+   "bg100_scripture_pavilion",
+   "bg100_inn_hall",
+   "bg100_tavern_upper",
+   "bg100_city_god_temple",
+   "bg100_chancellor_court",
+   "bg100_bamboo_sword_hut",
+   "bg100_alchemy_room",
+   "bg100_council_hall",
+   "bg100_abyss_gate",
+   "bg100_crane_pavilion",
+   "bg100_street_teahouse",
+   "bg100_academy",
+   "bg100_blacksmith",
+   "bg100_escort_agency",
+   "bg100_tomb_stairs",
+   "bg100_seclusion_cave",
+   "bg100_sword_tomb",
+   "bg100_newchinese_tearoom",
+   "bg100_republic_shanghai",
+   "bg100_republic_teahouse",
+   "bg100_republic_station",
+   "bg100_republic_pharmacy",
+   "bg100_republic_press",
+   "bg100_newchinese_office",
+   "bg100_tang_market",
+   "bg100_song_tavern",
+   "bg100_newchinese_cafe",
+   "bg100_martial_stable",
+   "bg100_sword_sect_gate",
+   "bg100_ancestral_hall",
+   "bg100_guochao_hotpot",
+   "bg100_ink_barber",
+   "bg100_herbal_counter",
+   "bg100_snow_taoist",
+   "bg100_morgue_corridor",
+   "bg100_crime_scene_flat",
+   "bg100_archive_room",
+   "bg100_container_port",
+   "bg100_control_room",
+   "bg100_phone_booth",
+   "bg100_derelict_factory",
+   "bg100_car_wash",
+   "bg100_underground_casino",
+   "bg100_old_theatre_backstage",
+   "bg100_funeral_shop",
+   "bg100_sanatorium",
+   "bg100_police_evidence"
+  ]
+ },
+ "items": [
+  {
+   "sid": "bg100_exec_meeting",
+   "expected": "远景集团",
+   "got": "消形無盡",
+   "raw": "消形無盡",
+   "ratio": 0.0,
+   "verdict": "FAIL",
+   "style": "metal"
+  },
+  {
+   "sid": "bg100_tower_lobby",
+   "expected": "云顶国际",
+   "got": "无法辨认",
+   "raw": "无法辨认",
+   "ratio": 0.0,
+   "verdict": "FAIL",
+   "style": "lightbox"
+  },
+  {
+   "sid": "bg100_ceo_office",
+   "expected": "董事长办公室",
+   "got": "无法辨认",
+   "raw": "无法辨认",
+   "ratio": 0.0,
+   "verdict": "FAIL",
+   "style": "metal"
+  },
+  {
+   "sid": "bg100_fine_dining",
+   "expected": "和风料理",
+   "got": "无法辨认",
+   "raw": "无法辨认",
+   "ratio": 0.0,
+   "verdict": "FAIL",
+   "style": "lightbox"
+  },
+  {
+   "sid": "bg100_wine_cellar",
+   "expected": "藏酒阁",
+   "got": "要知远",
+   "raw": "要知远",
+   "ratio": 0.0,
+   "verdict": "FAIL",
+   "style": "darkwood"
+  },
+  {
+   "sid": "bg100_elevator_lobby",
+   "expected": "26F",
+   "got": "无法辨认",
+   "raw": "无法辨认",
+   "ratio": 0.0,
+   "verdict": "FAIL",
+   "style": "metal"
+  },
+  {
+   "sid": "bg100_airport_vip",
+   "expected": "贵宾休息室",
+   "got": "无法辨认",
+   "raw": "无法辨认",
+   "ratio": 0.0,
+   "verdict": "FAIL",
+   "style": "lightbox"
+  },
+  {
+   "sid": "bg100_rainy_neon",
+   "expected": "夜上海",
+   "got": "无法辨认",
+   "raw": "无法辨认",
+   "ratio": 0.0,
+   "verdict": "FAIL",
+   "style": "neon_pink"
+  },
+  {
+   "sid": "bg100_underground_park",
+   "expected": "地下车库",
+   "got": "药柜",
+   "raw": "药柜",
+   "ratio": 0.0,
+   "verdict": "FAIL",
+   "style": "metal"
+  },
+  {
+   "sid": "bg100_office_cafe",
+   "expected": "SLOW COFFEE",
+   "got": "无法辨认",
+   "raw": "无法辨认",
+   "ratio": 0.0,
+   "verdict": "FAIL",
+   "style": "lightbox"
+  },
+  {
+   "sid": "bg100_law_meeting",
+   "expected": "明诚律师事务所",
+   "got": "无法辨认",
+   "raw": "无法辨认",
+   "ratio": 0.0,
+   "verdict": "FAIL",
+   "style": "plaque"
+  },
+  {
+   "sid": "bg100_vip_ward",
+   "expected": "特护病房",
+   "got": "无法辨认",
+   "raw": "无法辨认",
+   "ratio": 0.0,
+   "verdict": "FAIL",
+   "style": "metal"
+  },
+  {
+   "sid": "bg100_hotel_lobby",
+   "expected": "皇庭酒店",
+   "got": "皇阁酒",
+   "raw": "皇阁酒",
+   "ratio": 0.571,
+   "verdict": "FAIL",
+   "style": "plaque"
+  },
+  {
+   "sid": "bg100_fashion_boutique",
+   "expected": "MAISON",
+   "got": "无法辨认",
+   "raw": "无法辨认",
+   "ratio": 0.0,
+   "verdict": "FAIL",
+   "style": "lightbox"
+  },
+  {
+   "sid": "bg100_convenience_store",
+   "expected": "24小时便利店",
+   "got": "无法辨认",
+   "raw": "无法辨认",
+   "ratio": 0.0,
+   "verdict": "FAIL",
+   "style": "neon_warm"
+  },
+  {
+   "sid": "bg100_private_club",
+   "expected": "和悦会",
+   "got": "紫荆",
+   "raw": "紫荆",
+   "ratio": 0.0,
+   "verdict": "FAIL",
+   "style": "plaque"
+  },
+  {
+   "sid": "bg100_art_gallery",
+   "expected": "云隐画廊",
+   "got": "无法辨认",
+   "raw": "无法辨认",
+   "ratio": 0.0,
+   "verdict": "FAIL",
+   "style": "lightbox"
+  },
+  {
+   "sid": "bg100_trading_floor",
+   "expected": "交易大厅",
+   "got": "无法辨认",
+   "raw": "无法辨认",
+   "ratio": 0.0,
+   "verdict": "FAIL",
+   "style": "metal"
+  },
+  {
+   "sid": "bg100_interrogation_room",
+   "expected": "审讯室",
+   "got": "无法辨认",
+   "raw": "无法辨认",
+   "ratio": 0.0,
+   "verdict": "FAIL",
+   "style": "metal"
+  },
+  {
+   "sid": "bg100_mountain_gate",
+   "expected": "清虚门",
+   "got": "无法辨认",
+   "raw": "无法辨认",
+   "ratio": 0.0,
+   "verdict": "FAIL",
+   "style": "stone"
+  },
+  {
+   "sid": "bg100_golden_hall",
+   "expected": "正阳殿",
+   "got": "无法辨认",
+   "raw": "无法辨认",
+   "ratio": 0.0,
+   "verdict": "FAIL",
+   "style": "plaque"
+  },
+  {
+   "sid": "bg100_sect_arena",
+   "expected": "演武场",
+   "got": "无法辨认",
+   "raw": "无法辨认",
+   "ratio": 0.0,
+   "verdict": "FAIL",
+   "style": "wall"
+  },
+  {
+   "sid": "bg100_herb_hut",
+   "expected": "百草堂",
+   "got": "无法辨认",
+   "raw": "无法辨认",
+   "ratio": 0.0,
+   "verdict": "FAIL",
+   "style": "wood"
+  },
+  {
+   "sid": "bg100_scripture_pavilion",
+   "expected": "藏经阁",
+   "got": "博艺阁",
+   "raw": "博艺阁",
+   "ratio": 0.333,
+   "verdict": "FAIL",
+   "style": "plaque"
+  },
+  {
+   "sid": "bg100_inn_hall",
+   "expected": "悦来客栈",
+   "got": "菜名榜",
+   "raw": "菜名榜",
+   "ratio": 0.0,
+   "verdict": "FAIL",
+   "style": "plaque"
+  },
+  {
+   "sid": "bg100_tavern_upper",
+   "expected": "临江楼",
+   "got": "无法辨认",
+   "raw": "无法辨认",
+   "ratio": 0.0,
+   "verdict": "FAIL",
+   "style": "plaque"
+  },
+  {
+   "sid": "bg100_city_god_temple",
+   "expected": "城隍庙",
+   "got": "无法辨认",
+   "raw": "无法辨认",
+   "ratio": 0.0,
+   "verdict": "FAIL",
+   "style": "plaque"
+  },
+  {
+   "sid": "bg100_chancellor_court",
+   "expected": "丞相府",
+   "got": "无法辨认",
+   "raw": "无法辨认",
+   "ratio": 0.0,
+   "verdict": "FAIL",
+   "style": "plaque"
+  },
+  {
+   "sid": "bg100_bamboo_sword_hut",
+   "expected": "听风剑庐",
+   "got": "无法辨认",
+   "raw": "无法辨认",
+   "ratio": 0.0,
+   "verdict": "FAIL",
+   "style": "wood"
+  },
+  {
+   "sid": "bg100_alchemy_room",
+   "expected": "炼丹房",
+   "got": "无法辨认",
+   "raw": "无法辨认",
+   "ratio": 0.0,
+   "verdict": "FAIL",
+   "style": "wall"
+  },
+  {
+   "sid": "bg100_council_hall",
+   "expected": "议事殿",
+   "got": "汉餐",
+   "raw": "汉餐",
+   "ratio": 0.0,
+   "verdict": "FAIL",
+   "style": "plaque"
+  },
+  {
+   "sid": "bg100_abyss_gate",
+   "expected": "禁地",
+   "got": "无法辨认",
+   "raw": "无法辨认",
+   "ratio": 0.0,
+   "verdict": "FAIL",
+   "style": "stone"
+  },
+  {
+   "sid": "bg100_crane_pavilion",
+   "expected": "望鹤亭",
+   "got": "无法辨认",
+   "raw": "无法辨认",
+   "ratio": 0.0,
+   "verdict": "FAIL",
+   "style": "plaque"
+  },
+  {
+   "sid": "bg100_street_teahouse",
+   "expected": "清心茶社",
+   "got": "无法辨认",
+   "raw": "无法辨认",
+   "ratio": 0.0,
+   "verdict": "FAIL",
+   "style": "wood"
+  },
+  {
+   "sid": "bg100_academy",
+   "expected": "白鹿书院",
+   "got": "无法辨认",
+   "raw": "无法辨认",
+   "ratio": 0.0,
+   "verdict": "FAIL",
+   "style": "plaque"
+  },
+  {
+   "sid": "bg100_blacksmith",
+   "expected": "张记铁铺",
+   "got": "无法辨认",
+   "raw": "无法辨认",
+   "ratio": 0.0,
+   "verdict": "FAIL",
+   "style": "wood"
+  },
+  {
+   "sid": "bg100_escort_agency",
+   "expected": "威远镖局",
+   "got": "聚福堂",
+   "raw": "聚福堂",
+   "ratio": 0.0,
+   "verdict": "FAIL",
+   "style": "plaque"
+  },
+  {
+   "sid": "bg100_tomb_stairs",
+   "expected": "禁入",
+   "got": "无法辨认",
+   "raw": "无法辨认",
+   "ratio": 0.0,
+   "verdict": "FAIL",
+   "style": "stone"
+  },
+  {
+   "sid": "bg100_seclusion_cave",
+   "expected": "玄元真君",
+   "got": "无法辨认",
+   "raw": "无法辨认",
+   "ratio": 0.0,
+   "verdict": "FAIL",
+   "style": "stone"
+  },
+  {
+   "sid": "bg100_sword_tomb",
+   "expected": "万剑冢",
+   "got": "无法辨认",
+   "raw": "无法辨认",
+   "ratio": 0.0,
+   "verdict": "FAIL",
+   "style": "stone"
+  },
+  {
+   "sid": "bg100_newchinese_tearoom",
+   "expected": "松风茶室",
+   "got": "无法辨认",
+   "raw": "无法辨认",
+   "ratio": 0.0,
+   "verdict": "FAIL",
+   "style": "wood"
+  },
+  {
+   "sid": "bg100_republic_shanghai",
+   "expected": "永安百货",
+   "got": "紫砂茶馆",
+   "raw": "紫砂茶馆",
+   "ratio": 0.0,
+   "verdict": "FAIL",
+   "style": "plaque"
+  },
+  {
+   "sid": "bg100_republic_teahouse",
+   "expected": "云来茶楼",
+   "got": "无法辨认",
+   "raw": "无法辨认",
+   "ratio": 0.0,
+   "verdict": "FAIL",
+   "style": "plaque"
+  },
+  {
+   "sid": "bg100_republic_station",
+   "expected": "和平车站",
+   "got": "无法辨认",
+   "raw": "无法辨认",
+   "ratio": 0.0,
+   "verdict": "FAIL",
+   "style": "plaque"
+  },
+  {
+   "sid": "bg100_republic_pharmacy",
+   "expected": "济世堂",
+   "got": "无法辨认",
+   "raw": "无法辨认",
+   "ratio": 0.0,
+   "verdict": "FAIL",
+   "style": "plaque"
+  },
+  {
+   "sid": "bg100_republic_press",
+   "expected": "申报馆",
+   "got": "无法辨认",
+   "raw": "无法辨认",
+   "ratio": 0.0,
+   "verdict": "FAIL",
+   "style": "plaque"
+  },
+  {
+   "sid": "bg100_newchinese_office",
+   "expected": "和光",
+   "got": "无法辨认",
+   "raw": "无法辨认",
+   "ratio": 0.0,
+   "verdict": "FAIL",
+   "style": "lightbox"
+  },
+  {
+   "sid": "bg100_tang_market",
+   "expected": "西市",
+   "got": "无法辨认",
+   "raw": "无法辨认",
+   "ratio": 0.0,
+   "verdict": "FAIL",
+   "style": "plaque"
+  },
+  {
+   "sid": "bg100_song_tavern",
+   "expected": "望江楼",
+   "got": "无法辨认",
+   "raw": "无法辨认",
+   "ratio": 0.0,
+   "verdict": "FAIL",
+   "style": "plaque"
+  },
+  {
+   "sid": "bg100_newchinese_cafe",
+   "expected": "有山",
+   "got": "无法辨认",
+   "raw": "无法辨认",
+   "ratio": 0.0,
+   "verdict": "FAIL",
+   "style": "lightbox"
+  },
+  {
+   "sid": "bg100_martial_stable",
+   "expected": "马厩",
+   "got": "山泉",
+   "raw": "山泉",
+   "ratio": 0.0,
+   "verdict": "FAIL",
+   "style": "wood"
+  },
+  {
+   "sid": "bg100_sword_sect_gate",
+   "expected": "玄剑门",
+   "got": "无法辨认",
+   "raw": "无法辨认",
+   "ratio": 0.0,
+   "verdict": "FAIL",
+   "style": "stone"
+  },
+  {
+   "sid": "bg100_ancestral_hall",
+   "expected": "陈氏宗祠",
+   "got": "无法辨认",
+   "raw": "无法辨认",
+   "ratio": 0.0,
+   "verdict": "FAIL",
+   "style": "plaque"
+  },
+  {
+   "sid": "bg100_guochao_hotpot",
+   "expected": "老码头",
+   "got": "无法辨认",
+   "raw": "无法辨认",
+   "ratio": 0.0,
+   "verdict": "FAIL",
+   "style": "neon_warm"
+  },
+  {
+   "sid": "bg100_ink_barber",
+   "expected": "墨剪",
+   "got": "无法辨认",
+   "raw": "无法辨认",
+   "ratio": 0.0,
+   "verdict": "FAIL",
+   "style": "lightbox"
+  },
+  {
+   "sid": "bg100_herbal_counter",
+   "expected": "济生堂",
+   "got": "无法辨认",
+   "raw": "无法辨认",
+   "ratio": 0.0,
+   "verdict": "FAIL",
+   "style": "wood"
+  },
+  {
+   "sid": "bg100_snow_taoist",
+   "expected": "寒山观",
+   "got": "无法辨认",
+   "raw": "无法辨认",
+   "ratio": 0.0,
+   "verdict": "FAIL",
+   "style": "plaque"
+  },
+  {
+   "sid": "bg100_morgue_corridor",
+   "expected": "解剖室",
+   "got": "无法辨认",
+   "raw": "无法辨认",
+   "ratio": 0.0,
+   "verdict": "FAIL",
+   "style": "metal"
+  },
+  {
+   "sid": "bg100_crime_scene_flat",
+   "expected": "警戒线",
+   "got": "赵姓餐馆",
+   "raw": "赵姓餐馆",
+   "ratio": 0.0,
+   "verdict": "FAIL",
+   "style": "paper"
+  },
+  {
+   "sid": "bg100_archive_room",
+   "expected": "档案室",
+   "got": "无法辨认",
+   "raw": "无法辨认",
+   "ratio": 0.0,
+   "verdict": "FAIL",
+   "style": "metal"
+  },
+  {
+   "sid": "bg100_container_port",
+   "expected": "禁止靠近",
+   "got": "无法辨认",
+   "raw": "无法辨认",
+   "ratio": 0.0,
+   "verdict": "FAIL",
+   "style": "paper"
+  },
+  {
+   "sid": "bg100_control_room",
+   "expected": "监控中心",
+   "got": "无法辨认",
+   "raw": "无法辨认",
+   "ratio": 0.0,
+   "verdict": "FAIL",
+   "style": "metal"
+  },
+  {
+   "sid": "bg100_phone_booth",
+   "expected": "公用电话",
+   "got": "无法辨认",
+   "raw": "无法辨认",
+   "ratio": 0.0,
+   "verdict": "FAIL",
+   "style": "lightbox"
+  },
+  {
+   "sid": "bg100_derelict_factory",
+   "expected": "禁止入内",
+   "got": "禁止内人",
+   "raw": "禁止内人",
+   "ratio": 0.75,
+   "verdict": "NEAR",
+   "style": "paper"
+  },
+  {
+   "sid": "bg100_car_wash",
+   "expected": "精洗",
+   "got": "无法辨认",
+   "raw": "无法辨认",
+   "ratio": 0.0,
+   "verdict": "FAIL",
+   "style": "neon_warm"
+  },
+  {
+   "sid": "bg100_underground_casino",
+   "expected": "百家乐",
+   "got": "无法辨认",
+   "raw": "无法辨认",
+   "ratio": 0.0,
+   "verdict": "FAIL",
+   "style": "neon_pink"
+  },
+  {
+   "sid": "bg100_old_theatre_backstage",
+   "expected": "后台",
+   "got": "无法辨认",
+   "raw": "无法辨认",
+   "ratio": 0.0,
+   "verdict": "FAIL",
+   "style": "metal"
+  },
+  {
+   "sid": "bg100_funeral_shop",
+   "expected": "寿衣",
+   "got": "批发",
+   "raw": "批发",
+   "ratio": 0.0,
+   "verdict": "FAIL",
+   "style": "paper"
+  },
+  {
+   "sid": "bg100_sanatorium",
+   "expected": "疗养院",
+   "got": "无法辨认",
+   "raw": "无法辨认",
+   "ratio": 0.0,
+   "verdict": "FAIL",
+   "style": "stone"
+  },
+  {
+   "sid": "bg100_police_evidence",
+   "expected": "证物室",
+   "got": "无法辨认",
+   "raw": "无法辨认",
+   "ratio": 0.0,
+   "verdict": "FAIL",
+   "style": "metal"
+  }
+ ]
+}

@@ -86,14 +86,14 @@ NAME2CHAR = {"陆沉": "M01", "苏清晚": "F01", "裴九渊": "M03", "苏蔓": 
 #   speakers:   出镜角色列表（决定底图合成用几张参考图）
 SHOTS = [
     {
-        "id": 1, "name": "t01_hook_closeup", "frames": 22,          # 0.92s  大特写
+        "id": 1, "name": "t01_hook_closeup", "frames": 56,          # 2.33s  大特写
         "char": "F01", "view": "headshot", "scene": "boardroom",
         "framing": "single", "face_ratio": 0.32,
         "action": "Extreme close-up. She stares straight into camera with icy controlled fury, "
                   "a thin red folder pressed flat against her chest, eyes never blinking. "
                   "She delivers one sharp short line with precise lip movement. "
                   "Very fast camera push in, cold city skyline blurred behind the glass.",
-        "dialogue": [("苏清晚", "三年了")],
+        "dialogue": [("苏清晚", "三年了，这账该结了")],
     },
     {
         "id": 2, "name": "t02_villain_twoshot", "frames": 39,          # 1.63s  双人中景
@@ -106,7 +106,7 @@ SHOTS = [
         "dialogue": [("裴九渊", "这桌子，姓裴")],
     },
     {
-        "id": 3, "name": "t03_ally_twoshot", "frames": 39,            # 1.63s  双人中景
+        "id": 3, "name": "t03_ally_twoshot", "frames": 56,            # 2.33s  双人中景
         "char": "F03", "view": "headshot", "scene": "boardroom",
         "framing": "two_shot", "face_ratio": 0.14, "co_char": "F01",
         "action": "Two-shot, the woman in the navy pantsuit steps up beside the woman in emerald "
@@ -116,7 +116,7 @@ SHOTS = [
         "dialogue": [("苏蔓", "股权书，我带来了")],
     },
     {
-        "id": 4, "name": "t04_villain_closeup", "frames": 39,          # 1.63s  特写
+        "id": 4, "name": "t04_villain_closeup", "frames": 56,          # 1.63s  特写
         "char": "M03", "view": "headshot", "scene": "boardroom",
         "framing": "single", "face_ratio": 0.28,
         "action": "Close-up reverse angle. The sinister man tilts his head slightly, "
@@ -126,17 +126,17 @@ SHOTS = [
         "dialogue": [("裴九渊", "三千万，一分不少")],
     },
     {
-        "id": 5, "name": "t05_hero_near", "frames": 56,                # 2.33s  近景
+        "id": 5, "name": "t05_hero_near", "frames": 39,                # 1.63s  近景
         "char": "F01", "view": "headshot", "scene": "boardroom",
         "framing": "single", "face_ratio": 0.15,
         "action": "Medium close-up over-the-shoulder from behind the man's dark shoulder in the "
                   "extreme foreground, the woman faces camera in sharp focus beyond him, "
                   "cold determination in her phoenix eyes, mouth moving clearly as she delivers "
                   "a short firm reply. Slight handheld drift, cold blue backlight.",
-        "dialogue": [("苏清晚", "那就法庭见")],
+        "dialogue": [("苏清晚", "那就法庭上见")],
     },
     {
-        "id": 6, "name": "t06_sign_twoshot", "frames": 56,              # 2.33s  双人中景
+        "id": 6, "name": "t06_sign_twoshot", "frames": 39,              # 1.63s  双人中景
         "char": "F01", "view": "headshot", "scene": "boardroom",
         "framing": "two_shot", "face_ratio": 0.14, "co_char": "M03",
         "action": "Two-shot, the woman in emerald slides a document folder across the polished "
@@ -156,7 +156,7 @@ SHOTS = [
         "dialogue": [("苏清晚", "从今天起，断绝往来")],
     },
     {
-        "id": 8, "name": "t08_reaction_twoshot", "frames": 56,          # 2.33s  双人反应镜
+        "id": 8, "name": "t08_reaction_twoshot", "frames": 39,          # 1.63s  双人反应镜
         "char": "M03", "view": "headshot", "scene": "boardroom",
         "framing": "two_shot", "face_ratio": 0.16, "co_char": "F01",
         "action": "Two-shot reaction, the man in the black cashmere coat stares down at the signed "
@@ -164,26 +164,26 @@ SHOTS = [
                   "stands opposite him in the background, both visible in frame, "
                   "his jaw tightens and his lips part, a flicker of shock in his narrow eyes. "
                   "Slow camera push in, hard rim light, deep shadow background.",
-        "dialogue": [("裴九渊", "你……")],
+        "dialogue": [("裴九渊", "你……好，很好")],
     },
 ]
 
 # 英文副字幕（参考片有此层，我们 v2 缺失）
 EN_SUB = {
-    "t01_hook_closeup":     "Three years.",
+    "t01_hook_closeup":     "Three years. Time to settle this debt.",
     "t02_villain_twoshot":  "This table bears my name.",
-    "t03_ally_near":        "The share transfer documents. I brought them.",
+    "t03_ally_twoshot":     "The share transfer documents.",
     "t04_villain_closeup":  "Thirty million. Not a cent less.",
     "t05_hero_near":        "Then we'll meet in court.",
     "t06_sign_twoshot":     "Mr. Pei, please sign here.",
     "t07_finale_closeup":   "From today, we are strangers.",
-    "t08_reaction_button":  "You...",
+    "t08_reaction_twoshot": "You... good. Very good.",
 }
 
 FPS = 24
 W, H = 480, 832
-TOTAL_FRAMES = sum(s["frames"] for s in SHOTS)   # 341
-TOTAL_DUR = TOTAL_FRAMES / FPS                  # 14.208s
+TOTAL_FRAMES = sum(s["frames"] for s in SHOTS)   # 363
+TOTAL_DUR = TOTAL_FRAMES / FPS                  # 15.125s
 
 # 顶部信息层
 TOP_BAR = {"title": "决裂", "ep": "EP01"}

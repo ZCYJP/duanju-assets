@@ -17,6 +17,7 @@ import json
 import time
 import uuid
 import shutil
+import threading
 import urllib.request
 from concurrent.futures import ThreadPoolExecutor
 
@@ -47,7 +48,11 @@ def node(cls, **kw):
     return {"class_type": cls, "inputs": kw}
 
 
+_upload_lock = threading.Lock()
+
+
 def upload_image(port, path):
+    """ComfyUI upload 用原始文件名；并发上传同名图会互相覆盖 → 加锁串行化"""
     boundary = "----g15" + uuid.uuid4().hex
     name = os.path.basename(path)
     data = open(path, "rb").read()
@@ -58,8 +63,9 @@ def upload_image(port, path):
     req = urllib.request.Request(
         f"http://127.0.0.1:{port}/upload/image", data=body,
         headers={"Content-Type": f"multipart/form-data; boundary={boundary}"})
-    with urllib.request.urlopen(req, timeout=300) as r:
-        return json.loads(r.read())
+    with _upload_lock:
+        with urllib.request.urlopen(req, timeout=300) as r:
+            return json.loads(r.read())
 
 
 def post(url, payload, timeout=300):
@@ -199,7 +205,7 @@ def find_output(port, prefix, timeout=300):
 def run_shot(shot, port):
     name = shot["name"]
     out_png = f"{FRAMES}/{name}.png"
-    if os.path.exists(out_png):
+    if os.path.exists(out_png) and os.environ.get("REGEN") != "1":
         print(f"  [skip] {name}", flush=True)
         return {"name": name, "ok": True, "cached": True}
     cid = shot["char"]

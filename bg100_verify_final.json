@@ -1,0 +1,1336 @@
+{
+ "summary": {
+  "total": 100,
+  "with_sign": 70,
+  "pass": 0,
+  "fail": 70,
+  "raw_has_model_text": 13,
+  "low_contrast": 17
+ },
+ "items": [
+  {
+   "sid": "bg100_exec_meeting",
+   "group": "都市霸总",
+   "expected": "远景集团",
+   "style": "metal",
+   "raw_ocr": [],
+   "sign_ocr": [
+    "蕃"
+   ],
+   "sign_ocr_best": "",
+   "similarity": 0.0,
+   "exact": false,
+   "contrast": 107.8,
+   "status": "FAIL"
+  },
+  {
+   "sid": "bg100_tower_lobby",
+   "group": "都市霸总",
+   "expected": "云顶国际",
+   "style": "lightbox",
+   "raw_ocr": [],
+   "sign_ocr": [],
+   "sign_ocr_best": "",
+   "similarity": 0.0,
+   "exact": false,
+   "contrast": 59.0,
+   "status": "FAIL"
+  },
+  {
+   "sid": "bg100_ceo_office",
+   "group": "都市霸总",
+   "expected": "董事长办公室",
+   "style": "metal",
+   "raw_ocr": [],
+   "sign_ocr": [
+    "鼍"
+   ],
+   "sign_ocr_best": "",
+   "similarity": 0.0,
+   "exact": false,
+   "contrast": 76.4,
+   "status": "FAIL"
+  },
+  {
+   "sid": "bg100_fine_dining",
+   "group": "都市霸总",
+   "expected": "和风料理",
+   "style": "lightbox",
+   "raw_ocr": [],
+   "sign_ocr": [],
+   "sign_ocr_best": "",
+   "similarity": 0.0,
+   "exact": false,
+   "contrast": 32.0,
+   "status": "FAIL"
+  },
+  {
+   "sid": "bg100_wine_cellar",
+   "group": "都市霸总",
+   "expected": "藏酒阁",
+   "style": "darkwood",
+   "raw_ocr": [
+    "]胄胄"
+   ],
+   "sign_ocr": [
+    "l",
+    "刖"
+   ],
+   "sign_ocr_best": "",
+   "similarity": 0.0,
+   "exact": false,
+   "contrast": 44.5,
+   "status": "FAIL",
+   "warn_raw_text": "原图检出模型自绘文字，需确认是否为伪字"
+  },
+  {
+   "sid": "bg100_elevator_lobby",
+   "group": "都市霸总",
+   "expected": "26F",
+   "style": "metal",
+   "raw_ocr": [],
+   "sign_ocr": [
+    "鼻"
+   ],
+   "sign_ocr_best": "",
+   "similarity": 0.0,
+   "exact": false,
+   "contrast": 48.0,
+   "status": "FAIL"
+  },
+  {
+   "sid": "bg100_airport_vip",
+   "group": "都市霸总",
+   "expected": "贵宾休息室",
+   "style": "lightbox",
+   "raw_ocr": [],
+   "sign_ocr": [],
+   "sign_ocr_best": "",
+   "similarity": 0.0,
+   "exact": false,
+   "contrast": 84.3,
+   "status": "FAIL"
+  },
+  {
+   "sid": "bg100_rainy_neon",
+   "group": "都市霸总",
+   "expected": "夜上海",
+   "style": "neon_pink",
+   "raw_ocr": [
+    "\"'[",
+    "MB",
+    "D"
+   ],
+   "sign_ocr": [],
+   "sign_ocr_best": "",
+   "similarity": 0.0,
+   "exact": false,
+   "contrast": 5.1,
+   "status": "FAIL",
+   "warn": "牌面与背景对比度过低",
+   "warn_raw_text": "原图检出模型自绘文字，需确认是否为伪字"
+  },
+  {
+   "sid": "bg100_underground_park",
+   "group": "都市霸总",
+   "expected": "地下车库",
+   "style": "metal",
+   "raw_ocr": [],
+   "sign_ocr": [
+    "纛"
+   ],
+   "sign_ocr_best": "",
+   "similarity": 0.0,
+   "exact": false,
+   "contrast": 76.9,
+   "status": "FAIL"
+  },
+  {
+   "sid": "bg100_office_cafe",
+   "group": "都市霸总",
+   "expected": "SLOW COFFEE",
+   "style": "lightbox",
+   "raw_ocr": [],
+   "sign_ocr": [],
+   "sign_ocr_best": "",
+   "similarity": 0.0,
+   "exact": false,
+   "contrast": 134.4,
+   "status": "FAIL"
+  },
+  {
+   "sid": "bg100_law_meeting",
+   "group": "都市霸总",
+   "expected": "明诚律师事务所",
+   "style": "plaque",
+   "raw_ocr": [],
+   "sign_ocr": [
+    "囊"
+   ],
+   "sign_ocr_best": "",
+   "similarity": 0.0,
+   "exact": false,
+   "contrast": 40.0,
+   "status": "FAIL"
+  },
+  {
+   "sid": "bg100_vip_ward",
+   "group": "都市霸总",
+   "expected": "特护病房",
+   "style": "metal",
+   "raw_ocr": [],
+   "sign_ocr": [
+    "蠹"
+   ],
+   "sign_ocr_best": "",
+   "similarity": 0.0,
+   "exact": false,
+   "contrast": 9.1,
+   "status": "FAIL",
+   "warn": "牌面与背景对比度过低"
+  },
+  {
+   "sid": "bg100_hotel_lobby",
+   "group": "都市霸总",
+   "expected": "皇庭酒店",
+   "style": "plaque",
+   "raw_ocr": [
+    "云"
+   ],
+   "sign_ocr": [
+    "瞿"
+   ],
+   "sign_ocr_best": "",
+   "similarity": 0.0,
+   "exact": false,
+   "contrast": 80.7,
+   "status": "FAIL",
+   "warn_raw_text": "原图检出模型自绘文字，需确认是否为伪字"
+  },
+  {
+   "sid": "bg100_rooftop_pool",
+   "group": "都市霸总",
+   "expected": null,
+   "style": null,
+   "status": "NO_SIGN"
+  },
+  {
+   "sid": "bg100_chairman_office",
+   "group": "都市霸总",
+   "expected": null,
+   "style": null,
+   "status": "NO_SIGN"
+  },
+  {
+   "sid": "bg100_fashion_boutique",
+   "group": "都市霸总",
+   "expected": "MAISON",
+   "style": "lightbox",
+   "raw_ocr": [],
+   "sign_ocr": [],
+   "sign_ocr_best": "",
+   "similarity": 0.0,
+   "exact": false,
+   "contrast": 42.4,
+   "status": "FAIL"
+  },
+  {
+   "sid": "bg100_business_metro",
+   "group": "都市霸总",
+   "expected": null,
+   "style": null,
+   "status": "NO_SIGN"
+  },
+  {
+   "sid": "bg100_convenience_store",
+   "group": "都市霸总",
+   "expected": "24小时便利店",
+   "style": "neon_warm",
+   "raw_ocr": [],
+   "sign_ocr": [],
+   "sign_ocr_best": "",
+   "similarity": 0.0,
+   "exact": false,
+   "contrast": 132.1,
+   "status": "FAIL"
+  },
+  {
+   "sid": "bg100_private_club",
+   "group": "都市霸总",
+   "expected": "和悦会",
+   "style": "plaque",
+   "raw_ocr": [],
+   "sign_ocr": [
+    "纂"
+   ],
+   "sign_ocr_best": "",
+   "similarity": 0.0,
+   "exact": false,
+   "contrast": 35.5,
+   "status": "FAIL"
+  },
+  {
+   "sid": "bg100_art_gallery",
+   "group": "都市霸总",
+   "expected": "云隐画廊",
+   "style": "lightbox",
+   "raw_ocr": [],
+   "sign_ocr": [],
+   "sign_ocr_best": "",
+   "similarity": 0.0,
+   "exact": false,
+   "contrast": 29.9,
+   "status": "FAIL"
+  },
+  {
+   "sid": "bg100_trading_floor",
+   "group": "都市霸总",
+   "expected": "交易大厅",
+   "style": "metal",
+   "raw_ocr": [],
+   "sign_ocr": [
+    "蘩"
+   ],
+   "sign_ocr_best": "",
+   "similarity": 0.0,
+   "exact": false,
+   "contrast": 79.9,
+   "status": "FAIL"
+  },
+  {
+   "sid": "bg100_private_jet",
+   "group": "都市霸总",
+   "expected": null,
+   "style": null,
+   "status": "NO_SIGN"
+  },
+  {
+   "sid": "bg100_river_villa",
+   "group": "都市霸总",
+   "expected": null,
+   "style": null,
+   "status": "NO_SIGN"
+  },
+  {
+   "sid": "bg100_interrogation_room",
+   "group": "都市霸总",
+   "expected": "审讯室",
+   "style": "metal",
+   "raw_ocr": [],
+   "sign_ocr": [
+    "焉"
+   ],
+   "sign_ocr_best": "",
+   "similarity": 0.0,
+   "exact": false,
+   "contrast": 23.9,
+   "status": "FAIL"
+  },
+  {
+   "sid": "bg100_mountain_gate",
+   "group": "古装仙侠",
+   "expected": "清虚门",
+   "style": "stone",
+   "raw_ocr": [],
+   "sign_ocr": [],
+   "sign_ocr_best": "",
+   "similarity": 0.0,
+   "exact": false,
+   "contrast": 18.3,
+   "status": "FAIL"
+  },
+  {
+   "sid": "bg100_golden_hall",
+   "group": "古装仙侠",
+   "expected": "正阳殿",
+   "style": "plaque",
+   "raw_ocr": [],
+   "sign_ocr": [
+    "鼍"
+   ],
+   "sign_ocr_best": "",
+   "similarity": 0.0,
+   "exact": false,
+   "contrast": 45.2,
+   "status": "FAIL"
+  },
+  {
+   "sid": "bg100_imperial_study",
+   "group": "古装仙侠",
+   "expected": null,
+   "style": null,
+   "status": "NO_SIGN"
+  },
+  {
+   "sid": "bg100_sect_arena",
+   "group": "古装仙侠",
+   "expected": "演武场",
+   "style": "wall",
+   "raw_ocr": [],
+   "sign_ocr": [
+    "蹇"
+   ],
+   "sign_ocr_best": "",
+   "similarity": 0.0,
+   "exact": false,
+   "contrast": 10.1,
+   "status": "FAIL",
+   "warn": "牌面与背景对比度过低"
+  },
+  {
+   "sid": "bg100_herb_hut",
+   "group": "古装仙侠",
+   "expected": "百草堂",
+   "style": "wood",
+   "raw_ocr": [],
+   "sign_ocr": [
+    "I"
+   ],
+   "sign_ocr_best": "",
+   "similarity": 0.0,
+   "exact": false,
+   "contrast": 35.3,
+   "status": "FAIL"
+  },
+  {
+   "sid": "bg100_scripture_pavilion",
+   "group": "古装仙侠",
+   "expected": "藏经阁",
+   "style": "plaque",
+   "raw_ocr": [],
+   "sign_ocr": [
+    "戆"
+   ],
+   "sign_ocr_best": "",
+   "similarity": 0.0,
+   "exact": false,
+   "contrast": 17.5,
+   "status": "FAIL",
+   "warn": "牌面与背景对比度过低"
+  },
+  {
+   "sid": "bg100_inn_hall",
+   "group": "古装仙侠",
+   "expected": "悦来客栈",
+   "style": "plaque",
+   "raw_ocr": [],
+   "sign_ocr": [
+    "囊"
+   ],
+   "sign_ocr_best": "",
+   "similarity": 0.0,
+   "exact": false,
+   "contrast": 10.2,
+   "status": "FAIL",
+   "warn": "牌面与背景对比度过低"
+  },
+  {
+   "sid": "bg100_tavern_upper",
+   "group": "古装仙侠",
+   "expected": "临江楼",
+   "style": "plaque",
+   "raw_ocr": [],
+   "sign_ocr": [
+    "覆"
+   ],
+   "sign_ocr_best": "",
+   "similarity": 0.0,
+   "exact": false,
+   "contrast": 51.8,
+   "status": "FAIL"
+  },
+  {
+   "sid": "bg100_city_god_temple",
+   "group": "古装仙侠",
+   "expected": "城隍庙",
+   "style": "plaque",
+   "raw_ocr": [
+    "赉",
+    "{",
+    "#",
+    "幕",
+    "1",
+    "@",
+    "4"
+   ],
+   "sign_ocr": [
+    "蠹"
+   ],
+   "sign_ocr_best": "",
+   "similarity": 0.0,
+   "exact": false,
+   "contrast": 97.7,
+   "status": "FAIL",
+   "warn_raw_text": "原图检出模型自绘文字，需确认是否为伪字"
+  },
+  {
+   "sid": "bg100_chancellor_court",
+   "group": "古装仙侠",
+   "expected": "丞相府",
+   "style": "plaque",
+   "raw_ocr": [],
+   "sign_ocr": [
+    "l"
+   ],
+   "sign_ocr_best": "",
+   "similarity": 0.0,
+   "exact": false,
+   "contrast": 103.0,
+   "status": "FAIL"
+  },
+  {
+   "sid": "bg100_palace_corridor",
+   "group": "古装仙侠",
+   "expected": null,
+   "style": null,
+   "status": "NO_SIGN"
+  },
+  {
+   "sid": "bg100_bamboo_sword_hut",
+   "group": "古装仙侠",
+   "expected": "听风剑庐",
+   "style": "wood",
+   "raw_ocr": [],
+   "sign_ocr": [],
+   "sign_ocr_best": "",
+   "similarity": 0.0,
+   "exact": false,
+   "contrast": 30.7,
+   "status": "FAIL"
+  },
+  {
+   "sid": "bg100_alchemy_room",
+   "group": "古装仙侠",
+   "expected": "炼丹房",
+   "style": "wall",
+   "raw_ocr": [],
+   "sign_ocr": [
+    "蠹"
+   ],
+   "sign_ocr_best": "",
+   "similarity": 0.0,
+   "exact": false,
+   "contrast": 38.4,
+   "status": "FAIL"
+  },
+  {
+   "sid": "bg100_council_hall",
+   "group": "古装仙侠",
+   "expected": "议事殿",
+   "style": "plaque",
+   "raw_ocr": [],
+   "sign_ocr": [
+    "蠡"
+   ],
+   "sign_ocr_best": "",
+   "similarity": 0.0,
+   "exact": false,
+   "contrast": 36.2,
+   "status": "FAIL"
+  },
+  {
+   "sid": "bg100_abyss_gate",
+   "group": "古装仙侠",
+   "expected": "禁地",
+   "style": "stone",
+   "raw_ocr": [],
+   "sign_ocr": [
+    "H"
+   ],
+   "sign_ocr_best": "",
+   "similarity": 0.0,
+   "exact": false,
+   "contrast": 45.7,
+   "status": "FAIL"
+  },
+  {
+   "sid": "bg100_teleport_platform",
+   "group": "古装仙侠",
+   "expected": null,
+   "style": null,
+   "status": "NO_SIGN"
+  },
+  {
+   "sid": "bg100_crane_pavilion",
+   "group": "古装仙侠",
+   "expected": "望鹤亭",
+   "style": "plaque",
+   "raw_ocr": [],
+   "sign_ocr": [
+    "`"
+   ],
+   "sign_ocr_best": "",
+   "similarity": 0.0,
+   "exact": false,
+   "contrast": 70.5,
+   "status": "FAIL"
+  },
+  {
+   "sid": "bg100_street_teahouse",
+   "group": "古装仙侠",
+   "expected": "清心茶社",
+   "style": "wood",
+   "raw_ocr": [],
+   "sign_ocr": [
+    "I"
+   ],
+   "sign_ocr_best": "",
+   "similarity": 0.0,
+   "exact": false,
+   "contrast": 46.9,
+   "status": "FAIL"
+  },
+  {
+   "sid": "bg100_academy",
+   "group": "古装仙侠",
+   "expected": "白鹿书院",
+   "style": "plaque",
+   "raw_ocr": [
+    "R4"
+   ],
+   "sign_ocr": [
+    "囊"
+   ],
+   "sign_ocr_best": "",
+   "similarity": 0.0,
+   "exact": false,
+   "contrast": 5.1,
+   "status": "FAIL",
+   "warn": "牌面与背景对比度过低",
+   "warn_raw_text": "原图检出模型自绘文字，需确认是否为伪字"
+  },
+  {
+   "sid": "bg100_blacksmith",
+   "group": "古装仙侠",
+   "expected": "张记铁铺",
+   "style": "wood",
+   "raw_ocr": [],
+   "sign_ocr": [
+    "J"
+   ],
+   "sign_ocr_best": "",
+   "similarity": 0.0,
+   "exact": false,
+   "contrast": 57.6,
+   "status": "FAIL"
+  },
+  {
+   "sid": "bg100_escort_agency",
+   "group": "古装仙侠",
+   "expected": "威远镖局",
+   "style": "plaque",
+   "raw_ocr": [],
+   "sign_ocr": [
+    "蠹"
+   ],
+   "sign_ocr_best": "",
+   "similarity": 0.0,
+   "exact": false,
+   "contrast": 117.4,
+   "status": "FAIL"
+  },
+  {
+   "sid": "bg100_palace_garden",
+   "group": "古装仙侠",
+   "expected": null,
+   "style": null,
+   "status": "NO_SIGN"
+  },
+  {
+   "sid": "bg100_tomb_stairs",
+   "group": "古装仙侠",
+   "expected": "禁入",
+   "style": "stone",
+   "raw_ocr": [],
+   "sign_ocr": [],
+   "sign_ocr_best": "",
+   "similarity": 0.0,
+   "exact": false,
+   "contrast": 1.2,
+   "status": "FAIL",
+   "warn": "牌面与背景对比度过低"
+  },
+  {
+   "sid": "bg100_seclusion_cave",
+   "group": "古装仙侠",
+   "expected": "玄元真君",
+   "style": "stone",
+   "raw_ocr": [],
+   "sign_ocr": [
+    "I"
+   ],
+   "sign_ocr_best": "",
+   "similarity": 0.0,
+   "exact": false,
+   "contrast": 10.2,
+   "status": "FAIL",
+   "warn": "牌面与背景对比度过低"
+  },
+  {
+   "sid": "bg100_sword_tomb",
+   "group": "古装仙侠",
+   "expected": "万剑冢",
+   "style": "stone",
+   "raw_ocr": [],
+   "sign_ocr": [
+    "州"
+   ],
+   "sign_ocr_best": "",
+   "similarity": 0.0,
+   "exact": false,
+   "contrast": 2.8,
+   "status": "FAIL",
+   "warn": "牌面与背景对比度过低"
+  },
+  {
+   "sid": "bg100_bamboo_path",
+   "group": "新国风民国",
+   "expected": null,
+   "style": null,
+   "status": "NO_SIGN"
+  },
+  {
+   "sid": "bg100_newchinese_tearoom",
+   "group": "新国风民国",
+   "expected": "松风茶室",
+   "style": "wood",
+   "raw_ocr": [],
+   "sign_ocr": [
+    "I"
+   ],
+   "sign_ocr_best": "",
+   "similarity": 0.0,
+   "exact": false,
+   "contrast": 17.4,
+   "status": "FAIL",
+   "warn": "牌面与背景对比度过低"
+  },
+  {
+   "sid": "bg100_inn_rooftop",
+   "group": "新国风民国",
+   "expected": null,
+   "style": null,
+   "status": "NO_SIGN"
+  },
+  {
+   "sid": "bg100_republic_shanghai",
+   "group": "新国风民国",
+   "expected": "永安百货",
+   "style": "plaque",
+   "raw_ocr": [
+    "濡黑蕈_"
+   ],
+   "sign_ocr": [
+    "戆"
+   ],
+   "sign_ocr_best": "",
+   "similarity": 0.0,
+   "exact": false,
+   "contrast": 62.5,
+   "status": "FAIL",
+   "warn_raw_text": "原图检出模型自绘文字，需确认是否为伪字"
+  },
+  {
+   "sid": "bg100_republic_teahouse",
+   "group": "新国风民国",
+   "expected": "云来茶楼",
+   "style": "plaque",
+   "raw_ocr": [],
+   "sign_ocr": [
+    "蠡"
+   ],
+   "sign_ocr_best": "",
+   "similarity": 0.0,
+   "exact": false,
+   "contrast": 49.8,
+   "status": "FAIL"
+  },
+  {
+   "sid": "bg100_republic_station",
+   "group": "新国风民国",
+   "expected": "和平车站",
+   "style": "plaque",
+   "raw_ocr": [
+    "Lalu",
+    "0",
+    "BBIRIIORBB",
+    "URe",
+    "T00",
+    "ou",
+    "481u1",
+    "TIVn",
+    "]",
+    "UMtan",
+    "Ur",
+    "UMIIUU",
+    "4",
+    "{m",
+    "01",
+    "Unu",
+    "Os",
+    "Tuw』I",
+    "Toe",
+    "44Um",
+    "TTIIM",
+    "M",
+    "UUIUT",
+    "u",
+    "』"
+   ],
+   "sign_ocr": [
+    "鼍"
+   ],
+   "sign_ocr_best": "",
+   "similarity": 0.0,
+   "exact": false,
+   "contrast": 21.0,
+   "status": "FAIL",
+   "warn_raw_text": "原图检出模型自绘文字，需确认是否为伪字"
+  },
+  {
+   "sid": "bg100_republic_study",
+   "group": "新国风民国",
+   "expected": null,
+   "style": null,
+   "status": "NO_SIGN"
+  },
+  {
+   "sid": "bg100_republic_pharmacy",
+   "group": "新国风民国",
+   "expected": "济世堂",
+   "style": "plaque",
+   "raw_ocr": [],
+   "sign_ocr": [
+    "蠡"
+   ],
+   "sign_ocr_best": "",
+   "similarity": 0.0,
+   "exact": false,
+   "contrast": 40.5,
+   "status": "FAIL"
+  },
+  {
+   "sid": "bg100_republic_press",
+   "group": "新国风民国",
+   "expected": "申报馆",
+   "style": "plaque",
+   "raw_ocr": [],
+   "sign_ocr": [
+    "#"
+   ],
+   "sign_ocr_best": "",
+   "similarity": 0.0,
+   "exact": false,
+   "contrast": 25.1,
+   "status": "FAIL"
+  },
+  {
+   "sid": "bg100_newchinese_office",
+   "group": "新国风民国",
+   "expected": "和光",
+   "style": "lightbox",
+   "raw_ocr": [],
+   "sign_ocr": [],
+   "sign_ocr_best": "",
+   "similarity": 0.0,
+   "exact": false,
+   "contrast": 7.4,
+   "status": "FAIL",
+   "warn": "牌面与背景对比度过低"
+  },
+  {
+   "sid": "bg100_courtyard_house",
+   "group": "新国风民国",
+   "expected": null,
+   "style": null,
+   "status": "NO_SIGN"
+  },
+  {
+   "sid": "bg100_tang_market",
+   "group": "新国风民国",
+   "expected": "西市",
+   "style": "plaque",
+   "raw_ocr": [],
+   "sign_ocr": [
+    "G"
+   ],
+   "sign_ocr_best": "",
+   "similarity": 0.0,
+   "exact": false,
+   "contrast": 5.3,
+   "status": "FAIL",
+   "warn": "牌面与背景对比度过低"
+  },
+  {
+   "sid": "bg100_song_tavern",
+   "group": "新国风民国",
+   "expected": "望江楼",
+   "style": "plaque",
+   "raw_ocr": [],
+   "sign_ocr": [
+    "a"
+   ],
+   "sign_ocr_best": "",
+   "similarity": 0.0,
+   "exact": false,
+   "contrast": 1.2,
+   "status": "FAIL",
+   "warn": "牌面与背景对比度过低"
+  },
+  {
+   "sid": "bg100_ming_study",
+   "group": "新国风民国",
+   "expected": null,
+   "style": null,
+   "status": "NO_SIGN"
+  },
+  {
+   "sid": "bg100_newchinese_cafe",
+   "group": "新国风民国",
+   "expected": "有山",
+   "style": "lightbox",
+   "raw_ocr": [],
+   "sign_ocr": [],
+   "sign_ocr_best": "",
+   "similarity": 0.0,
+   "exact": false,
+   "contrast": 109.0,
+   "status": "FAIL"
+  },
+  {
+   "sid": "bg100_martial_stable",
+   "group": "新国风民国",
+   "expected": "马厩",
+   "style": "wood",
+   "raw_ocr": [],
+   "sign_ocr": [],
+   "sign_ocr_best": "",
+   "similarity": 0.0,
+   "exact": false,
+   "contrast": 23.2,
+   "status": "FAIL"
+  },
+  {
+   "sid": "bg100_sword_sect_gate",
+   "group": "新国风民国",
+   "expected": "玄剑门",
+   "style": "stone",
+   "raw_ocr": [
+    "吴豫煮",
+    "冒",
+    "~"
+   ],
+   "sign_ocr": [],
+   "sign_ocr_best": "",
+   "similarity": 0.0,
+   "exact": false,
+   "contrast": 0.9,
+   "status": "FAIL",
+   "warn": "牌面与背景对比度过低",
+   "warn_raw_text": "原图检出模型自绘文字，需确认是否为伪字"
+  },
+  {
+   "sid": "bg100_ancestral_hall",
+   "group": "新国风民国",
+   "expected": "陈氏宗祠",
+   "style": "plaque",
+   "raw_ocr": [],
+   "sign_ocr": [
+    "噩"
+   ],
+   "sign_ocr_best": "",
+   "similarity": 0.0,
+   "exact": false,
+   "contrast": 52.8,
+   "status": "FAIL"
+  },
+  {
+   "sid": "bg100_water_town_bridge",
+   "group": "新国风民国",
+   "expected": null,
+   "style": null,
+   "status": "NO_SIGN"
+  },
+  {
+   "sid": "bg100_newchinese_showroom",
+   "group": "新国风民国",
+   "expected": null,
+   "style": null,
+   "status": "NO_SIGN"
+  },
+  {
+   "sid": "bg100_dunhuang_cave",
+   "group": "新国风民国",
+   "expected": null,
+   "style": null,
+   "status": "NO_SIGN"
+  },
+  {
+   "sid": "bg100_guochao_hotpot",
+   "group": "新国风民国",
+   "expected": "老码头",
+   "style": "neon_warm",
+   "raw_ocr": [],
+   "sign_ocr": [],
+   "sign_ocr_best": "",
+   "similarity": 0.0,
+   "exact": false,
+   "contrast": 4.7,
+   "status": "FAIL",
+   "warn": "牌面与背景对比度过低"
+  },
+  {
+   "sid": "bg100_ink_barber",
+   "group": "新国风民国",
+   "expected": "墨剪",
+   "style": "lightbox",
+   "raw_ocr": [],
+   "sign_ocr": [],
+   "sign_ocr_best": "",
+   "similarity": 0.0,
+   "exact": false,
+   "contrast": 75.3,
+   "status": "FAIL"
+  },
+  {
+   "sid": "bg100_herbal_counter",
+   "group": "新国风民国",
+   "expected": "济生堂",
+   "style": "wood",
+   "raw_ocr": [
+    "00",
+    "皿",
+    "D日"
+   ],
+   "sign_ocr": [
+    "y"
+   ],
+   "sign_ocr_best": "",
+   "similarity": 0.0,
+   "exact": false,
+   "contrast": 7.2,
+   "status": "FAIL",
+   "warn": "牌面与背景对比度过低",
+   "warn_raw_text": "原图检出模型自绘文字，需确认是否为伪字"
+  },
+  {
+   "sid": "bg100_snow_taoist",
+   "group": "新国风民国",
+   "expected": "寒山观",
+   "style": "plaque",
+   "raw_ocr": [],
+   "sign_ocr": [
+    "訾"
+   ],
+   "sign_ocr_best": "",
+   "similarity": 0.0,
+   "exact": false,
+   "contrast": 69.5,
+   "status": "FAIL"
+  },
+  {
+   "sid": "bg100_warehouse_abandoned",
+   "group": "悬疑复仇",
+   "expected": null,
+   "style": null,
+   "status": "NO_SIGN"
+  },
+  {
+   "sid": "bg100_morgue_corridor",
+   "group": "悬疑复仇",
+   "expected": "解剖室",
+   "style": "metal",
+   "raw_ocr": [],
+   "sign_ocr": [
+    "鬻"
+   ],
+   "sign_ocr_best": "",
+   "similarity": 0.0,
+   "exact": false,
+   "contrast": 28.4,
+   "status": "FAIL"
+  },
+  {
+   "sid": "bg100_crime_scene_flat",
+   "group": "悬疑复仇",
+   "expected": "警戒线",
+   "style": "paper",
+   "raw_ocr": [
+    "圳",
+    "W",
+    "WRI",
+    "geUL",
+    "0fe",
+    "SNET",
+    "PNWWCg",
+    "C",
+    "QGRE",
+    "DN"
+   ],
+   "sign_ocr": [
+    "#"
+   ],
+   "sign_ocr_best": "",
+   "similarity": 0.0,
+   "exact": false,
+   "contrast": 80.1,
+   "status": "FAIL",
+   "warn_raw_text": "原图检出模型自绘文字，需确认是否为伪字"
+  },
+  {
+   "sid": "bg100_archive_room",
+   "group": "悬疑复仇",
+   "expected": "档案室",
+   "style": "metal",
+   "raw_ocr": [],
+   "sign_ocr": [
+    "蠡"
+   ],
+   "sign_ocr_best": "",
+   "similarity": 0.0,
+   "exact": false,
+   "contrast": 38.9,
+   "status": "FAIL"
+  },
+  {
+   "sid": "bg100_bunker_room",
+   "group": "悬疑复仇",
+   "expected": null,
+   "style": null,
+   "status": "NO_SIGN"
+  },
+  {
+   "sid": "bg100_old_hallway",
+   "group": "悬疑复仇",
+   "expected": null,
+   "style": null,
+   "status": "NO_SIGN"
+  },
+  {
+   "sid": "bg100_container_port",
+   "group": "悬疑复仇",
+   "expected": "禁止靠近",
+   "style": "paper",
+   "raw_ocr": [],
+   "sign_ocr": [],
+   "sign_ocr_best": "",
+   "similarity": 0.0,
+   "exact": false,
+   "contrast": 95.3,
+   "status": "FAIL"
+  },
+  {
+   "sid": "bg100_funeral_home",
+   "group": "悬疑复仇",
+   "expected": null,
+   "style": null,
+   "status": "NO_SIGN"
+  },
+  {
+   "sid": "bg100_control_room",
+   "group": "悬疑复仇",
+   "expected": "监控中心",
+   "style": "metal",
+   "raw_ocr": [],
+   "sign_ocr": [
+    "黧"
+   ],
+   "sign_ocr_best": "",
+   "similarity": 0.0,
+   "exact": false,
+   "contrast": 116.7,
+   "status": "FAIL"
+  },
+  {
+   "sid": "bg100_under_bridge",
+   "group": "悬疑复仇",
+   "expected": null,
+   "style": null,
+   "status": "NO_SIGN"
+  },
+  {
+   "sid": "bg100_phone_booth",
+   "group": "悬疑复仇",
+   "expected": "公用电话",
+   "style": "lightbox",
+   "raw_ocr": [
+    "+嫩",
+    "皿\"咀",
+    "U\""
+   ],
+   "sign_ocr": [],
+   "sign_ocr_best": "",
+   "similarity": 0.0,
+   "exact": false,
+   "contrast": 128.7,
+   "status": "FAIL",
+   "warn_raw_text": "原图检出模型自绘文字，需确认是否为伪字"
+  },
+  {
+   "sid": "bg100_last_train",
+   "group": "悬疑复仇",
+   "expected": null,
+   "style": null,
+   "status": "NO_SIGN"
+  },
+  {
+   "sid": "bg100_derelict_factory",
+   "group": "悬疑复仇",
+   "expected": "禁止入内",
+   "style": "paper",
+   "raw_ocr": [],
+   "sign_ocr": [
+    "警"
+   ],
+   "sign_ocr_best": "",
+   "similarity": 0.0,
+   "exact": false,
+   "contrast": 58.4,
+   "status": "FAIL"
+  },
+  {
+   "sid": "bg100_mortuary_hall",
+   "group": "悬疑复仇",
+   "expected": null,
+   "style": null,
+   "status": "NO_SIGN"
+  },
+  {
+   "sid": "bg100_secret_study",
+   "group": "悬疑复仇",
+   "expected": null,
+   "style": null,
+   "status": "NO_SIGN"
+  },
+  {
+   "sid": "bg100_suite_1204",
+   "group": "悬疑复仇",
+   "expected": null,
+   "style": null,
+   "status": "NO_SIGN"
+  },
+  {
+   "sid": "bg100_car_wash",
+   "group": "悬疑复仇",
+   "expected": "精洗",
+   "style": "neon_warm",
+   "raw_ocr": [],
+   "sign_ocr": [],
+   "sign_ocr_best": "",
+   "similarity": 0.0,
+   "exact": false,
+   "contrast": 30.2,
+   "status": "FAIL"
+  },
+  {
+   "sid": "bg100_underground_casino",
+   "group": "悬疑复仇",
+   "expected": "百家乐",
+   "style": "neon_pink",
+   "raw_ocr": [],
+   "sign_ocr": [],
+   "sign_ocr_best": "",
+   "similarity": 0.0,
+   "exact": false,
+   "contrast": 37.5,
+   "status": "FAIL"
+  },
+  {
+   "sid": "bg100_old_theatre_backstage",
+   "group": "悬疑复仇",
+   "expected": "后台",
+   "style": "metal",
+   "raw_ocr": [],
+   "sign_ocr": [
+    "寡",
+    "4h"
+   ],
+   "sign_ocr_best": "",
+   "similarity": 0.0,
+   "exact": false,
+   "contrast": 64.6,
+   "status": "FAIL"
+  },
+  {
+   "sid": "bg100_village_rental",
+   "group": "悬疑复仇",
+   "expected": null,
+   "style": null,
+   "status": "NO_SIGN"
+  },
+  {
+   "sid": "bg100_bridge_underpass",
+   "group": "悬疑复仇",
+   "expected": null,
+   "style": null,
+   "status": "NO_SIGN"
+  },
+  {
+   "sid": "bg100_funeral_shop",
+   "group": "悬疑复仇",
+   "expected": "寿衣",
+   "style": "paper",
+   "raw_ocr": [
+    "1",
+    "["
+   ],
+   "sign_ocr": [
+    "焱"
+   ],
+   "sign_ocr_best": "",
+   "similarity": 0.0,
+   "exact": false,
+   "contrast": 76.7,
+   "status": "FAIL",
+   "warn_raw_text": "原图检出模型自绘文字，需确认是否为伪字"
+  },
+  {
+   "sid": "bg100_night_market_stalls",
+   "group": "悬疑复仇",
+   "expected": null,
+   "style": null,
+   "status": "NO_SIGN"
+  },
+  {
+   "sid": "bg100_hospital_night",
+   "group": "悬疑复仇",
+   "expected": null,
+   "style": null,
+   "status": "NO_SIGN"
+  },
+  {
+   "sid": "bg100_sanatorium",
+   "group": "悬疑复仇",
+   "expected": "疗养院",
+   "style": "stone",
+   "raw_ocr": [],
+   "sign_ocr": [
+    "M"
+   ],
+   "sign_ocr_best": "",
+   "similarity": 0.0,
+   "exact": false,
+   "contrast": 34.5,
+   "status": "FAIL"
+  },
+  {
+   "sid": "bg100_police_evidence",
+   "group": "悬疑复仇",
+   "expected": "证物室",
+   "style": "metal",
+   "raw_ocr": [
+    "6"
+   ],
+   "sign_ocr": [
+    "篝"
+   ],
+   "sign_ocr_best": "",
+   "similarity": 0.0,
+   "exact": false,
+   "contrast": 12.5,
+   "status": "FAIL",
+   "warn": "牌面与背景对比度过低",
+   "warn_raw_text": "原图检出模型自绘文字，需确认是否为伪字"
+  }
+ ]
+}

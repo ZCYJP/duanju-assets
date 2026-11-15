@@ -1,0 +1,244 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""背景汉字真实性最终裁决：融合四层证据。
+
+证据层:
+  L1 OCR 字符集硬规则 (easyocr + tesseract)  -> scenes_100_text_audit.json
+  L2 VL 整图转写                              -> scenes_100_text_vl_verify.json
+  L3 VL 逐招牌真实/伪文字标注                  -> scenes_100_text_signcheck.json
+  L4 VL 4 倍高倍放大逐字符 + 拉丁语义判定      -> scenes_100_text_zoomcheck.json
+                                                scenes_100_text_semantic.json
+
+输出: /ssd2/duanju/scenes_100_text_final.json
+"""
+import difflib
+import json
+import os
+import re
+
+D = "/ssd2/duanju"
+OCR_JSON = f"{D}/scenes_100_text_audit.json"
+VL_JSON = f"{D}/scenes_100_text_vl_verify.json"
+SC_JSON = f"{D}/scenes_100_text_signcheck.json"
+ZM_JSON = f"{D}/scenes_100_text_zoomcheck.json"
+SEM_JSON = f"{D}/scenes_100_text_semantic.json"
+OUT = f"{D}/scenes_100_text_final.json"
+
+ALLOWED_RANGES = [(0x4E00, 0x9FFF), (0xF900, 0xFAFF), (0x3040, 0x30FF), (0xAC00, 0xD7AF)]
+MATCH_THRESHOLD = 0.5
+# VL 4 倍放大时对 "整儲工場" 这类会给多个标签，取任何含 [FAKE] 即判伪
+PSEUDO_TAGS = ("[FAKE]", "[伪文字]")
+
+
+def norm(s):
+    return re.sub(r"\s+", "", s or "")
+
+
+def char_ok(ch):
+    """空白字符视为合法 —— 多词招牌的词间空格不是伪文字。"""
+    cp = ord(ch)
+    if ch.isspace():
+        return True
+    if ch.isascii() and ch.isalnum():
+        return True
+    return any(lo <= cp <= hi for lo, hi in ALLOWED_RANGES)
+
+
+def strict_sim(expected, got):
+    if not expected or not got:
+        return 0.0
+    m = difflib.SequenceMatcher(None, expected, got)
+    ratio = m.ratio()
+    cov = sum(b.size for b in m.get_matching_blocks()) / float(len(expected))
+    return min(ratio, cov)
+
+
+def load(path, default=None):
+    if os.path.exists(path):
+        return json.load(open(path, encoding="utf-8"))
+    return default if default is not None else {}
+
+
+def parse_tagged(lines):
+    """把 '文本 | 标签' 解析成 [(text, [tags])]"""
+    out = []
+    for l in lines:
+        if "|" not in l:
+            continue
+        left, right = l.split("|", 1)
+        t = left.strip()
+        tags = re.findall(r"\[[^\]]+\]", right)
+        if t:
+            out.append((t, [x.upper() for x in tags]))
+    return out
+
+
+def main():
+    ocr = load(OCR_JSON)
+    vl = {r["sid"]: r for r in load(VL_JSON, [])}
+    sc = {r["sid"]: r for r in load(SC_JSON, [])}
+    zm = {r["sid"]: r for r in load(ZM_JSON, [])}
+    sem = load(SEM_JSON, {}).get("verdicts", {})
+
+    items = []
+    for it in ocr["items"]:
+        sid = os.path.splitext(it["file"])[0]
+        exp = norm(it.get("expected", ""))
+        v = vl.get(sid, {})
+        s = sc.get(sid, {})
+        z = zm.get(sid, {})
+
+        # ---- L1: OCR 字符集 + 覆盖度 ----
+        ocr_best, ocr_best_txt = 0.0, ""
+        ocr_private_use = []
+        for e in it.get("ocr_strings", []):
+            if e.get("char_verdict") != "real":
+                continue
+            c = norm(e["text"])
+            if not c:
+                continue
+            sc_ = strict_sim(exp, c)
+            if sc_ > ocr_best:
+                ocr_best, ocr_best_txt = sc_, e["text"]
+        for e in it.get("ocr_strings", []):
+            if e.get("char_verdict") == "pseudo":
+                for ch in e.get("bad_chars", []):
+                    if 0xE000 <= ord(ch) <= 0xF8FF:
+                        ocr_private_use.append(e["text"])
+                        break
+
+        # ---- L2: VL 整图 ----
+        vl_best, vl_best_txt = 0.0, ""
+        vl_pseudo_lines = []
+        for line in v.get("vl_lines", []):
+            if "[伪文字]" in line:
+                vl_pseudo_lines.append(line.strip())
+                continue
+            t = norm(line.replace("[无文字]", ""))
+            if not t or t.startswith("["):
+                continue
+            s_ = strict_sim(exp, t)
+            if s_ > vl_best:
+                vl_best, vl_best_txt = s_, line.strip()
+
+        # ---- L3: VL 逐招牌 ----
+        sc_pseudo = []
+        sc_real = []
+        for t, tags in parse_tagged(s.get("lines", [])):
+            if any("伪文字" in x or "FAKE" in x for x in tags):
+                sc_pseudo.append(t)
+            elif any("真实" in x or "REAL" in x or "CJK" in x for x in tags):
+                sc_real.append(t)
+        # 未按格式输出的行里若直接带 [伪文字]
+        for line in s.get("lines", []):
+            if "[伪文字]" in line and "真实字符/" not in line:
+                if line.strip() not in sc_pseudo:
+                    sc_pseudo.append(line.strip())
+
+        # ---- L4: VL 4 倍放大 ----
+        zm_pseudo = []
+        zm_real = []
+        for t, tags in parse_tagged(z.get("lines", [])):
+            if any("FAKE" in x or "伪文字" in x for x in tags):
+                zm_pseudo.append(t)
+            elif any("REAL" in x or "CJK" in x for x in tags):
+                zm_real.append(t)
+
+        # ---- L4b: 拉丁串语义判定 ----
+        sem_pseudo = sorted(k for k, v_ in sem.items() if v_ == "PSEUDO")
+
+        # 汇总伪文字证据（去重）
+        pseudo_evidence = []
+        for lst in (vl_pseudo_lines, sc_pseudo, zm_pseudo, ocr_private_use):
+            for x in lst:
+                if x and x not in pseudo_evidence:
+                    pseudo_evidence.append(x)
+        # 语义判定命中的串（EXAACT / FABLISATEBIC / FRUNIC...）也要计入
+        for k in sem_pseudo:
+            for src in (v.get("vl_lines", []), s.get("lines", []), z.get("lines", [])):
+                for line in src:
+                    if k.split()[0] and k.split()[0] in line and line not in pseudo_evidence:
+                        pseudo_evidence.append(line)
+
+        # 主招牌是否被正确读出（真实文字的正面证据）
+        main_ok = (ocr_best >= MATCH_THRESHOLD) or (vl_best >= MATCH_THRESHOLD)
+
+        # ---- 裁决 ----
+        if pseudo_evidence:
+            verdict = "伪文字"
+            reason = (f"检出伪文字证据 {len(pseudo_evidence)} 条: "
+                      f"{pseudo_evidence[:4]}")
+            conf = "高" if (zm_pseudo or sc_pseudo or vl_pseudo_lines) else "中"
+        elif main_ok:
+            verdict = "真实文字"
+            reason = (f"主招牌被正确读出 (OCR覆盖 {ocr_best:.2f} / VL覆盖 {vl_best:.2f})"
+                      f"{', 预期=' + repr(it.get('expected', ''))}")
+            conf = "高" if (ocr_best >= MATCH_THRESHOLD and vl_best >= MATCH_THRESHOLD) else "中"
+        else:
+            if it.get("n_text_regions", 0) > 0:
+                verdict = "伪文字"
+                reason = (f"检出 {it['n_text_regions']} 处文字状区域, 但 OCR({ocr_best:.2f}) "
+                          f"与 VL({vl_best:.2f}) 均无法读出预期招牌 "
+                          f"{it.get('expected','')!r}")
+                conf = "中"
+            else:
+                verdict = "无文字"
+                reason = "无 OCR 结果、无 VL 转写、形态学未检出文字状区域"
+                conf = "中"
+
+        items.append({
+            "file": it["file"], "sid": sid,
+            "expected": it.get("expected", ""), "lang": it.get("lang", ""),
+            "verdict": verdict, "confidence": conf, "reason": reason,
+            "pseudo_evidence": pseudo_evidence,
+            "ocr_similarity": round(ocr_best, 4), "ocr_best": ocr_best_txt,
+            "vl_similarity": round(vl_best, 4), "vl_best": vl_best_txt,
+            "vl_lines": v.get("vl_lines", []),
+            "signcheck_lines": s.get("lines", []),
+            "zoom_lines": z.get("lines", []),
+            "n_text_regions": it.get("n_text_regions", 0),
+            "crops": it.get("crops", []),
+            "size_ok": it.get("size_ok", True),
+        })
+
+    summary = {"total": len(items)}
+    for k in ("真实文字", "伪文字", "无文字"):
+        summary[k] = sum(1 for r in items if r["verdict"] == k)
+        summary[f"{k}图片"] = [r["file"] for r in items if r["verdict"] == k]
+    summary["高置信"] = sum(1 for r in items if r["confidence"] == "高")
+    summary["含伪文字细节"] = {r["file"]: r["pseudo_evidence"]
+                              for r in items if r["pseudo_evidence"]}
+
+    out = {
+        "meta": {
+            "rule": ("允许字符: CJK统一 U+4E00-U+9FFF / CJK兼容 U+F900-U+FAFF / "
+                     "假名 U+3040-U+30FF / 谚文 U+AC00-U+D7AF / ASCII字母数字; "
+                     "私用区与罕见符号判为伪文字"),
+            "match_threshold": MATCH_THRESHOLD,
+            "match_metric": "min(SequenceMatcher.ratio, 预期串覆盖率)",
+            "evidence_layers": {
+                "L1_ocr": OCR_JSON, "L2_vl_full": VL_JSON,
+                "L3_vl_sign": SC_JSON, "L4_vl_zoom": ZM_JSON,
+                "L4b_latin_semantic": SEM_JSON,
+            },
+            "crop_dir": f"{D}/bg_text_crops",
+            "no_images_modified": True,
+        },
+        "summary": summary,
+        "items": items,
+    }
+    with open(OUT, "w", encoding="utf-8") as f:
+        json.dump(out, f, ensure_ascii=False, indent=2)
+
+    print(json.dumps({k: v for k, v in summary.items()
+                      if not isinstance(v, (list, dict))}, ensure_ascii=False, indent=2))
+    for k in ("伪文字", "无文字"):
+        print(f"{k}({len(summary[f'{k}图片'])}): {summary[f'{k}图片']}")
+    print("\n伪文字细节:")
+    for f, ev in summary["含伪文字细节"].items():
+        print(f"  {f}: {ev}")
+    print(f"\n[done] -> {OUT}")
+
+
+if __name__ == "__main__":
+    main()

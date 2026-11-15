@@ -91,3 +91,45 @@ _probe_b100/
 _probe_tts/
 _probe_tts.py
 scenes_b100/
+
+# ===== 修正：scripts/ 下的 tmp_* 不是临时垃圾，而是正式的可复现生成脚本 =====
+# 全局 tmp_* 规则本意是排除一次性临时文件；但 scripts/ 下的链路脚本是资产库的
+# 复现依据（性别修复 / 背景文字审计 / 音色音高校准），缺了它们 README 的
+# 「复现」段落就是断的。此处白名单只匹配 scripts/ 直接子级，不波及其他位置。
+!scripts/tmp_*
+
+# ===== 竖版背景出图链路（b100）：图片工作区不入库，核验 JSON 与方法论脚本入库 =====
+scenes_b100_final/
+scenes_b100_signed/
+scenes_b100_v3/
+scenes_b100_quarantine_1000/
+sheets_b100/
+_probe_b100/
+_probe_tts/
+_probe_tts.py
+scenes_b100/
+
+# ===== 诊断/探针目录：全部为可重建的中间产物 =====
+# 顶层下划线开头的目录一律不入库（b100 链路的 _diag_*/_v*_plate/_v*_zoom/
+# _t*_final/_final_* 等 35 个目录，合计约 350 MB）；该链路后续再产出的
+# 新诊断目录也会被本规则自动覆盖，不必再逐个列举。
+/_*/
+_probe_tts.py
+
+# ===== 《零点四十七单》短剧：中间产物不入库，保留脚本/剧本/质检记录 =====
+drama_midnight47/frames/
+drama_midnight47/frames_norm/
+drama_midnight47/motion/
+drama_midnight47/motion_segs/
+drama_midnight47/voice/
+drama_midnight47/work/
+drama_midnight47/compose_work_A/
+drama_midnight47/compose_work_B/
+drama_midnight47/logs/
+drama_midnight47/__pycache__/
+drama_midnight47/final/*.mp4
+
+# ===== 追加：竖版背景 b100 链路仍在运行（v4 轮次 + 放大核验 + VL 判定） =====
+# 该链路 2026-11-15 19:59~20:02 仍在产出，产物目录一律不入库，避免 LFS 白传。
+scenes_b100_v*/
+drama_midnight47/cv_test/

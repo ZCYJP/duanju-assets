@@ -1,0 +1,3161 @@
+{
+ "summary": {
+  "total": 70,
+  "ok": 70,
+  "center_outside_box": 0,
+  "iou_below_0.5": 2,
+  "no_change": 0
+ },
+ "items": [
+  {
+   "sid": "bg100_exec_meeting",
+   "expected": "远景集团",
+   "style": "metal",
+   "vertical": false,
+   "box": [
+    0.3,
+    0.09,
+    0.7,
+    0.19
+   ],
+   "img": [
+    752,
+    1392
+   ],
+   "status": "OK",
+   "actual_bbox": [
+    203,
+    103,
+    547,
+    285
+   ],
+   "expect_bbox_px": [
+    225,
+    125,
+    526,
+    264
+   ],
+   "actual_size": [
+    344,
+    182
+   ],
+   "expect_size": [
+    301,
+    139
+   ],
+   "iou": 0.668,
+   "center_in_box": true,
+   "frac_change_in_box": 0.663,
+   "change_px": 63124,
+   "actual_center": [
+    375,
+    194
+   ]
+  },
+  {
+   "sid": "bg100_tower_lobby",
+   "expected": "云顶国际",
+   "style": "lightbox",
+   "vertical": false,
+   "box": [
+    0.52,
+    0.14,
+    0.9,
+    0.26
+   ],
+   "img": [
+    752,
+    1392
+   ],
+   "status": "OK",
+   "actual_bbox": [
+    370,
+    173,
+    696,
+    381
+   ],
+   "expect_bbox_px": [
+    391,
+    194,
+    676,
+    361
+   ],
+   "actual_size": [
+    326,
+    208
+   ],
+   "expect_size": [
+    285,
+    167
+   ],
+   "iou": 0.702,
+   "center_in_box": true,
+   "frac_change_in_box": 0.697,
+   "change_px": 68121,
+   "actual_center": [
+    533,
+    277
+   ]
+  },
+  {
+   "sid": "bg100_ceo_office",
+   "expected": "董事长办公室",
+   "style": "metal",
+   "vertical": false,
+   "box": [
+    0.12,
+    0.17,
+    0.54,
+    0.28
+   ],
+   "img": [
+    752,
+    1392
+   ],
+   "status": "OK",
+   "actual_bbox": [
+    75,
+    221,
+    420,
+    403
+   ],
+   "expect_bbox_px": [
+    90,
+    236,
+    406,
+    389
+   ],
+   "actual_size": [
+    345,
+    182
+   ],
+   "expect_size": [
+    316,
+    153
+   ],
+   "iou": 0.77,
+   "center_in_box": true,
+   "frac_change_in_box": 0.763,
+   "change_px": 63139,
+   "actual_center": [
+    247,
+    312
+   ]
+  },
+  {
+   "sid": "bg100_fine_dining",
+   "expected": "和风料理",
+   "style": "lightbox",
+   "vertical": false,
+   "box": [
+    0.22,
+    0.16,
+    0.62,
+    0.27
+   ],
+   "img": [
+    752,
+    1392
+   ],
+   "status": "OK",
+   "actual_bbox": [
+    143,
+    200,
+    487,
+    396
+   ],
+   "expect_bbox_px": [
+    165,
+    222,
+    466,
+    375
+   ],
+   "actual_size": [
+    344,
+    196
+   ],
+   "expect_size": [
+    301,
+    153
+   ],
+   "iou": 0.683,
+   "center_in_box": true,
+   "frac_change_in_box": 0.678,
+   "change_px": 67965,
+   "actual_center": [
+    315,
+    298
+   ]
+  },
+  {
+   "sid": "bg100_wine_cellar",
+   "expected": "藏酒阁",
+   "style": "darkwood",
+   "vertical": true,
+   "box": [
+    0.64,
+    0.28,
+    0.86,
+    0.62
+   ],
+   "img": [
+    752,
+    1392
+   ],
+   "status": "OK",
+   "actual_bbox": [
+    442,
+    350,
+    684,
+    901
+   ],
+   "expect_bbox_px": [
+    481,
+    389,
+    646,
+    863
+   ],
+   "actual_size": [
+    242,
+    551
+   ],
+   "expect_size": [
+    165,
+    474
+   ],
+   "iou": 0.587,
+   "center_in_box": true,
+   "frac_change_in_box": 0.58,
+   "change_px": 124031,
+   "actual_center": [
+    563,
+    625
+   ]
+  },
+  {
+   "sid": "bg100_elevator_lobby",
+   "expected": "26F",
+   "style": "metal",
+   "vertical": false,
+   "box": [
+    0.34,
+    0.33,
+    0.66,
+    0.43
+   ],
+   "img": [
+    752,
+    1392
+   ],
+   "status": "OK",
+   "actual_bbox": [
+    224,
+    428,
+    526,
+    628
+   ],
+   "expect_bbox_px": [
+    255,
+    459,
+    496,
+    598
+   ],
+   "actual_size": [
+    302,
+    200
+   ],
+   "expect_size": [
+    241,
+    139
+   ],
+   "iou": 0.555,
+   "center_in_box": true,
+   "frac_change_in_box": 0.55,
+   "change_px": 60903,
+   "actual_center": [
+    375,
+    528
+   ]
+  },
+  {
+   "sid": "bg100_airport_vip",
+   "expected": "贵宾休息室",
+   "style": "lightbox",
+   "vertical": false,
+   "box": [
+    0.28,
+    0.12,
+    0.7,
+    0.23
+   ],
+   "img": [
+    752,
+    1392
+   ],
+   "status": "OK",
+   "actual_bbox": [
+    192,
+    149,
+    543,
+    337
+   ],
+   "expect_bbox_px": [
+    210,
+    167,
+    526,
+    320
+   ],
+   "actual_size": [
+    351,
+    188
+   ],
+   "expect_size": [
+    316,
+    153
+   ],
+   "iou": 0.733,
+   "center_in_box": true,
+   "frac_change_in_box": 0.727,
+   "change_px": 66528,
+   "actual_center": [
+    367,
+    243
+   ]
+  },
+  {
+   "sid": "bg100_rainy_neon",
+   "expected": "夜上海",
+   "style": "neon_pink",
+   "vertical": false,
+   "box": [
+    0.22,
+    0.13,
+    0.66,
+    0.24
+   ],
+   "img": [
+    752,
+    1392
+   ],
+   "status": "OK",
+   "actual_bbox": [
+    134,
+    149,
+    526,
+    364
+   ],
+   "expect_bbox_px": [
+    165,
+    180,
+    496,
+    334
+   ],
+   "actual_size": [
+    392,
+    215
+   ],
+   "expect_size": [
+    331,
+    154
+   ],
+   "iou": 0.605,
+   "center_in_box": true,
+   "frac_change_in_box": 0.601,
+   "change_px": 84750,
+   "actual_center": [
+    330,
+    256
+   ]
+  },
+  {
+   "sid": "bg100_underground_park",
+   "expected": "地下车库",
+   "style": "metal",
+   "vertical": false,
+   "box": [
+    0.3,
+    0.19,
+    0.64,
+    0.29
+   ],
+   "img": [
+    752,
+    1392
+   ],
+   "status": "OK",
+   "actual_bbox": [
+    206,
+    245,
+    499,
+    421
+   ],
+   "expect_bbox_px": [
+    225,
+    264,
+    481,
+    403
+   ],
+   "actual_size": [
+    293,
+    176
+   ],
+   "expect_size": [
+    256,
+    139
+   ],
+   "iou": 0.69,
+   "center_in_box": true,
+   "frac_change_in_box": 0.676,
+   "change_px": 50798,
+   "actual_center": [
+    352,
+    333
+   ]
+  },
+  {
+   "sid": "bg100_office_cafe",
+   "expected": "SLOW COFFEE",
+   "style": "lightbox",
+   "vertical": false,
+   "box": [
+    0.24,
+    0.14,
+    0.72,
+    0.25
+   ],
+   "img": [
+    752,
+    1392
+   ],
+   "status": "OK",
+   "actual_bbox": [
+    168,
+    182,
+    552,
+    359
+   ],
+   "expect_bbox_px": [
+    180,
+    194,
+    541,
+    348
+   ],
+   "actual_size": [
+    384,
+    177
+   ],
+   "expect_size": [
+    361,
+    154
+   ],
+   "iou": 0.818,
+   "center_in_box": true,
+   "frac_change_in_box": 0.811,
+   "change_px": 68526,
+   "actual_center": [
+    360,
+    270
+   ]
+  },
+  {
+   "sid": "bg100_law_meeting",
+   "expected": "明诚律师事务所",
+   "style": "plaque",
+   "vertical": false,
+   "box": [
+    0.2,
+    0.1,
+    0.68,
+    0.22
+   ],
+   "img": [
+    752,
+    1392
+   ],
+   "status": "OK",
+   "actual_bbox": [
+    135,
+    124,
+    525,
+    320
+   ],
+   "expect_bbox_px": [
+    150,
+    139,
+    511,
+    306
+   ],
+   "actual_size": [
+    390,
+    196
+   ],
+   "expect_size": [
+    361,
+    167
+   ],
+   "iou": 0.789,
+   "center_in_box": true,
+   "frac_change_in_box": 0.783,
+   "change_px": 76993,
+   "actual_center": [
+    330,
+    222
+   ]
+  },
+  {
+   "sid": "bg100_vip_ward",
+   "expected": "特护病房",
+   "style": "metal",
+   "vertical": false,
+   "box": [
+    0.55,
+    0.27,
+    0.84,
+    0.36
+   ],
+   "img": [
+    752,
+    1392
+   ],
+   "status": "OK",
+   "actual_bbox": [
+    398,
+    360,
+    645,
+    515
+   ],
+   "expect_bbox_px": [
+    413,
+    375,
+    631,
+    501
+   ],
+   "actual_size": [
+    247,
+    155
+   ],
+   "expect_size": [
+    218,
+    126
+   ],
+   "iou": 0.717,
+   "center_in_box": true,
+   "frac_change_in_box": 0.708,
+   "change_px": 38268,
+   "actual_center": [
+    521,
+    437
+   ]
+  },
+  {
+   "sid": "bg100_hotel_lobby",
+   "expected": "皇庭酒店",
+   "style": "plaque",
+   "vertical": false,
+   "box": [
+    0.58,
+    0.12,
+    0.9,
+    0.24
+   ],
+   "img": [
+    752,
+    1392
+   ],
+   "status": "OK",
+   "actual_bbox": [
+    419,
+    150,
+    692,
+    350
+   ],
+   "expect_bbox_px": [
+    436,
+    167,
+    676,
+    334
+   ],
+   "actual_size": [
+    273,
+    200
+   ],
+   "expect_size": [
+    240,
+    167
+   ],
+   "iou": 0.734,
+   "center_in_box": true,
+   "frac_change_in_box": 0.728,
+   "change_px": 55045,
+   "actual_center": [
+    555,
+    250
+   ]
+  },
+  {
+   "sid": "bg100_fashion_boutique",
+   "expected": "MAISON",
+   "style": "lightbox",
+   "vertical": false,
+   "box": [
+    0.3,
+    0.12,
+    0.7,
+    0.23
+   ],
+   "img": [
+    752,
+    1392
+   ],
+   "status": "OK",
+   "actual_bbox": [
+    206,
+    148,
+    544,
+    338
+   ],
+   "expect_bbox_px": [
+    225,
+    167,
+    526,
+    320
+   ],
+   "actual_size": [
+    338,
+    190
+   ],
+   "expect_size": [
+    301,
+    153
+   ],
+   "iou": 0.717,
+   "center_in_box": true,
+   "frac_change_in_box": 0.704,
+   "change_px": 63024,
+   "actual_center": [
+    375,
+    243
+   ]
+  },
+  {
+   "sid": "bg100_convenience_store",
+   "expected": "24小时便利店",
+   "style": "neon_warm",
+   "vertical": false,
+   "box": [
+    0.18,
+    0.12,
+    0.74,
+    0.25
+   ],
+   "img": [
+    752,
+    1392
+   ],
+   "status": "OK",
+   "actual_bbox": [
+    116,
+    148,
+    574,
+    366
+   ],
+   "expect_bbox_px": [
+    135,
+    167,
+    556,
+    348
+   ],
+   "actual_size": [
+    458,
+    218
+   ],
+   "expect_size": [
+    421,
+    181
+   ],
+   "iou": 0.763,
+   "center_in_box": true,
+   "frac_change_in_box": 0.758,
+   "change_px": 99665,
+   "actual_center": [
+    345,
+    257
+   ]
+  },
+  {
+   "sid": "bg100_private_club",
+   "expected": "和悦会",
+   "style": "plaque",
+   "vertical": false,
+   "box": [
+    0.28,
+    0.12,
+    0.64,
+    0.23
+   ],
+   "img": [
+    752,
+    1392
+   ],
+   "status": "OK",
+   "actual_bbox": [
+    184,
+    141,
+    506,
+    345
+   ],
+   "expect_bbox_px": [
+    210,
+    167,
+    481,
+    320
+   ],
+   "actual_size": [
+    322,
+    204
+   ],
+   "expect_size": [
+    271,
+    153
+   ],
+   "iou": 0.631,
+   "center_in_box": true,
+   "frac_change_in_box": 0.625,
+   "change_px": 65919,
+   "actual_center": [
+    345,
+    243
+   ]
+  },
+  {
+   "sid": "bg100_art_gallery",
+   "expected": "云隐画廊",
+   "style": "lightbox",
+   "vertical": false,
+   "box": [
+    0.24,
+    0.14,
+    0.62,
+    0.24
+   ],
+   "img": [
+    752,
+    1392
+   ],
+   "status": "OK",
+   "actual_bbox": [
+    161,
+    175,
+    484,
+    352
+   ],
+   "expect_bbox_px": [
+    180,
+    194,
+    466,
+    334
+   ],
+   "actual_size": [
+    323,
+    177
+   ],
+   "expect_size": [
+    286,
+    140
+   ],
+   "iou": 0.7,
+   "center_in_box": true,
+   "frac_change_in_box": 0.679,
+   "change_px": 54853,
+   "actual_center": [
+    322,
+    263
+   ]
+  },
+  {
+   "sid": "bg100_trading_floor",
+   "expected": "交易大厅",
+   "style": "metal",
+   "vertical": false,
+   "box": [
+    0.26,
+    0.07,
+    0.68,
+    0.16
+   ],
+   "img": [
+    752,
+    1392
+   ],
+   "status": "OK",
+   "actual_bbox": [
+    172,
+    74,
+    533,
+    244
+   ],
+   "expect_bbox_px": [
+    195,
+    97,
+    511,
+    222
+   ],
+   "actual_size": [
+    361,
+    170
+   ],
+   "expect_size": [
+    316,
+    125
+   ],
+   "iou": 0.644,
+   "center_in_box": true,
+   "frac_change_in_box": 0.638,
+   "change_px": 61902,
+   "actual_center": [
+    352,
+    159
+   ]
+  },
+  {
+   "sid": "bg100_interrogation_room",
+   "expected": "审讯室",
+   "style": "metal",
+   "vertical": false,
+   "box": [
+    0.3,
+    0.3,
+    0.66,
+    0.4
+   ],
+   "img": [
+    752,
+    1392
+   ],
+   "status": "OK",
+   "actual_bbox": [
+    199,
+    391,
+    521,
+    581
+   ],
+   "expect_bbox_px": [
+    225,
+    417,
+    496,
+    556
+   ],
+   "actual_size": [
+    322,
+    190
+   ],
+   "expect_size": [
+    271,
+    139
+   ],
+   "iou": 0.616,
+   "center_in_box": true,
+   "frac_change_in_box": 0.625,
+   "change_px": 59905,
+   "actual_center": [
+    360,
+    486
+   ]
+  },
+  {
+   "sid": "bg100_mountain_gate",
+   "expected": "清虚门",
+   "style": "stone",
+   "vertical": true,
+   "box": [
+    0.09,
+    0.46,
+    0.25,
+    0.86
+   ],
+   "img": [
+    752,
+    1392
+   ],
+   "status": "OK",
+   "actual_bbox": [
+    34,
+    607,
+    220,
+    1229
+   ],
+   "expect_bbox_px": [
+    67,
+    640,
+    188,
+    1197
+   ],
+   "actual_size": [
+    186,
+    622
+   ],
+   "expect_size": [
+    121,
+    557
+   ],
+   "iou": 0.583,
+   "center_in_box": true,
+   "frac_change_in_box": 0.568,
+   "change_px": 107182,
+   "actual_center": [
+    127,
+    918
+   ]
+  },
+  {
+   "sid": "bg100_golden_hall",
+   "expected": "正阳殿",
+   "style": "plaque",
+   "vertical": false,
+   "box": [
+    0.3,
+    0.08,
+    0.7,
+    0.19
+   ],
+   "img": [
+    752,
+    1392
+   ],
+   "status": "OK",
+   "actual_bbox": [
+    196,
+    82,
+    554,
+    292
+   ],
+   "expect_bbox_px": [
+    225,
+    111,
+    526,
+    264
+   ],
+   "actual_size": [
+    358,
+    210
+   ],
+   "expect_size": [
+    301,
+    153
+   ],
+   "iou": 0.613,
+   "center_in_box": true,
+   "frac_change_in_box": 0.605,
+   "change_px": 74783,
+   "actual_center": [
+    375,
+    187
+   ]
+  },
+  {
+   "sid": "bg100_sect_arena",
+   "expected": "演武场",
+   "style": "wall",
+   "vertical": false,
+   "box": [
+    0.24,
+    0.22,
+    0.6,
+    0.34
+   ],
+   "img": [
+    752,
+    1392
+   ],
+   "status": "OK",
+   "actual_bbox": [
+    260,
+    305,
+    400,
+    498
+   ],
+   "expect_bbox_px": [
+    180,
+    306,
+    451,
+    473
+   ],
+   "actual_size": [
+    140,
+    193
+   ],
+   "expect_size": [
+    271,
+    167
+   ],
+   "iou": 0.478,
+   "center_in_box": true,
+   "frac_change_in_box": 0.885,
+   "change_px": 24092,
+   "actual_center": [
+    330,
+    401
+   ]
+  },
+  {
+   "sid": "bg100_herb_hut",
+   "expected": "百草堂",
+   "style": "wood",
+   "vertical": true,
+   "box": [
+    0.09,
+    0.26,
+    0.21,
+    0.58
+   ],
+   "img": [
+    752,
+    1392
+   ],
+   "status": "OK",
+   "actual_bbox": [
+    42,
+    336,
+    181,
+    831
+   ],
+   "expect_bbox_px": [
+    67,
+    361,
+    157,
+    807
+   ],
+   "actual_size": [
+    139,
+    495
+   ],
+   "expect_size": [
+    90,
+    446
+   ],
+   "iou": 0.583,
+   "center_in_box": true,
+   "frac_change_in_box": 0.579,
+   "change_px": 68516,
+   "actual_center": [
+    111,
+    583
+   ]
+  },
+  {
+   "sid": "bg100_scripture_pavilion",
+   "expected": "藏经阁",
+   "style": "plaque",
+   "vertical": false,
+   "box": [
+    0.3,
+    0.14,
+    0.68,
+    0.26
+   ],
+   "img": [
+    752,
+    1392
+   ],
+   "status": "OK",
+   "actual_bbox": [
+    199,
+    168,
+    536,
+    386
+   ],
+   "expect_bbox_px": [
+    225,
+    194,
+    511,
+    361
+   ],
+   "actual_size": [
+    337,
+    218
+   ],
+   "expect_size": [
+    286,
+    167
+   ],
+   "iou": 0.65,
+   "center_in_box": true,
+   "frac_change_in_box": 0.645,
+   "change_px": 74020,
+   "actual_center": [
+    367,
+    277
+   ]
+  },
+  {
+   "sid": "bg100_inn_hall",
+   "expected": "悦来客栈",
+   "style": "plaque",
+   "vertical": false,
+   "box": [
+    0.26,
+    0.11,
+    0.66,
+    0.22
+   ],
+   "img": [
+    752,
+    1392
+   ],
+   "status": "OK",
+   "actual_bbox": [
+    173,
+    131,
+    517,
+    327
+   ],
+   "expect_bbox_px": [
+    195,
+    153,
+    496,
+    306
+   ],
+   "actual_size": [
+    344,
+    196
+   ],
+   "expect_size": [
+    301,
+    153
+   ],
+   "iou": 0.683,
+   "center_in_box": true,
+   "frac_change_in_box": 0.678,
+   "change_px": 67924,
+   "actual_center": [
+    345,
+    229
+   ]
+  },
+  {
+   "sid": "bg100_tavern_upper",
+   "expected": "临江楼",
+   "style": "plaque",
+   "vertical": false,
+   "box": [
+    0.3,
+    0.12,
+    0.66,
+    0.23
+   ],
+   "img": [
+    752,
+    1392
+   ],
+   "status": "OK",
+   "actual_bbox": [
+    199,
+    141,
+    521,
+    345
+   ],
+   "expect_bbox_px": [
+    225,
+    167,
+    496,
+    320
+   ],
+   "actual_size": [
+    322,
+    204
+   ],
+   "expect_size": [
+    271,
+    153
+   ],
+   "iou": 0.631,
+   "center_in_box": true,
+   "frac_change_in_box": 0.626,
+   "change_px": 66211,
+   "actual_center": [
+    360,
+    243
+   ]
+  },
+  {
+   "sid": "bg100_city_god_temple",
+   "expected": "城隍庙",
+   "style": "plaque",
+   "vertical": false,
+   "box": [
+    0.28,
+    0.12,
+    0.66,
+    0.23
+   ],
+   "img": [
+    752,
+    1392
+   ],
+   "status": "OK",
+   "actual_bbox": [
+    184,
+    141,
+    521,
+    345
+   ],
+   "expect_bbox_px": [
+    210,
+    167,
+    496,
+    320
+   ],
+   "actual_size": [
+    337,
+    204
+   ],
+   "expect_size": [
+    286,
+    153
+   ],
+   "iou": 0.636,
+   "center_in_box": true,
+   "frac_change_in_box": 0.632,
+   "change_px": 69290,
+   "actual_center": [
+    352,
+    243
+   ]
+  },
+  {
+   "sid": "bg100_chancellor_court",
+   "expected": "丞相府",
+   "style": "plaque",
+   "vertical": false,
+   "box": [
+    0.3,
+    0.13,
+    0.68,
+    0.24
+   ],
+   "img": [
+    752,
+    1392
+   ],
+   "status": "OK",
+   "actual_bbox": [
+    199,
+    154,
+    536,
+    359
+   ],
+   "expect_bbox_px": [
+    225,
+    180,
+    511,
+    334
+   ],
+   "actual_size": [
+    337,
+    205
+   ],
+   "expect_size": [
+    286,
+    154
+   ],
+   "iou": 0.638,
+   "center_in_box": true,
+   "frac_change_in_box": 0.633,
+   "change_px": 69628,
+   "actual_center": [
+    367,
+    256
+   ]
+  },
+  {
+   "sid": "bg100_bamboo_sword_hut",
+   "expected": "听风剑庐",
+   "style": "wood",
+   "vertical": true,
+   "box": [
+    0.69,
+    0.3,
+    0.81,
+    0.64
+   ],
+   "img": [
+    752,
+    1392
+   ],
+   "status": "OK",
+   "actual_bbox": [
+    493,
+    392,
+    633,
+    914
+   ],
+   "expect_bbox_px": [
+    518,
+    417,
+    609,
+    890
+   ],
+   "actual_size": [
+    140,
+    522
+   ],
+   "expect_size": [
+    91,
+    473
+   ],
+   "iou": 0.589,
+   "center_in_box": true,
+   "frac_change_in_box": 0.585,
+   "change_px": 73507,
+   "actual_center": [
+    563,
+    653
+   ]
+  },
+  {
+   "sid": "bg100_alchemy_room",
+   "expected": "炼丹房",
+   "style": "wall",
+   "vertical": false,
+   "box": [
+    0.2,
+    0.24,
+    0.56,
+    0.38
+   ],
+   "img": [
+    752,
+    1392
+   ],
+   "status": "OK",
+   "actual_bbox": [
+    235,
+    336,
+    353,
+    532
+   ],
+   "expect_bbox_px": [
+    150,
+    334,
+    421,
+    528
+   ],
+   "actual_size": [
+    118,
+    196
+   ],
+   "expect_size": [
+    271,
+    194
+   ],
+   "iou": 0.427,
+   "center_in_box": true,
+   "frac_change_in_box": 0.994,
+   "change_px": 12225,
+   "actual_center": [
+    294,
+    434
+   ]
+  },
+  {
+   "sid": "bg100_council_hall",
+   "expected": "议事殿",
+   "style": "plaque",
+   "vertical": false,
+   "box": [
+    0.32,
+    0.12,
+    0.68,
+    0.22
+   ],
+   "img": [
+    752,
+    1392
+   ],
+   "status": "OK",
+   "actual_bbox": [
+    214,
+    141,
+    536,
+    331
+   ],
+   "expect_bbox_px": [
+    240,
+    167,
+    511,
+    306
+   ],
+   "actual_size": [
+    322,
+    190
+   ],
+   "expect_size": [
+    271,
+    139
+   ],
+   "iou": 0.616,
+   "center_in_box": true,
+   "frac_change_in_box": 0.611,
+   "change_px": 61693,
+   "actual_center": [
+    375,
+    236
+   ]
+  },
+  {
+   "sid": "bg100_abyss_gate",
+   "expected": "禁地",
+   "style": "stone",
+   "vertical": true,
+   "box": [
+    0.07,
+    0.46,
+    0.23,
+    0.86
+   ],
+   "img": [
+    752,
+    1392
+   ],
+   "status": "OK",
+   "actual_bbox": [
+    19,
+    607,
+    204,
+    1229
+   ],
+   "expect_bbox_px": [
+    52,
+    640,
+    172,
+    1197
+   ],
+   "actual_size": [
+    185,
+    622
+   ],
+   "expect_size": [
+    120,
+    557
+   ],
+   "iou": 0.581,
+   "center_in_box": true,
+   "frac_change_in_box": 0.571,
+   "change_px": 114295,
+   "actual_center": [
+    111,
+    918
+   ]
+  },
+  {
+   "sid": "bg100_crane_pavilion",
+   "expected": "望鹤亭",
+   "style": "plaque",
+   "vertical": false,
+   "box": [
+    0.34,
+    0.14,
+    0.66,
+    0.24
+   ],
+   "img": [
+    752,
+    1392
+   ],
+   "status": "OK",
+   "actual_bbox": [
+    232,
+    171,
+    518,
+    356
+   ],
+   "expect_bbox_px": [
+    255,
+    194,
+    496,
+    334
+   ],
+   "actual_size": [
+    286,
+    185
+   ],
+   "expect_size": [
+    241,
+    140
+   ],
+   "iou": 0.638,
+   "center_in_box": true,
+   "frac_change_in_box": 0.632,
+   "change_px": 53382,
+   "actual_center": [
+    375,
+    263
+   ]
+  },
+  {
+   "sid": "bg100_street_teahouse",
+   "expected": "清心茶社",
+   "style": "wood",
+   "vertical": true,
+   "box": [
+    0.11,
+    0.24,
+    0.23,
+    0.58
+   ],
+   "img": [
+    752,
+    1392
+   ],
+   "status": "OK",
+   "actual_bbox": [
+    57,
+    309,
+    196,
+    831
+   ],
+   "expect_bbox_px": [
+    82,
+    334,
+    172,
+    807
+   ],
+   "actual_size": [
+    139,
+    522
+   ],
+   "expect_size": [
+    90,
+    473
+   ],
+   "iou": 0.587,
+   "center_in_box": true,
+   "frac_change_in_box": 0.583,
+   "change_px": 71918,
+   "actual_center": [
+    126,
+    570
+   ]
+  },
+  {
+   "sid": "bg100_academy",
+   "expected": "白鹿书院",
+   "style": "plaque",
+   "vertical": false,
+   "box": [
+    0.28,
+    0.12,
+    0.68,
+    0.23
+   ],
+   "img": [
+    752,
+    1392
+   ],
+   "status": "OK",
+   "actual_bbox": [
+    188,
+    145,
+    532,
+    341
+   ],
+   "expect_bbox_px": [
+    210,
+    167,
+    511,
+    320
+   ],
+   "actual_size": [
+    344,
+    196
+   ],
+   "expect_size": [
+    301,
+    153
+   ],
+   "iou": 0.683,
+   "center_in_box": true,
+   "frac_change_in_box": 0.678,
+   "change_px": 67945,
+   "actual_center": [
+    360,
+    243
+   ]
+  },
+  {
+   "sid": "bg100_blacksmith",
+   "expected": "张记铁铺",
+   "style": "wood",
+   "vertical": true,
+   "box": [
+    0.11,
+    0.26,
+    0.23,
+    0.58
+   ],
+   "img": [
+    752,
+    1392
+   ],
+   "status": "OK",
+   "actual_bbox": [
+    57,
+    336,
+    196,
+    831
+   ],
+   "expect_bbox_px": [
+    82,
+    361,
+    172,
+    807
+   ],
+   "actual_size": [
+    139,
+    495
+   ],
+   "expect_size": [
+    90,
+    446
+   ],
+   "iou": 0.583,
+   "center_in_box": true,
+   "frac_change_in_box": 0.574,
+   "change_px": 68309,
+   "actual_center": [
+    126,
+    583
+   ]
+  },
+  {
+   "sid": "bg100_escort_agency",
+   "expected": "威远镖局",
+   "style": "plaque",
+   "vertical": false,
+   "box": [
+    0.28,
+    0.12,
+    0.68,
+    0.23
+   ],
+   "img": [
+    752,
+    1392
+   ],
+   "status": "OK",
+   "actual_bbox": [
+    188,
+    145,
+    532,
+    341
+   ],
+   "expect_bbox_px": [
+    210,
+    167,
+    511,
+    320
+   ],
+   "actual_size": [
+    344,
+    196
+   ],
+   "expect_size": [
+    301,
+    153
+   ],
+   "iou": 0.683,
+   "center_in_box": true,
+   "frac_change_in_box": 0.678,
+   "change_px": 67965,
+   "actual_center": [
+    360,
+    243
+   ]
+  },
+  {
+   "sid": "bg100_tomb_stairs",
+   "expected": "禁入",
+   "style": "stone",
+   "vertical": true,
+   "box": [
+    0.63,
+    0.42,
+    0.79,
+    0.8
+   ],
+   "img": [
+    752,
+    1392
+   ],
+   "status": "OK",
+   "actual_bbox": [
+    440,
+    551,
+    626,
+    1145
+   ],
+   "expect_bbox_px": [
+    473,
+    584,
+    594,
+    1113
+   ],
+   "actual_size": [
+    186,
+    594
+   ],
+   "expect_size": [
+    121,
+    529
+   ],
+   "iou": 0.579,
+   "center_in_box": true,
+   "frac_change_in_box": 0.575,
+   "change_px": 109979,
+   "actual_center": [
+    533,
+    848
+   ]
+  },
+  {
+   "sid": "bg100_seclusion_cave",
+   "expected": "玄元真君",
+   "style": "stone",
+   "vertical": true,
+   "box": [
+    0.63,
+    0.28,
+    0.79,
+    0.66
+   ],
+   "img": [
+    752,
+    1392
+   ],
+   "status": "OK",
+   "actual_bbox": [
+    443,
+    359,
+    623,
+    947
+   ],
+   "expect_bbox_px": [
+    473,
+    389,
+    594,
+    918
+   ],
+   "actual_size": [
+    180,
+    588
+   ],
+   "expect_size": [
+    121,
+    529
+   ],
+   "iou": 0.605,
+   "center_in_box": true,
+   "frac_change_in_box": 0.588,
+   "change_px": 102305,
+   "actual_center": [
+    533,
+    653
+   ]
+  },
+  {
+   "sid": "bg100_sword_tomb",
+   "expected": "万剑冢",
+   "style": "stone",
+   "vertical": true,
+   "box": [
+    0.11,
+    0.46,
+    0.27,
+    0.86
+   ],
+   "img": [
+    752,
+    1392
+   ],
+   "status": "OK",
+   "actual_bbox": [
+    49,
+    607,
+    235,
+    1229
+   ],
+   "expect_bbox_px": [
+    82,
+    640,
+    203,
+    1197
+   ],
+   "actual_size": [
+    186,
+    622
+   ],
+   "expect_size": [
+    121,
+    557
+   ],
+   "iou": 0.583,
+   "center_in_box": true,
+   "frac_change_in_box": 0.56,
+   "change_px": 111369,
+   "actual_center": [
+    142,
+    918
+   ]
+  },
+  {
+   "sid": "bg100_newchinese_tearoom",
+   "expected": "松风茶室",
+   "style": "wood",
+   "vertical": true,
+   "box": [
+    0.64,
+    0.26,
+    0.76,
+    0.6
+   ],
+   "img": [
+    752,
+    1392
+   ],
+   "status": "OK",
+   "actual_bbox": [
+    456,
+    336,
+    595,
+    859
+   ],
+   "expect_bbox_px": [
+    481,
+    361,
+    571,
+    835
+   ],
+   "actual_size": [
+    139,
+    523
+   ],
+   "expect_size": [
+    90,
+    474
+   ],
+   "iou": 0.587,
+   "center_in_box": true,
+   "frac_change_in_box": 0.575,
+   "change_px": 71909,
+   "actual_center": [
+    525,
+    597
+   ]
+  },
+  {
+   "sid": "bg100_republic_shanghai",
+   "expected": "永安百货",
+   "style": "plaque",
+   "vertical": false,
+   "box": [
+    0.24,
+    0.12,
+    0.6,
+    0.23
+   ],
+   "img": [
+    752,
+    1392
+   ],
+   "status": "OK",
+   "actual_bbox": [
+    161,
+    148,
+    469,
+    338
+   ],
+   "expect_bbox_px": [
+    180,
+    167,
+    451,
+    320
+   ],
+   "actual_size": [
+    308,
+    190
+   ],
+   "expect_size": [
+    271,
+    153
+   ],
+   "iou": 0.709,
+   "center_in_box": true,
+   "frac_change_in_box": 0.703,
+   "change_px": 59019,
+   "actual_center": [
+    315,
+    243
+   ]
+  },
+  {
+   "sid": "bg100_republic_teahouse",
+   "expected": "云来茶楼",
+   "style": "plaque",
+   "vertical": false,
+   "box": [
+    0.3,
+    0.12,
+    0.66,
+    0.23
+   ],
+   "img": [
+    752,
+    1392
+   ],
+   "status": "OK",
+   "actual_bbox": [
+    206,
+    148,
+    514,
+    338
+   ],
+   "expect_bbox_px": [
+    225,
+    167,
+    496,
+    320
+   ],
+   "actual_size": [
+    308,
+    190
+   ],
+   "expect_size": [
+    271,
+    153
+   ],
+   "iou": 0.709,
+   "center_in_box": true,
+   "frac_change_in_box": 0.703,
+   "change_px": 59019,
+   "actual_center": [
+    360,
+    243
+   ]
+  },
+  {
+   "sid": "bg100_republic_station",
+   "expected": "和平车站",
+   "style": "plaque",
+   "vertical": false,
+   "box": [
+    0.26,
+    0.12,
+    0.66,
+    0.23
+   ],
+   "img": [
+    752,
+    1392
+   ],
+   "status": "OK",
+   "actual_bbox": [
+    173,
+    145,
+    517,
+    341
+   ],
+   "expect_bbox_px": [
+    195,
+    167,
+    496,
+    320
+   ],
+   "actual_size": [
+    344,
+    196
+   ],
+   "expect_size": [
+    301,
+    153
+   ],
+   "iou": 0.683,
+   "center_in_box": true,
+   "frac_change_in_box": 0.678,
+   "change_px": 67957,
+   "actual_center": [
+    345,
+    243
+   ]
+  },
+  {
+   "sid": "bg100_republic_pharmacy",
+   "expected": "济世堂",
+   "style": "plaque",
+   "vertical": false,
+   "box": [
+    0.3,
+    0.13,
+    0.66,
+    0.24
+   ],
+   "img": [
+    752,
+    1392
+   ],
+   "status": "OK",
+   "actual_bbox": [
+    199,
+    154,
+    521,
+    359
+   ],
+   "expect_bbox_px": [
+    225,
+    180,
+    496,
+    334
+   ],
+   "actual_size": [
+    322,
+    205
+   ],
+   "expect_size": [
+    271,
+    154
+   ],
+   "iou": 0.632,
+   "center_in_box": true,
+   "frac_change_in_box": 0.627,
+   "change_px": 66529,
+   "actual_center": [
+    360,
+    256
+   ]
+  },
+  {
+   "sid": "bg100_republic_press",
+   "expected": "申报馆",
+   "style": "plaque",
+   "vertical": false,
+   "box": [
+    0.28,
+    0.13,
+    0.66,
+    0.24
+   ],
+   "img": [
+    752,
+    1392
+   ],
+   "status": "OK",
+   "actual_bbox": [
+    184,
+    154,
+    521,
+    359
+   ],
+   "expect_bbox_px": [
+    210,
+    180,
+    496,
+    334
+   ],
+   "actual_size": [
+    337,
+    205
+   ],
+   "expect_size": [
+    286,
+    154
+   ],
+   "iou": 0.638,
+   "center_in_box": true,
+   "frac_change_in_box": 0.633,
+   "change_px": 69628,
+   "actual_center": [
+    352,
+    256
+   ]
+  },
+  {
+   "sid": "bg100_newchinese_office",
+   "expected": "和光",
+   "style": "lightbox",
+   "vertical": false,
+   "box": [
+    0.32,
+    0.14,
+    0.64,
+    0.25
+   ],
+   "img": [
+    752,
+    1392
+   ],
+   "status": "OK",
+   "actual_bbox": [
+    205,
+    159,
+    515,
+    382
+   ],
+   "expect_bbox_px": [
+    240,
+    194,
+    481,
+    348
+   ],
+   "actual_size": [
+    310,
+    223
+   ],
+   "expect_size": [
+    241,
+    154
+   ],
+   "iou": 0.537,
+   "center_in_box": true,
+   "frac_change_in_box": 0.536,
+   "change_px": 68859,
+   "actual_center": [
+    360,
+    270
+   ]
+  },
+  {
+   "sid": "bg100_tang_market",
+   "expected": "西市",
+   "style": "plaque",
+   "vertical": false,
+   "box": [
+    0.26,
+    0.12,
+    0.62,
+    0.22
+   ],
+   "img": [
+    752,
+    1392
+   ],
+   "status": "OK",
+   "actual_bbox": [
+    158,
+    130,
+    502,
+    342
+   ],
+   "expect_bbox_px": [
+    195,
+    167,
+    466,
+    306
+   ],
+   "actual_size": [
+    344,
+    212
+   ],
+   "expect_size": [
+    271,
+    139
+   ],
+   "iou": 0.517,
+   "center_in_box": true,
+   "frac_change_in_box": 0.513,
+   "change_px": 73478,
+   "actual_center": [
+    330,
+    236
+   ]
+  },
+  {
+   "sid": "bg100_song_tavern",
+   "expected": "望江楼",
+   "style": "plaque",
+   "vertical": false,
+   "box": [
+    0.28,
+    0.12,
+    0.64,
+    0.22
+   ],
+   "img": [
+    752,
+    1392
+   ],
+   "status": "OK",
+   "actual_bbox": [
+    184,
+    141,
+    506,
+    331
+   ],
+   "expect_bbox_px": [
+    210,
+    167,
+    481,
+    306
+   ],
+   "actual_size": [
+    322,
+    190
+   ],
+   "expect_size": [
+    271,
+    139
+   ],
+   "iou": 0.616,
+   "center_in_box": true,
+   "frac_change_in_box": 0.611,
+   "change_px": 61688,
+   "actual_center": [
+    345,
+    236
+   ]
+  },
+  {
+   "sid": "bg100_newchinese_cafe",
+   "expected": "有山",
+   "style": "lightbox",
+   "vertical": false,
+   "box": [
+    0.34,
+    0.14,
+    0.62,
+    0.25
+   ],
+   "img": [
+    752,
+    1392
+   ],
+   "status": "OK",
+   "actual_bbox": [
+    227,
+    166,
+    493,
+    375
+   ],
+   "expect_bbox_px": [
+    255,
+    194,
+    466,
+    348
+   ],
+   "actual_size": [
+    266,
+    209
+   ],
+   "expect_size": [
+    211,
+    154
+   ],
+   "iou": 0.584,
+   "center_in_box": true,
+   "frac_change_in_box": 0.58,
+   "change_px": 56070,
+   "actual_center": [
+    360,
+    270
+   ]
+  },
+  {
+   "sid": "bg100_martial_stable",
+   "expected": "马厩",
+   "style": "wood",
+   "vertical": true,
+   "box": [
+    0.09,
+    0.28,
+    0.21,
+    0.56
+   ],
+   "img": [
+    752,
+    1392
+   ],
+   "status": "OK",
+   "actual_bbox": [
+    42,
+    364,
+    181,
+    803
+   ],
+   "expect_bbox_px": [
+    67,
+    389,
+    157,
+    779
+   ],
+   "actual_size": [
+    139,
+    439
+   ],
+   "expect_size": [
+    90,
+    390
+   ],
+   "iou": 0.575,
+   "center_in_box": true,
+   "frac_change_in_box": 0.57,
+   "change_px": 56684,
+   "actual_center": [
+    111,
+    583
+   ]
+  },
+  {
+   "sid": "bg100_sword_sect_gate",
+   "expected": "玄剑门",
+   "style": "stone",
+   "vertical": true,
+   "box": [
+    0.11,
+    0.44,
+    0.27,
+    0.84
+   ],
+   "img": [
+    752,
+    1392
+   ],
+   "status": "OK",
+   "actual_bbox": [
+    49,
+    579,
+    235,
+    1201
+   ],
+   "expect_bbox_px": [
+    82,
+    612,
+    203,
+    1169
+   ],
+   "actual_size": [
+    186,
+    622
+   ],
+   "expect_size": [
+    121,
+    557
+   ],
+   "iou": 0.583,
+   "center_in_box": true,
+   "frac_change_in_box": 0.574,
+   "change_px": 112342,
+   "actual_center": [
+    142,
+    890
+   ]
+  },
+  {
+   "sid": "bg100_ancestral_hall",
+   "expected": "陈氏宗祠",
+   "style": "plaque",
+   "vertical": false,
+   "box": [
+    0.26,
+    0.12,
+    0.66,
+    0.23
+   ],
+   "img": [
+    752,
+    1392
+   ],
+   "status": "OK",
+   "actual_bbox": [
+    173,
+    145,
+    517,
+    341
+   ],
+   "expect_bbox_px": [
+    195,
+    167,
+    496,
+    320
+   ],
+   "actual_size": [
+    344,
+    196
+   ],
+   "expect_size": [
+    301,
+    153
+   ],
+   "iou": 0.683,
+   "center_in_box": true,
+   "frac_change_in_box": 0.678,
+   "change_px": 67956,
+   "actual_center": [
+    345,
+    243
+   ]
+  },
+  {
+   "sid": "bg100_guochao_hotpot",
+   "expected": "老码头",
+   "style": "neon_warm",
+   "vertical": false,
+   "box": [
+    0.24,
+    0.12,
+    0.66,
+    0.24
+   ],
+   "img": [
+    752,
+    1392
+   ],
+   "status": "OK",
+   "actual_bbox": [
+    152,
+    139,
+    523,
+    361
+   ],
+   "expect_bbox_px": [
+    180,
+    167,
+    496,
+    334
+   ],
+   "actual_size": [
+    371,
+    222
+   ],
+   "expect_size": [
+    316,
+    167
+   ],
+   "iou": 0.641,
+   "center_in_box": true,
+   "frac_change_in_box": 0.632,
+   "change_px": 72029,
+   "actual_center": [
+    337,
+    250
+   ]
+  },
+  {
+   "sid": "bg100_ink_barber",
+   "expected": "墨剪",
+   "style": "lightbox",
+   "vertical": false,
+   "box": [
+    0.3,
+    0.14,
+    0.64,
+    0.25
+   ],
+   "img": [
+    752,
+    1392
+   ],
+   "status": "OK",
+   "actual_bbox": [
+    190,
+    159,
+    515,
+    382
+   ],
+   "expect_bbox_px": [
+    225,
+    194,
+    481,
+    348
+   ],
+   "actual_size": [
+    325,
+    223
+   ],
+   "expect_size": [
+    256,
+    154
+   ],
+   "iou": 0.544,
+   "center_in_box": true,
+   "frac_change_in_box": 0.54,
+   "change_px": 73024,
+   "actual_center": [
+    352,
+    270
+   ]
+  },
+  {
+   "sid": "bg100_herbal_counter",
+   "expected": "济生堂",
+   "style": "wood",
+   "vertical": true,
+   "box": [
+    0.66,
+    0.26,
+    0.78,
+    0.6
+   ],
+   "img": [
+    752,
+    1392
+   ],
+   "status": "OK",
+   "actual_bbox": [
+    471,
+    336,
+    610,
+    859
+   ],
+   "expect_bbox_px": [
+    496,
+    361,
+    586,
+    835
+   ],
+   "actual_size": [
+    139,
+    523
+   ],
+   "expect_size": [
+    90,
+    474
+   ],
+   "iou": 0.587,
+   "center_in_box": true,
+   "frac_change_in_box": 0.589,
+   "change_px": 65522,
+   "actual_center": [
+    540,
+    597
+   ]
+  },
+  {
+   "sid": "bg100_snow_taoist",
+   "expected": "寒山观",
+   "style": "plaque",
+   "vertical": false,
+   "box": [
+    0.28,
+    0.12,
+    0.66,
+    0.23
+   ],
+   "img": [
+    752,
+    1392
+   ],
+   "status": "OK",
+   "actual_bbox": [
+    184,
+    141,
+    521,
+    345
+   ],
+   "expect_bbox_px": [
+    210,
+    167,
+    496,
+    320
+   ],
+   "actual_size": [
+    337,
+    204
+   ],
+   "expect_size": [
+    286,
+    153
+   ],
+   "iou": 0.636,
+   "center_in_box": true,
+   "frac_change_in_box": 0.632,
+   "change_px": 69290,
+   "actual_center": [
+    352,
+    243
+   ]
+  },
+  {
+   "sid": "bg100_morgue_corridor",
+   "expected": "解剖室",
+   "style": "metal",
+   "vertical": false,
+   "box": [
+    0.28,
+    0.22,
+    0.58,
+    0.31
+   ],
+   "img": [
+    752,
+    1392
+   ],
+   "status": "OK",
+   "actual_bbox": [
+    188,
+    284,
+    457,
+    452
+   ],
+   "expect_bbox_px": [
+    210,
+    306,
+    436,
+    431
+   ],
+   "actual_size": [
+    269,
+    168
+   ],
+   "expect_size": [
+    226,
+    125
+   ],
+   "iou": 0.625,
+   "center_in_box": true,
+   "frac_change_in_box": 0.619,
+   "change_px": 45609,
+   "actual_center": [
+    322,
+    368
+   ]
+  },
+  {
+   "sid": "bg100_crime_scene_flat",
+   "expected": "警戒线",
+   "style": "paper",
+   "vertical": false,
+   "box": [
+    0.62,
+    0.4,
+    0.84,
+    0.58
+   ],
+   "img": [
+    752,
+    1392
+   ],
+   "status": "OK",
+   "actual_bbox": [
+    451,
+    541,
+    645,
+    821
+   ],
+   "expect_bbox_px": [
+    466,
+    556,
+    631,
+    807
+   ],
+   "actual_size": [
+    194,
+    280
+   ],
+   "expect_size": [
+    165,
+    251
+   ],
+   "iou": 0.762,
+   "center_in_box": true,
+   "frac_change_in_box": 0.756,
+   "change_px": 54795,
+   "actual_center": [
+    548,
+    681
+   ]
+  },
+  {
+   "sid": "bg100_archive_room",
+   "expected": "档案室",
+   "style": "metal",
+   "vertical": false,
+   "box": [
+    0.24,
+    0.14,
+    0.58,
+    0.24
+   ],
+   "img": [
+    752,
+    1392
+   ],
+   "status": "OK",
+   "actual_bbox": [
+    155,
+    169,
+    460,
+    358
+   ],
+   "expect_bbox_px": [
+    180,
+    194,
+    436,
+    334
+   ],
+   "actual_size": [
+    305,
+    189
+   ],
+   "expect_size": [
+    256,
+    140
+   ],
+   "iou": 0.622,
+   "center_in_box": true,
+   "frac_change_in_box": 0.6,
+   "change_px": 55330,
+   "actual_center": [
+    307,
+    263
+   ]
+  },
+  {
+   "sid": "bg100_container_port",
+   "expected": "禁止靠近",
+   "style": "paper",
+   "vertical": false,
+   "box": [
+    0.6,
+    0.44,
+    0.86,
+    0.6
+   ],
+   "img": [
+    752,
+    1392
+   ],
+   "status": "OK",
+   "actual_bbox": [
+    437,
+    598,
+    659,
+    848
+   ],
+   "expect_bbox_px": [
+    451,
+    612,
+    646,
+    835
+   ],
+   "actual_size": [
+    222,
+    250
+   ],
+   "expect_size": [
+    195,
+    223
+   ],
+   "iou": 0.784,
+   "center_in_box": true,
+   "frac_change_in_box": 0.777,
+   "change_px": 55911,
+   "actual_center": [
+    548,
+    723
+   ]
+  },
+  {
+   "sid": "bg100_control_room",
+   "expected": "监控中心",
+   "style": "metal",
+   "vertical": false,
+   "box": [
+    0.28,
+    0.08,
+    0.66,
+    0.17
+   ],
+   "img": [
+    752,
+    1392
+   ],
+   "status": "OK",
+   "actual_bbox": [
+    191,
+    92,
+    514,
+    254
+   ],
+   "expect_bbox_px": [
+    210,
+    111,
+    496,
+    236
+   ],
+   "actual_size": [
+    323,
+    162
+   ],
+   "expect_size": [
+    286,
+    125
+   ],
+   "iou": 0.683,
+   "center_in_box": true,
+   "frac_change_in_box": 0.677,
+   "change_px": 52806,
+   "actual_center": [
+    352,
+    173
+   ]
+  },
+  {
+   "sid": "bg100_phone_booth",
+   "expected": "公用电话",
+   "style": "lightbox",
+   "vertical": false,
+   "box": [
+    0.32,
+    0.26,
+    0.66,
+    0.37
+   ],
+   "img": [
+    752,
+    1392
+   ],
+   "status": "OK",
+   "actual_bbox": [
+    221,
+    342,
+    514,
+    533
+   ],
+   "expect_bbox_px": [
+    240,
+    361,
+    496,
+    515
+   ],
+   "actual_size": [
+    293,
+    191
+   ],
+   "expect_size": [
+    256,
+    154
+   ],
+   "iou": 0.704,
+   "center_in_box": true,
+   "frac_change_in_box": 0.698,
+   "change_px": 56448,
+   "actual_center": [
+    367,
+    437
+   ]
+  },
+  {
+   "sid": "bg100_derelict_factory",
+   "expected": "禁止入内",
+   "style": "paper",
+   "vertical": false,
+   "box": [
+    0.18,
+    0.3,
+    0.52,
+    0.42
+   ],
+   "img": [
+    752,
+    1392
+   ],
+   "status": "OK",
+   "actual_bbox": [
+    116,
+    398,
+    409,
+    602
+   ],
+   "expect_bbox_px": [
+    135,
+    417,
+    391,
+    584
+   ],
+   "actual_size": [
+    293,
+    204
+   ],
+   "expect_size": [
+    256,
+    167
+   ],
+   "iou": 0.715,
+   "center_in_box": true,
+   "frac_change_in_box": 0.709,
+   "change_px": 60194,
+   "actual_center": [
+    262,
+    500
+   ]
+  },
+  {
+   "sid": "bg100_car_wash",
+   "expected": "精洗",
+   "style": "neon_warm",
+   "vertical": false,
+   "box": [
+    0.32,
+    0.24,
+    0.62,
+    0.35
+   ],
+   "img": [
+    752,
+    1392
+   ],
+   "status": "OK",
+   "actual_bbox": [
+    209,
+    303,
+    496,
+    517
+   ],
+   "expect_bbox_px": [
+    240,
+    334,
+    466,
+    487
+   ],
+   "actual_size": [
+    287,
+    214
+   ],
+   "expect_size": [
+    226,
+    153
+   ],
+   "iou": 0.563,
+   "center_in_box": true,
+   "frac_change_in_box": 0.558,
+   "change_px": 61919,
+   "actual_center": [
+    352,
+    410
+   ]
+  },
+  {
+   "sid": "bg100_underground_casino",
+   "expected": "百家乐",
+   "style": "neon_pink",
+   "vertical": false,
+   "box": [
+    0.28,
+    0.2,
+    0.6,
+    0.32
+   ],
+   "img": [
+    752,
+    1392
+   ],
+   "status": "OK",
+   "actual_bbox": [
+    187,
+    255,
+    473,
+    467
+   ],
+   "expect_bbox_px": [
+    210,
+    278,
+    451,
+    445
+   ],
+   "actual_size": [
+    286,
+    212
+   ],
+   "expect_size": [
+    241,
+    167
+   ],
+   "iou": 0.664,
+   "center_in_box": true,
+   "frac_change_in_box": 0.658,
+   "change_px": 61131,
+   "actual_center": [
+    330,
+    361
+   ]
+  },
+  {
+   "sid": "bg100_old_theatre_backstage",
+   "expected": "后台",
+   "style": "metal",
+   "vertical": false,
+   "box": [
+    0.3,
+    0.22,
+    0.58,
+    0.31
+   ],
+   "img": [
+    752,
+    1392
+   ],
+   "status": "OK",
+   "actual_bbox": [
+    194,
+    275,
+    466,
+    461
+   ],
+   "expect_bbox_px": [
+    225,
+    306,
+    436,
+    431
+   ],
+   "actual_size": [
+    272,
+    186
+   ],
+   "expect_size": [
+    211,
+    125
+   ],
+   "iou": 0.521,
+   "center_in_box": true,
+   "frac_change_in_box": 0.515,
+   "change_px": 50868,
+   "actual_center": [
+    330,
+    368
+   ]
+  },
+  {
+   "sid": "bg100_funeral_shop",
+   "expected": "寿衣",
+   "style": "paper",
+   "vertical": false,
+   "box": [
+    0.6,
+    0.3,
+    0.84,
+    0.48
+   ],
+   "img": [
+    752,
+    1392
+   ],
+   "status": "OK",
+   "actual_bbox": [
+    425,
+    391,
+    656,
+    693
+   ],
+   "expect_bbox_px": [
+    451,
+    417,
+    631,
+    668
+   ],
+   "actual_size": [
+    231,
+    302
+   ],
+   "expect_size": [
+    180,
+    251
+   ],
+   "iou": 0.648,
+   "center_in_box": true,
+   "frac_change_in_box": 0.641,
+   "change_px": 69607,
+   "actual_center": [
+    540,
+    542
+   ]
+  },
+  {
+   "sid": "bg100_sanatorium",
+   "expected": "疗养院",
+   "style": "stone",
+   "vertical": true,
+   "box": [
+    0.11,
+    0.44,
+    0.27,
+    0.82
+   ],
+   "img": [
+    752,
+    1392
+   ],
+   "status": "OK",
+   "actual_bbox": [
+    49,
+    579,
+    235,
+    1173
+   ],
+   "expect_bbox_px": [
+    82,
+    612,
+    203,
+    1141
+   ],
+   "actual_size": [
+    186,
+    594
+   ],
+   "expect_size": [
+    121,
+    529
+   ],
+   "iou": 0.579,
+   "center_in_box": true,
+   "frac_change_in_box": 0.578,
+   "change_px": 100289,
+   "actual_center": [
+    142,
+    876
+   ]
+  },
+  {
+   "sid": "bg100_police_evidence",
+   "expected": "证物室",
+   "style": "metal",
+   "vertical": false,
+   "box": [
+    0.28,
+    0.16,
+    0.62,
+    0.25
+   ],
+   "img": [
+    752,
+    1392
+   ],
+   "status": "OK",
+   "actual_bbox": [
+    185,
+    197,
+    490,
+    372
+   ],
+   "expect_bbox_px": [
+    210,
+    222,
+    466,
+    348
+   ],
+   "actual_size": [
+    305,
+    175
+   ],
+   "expect_size": [
+    256,
+    126
+   ],
+   "iou": 0.604,
+   "center_in_box": true,
+   "frac_change_in_box": 0.601,
+   "change_px": 53072,
+   "actual_center": [
+    337,
+    284
+   ]
+  }
+ ]
+}

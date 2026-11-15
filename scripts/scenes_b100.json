@@ -1,0 +1,1279 @@
+{
+ "meta": {
+  "version": "b100-v1",
+  "count": 100,
+  "size": "832x1472 (输出 752x1392, 9:16 竖屏)",
+  "font": "SourceHanSansSC-Bold.otf (真实字形, 渲染前 cmap 预检)",
+  "note": "en = 出图描述(含留白区); sign.box = 归一化牌面区域 [x0,y0,x1,y1]"
+ },
+ "scenes": [
+  {
+   "sid": "bg100_exec_meeting",
+   "group": "都市霸总",
+   "en": "a modern corporate boardroom at night seen from the far end, a long polished table, floor to ceiling windows with a blurred city skyline, cool blue ambient light and warm lamp pools, the upper third of the frame is a plain dark wall band with nothing on it",
+   "sign": {
+    "text": "远景集团",
+    "style": "metal",
+    "box": [
+     0.3,
+     0.09,
+     0.7,
+     0.19
+    ]
+   }
+  },
+  {
+   "sid": "bg100_tower_lobby",
+   "group": "都市霸总",
+   "en": "a luxury skyscraper lobby with double height glass walls, polished stone floor, a reception desk, a large blank grey wall panel occupying the upper right area, daylight streaming in",
+   "sign": {
+    "text": "云顶国际",
+    "style": "lightbox",
+    "box": [
+     0.52,
+     0.14,
+     0.9,
+     0.26
+    ]
+   }
+  },
+  {
+   "sid": "bg100_ceo_office",
+   "group": "都市霸总",
+   "en": "a top floor corner office at night, floor to ceiling glass, a dark walnut desk, a single leather chair, dim city glow outside, the upper left wall is a clean empty plaster surface",
+   "sign": {
+    "text": "董事长办公室",
+    "style": "metal",
+    "box": [
+     0.12,
+     0.17,
+     0.54,
+     0.28
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "bg100_fine_dining",
+   "group": "都市霸总",
+   "en": "a private fine dining room with warm amber lighting, velvet banquettes, a round table set with porcelain, a blank cream coloured wall panel above the banquette",
+   "sign": {
+    "text": "和风料理",
+    "style": "lightbox",
+    "box": [
+     0.22,
+     0.16,
+     0.62,
+     0.27
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "bg100_wine_cellar",
+   "group": "都市霸总",
+   "en": "a private wine cellar, stone walls, arched niches full of bottles, wooden racks, a single warm pendant lamp, moody low key lighting",
+   "sign": {
+    "text": "藏酒阁",
+    "style": "darkwood",
+    "box": [
+     0.64,
+     0.28,
+     0.86,
+     0.62
+    ],
+    "vertical": true
+   }
+  },
+  {
+   "sid": "bg100_elevator_lobby",
+   "group": "都市霸总",
+   "en": "a high end elevator lobby with brushed metal walls, marble floor, a mirrored wall panel and a slim console table, soft recessed ceiling lights",
+   "sign": {
+    "text": "26F",
+    "style": "metal",
+    "box": [
+     0.34,
+     0.33,
+     0.66,
+     0.43
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "bg100_airport_vip",
+   "group": "都市霸总",
+   "en": "an airport first class lounge at dusk, leather armchairs, a long buffet counter, huge windows showing aircraft, a clean blank wall strip in the upper third",
+   "sign": {
+    "text": "贵宾休息室",
+    "style": "lightbox",
+    "box": [
+     0.28,
+     0.12,
+     0.7,
+     0.23
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "bg100_rainy_neon",
+   "group": "都市霸总",
+   "en": "a rainy city street at night, wet asphalt reflecting magenta and cyan neon, shopfronts, tall glass towers, cinematic noir, the upper centre has a flat shopfront fascia band",
+   "sign": {
+    "text": "夜上海",
+    "style": "neon_pink",
+    "box": [
+     0.22,
+     0.13,
+     0.66,
+     0.24
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "bg100_underground_park",
+   "group": "都市霸总",
+   "en": "an empty underground parking garage, rows of concrete pillars, cold white fluorescent lights, painted lane markings on polished concrete, industrial atmosphere",
+   "sign": {
+    "text": "地下车库",
+    "style": "metal",
+    "box": [
+     0.3,
+     0.19,
+     0.64,
+     0.29
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "bg100_office_cafe",
+   "group": "都市霸总",
+   "en": "a modern office cafe corner, exposed brick, hanging Edison bulbs, a long communal table, a blank brick wall area in the upper centre",
+   "sign": {
+    "text": "SLOW COFFEE",
+    "style": "lightbox",
+    "box": [
+     0.24,
+     0.14,
+     0.72,
+     0.25
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "bg100_law_meeting",
+   "group": "都市霸总",
+   "en": "a law firm meeting room, leather backed chairs, a conference table with stacked documents, floor to ceiling bookcase, warm afternoon light through blinds, a plain wall band above",
+   "sign": {
+    "text": "明诚律师事务所",
+    "style": "plaque",
+    "box": [
+     0.2,
+     0.1,
+     0.68,
+     0.22
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "bg100_vip_ward",
+   "group": "都市霸总",
+   "en": "a luxury hospital private room, large window with city view, a neatly made bed, sofa and a flower vase, soft daylight, clean clinical luxury",
+   "sign": {
+    "text": "特护病房",
+    "style": "metal",
+    "box": [
+     0.55,
+     0.27,
+     0.84,
+     0.36
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "bg100_hotel_lobby",
+   "group": "都市霸总",
+   "en": "a five star hotel lobby, crystal chandeliers, marble columns, a grand staircase, a pale stone wall panel on the upper right",
+   "sign": {
+    "text": "皇庭酒店",
+    "style": "plaque",
+    "box": [
+     0.58,
+     0.12,
+     0.9,
+     0.24
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "bg100_rooftop_pool",
+   "group": "都市霸总",
+   "en": "a rooftop infinity pool at night, blue lit water, lounge chairs, a glass balustrade and a city skyline beyond, moody cinematic lighting"
+  },
+  {
+   "sid": "bg100_chairman_office",
+   "group": "都市霸总",
+   "en": "a chairman office with a heavy dark wood desk, leather chair, bookshelves, an antique clock, warm lamp light, a wide blank wall panel behind the desk"
+  },
+  {
+   "sid": "bg100_fashion_boutique",
+   "group": "都市霸总",
+   "en": "a luxury fashion flagship store interior, pale plaster arches, polished concrete floor, sculptural clothing racks, spotlights, an empty smooth wall at the upper centre",
+   "sign": {
+    "text": "MAISON",
+    "style": "lightbox",
+    "box": [
+     0.3,
+     0.12,
+     0.7,
+     0.23
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "bg100_business_metro",
+   "group": "都市霸总",
+   "en": "an empty metro carriage interior at night, grab handles, route display panel, stainless steel poles, fluorescent lighting, motion blur city lights outside"
+  },
+  {
+   "sid": "bg100_convenience_store",
+   "group": "都市霸总",
+   "en": "a modern convenience store at night, bright ceiling panels, snack shelves, a glass front window with rain outside, a clean fascia band above the entrance",
+   "sign": {
+    "text": "24小时便利店",
+    "style": "neon_warm",
+    "box": [
+     0.18,
+     0.12,
+     0.74,
+     0.25
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "bg100_private_club",
+   "group": "都市霸总",
+   "en": "a private members club tea lounge, dark wood panelling, low table with porcelain tea set, warm lamp light, a blank wooden wall panel in the upper centre",
+   "sign": {
+    "text": "和悦会",
+    "style": "plaque",
+    "box": [
+     0.28,
+     0.12,
+     0.64,
+     0.23
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "bg100_art_gallery",
+   "group": "都市霸总",
+   "en": "a private art gallery hall, white walls with large abstract canvases, polished concrete floor, track lighting, a clean blank wall segment",
+   "sign": {
+    "text": "云隐画廊",
+    "style": "lightbox",
+    "box": [
+     0.24,
+     0.14,
+     0.62,
+     0.24
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "bg100_trading_floor",
+   "group": "都市霸总",
+   "en": "a financial trading hall, rows of desks with multiple monitors, a large video wall showing charts, cool blue light, a plain band above the video wall",
+   "sign": {
+    "text": "交易大厅",
+    "style": "metal",
+    "box": [
+     0.26,
+     0.07,
+     0.68,
+     0.16
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "bg100_private_jet",
+   "group": "都市霸总",
+   "en": "the cabin of a private jet, cream leather seats, polished wood veneer tables, oval windows with clouds, soft indirect lighting"
+  },
+  {
+   "sid": "bg100_river_villa",
+   "group": "都市霸总",
+   "en": "a modern riverside villa living room, floor to ceiling glass overlooking the river at dusk, low linen sofa, designer floor lamp, warm interior glow"
+  },
+  {
+   "sid": "bg100_interrogation_room",
+   "group": "都市霸总",
+   "en": "a police interrogation room, metal table bolted to the floor, two chairs, a single overhead lamp, grey walls, a small frosted window",
+   "sign": {
+    "text": "审讯室",
+    "style": "metal",
+    "box": [
+     0.3,
+     0.3,
+     0.66,
+     0.4
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "bg100_mountain_gate",
+   "group": "古装仙侠",
+   "en": "an ancient mountain sect gate, wide granite steps, weathered stone lions, misty layered peaks behind, early morning light, an empty flat stone wall on the left side",
+   "sign": {
+    "text": "清虚门",
+    "style": "stone",
+    "box": [
+     0.09,
+     0.46,
+     0.25,
+     0.86
+    ],
+    "vertical": true
+   }
+  },
+  {
+   "sid": "bg100_golden_hall",
+   "group": "古装仙侠",
+   "en": "a vast imperial audience hall, red lacquered columns, a raised platform with a carved throne, silk drapes, incense haze, a plain lintel beam above the archway",
+   "sign": {
+    "text": "正阳殿",
+    "style": "plaque",
+    "box": [
+     0.3,
+     0.08,
+     0.7,
+     0.19
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "bg100_imperial_study",
+   "group": "古装仙侠",
+   "en": "an imperial scholar study, rosewood desk, scrolls and brushes, a screen with landscape painting, soft light through lattice windows"
+  },
+  {
+   "sid": "bg100_sect_arena",
+   "group": "古装仙侠",
+   "en": "a cultivation sect training ground, a wide stone courtyard with weapon racks and practice dummies, mountain mist, morning light",
+   "sign": {
+    "text": "演武场",
+    "style": "wall",
+    "box": [
+     0.24,
+     0.22,
+     0.6,
+     0.34
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "bg100_herb_hut",
+   "group": "古装仙侠",
+   "en": "a small chinese herbal medicine hut, drying herbs hanging from rafters, wooden drawers of medicine, a stone mortar, warm light through a paper window",
+   "sign": {
+    "text": "百草堂",
+    "style": "wood",
+    "box": [
+     0.09,
+     0.26,
+     0.21,
+     0.58
+    ],
+    "vertical": true
+   }
+  },
+  {
+   "sid": "bg100_scripture_pavilion",
+   "group": "古装仙侠",
+   "en": "a tall wooden scripture pavilion, tiers of shelves with scrolls, a balcony railing, pine trees outside, dappled sunlight",
+   "sign": {
+    "text": "藏经阁",
+    "style": "plaque",
+    "box": [
+     0.3,
+     0.14,
+     0.68,
+     0.26
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "bg100_inn_hall",
+   "group": "古装仙侠",
+   "en": "an old chinese inn main hall, a long wooden counter, hanging lanterns, a staircase to the second floor, a wide blank wooden beam above the counter",
+   "sign": {
+    "text": "悦来客栈",
+    "style": "plaque",
+    "box": [
+     0.26,
+     0.11,
+     0.66,
+     0.22
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "bg100_tavern_upper",
+   "group": "古装仙侠",
+   "en": "the upper floor of a riverside tavern, wooden tables with wine jars, lattice windows overlooking water, warm lantern glow, a clean beam band above the doorway",
+   "sign": {
+    "text": "临江楼",
+    "style": "plaque",
+    "box": [
+     0.3,
+     0.12,
+     0.66,
+     0.23
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "bg100_city_god_temple",
+   "group": "古装仙侠",
+   "en": "a chinese city god temple courtyard, red painted doors, stone lions, incense burner, yellow banners, midday light",
+   "sign": {
+    "text": "城隍庙",
+    "style": "plaque",
+    "box": [
+     0.28,
+     0.12,
+     0.66,
+     0.23
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "bg100_chancellor_court",
+   "group": "古装仙侠",
+   "en": "a chancellor residence inner courtyard, grey tile roofs, covered corridors, a stone screen wall, potted plum trees, soft overcast light",
+   "sign": {
+    "text": "丞相府",
+    "style": "plaque",
+    "box": [
+     0.3,
+     0.13,
+     0.68,
+     0.24
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "bg100_palace_corridor",
+   "group": "古装仙侠",
+   "en": "an imperial palace corridor, red columns, painted beams, hanging silk lanterns, patterned stone floor, a long perspective into the distance"
+  },
+  {
+   "sid": "bg100_bamboo_sword_hut",
+   "group": "古装仙侠",
+   "en": "a sword master hut in a bamboo grove, wooden porch, sword rack, stone step, misty bamboo, early dawn light",
+   "sign": {
+    "text": "听风剑庐",
+    "style": "wood",
+    "box": [
+     0.69,
+     0.3,
+     0.81,
+     0.64
+    ],
+    "vertical": true
+   }
+  },
+  {
+   "sid": "bg100_alchemy_room",
+   "group": "古装仙侠",
+   "en": "an alchemy chamber, bronze furnace, herb shelves, hanging drying bundles, a brick hearth with warm fire glow, stone floor",
+   "sign": {
+    "text": "炼丹房",
+    "style": "wall",
+    "box": [
+     0.2,
+     0.24,
+     0.56,
+     0.38
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "bg100_council_hall",
+   "group": "古装仙侠",
+   "en": "a sect council hall, a large round stone table, low cushions, scrolls and a jade seal, wall lamps, formal symmetrical composition",
+   "sign": {
+    "text": "议事殿",
+    "style": "plaque",
+    "box": [
+     0.32,
+     0.12,
+     0.68,
+     0.22
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "bg100_abyss_gate",
+   "group": "古装仙侠",
+   "en": "a forbidden abyss cave entrance, jagged black rock, faint red glow from inside, drifting mist, roots over the stone arch",
+   "sign": {
+    "text": "禁地",
+    "style": "stone",
+    "box": [
+     0.07,
+     0.46,
+     0.23,
+     0.86
+    ],
+    "vertical": true
+   }
+  },
+  {
+   "sid": "bg100_teleport_platform",
+   "group": "古装仙侠",
+   "en": "an ancient teleport array platform, concentric carved stone rings, glowing blue runes on the ground, ruined pillars, night sky"
+  },
+  {
+   "sid": "bg100_crane_pavilion",
+   "group": "古装仙侠",
+   "en": "a hilltop pavilion above a sea of clouds, curved tiled roof, wooden railings, stone steps, white cranes in the distance, sunrise",
+   "sign": {
+    "text": "望鹤亭",
+    "style": "plaque",
+    "box": [
+     0.34,
+     0.14,
+     0.66,
+     0.24
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "bg100_street_teahouse",
+   "group": "古装仙侠",
+   "en": "a small tea house on an old stone street, wooden storefront, cloth awning, stone lanterns, morning light, a blank fascia board above the counter",
+   "sign": {
+    "text": "清心茶社",
+    "style": "wood",
+    "box": [
+     0.11,
+     0.24,
+     0.23,
+     0.58
+    ],
+    "vertical": true
+   }
+  },
+  {
+   "sid": "bg100_academy",
+   "group": "古装仙侠",
+   "en": "a classical chinese academy courtyard, covered walkway with wooden columns, stone tablets, a small pond, ginkgo trees",
+   "sign": {
+    "text": "白鹿书院",
+    "style": "plaque",
+    "box": [
+     0.28,
+     0.12,
+     0.68,
+     0.23
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "bg100_blacksmith",
+   "group": "古装仙侠",
+   "en": "a village blacksmith workshop, glowing forge, hammer and anvil, hanging tools, sparks, a soot stained blank wall board",
+   "sign": {
+    "text": "张记铁铺",
+    "style": "wood",
+    "box": [
+     0.11,
+     0.26,
+     0.23,
+     0.58
+    ],
+    "vertical": true
+   }
+  },
+  {
+   "sid": "bg100_escort_agency",
+   "group": "古装仙侠",
+   "en": "a martial escort agency courtyard, weapon racks, wooden training posts, a flagpole, packed earth ground, morning light",
+   "sign": {
+    "text": "威远镖局",
+    "style": "plaque",
+    "box": [
+     0.28,
+     0.12,
+     0.68,
+     0.23
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "bg100_palace_garden",
+   "group": "古装仙侠",
+   "en": "an imperial palace garden at night, stone paths, moon gate, lotus pond, plum blossom trees, lantern light"
+  },
+  {
+   "sid": "bg100_tomb_stairs",
+   "group": "古装仙侠",
+   "en": "stone steps descending into an ancient tomb, carved reliefs on both walls, cold torch light, heavy fog",
+   "sign": {
+    "text": "禁入",
+    "style": "stone",
+    "box": [
+     0.6,
+     0.44,
+     0.82,
+     0.56
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "bg100_seclusion_cave",
+   "group": "古装仙侠",
+   "en": "a cultivation master seclusion cave, stone couch, meditation mat, a simple wooden table with a tea set, glowing crystal on a stand, dim light",
+   "sign": {
+    "text": "玄元真君",
+    "style": "stone",
+    "box": [
+     0.63,
+     0.28,
+     0.79,
+     0.66
+    ],
+    "vertical": true
+   }
+  },
+  {
+   "sid": "bg100_sword_tomb",
+   "group": "古装仙侠",
+   "en": "a vast sword tomb valley, thousands of ancient swords stuck in the ground, mist, jagged peaks, dramatic dawn light",
+   "sign": {
+    "text": "万剑冢",
+    "style": "stone",
+    "box": [
+     0.11,
+     0.46,
+     0.27,
+     0.86
+    ],
+    "vertical": true
+   }
+  },
+  {
+   "sid": "bg100_bamboo_path",
+   "group": "新国风民国",
+   "en": "a bamboo forest path in soft morning mist, tall green bamboo, mossy stone path, filtered light, cinematic depth"
+  },
+  {
+   "sid": "bg100_newchinese_tearoom",
+   "group": "新国风民国",
+   "en": "a modern chinese style tea room, light oak joinery, paper screen windows, a low tea table, a single bonsai, warm daylight",
+   "sign": {
+    "text": "松风茶室",
+    "style": "wood",
+    "box": [
+     0.64,
+     0.26,
+     0.76,
+     0.6
+    ],
+    "vertical": true
+   }
+  },
+  {
+   "sid": "bg100_inn_rooftop",
+   "group": "新国风民国",
+   "en": "the rooftop terrace of an old chinese inn at sunset, clay tile roofs, distant mountains, wooden railings, warm golden light"
+  },
+  {
+   "sid": "bg100_republic_shanghai",
+   "group": "新国风民国",
+   "en": "a 1930s shanghai street, art deco facades, rickshaw and period cars, neon and paper signs, steam and fog, cinematic sepia dusk",
+   "sign": {
+    "text": "永安百货",
+    "style": "plaque",
+    "box": [
+     0.24,
+     0.12,
+     0.6,
+     0.23
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "bg100_republic_teahouse",
+   "group": "新国风民国",
+   "en": "a 1930s chinese teahouse interior, rattan chairs, round tables, a gramophone, cigarette smoke haze, warm tungsten light",
+   "sign": {
+    "text": "云来茶楼",
+    "style": "plaque",
+    "box": [
+     0.3,
+     0.12,
+     0.66,
+     0.23
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "bg100_republic_station",
+   "group": "新国风民国",
+   "en": "a 1930s railway station concourse, arched windows, a large departure board, luggage trolleys, steam haze, dramatic daylight",
+   "sign": {
+    "text": "和平车站",
+    "style": "plaque",
+    "box": [
+     0.26,
+     0.12,
+     0.66,
+     0.23
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "bg100_republic_study",
+   "group": "新国风民国",
+   "en": "a 1930s scholar study, dark wood shelves of bound books, a writing desk with ink stone, a globe, brass desk lamp, green shaded light"
+  },
+  {
+   "sid": "bg100_republic_pharmacy",
+   "group": "新国风民国",
+   "en": "a 1930s chinese pharmacy, floor to ceiling medicine drawers, a grinding counter, hanging herb bundles, dusty window light",
+   "sign": {
+    "text": "济世堂",
+    "style": "plaque",
+    "box": [
+     0.3,
+     0.13,
+     0.66,
+     0.24
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "bg100_republic_press",
+   "group": "新国风民国",
+   "en": "a 1930s newspaper office, rows of type cases, printing press in the background, papers scattered on a desk, high windows",
+   "sign": {
+    "text": "申报馆",
+    "style": "plaque",
+    "box": [
+     0.28,
+     0.13,
+     0.66,
+     0.24
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "bg100_newchinese_office",
+   "group": "新国风民国",
+   "en": "a modern new chinese style office lobby, pale wood screens, stone floor, a single sculptural plant, soft skylight",
+   "sign": {
+    "text": "和光",
+    "style": "lightbox",
+    "box": [
+     0.32,
+     0.14,
+     0.64,
+     0.25
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "bg100_courtyard_house",
+   "group": "新国风民国",
+   "en": "a renovated chinese courtyard house, white plaster walls, dark timber frame, a rectangular reflecting pool, lattice windows, raking sunlight"
+  },
+  {
+   "sid": "bg100_tang_market",
+   "group": "新国风民国",
+   "en": "a tang dynasty market street, timber framed shops with cloth awnings, vendors stalls, lanterns, a clean wooden fascia band above the shops",
+   "sign": {
+    "text": "西市",
+    "style": "plaque",
+    "box": [
+     0.26,
+     0.12,
+     0.62,
+     0.22
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "bg100_song_tavern",
+   "group": "新国风民国",
+   "en": "a song dynasty riverside restaurant, sweeping roof lines, curved balcony, silk banners, lantern light at dusk",
+   "sign": {
+    "text": "望江楼",
+    "style": "plaque",
+    "box": [
+     0.28,
+     0.12,
+     0.64,
+     0.22
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "bg100_ming_study",
+   "group": "新国风民国",
+   "en": "a ming dynasty scholar study, rosewood shelf with scrolls, a scholar desk, a porcelain vase with plum branch, window lattice shadow"
+  },
+  {
+   "sid": "bg100_newchinese_cafe",
+   "group": "新国风民国",
+   "en": "a new chinese style specialty cafe, light stone counter, timber slat wall, a display of pottery, warm pendant lights",
+   "sign": {
+    "text": "有山",
+    "style": "lightbox",
+    "box": [
+     0.34,
+     0.14,
+     0.62,
+     0.25
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "bg100_martial_stable",
+   "group": "新国风民国",
+   "en": "a martial arts inn stable, wooden stalls, hay, horses in the background, shafts of morning light through slats",
+   "sign": {
+    "text": "马厩",
+    "style": "wood",
+    "box": [
+     0.09,
+     0.28,
+     0.21,
+     0.56
+    ],
+    "vertical": true
+   }
+  },
+  {
+   "sid": "bg100_sword_sect_gate",
+   "group": "新国风民国",
+   "en": "a sword sect mountain gate, weathered stone arch, moss covered steps, two stone steles, cloudy sky, pine trees",
+   "sign": {
+    "text": "玄剑门",
+    "style": "stone",
+    "box": [
+     0.11,
+     0.44,
+     0.27,
+     0.84
+    ],
+    "vertical": true
+   }
+  },
+  {
+   "sid": "bg100_ancestral_hall",
+   "group": "新国风民国",
+   "en": "an old village ancestral hall interior, carved wooden beams, red pillars, a large blank wooden tablet board, ancestral tablets on shelves",
+   "sign": {
+    "text": "陈氏宗祠",
+    "style": "plaque",
+    "box": [
+     0.26,
+     0.12,
+     0.66,
+     0.23
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "bg100_water_town_bridge",
+   "group": "新国风民国",
+   "en": "a stone arch bridge in a chinese water town, whitewashed houses, narrow canal, willow branches, soft morning mist"
+  },
+  {
+   "sid": "bg100_newchinese_showroom",
+   "group": "新国风民国",
+   "en": "a new chinese style furniture showroom, travertine plinths, display pieces, slatted timber wall, museum lighting"
+  },
+  {
+   "sid": "bg100_dunhuang_cave",
+   "group": "新国风民国",
+   "en": "a dunhuang style cave chamber, painted murals on curved walls, a low altar, oil lamp light, warm dust in the air"
+  },
+  {
+   "sid": "bg100_guochao_hotpot",
+   "group": "新国风民国",
+   "en": "a modern guochao style hotpot restaurant interior, rattan screens, red and brass accents, communal round table, warm pendant lights",
+   "sign": {
+    "text": "老码头",
+    "style": "neon_warm",
+    "box": [
+     0.24,
+     0.12,
+     0.66,
+     0.24
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "bg100_ink_barber",
+   "group": "新国风民国",
+   "en": "a new chinese style barbershop, warm timber and dark green tiles, a wash basin station, brass fittings, soft daylight",
+   "sign": {
+    "text": "墨剪",
+    "style": "lightbox",
+    "box": [
+     0.3,
+     0.14,
+     0.64,
+     0.25
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "bg100_herbal_counter",
+   "group": "新国风民国",
+   "en": "a chinese herbal medicine counter interior, a wall of small medicine drawers, a weighing scale, bundles of herbs hanging, daylight from a lattice window",
+   "sign": {
+    "text": "济生堂",
+    "style": "wood",
+    "box": [
+     0.66,
+     0.26,
+     0.78,
+     0.6
+    ],
+    "vertical": true
+   }
+  },
+  {
+   "sid": "bg100_snow_taoist",
+   "group": "新国风民国",
+   "en": "a taoist temple on a snowy mountain, upturned roof, red pillars, snow covered stone steps, pine branches, cold blue dawn light",
+   "sign": {
+    "text": "寒山观",
+    "style": "plaque",
+    "box": [
+     0.28,
+     0.12,
+     0.66,
+     0.23
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "bg100_warehouse_abandoned",
+   "group": "悬疑复仇",
+   "en": "an abandoned warehouse at night, shafts of light through broken roof panels, stacked crates, dust in the air, cold blue moonlight"
+  },
+  {
+   "sid": "bg100_morgue_corridor",
+   "group": "悬疑复仇",
+   "en": "a hospital morgue corridor in the basement, steel doors along both walls, fluorescent flicker, green grey walls, unsettling cold light",
+   "sign": {
+    "text": "解剖室",
+    "style": "metal",
+    "box": [
+     0.28,
+     0.22,
+     0.58,
+     0.31
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "bg100_crime_scene_flat",
+   "group": "悬疑复仇",
+   "en": "a modest apartment crime scene, taped doorway, overturned chair, a plain wall behind, harsh forensic light, muted colours",
+   "sign": {
+    "text": "警戒线",
+    "style": "paper",
+    "box": [
+     0.62,
+     0.4,
+     0.84,
+     0.58
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "bg100_archive_room",
+   "group": "悬疑复仇",
+   "en": "a police archive room, tall steel shelving with box files, a ladder, a single desk lamp, dusty light beams",
+   "sign": {
+    "text": "档案室",
+    "style": "metal",
+    "box": [
+     0.24,
+     0.14,
+     0.58,
+     0.24
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "bg100_bunker_room",
+   "group": "悬疑复仇",
+   "en": "a hidden underground bunker room, concrete walls, a steel table, a single caged bulb, a heavy door, harsh shadows"
+  },
+  {
+   "sid": "bg100_old_hallway",
+   "group": "悬疑复仇",
+   "en": "a decaying old apartment corridor, peeling wallpaper, wooden doors, a dim bulb, long shadows, cold night light from a window"
+  },
+  {
+   "sid": "bg100_container_port",
+   "group": "悬疑复仇",
+   "en": "a container port at night, stacked shipping containers, a gantry crane, harsh floodlights, sea fog",
+   "sign": {
+    "text": "禁止靠近",
+    "style": "paper",
+    "box": [
+     0.6,
+     0.44,
+     0.86,
+     0.6
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "bg100_funeral_home",
+   "group": "悬疑复仇",
+   "en": "a funeral home hallway, dark wood panelling, framed portraits, a flower arrangement, cold daylight through frosted glass"
+  },
+  {
+   "sid": "bg100_control_room",
+   "group": "悬疑复仇",
+   "en": "a security control room, a wall of CCTV monitors, operator desks, blue screen glow, dark room",
+   "sign": {
+    "text": "监控中心",
+    "style": "metal",
+    "box": [
+     0.28,
+     0.08,
+     0.66,
+     0.17
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "bg100_under_bridge",
+   "group": "悬疑复仇",
+   "en": "the underside of a city overpass at night, concrete pillars, graffiti, puddles reflecting street light, fog"
+  },
+  {
+   "sid": "bg100_phone_booth",
+   "group": "悬疑复仇",
+   "en": "a small city phone booth on a wet street corner at night, glass panels, a single overhead lamp, neon spill, puddles",
+   "sign": {
+    "text": "公用电话",
+    "style": "lightbox",
+    "box": [
+     0.32,
+     0.26,
+     0.66,
+     0.37
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "bg100_last_train",
+   "group": "悬疑复仇",
+   "en": "a nearly empty metro carriage late at night, one passenger seat lit, motion blur outside the windows, cold fluorescent light"
+  },
+  {
+   "sid": "bg100_derelict_factory",
+   "group": "悬疑复仇",
+   "en": "a derelict factory workshop, rusted machinery, broken windows, shafts of dirty daylight, a rusted metal plate on the wall",
+   "sign": {
+    "text": "禁止入内",
+    "style": "paper",
+    "box": [
+     0.18,
+     0.3,
+     0.52,
+     0.42
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "bg100_mortuary_hall",
+   "group": "悬疑复仇",
+   "en": "a mortuary hall, rows of covered trolleys, white tiled floor, a cold blue overhead light, a heavy curtain"
+  },
+  {
+   "sid": "bg100_secret_study",
+   "group": "悬疑复仇",
+   "en": "a hidden study behind bookshelves, a writing desk with maps, a safe in the wall, a single desk lamp, dust in the beam"
+  },
+  {
+   "sid": "bg100_suite_1204",
+   "group": "悬疑复仇",
+   "en": "a luxury hotel suite at night, king bed, floor to ceiling city view, a champagne bucket, dim bedside lamp"
+  },
+  {
+   "sid": "bg100_car_wash",
+   "group": "悬疑复仇",
+   "en": "an underground car wash bay, tiled walls, a wash gantry, wet floor reflections, cold fluorescent tubes",
+   "sign": {
+    "text": "精洗",
+    "style": "neon_warm",
+    "box": [
+     0.32,
+     0.24,
+     0.62,
+     0.35
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "bg100_underground_casino",
+   "group": "悬疑复仇",
+   "en": "a smoky underground casino, card tables, chandeliers, red velvet ropes, cigarette haze, dim gold light",
+   "sign": {
+    "text": "百家乐",
+    "style": "neon_pink",
+    "box": [
+     0.28,
+     0.2,
+     0.6,
+     0.32
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "bg100_old_theatre_backstage",
+   "group": "悬疑复仇",
+   "en": "the backstage of an old theatre, rope rigging, crates, a dressing mirror with bulbs, dusty red curtain",
+   "sign": {
+    "text": "后台",
+    "style": "metal",
+    "box": [
+     0.3,
+     0.22,
+     0.58,
+     0.31
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "bg100_village_rental",
+   "group": "悬疑复仇",
+   "en": "a cramped rental room in an old urban village, single bed, peeling wall, a small barred window, street light through the gap"
+  },
+  {
+   "sid": "bg100_bridge_underpass",
+   "group": "悬疑复仇",
+   "en": "a river bridge underpass at night, damp concrete, a motorcycle parked, sodium street lamp, long shadows"
+  },
+  {
+   "sid": "bg100_funeral_shop",
+   "group": "悬疑复仇",
+   "en": "a small funeral goods shop interior, shelves of paper offerings and folded white cloth, a counter, dusty daylight through the door",
+   "sign": {
+    "text": "寿衣",
+    "style": "paper",
+    "box": [
+     0.6,
+     0.3,
+     0.84,
+     0.48
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "bg100_night_market_stalls",
+   "group": "悬疑复仇",
+   "en": "a late night food market, steel stalls with steaming woks, string lights, closed shutters, warm smoky air"
+  },
+  {
+   "sid": "bg100_hospital_night",
+   "group": "悬疑复仇",
+   "en": "a hospital corridor at night, vinyl floor, closed doors, a nurses station, cold fluorescent tubes with one flickering"
+  },
+  {
+   "sid": "bg100_sanatorium",
+   "group": "悬疑复仇",
+   "en": "an abandoned sanatorium, peeling walls, rusted bed frames, tall broken windows, grey daylight and dust",
+   "sign": {
+    "text": "疗养院",
+    "style": "stone",
+    "box": [
+     0.11,
+     0.44,
+     0.27,
+     0.82
+    ],
+    "vertical": true
+   }
+  },
+  {
+   "sid": "bg100_police_evidence",
+   "group": "悬疑复仇",
+   "en": "a police evidence processing room, steel tables, numbered markers, a photo board on a plain wall, harsh overhead light",
+   "sign": {
+    "text": "证物室",
+    "style": "metal",
+    "box": [
+     0.28,
+     0.16,
+     0.62,
+     0.25
+    ],
+    "vertical": false
+   }
+  }
+ ]
+}

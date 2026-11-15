@@ -1,0 +1,162 @@
+{
+  "video": "final/零点四十七单_样本B_S02雨棚下.mp4",
+  "spec": {
+    "codec_name": "h264",
+    "width": 480,
+    "height": 832,
+    "r_frame_rate": "24/1",
+    "nb_frames": "1896",
+    "fps": 24.0,
+    "duration": 79.0,
+    "size_mb": 9.94,
+    "bitrate_kbps": 1055,
+    "audio": {
+      "codec_name": "aac",
+      "sample_rate": "44100",
+      "channels": 2
+    }
+  },
+  "frame_count": {
+    "actual": 1896,
+    "expect": 1896,
+    "ok": true
+  },
+  "loudness": {
+    "input_i": "-14.09",
+    "input_tp": "-1.45",
+    "input_lra": "6.30",
+    "input_thresh": "-25.88",
+    "output_i": "-14.20",
+    "output_tp": "-1.50",
+    "output_lra": "5.70",
+    "output_thresh": "-25.94",
+    "normalization_type": "dynamic",
+    "target_offset": "0.20"
+  },
+  "loudness_ok": true,
+  "subtitle_burn": {
+    "ok": true,
+    "items": [
+      {
+        "shot": "s02_b02_turn_and_face",
+        "t": 17.588,
+        "changed_px": 4690,
+        "pct": 1.174,
+        "ok": true
+      },
+      {
+        "shot": "s02_b03_give_notebook",
+        "t": 33.24,
+        "changed_px": 6801,
+        "pct": 1.703,
+        "ok": true
+      },
+      {
+        "shot": "s02_b04_rider_reacts",
+        "t": 48.75,
+        "changed_px": 6233,
+        "pct": 1.561,
+        "ok": true
+      },
+      {
+        "shot": "s02_b05_notebook_page",
+        "t": 64.25,
+        "changed_px": 8378,
+        "pct": 2.098,
+        "ok": true
+      }
+    ]
+  },
+  "voice_onset": {
+    "ok": false,
+    "checked": 4,
+    "items": [
+      {
+        "shot": "s02_b02_turn_and_face",
+        "text": "大川哥。",
+        "sub_start": 17.4,
+        "onset": 17.4,
+        "delta_s": 0.0,
+        "ok": true
+      },
+      {
+        "shot": "s02_b03_give_notebook",
+        "text": "这单是我下的。",
+        "sub_start": 32.9,
+        "onset": 32.9,
+        "delta_s": 0.0,
+        "ok": true
+      },
+      {
+        "shot": "s02_b04_rider_reacts",
+        "text": "这是……大勇的？",
+        "sub_start": 48.4,
+        "onset": 48.4,
+        "delta_s": 0.0,
+        "ok": true
+      },
+      {
+        "shot": "s02_b05_notebook_page",
+        "text": "缺三个扣件，已报，未修。",
+        "sub_start": 63.9,
+        "onset": 63.55,
+        "delta_s": -0.35,
+        "ok": false
+      }
+    ]
+  },
+  "asr_crosscheck": {
+    "ok": true,
+    "checked": 4,
+    "items": [
+      {
+        "shot": "s02_b01_figure_under_umbrella",
+        "has_text": false
+      },
+      {
+        "shot": "s02_b02_turn_and_face",
+        "has_text": true,
+        "ref": "大川哥。",
+        "asr": "大川哥",
+        "sub_start": 17.4,
+        "asr_start_abs": 16.799999999999997,
+        "delta_s": -0.6,
+        "cer": 0.0,
+        "ok": true
+      },
+      {
+        "shot": "s02_b03_give_notebook",
+        "has_text": true,
+        "ref": "这单是我下的。",
+        "asr": "这单是我下的",
+        "sub_start": 32.9,
+        "asr_start_abs": 32.3,
+        "delta_s": -0.6,
+        "cer": 0.0,
+        "ok": true
+      },
+      {
+        "shot": "s02_b04_rider_reacts",
+        "has_text": true,
+        "ref": "这是……大勇的？",
+        "asr": "这是大勇的",
+        "sub_start": 48.4,
+        "asr_start_abs": 47.8,
+        "delta_s": -0.6,
+        "cer": 0.0,
+        "ok": true
+      },
+      {
+        "shot": "s02_b05_notebook_page",
+        "has_text": true,
+        "ref": "缺三个扣件，已报，未修。",
+        "asr": "缺三个扣件已报未修",
+        "sub_start": 63.9,
+        "asr_start_abs": 63.3,
+        "delta_s": -0.6,
+        "cer": 0.0,
+        "ok": true
+      }
+    ]
+  }
+}

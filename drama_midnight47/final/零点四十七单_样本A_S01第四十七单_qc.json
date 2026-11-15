@@ -1,0 +1,158 @@
+{
+  "video": "final/零点四十七单_样本A_S01第四十七单.mp4",
+  "spec": {
+    "codec_name": "h264",
+    "width": 480,
+    "height": 832,
+    "r_frame_rate": "24/1",
+    "nb_frames": "1524",
+    "fps": 24.0,
+    "duration": 63.5,
+    "size_mb": 9.7,
+    "bitrate_kbps": 1282,
+    "audio": {
+      "codec_name": "aac",
+      "sample_rate": "44100",
+      "channels": 2
+    }
+  },
+  "frame_count": {
+    "actual": 1524,
+    "expect": 1524,
+    "ok": true
+  },
+  "loudness": {
+    "input_i": "-14.11",
+    "input_tp": "-1.41",
+    "input_lra": "3.70",
+    "input_thresh": "-25.44",
+    "output_i": "-14.07",
+    "output_tp": "-1.50",
+    "output_lra": "3.90",
+    "output_thresh": "-25.38",
+    "normalization_type": "dynamic",
+    "target_offset": "0.07"
+  },
+  "loudness_ok": true,
+  "subtitle_burn": {
+    "ok": true,
+    "items": [
+      {
+        "shot": "s01_a01_night_ride",
+        "t": 2.25,
+        "changed_px": 9007,
+        "pct": 2.255,
+        "ok": true
+      },
+      {
+        "shot": "s01_a02_phone_screen",
+        "t": 17.75,
+        "changed_px": 8421,
+        "pct": 2.109,
+        "ok": true
+      },
+      {
+        "shot": "s01_a03_demolished",
+        "t": 33.25,
+        "changed_px": 5879,
+        "pct": 1.472,
+        "ok": true
+      },
+      {
+        "shot": "s01_a04_final_call",
+        "t": 48.75,
+        "changed_px": 7626,
+        "pct": 1.91,
+        "ok": true
+      }
+    ]
+  },
+  "voice_onset": {
+    "ok": true,
+    "checked": 4,
+    "items": [
+      {
+        "shot": "s01_a01_night_ride",
+        "text": "四十七单，送完今天收工。",
+        "sub_start": 1.9,
+        "onset": 1.89,
+        "delta_s": -0.01,
+        "ok": true
+      },
+      {
+        "shot": "s01_a02_phone_screen",
+        "text": "槐树巷三号楼，三单元。",
+        "sub_start": 17.4,
+        "onset": 17.35,
+        "delta_s": -0.05,
+        "ok": true
+      },
+      {
+        "shot": "s01_a03_demolished",
+        "text": "这楼，去年就拆了。",
+        "sub_start": 32.9,
+        "onset": 32.75,
+        "delta_s": -0.15,
+        "ok": true
+      },
+      {
+        "shot": "s01_a04_final_call",
+        "text": "妈，今晚不回去吃了。",
+        "sub_start": 48.4,
+        "onset": 48.4,
+        "delta_s": 0.0,
+        "ok": true
+      }
+    ]
+  },
+  "asr_crosscheck": {
+    "ok": true,
+    "checked": 4,
+    "items": [
+      {
+        "shot": "s01_a01_night_ride",
+        "has_text": true,
+        "ref": "四十七单，送完今天收工。",
+        "asr": "47单送完今天收工",
+        "sub_start": 1.9,
+        "asr_start_abs": 1.2999999999999998,
+        "delta_s": -0.6,
+        "cer": 0.1,
+        "ok": true
+      },
+      {
+        "shot": "s01_a02_phone_screen",
+        "has_text": true,
+        "ref": "槐树巷三号楼，三单元。",
+        "asr": "槐树巷三号楼三单元",
+        "sub_start": 17.4,
+        "asr_start_abs": 16.799999999999997,
+        "delta_s": -0.6,
+        "cer": 0.0,
+        "ok": true
+      },
+      {
+        "shot": "s01_a03_demolished",
+        "has_text": true,
+        "ref": "这楼，去年就拆了。",
+        "asr": "这楼去年就拆了",
+        "sub_start": 32.9,
+        "asr_start_abs": 32.3,
+        "delta_s": -0.6,
+        "cer": 0.0,
+        "ok": true
+      },
+      {
+        "shot": "s01_a04_final_call",
+        "has_text": true,
+        "ref": "妈，今晚不回去吃了。",
+        "asr": "妈今晚不回去吃了有我",
+        "sub_start": 48.4,
+        "asr_start_abs": 47.8,
+        "delta_s": -0.6,
+        "cer": 0.0,
+        "ok": true
+      }
+    ]
+  }
+}
