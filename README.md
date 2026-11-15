@@ -18,10 +18,11 @@
 | `characters/sheets/` | 角色设定对照表 | 1 组 | 0.50 G |
 | `scenes_100/` | 剧情背景（招牌文字 100/100 全部为真实汉字） | **100** 张 PNG | 0.10 G |
 | `drama/` | 短剧《深渊》分镜与成片片段 | 35 个文件 | 0.06 G |
-| `scripts/` | 全部生成脚本（可复现） | 153 个文件 | 1.2 M |
+| `drama_midnight47/` | 短剧《零点四十七单》剧本、生产脚本与质检记录 | 15 个文件 | 188 K |
+| `scripts/` | 全部生成脚本（可复现，含三条审计链路） | 177 个文件 | 1.7 M |
 | `*.html` | 三个可视化索引页 | — | 1.9 M |
 
-**净入库：7482 个 LFS 对象 + 236 个文本文件 = 7718 个文件 / 约 6.8 G。**
+**净入库：7482 个 LFS 对象 + 424 个文本文件 = 7906 个文件 / 约 6.8 G。**
 
 > 磁盘上的 `seasons/`、`characters/cast/` 另存有 `_backup_gender/` 等回滚备份，
 > 已由 `.gitignore` 排除，**不入库**。入库数量以 `git ls-files` 为准。
@@ -156,12 +157,17 @@ git add .gitattributes
 - `pool/`、`pool_season/`、`logs/` — 任务池与运行日志
 - `characters/cast/*/_backup_gender/`、`seasons/*/_backup_gender/` — 性别修复的回滚备份
 - `drama_1min/sample_15s/{frames,motion,ocrframes,out,subs,tmp,voice}/` — 进行中任务的工作区
+- `/_*/` — 顶层下划线开头的诊断 / 探针目录（b100 背景链路 35 个目录，约 350 MB），
+  后续该链路再产出的新诊断目录自动覆盖，无需逐个列举
+- `scenes_b100*/`、`sheets_b100/` — 竖版背景出图链路的图片工作区
+- `drama_midnight47/{frames,frames_norm,motion,motion_segs,voice,work,compose_work_*}/` —
+  《零点四十七单》的中间产物（脚本、剧本、质检 JSON 入库）
 
 ---
 
 ## 复现
 
-生成脚本集中在 `scripts/`，按依赖顺序：
+生成脚本集中在 `scripts/`，**177 个文件全部已入库**，按依赖顺序：
 
 ```
 gen_cast.py            角色主形象 + 设定
@@ -169,7 +175,14 @@ gen_scenes_100.py      100 张背景
 gen_season_variants.py 26 个时令变体（多卡并行）
 gen_emotion_voices_v2.py  9 情绪音色
 tmp_emotion_pitch_fix_v16.py  情绪音高相对锚定校准
+tmp_emotion_pitch_fix_v17.py  情绪音高校准（加自校准门控 + 多候选倍率重试）
 ```
+
+> **关于 `tmp_` 前缀**：这些脚本是逐轮迭代的产物，命名沿用了 `tmp_` 前缀，
+> 但它们是资产库的正式复现依据。`.gitignore` 早先有一条全局 `tmp_*` 规则，
+> 把它们连同真正的一次性临时文件一起排除了 —— 造成本 README 的「复现」
+> 段落在 GitHub 上指向的路径全部断裂。现已用 `!scripts/tmp_*` 白名单修正，
+> 白名单只匹配 `scripts/` 直接子级，不波及其他位置的临时文件。
 
 审计与索引：
 
@@ -196,6 +209,26 @@ tmp_regen_gender_mismatch.py 不符角色的「生成 → 自检 → 择优」�
 tmp_regen_seasons_for_ids.py 指定角色的 26 张时令变体重生成
 tmp_rename_female_ids.py     15 个女角色 ID 由 M 段改为 F 段
 ```
+
+---
+
+## 短剧《零点四十七单》
+
+20 场完整剧本（756 行）与生产流水线已入库于 `drama_midnight47/`：
+
+| 文件 | 作用 |
+|---|---|
+| `script/剧本_零点四十七单.md` | 20 场完整剧本、人物小传、配音对照表 |
+| `story.py` | 结构化镜头表（角色 / 场景 / 时长 / 动作 / 台词） |
+| `gen_frames.py` / `gen_motion.py` / `gen_voice.py` | 出图 → 动态化 → 配音 |
+| `compose.py` / `mix_audio.py` | 合成与混音 |
+| `qc_final.py` | 成片 5 项硬指标质检 |
+
+**质检五项**：规格（分辨率 / 帧率 / 总帧数必须与时间轴完全一致）、
+响度（−14 LUFS / 真峰值）、字幕烧录（像素差分法）、
+音画同步（逐镜 ASR 测发音起点偏差）、画面连续性（镜边界帧号 vs 字幕屏边界帧号）。
+
+样片 A（S01 第四十七单）与样片 B（S02 雨棚下）的质检 JSON 已入库。
 
 ---
 
