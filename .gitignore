@@ -85,3 +85,9 @@ drama_1min/sample_15s/__pycache__/
 *.old
 *.rej
 *~
+
+# ===== 竖版背景出图链路探针（另一条并行任务的中间产物） =====
+_probe_b100/
+_probe_tts/
+_probe_tts.py
+scenes_b100/
