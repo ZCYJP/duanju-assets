@@ -11,11 +11,13 @@ voices_emotions_backup.tar.gz
 *.tar
 *.tar.gz
 
-# ===== 背景重生成工作区 =====
+# ===== 背景重生成工作区（含其核验中间报告，保留正式 scenes_100_text_*_v5.json） =====
 scenes_100_pre_v5/
 scenes_100_regen/
 scenes_100_regen_cand/
 _pick_*/
+scenes_100_regen_text_*.json
+scenes_100_regen/_crops*/
 
 # ===== 核验中间产物（裁剪图；最终裁决 JSON 保留） =====
 bg_text_crops/
