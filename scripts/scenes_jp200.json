@@ -1,0 +1,2146 @@
+{
+ "meta": {
+  "version": "jp200-v2",
+  "count": 200,
+  "nature": 100,
+  "street": 100,
+  "portrait": 100,
+  "landscape": 100,
+  "with_sign": 48,
+  "sizes": {
+   "portrait": "832x1472 -> 9:16",
+   "landscape": "1472x832 -> 16:9"
+  },
+  "note": "日本氛围自然环境+街景；模型全程不产字；街道招牌真实日文后期合成(Noto Sans JP)"
+ },
+ "scenes": [
+  {
+   "sid": "jpnat01_sakura_tunnel",
+   "cat": "nature",
+   "group": "春",
+   "name": "樱花隧道",
+   "en": "a tunnel formed by fully blooming pink cherry blossom trees arching over a quiet stone path, petals drifting in soft golden morning light, springtime",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpnat02_sakura_fuji",
+   "cat": "nature",
+   "group": "春",
+   "name": "樱花与富士山",
+   "en": "a lone pink cherry blossom tree in full bloom beside a calm lake, snow capped Mount Fuji reflected in the still water, clear spring morning",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpnat03_kawazu_river",
+   "cat": "nature",
+   "group": "春",
+   "name": "河津樱河畔",
+   "en": "a riverside lined with bright pink kawazu cherry blossoms in full bloom, tranquil blue water, gentle afternoon light, early spring",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpnat04_rape_fuji",
+   "cat": "nature",
+   "group": "春",
+   "name": "油菜花与富士",
+   "en": "a vast field of yellow rapeseed flowers stretching toward snow capped Mount Fuji, bright blue sky, spring afternoon",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpnat05_plum_grove",
+   "cat": "nature",
+   "group": "春",
+   "name": "梅林",
+   "en": "a grove of white and pink plum blossoms in early spring, bare branches, soft hazy light, traditional garden path",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpnat06_higanbana",
+   "cat": "nature",
+   "group": "秋",
+   "name": "彼岸花田",
+   "en": "a field of vivid red spider lilies blooming along a narrow country path, muted overcast light, early autumn",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpnat07_wisteria",
+   "cat": "nature",
+   "group": "春",
+   "name": "紫藤花棚",
+   "en": "a long tunnel of hanging purple wisteria blossoms, soft dappled light filtering through, late spring",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpnat08_moss_garden",
+   "cat": "nature",
+   "group": "春",
+   "name": "苔藓庭园",
+   "en": "a serene moss covered garden with rounded green mounds and stone lanterns, soft drizzle, muted greens, overcast light",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpnat09_fresh_bamboo",
+   "cat": "nature",
+   "group": "夏",
+   "name": "新绿竹林",
+   "en": "a lush bright green bamboo grove with tall stalks, sunlight filtering through the canopy, fresh new leaves, early summer",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpnat10_valley_stream",
+   "cat": "nature",
+   "group": "夏",
+   "name": "山涧溪流",
+   "en": "a clear mountain stream flowing over smooth rocks through a green forested valley, dappled sunlight, summer",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpnat11_rice_summer",
+   "cat": "nature",
+   "group": "夏",
+   "name": "夏日稻田",
+   "en": "lush green rice paddies with young shoots, terraced fields, distant green hills, bright summer sky",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpnat12_sunflower",
+   "cat": "nature",
+   "group": "夏",
+   "name": "向日葵田",
+   "en": "a vast field of tall sunflowers facing the sun under a deep blue summer sky, distant mountains",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpnat13_lavender",
+   "cat": "nature",
+   "group": "夏",
+   "name": "薰衣草田",
+   "en": "endless rows of purple lavender in full bloom stretching to rolling hills, hazy summer afternoon, Hokkaido",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpnat14_summer_coast",
+   "cat": "nature",
+   "group": "夏",
+   "name": "夏日海岸",
+   "en": "a serene summer coastline with turquoise water, white sand, gentle waves, bright clear sky",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpnat15_shonan_beach",
+   "cat": "nature",
+   "group": "夏",
+   "name": "湘南沙滩",
+   "en": "a wide sandy beach with calm blue sea, a distant island on the horizon, bright summer afternoon",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpnat16_enoshima",
+   "cat": "nature",
+   "group": "夏",
+   "name": "江之岛海景",
+   "en": "a rocky seaside with a small island and a red pagoda perched on a hill, blue sea, clear summer day",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpnat17_lake_ashi",
+   "cat": "nature",
+   "group": "夏",
+   "name": "芦之湖",
+   "en": "a tranquil lake surrounded by forested mountains with mist over the water, a red torii gate near the shore",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpnat18_fuji_lakes",
+   "cat": "nature",
+   "group": "夏",
+   "name": "富士五湖",
+   "en": "a calm lake reflecting snow capped Mount Fuji, pine trees on the shore, clear early morning",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpnat19_highland",
+   "cat": "nature",
+   "group": "夏",
+   "name": "高原草甸",
+   "en": "a rolling highland meadow with wild grass and distant misty mountains, soft summer light",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpnat20_shirakawa_river",
+   "cat": "nature",
+   "group": "夏",
+   "name": "白川清流",
+   "en": "a clear shallow river flowing through a green mountain village, smooth stones, summer afternoon",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpnat21_autumn_maple",
+   "cat": "nature",
+   "group": "秋",
+   "name": "红叶枫林",
+   "en": "a dense grove of vivid red and orange maple trees, autumn leaves covering the ground, warm light",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpnat22_ginkgo_ave",
+   "cat": "nature",
+   "group": "秋",
+   "name": "银杏大道",
+   "en": "a boulevard lined with golden ginkgo trees, a carpet of yellow leaves on the pavement, clear autumn day",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpnat23_kyoto_maple_garden",
+   "cat": "nature",
+   "group": "秋",
+   "name": "京都枫庭",
+   "en": "a traditional Japanese garden with brilliant red maple trees reflected in a still pond, stone lanterns, autumn",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpnat24_autumn_mountain",
+   "cat": "nature",
+   "group": "秋",
+   "name": "秋色山峦",
+   "en": "a mountain slope covered in red orange and yellow autumn foliage, layered ridges, drifting mist, late autumn",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpnat25_autumn_field",
+   "cat": "nature",
+   "group": "秋",
+   "name": "秋收田野",
+   "en": "harvested rice fields in autumn with golden stubble, distant thatched houses, clear afternoon",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpnat26_persimmon",
+   "cat": "nature",
+   "group": "秋",
+   "name": "柿子林",
+   "en": "a rural orchard with bare branches and bright orange persimmons, a thatched farmhouse behind, late autumn",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpnat27_reed_marsh",
+   "cat": "nature",
+   "group": "秋",
+   "name": "芦苇荡",
+   "en": "a vast marshland of tall golden reeds swaying in the wind, a wooden boardwalk, hazy autumn light",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpnat28_misty_valley",
+   "cat": "nature",
+   "group": "秋",
+   "name": "云雾山谷",
+   "en": "a deep valley filled with drifting morning mist between forested ridges, soft muted light",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpnat29_snow_country",
+   "cat": "nature",
+   "group": "冬",
+   "name": "雪国村落",
+   "en": "a heavy snow covered rural village with deep white snow on traditional houses, snow laden pine trees, overcast winter",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpnat30_onsen_snow",
+   "cat": "nature",
+   "group": "冬",
+   "name": "雪中温泉",
+   "en": "an outdoor hot spring pool surrounded by snow covered rocks with steam rising, winter dusk, warm glow",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpnat31_snow_mountain",
+   "cat": "nature",
+   "group": "冬",
+   "name": "雪山",
+   "en": "a majestic snow capped mountain range under a pale winter sky, crisp clear air",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpnat32_snow_cedar",
+   "cat": "nature",
+   "group": "冬",
+   "name": "雪松林",
+   "en": "a forest of tall cedar trees heavily laden with fresh snow, quiet winter morning",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpnat33_frozen_lake",
+   "cat": "nature",
+   "group": "冬",
+   "name": "冰冻湖",
+   "en": "a partially frozen lake with ice sheets and cracks, snow covered shore, winter mountains behind",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpnat34_snow_village",
+   "cat": "nature",
+   "group": "冬",
+   "name": "雪中村庄",
+   "en": "a quiet snowbound village of wooden houses with warm lights in the windows, heavy snowfall, deep winter",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpnat35_winter_coast",
+   "cat": "nature",
+   "group": "冬",
+   "name": "冬日海岸",
+   "en": "a rugged winter coastline with grey sea and crashing waves, snow on dark rocks, overcast sky",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpnat36_juhyo",
+   "cat": "nature",
+   "group": "冬",
+   "name": "树冰",
+   "en": "a mountain slope of ice covered snow monsters juhyo, frozen trees coated in wind blown ice, winter",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpnat37_snow_shrine",
+   "cat": "nature",
+   "group": "冬",
+   "name": "雪中神社",
+   "en": "a small shrine with a red torii gate covered in snow among dark pine trees, winter",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpnat38_mt_fuji",
+   "cat": "nature",
+   "group": "地理",
+   "name": "富士山",
+   "en": "a majestic snow capped Mount Fuji seen across a calm lake with pine trees, clear blue sky, early morning",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpnat39_torii_sea",
+   "cat": "nature",
+   "group": "地理",
+   "name": "海上鸟居",
+   "en": "a large vermilion torii gate standing in the sea with the tide lapping around its base, misty distant mountains",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpnat40_senbon_torii",
+   "cat": "nature",
+   "group": "地理",
+   "name": "千本鸟居",
+   "en": "thousands of vermilion torii gates forming a long tunnel along a stone path on a wooded hillside, dappled light",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpnat41_nachi_falls",
+   "cat": "nature",
+   "group": "地理",
+   "name": "那智瀑布",
+   "en": "a tall slender waterfall plunging into a green forest, mist and rainbow spray, surrounded by tall trees",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpnat42_mountain_stream",
+   "cat": "nature",
+   "group": "地理",
+   "name": "山间溪流",
+   "en": "a clear brook cascading over mossy boulders in a lush green mountain forest, dappled sunlight",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpnat43_gorge",
+   "cat": "nature",
+   "group": "地理",
+   "name": "峡谷",
+   "en": "a dramatic narrow river gorge with steep rock walls and clear turquoise water winding through, autumn trees",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpnat44_volcano",
+   "cat": "nature",
+   "group": "地理",
+   "name": "火山口",
+   "en": "a barren volcanic crater landscape with dark rock and drifting sulfur steam, dramatic sky",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpnat45_grassland",
+   "cat": "nature",
+   "group": "地理",
+   "name": "草原",
+   "en": "a wide open grassland with rolling hills and a lone tree under a vast blue sky, summer",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpnat46_deep_forest",
+   "cat": "nature",
+   "group": "地理",
+   "name": "深林",
+   "en": "a dense quiet forest of tall trees with thick undergrowth, shafts of light through the canopy, deep green",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpnat47_moss_valley",
+   "cat": "nature",
+   "group": "地理",
+   "name": "苔谷",
+   "en": "a deep valley carpeted with vivid green moss and small streams, ancient trees, soft filtered light",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpnat48_terraced_field",
+   "cat": "nature",
+   "group": "地理",
+   "name": "梯田",
+   "en": "steep rice terraces cascading down a hillside, water reflecting the sky, green ridges, summer",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpnat49_sakura_mountain",
+   "cat": "nature",
+   "group": "地理",
+   "name": "樱山",
+   "en": "a mountainside covered in pink cherry blossoms in full bloom, layered ridges, spring haze",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpnat50_maple_mountain",
+   "cat": "nature",
+   "group": "地理",
+   "name": "枫山",
+   "en": "a mountainside ablaze with red and orange autumn maples, layered ridges, clear autumn day",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpnat51_lakeside_dawn",
+   "cat": "nature",
+   "group": "地理",
+   "name": "湖畔晨雾",
+   "en": "a still lake at dawn with low mist, reeds in the foreground, forested shore, soft pink sky",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpnat52_river_bank",
+   "cat": "nature",
+   "group": "地理",
+   "name": "河岸",
+   "en": "a wide calm river with a grassy bank and a stone embankment, a distant bridge, clear afternoon",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpnat53_cape_lighthouse",
+   "cat": "nature",
+   "group": "地理",
+   "name": "海岬灯塔",
+   "en": "a windswept grassy cape with a white lighthouse overlooking a blue sea, dramatic clouds",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpnat54_remote_island",
+   "cat": "nature",
+   "group": "地理",
+   "name": "无人岛",
+   "en": "a small green island ringed by turquoise water and white sand, clear sky, aerial view",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpnat55_rice_autumn",
+   "cat": "nature",
+   "group": "地理",
+   "name": "秋日稻田",
+   "en": "golden ripe rice paddies ready for harvest, terraced fields, autumn afternoon sun",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpnat56_tea_field",
+   "cat": "nature",
+   "group": "地理",
+   "name": "茶园",
+   "en": "terraced green tea fields with neatly trimmed rows on rolling hills, distant mountains, clear day",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpnat57_arashiyama_bamboo",
+   "cat": "nature",
+   "group": "地理",
+   "name": "岚山竹林",
+   "en": "a towering bamboo grove path with tall green stalks, soft dappled light filtering down, tranquil",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpnat58_moss_temple",
+   "cat": "nature",
+   "group": "地理",
+   "name": "苔寺",
+   "en": "a temple garden overgrown with lush green moss and stone lanterns, an ancient wooden hall, soft rain",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpnat59_zen_garden",
+   "cat": "nature",
+   "group": "地理",
+   "name": "枯山水",
+   "en": "a dry zen rock garden with raked white gravel and a few mossy stones, a wooden veranda, minimalist",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpnat60_pine_garden",
+   "cat": "nature",
+   "group": "地理",
+   "name": "松庭",
+   "en": "a formal Japanese garden with sculpted pine trees, a calm pond, a stone lantern and bridge",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpnat61_pond_garden",
+   "cat": "nature",
+   "group": "地理",
+   "name": "池泉庭园",
+   "en": "a traditional strolling garden with a large reflective pond, an arched stone bridge, pines, autumn colors",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpnat62_garden_spring",
+   "cat": "nature",
+   "group": "地理",
+   "name": "春之和庭",
+   "en": "a Japanese garden in spring with blooming iris and azalea, a wooden pavilion, a calm pond",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpnat63_garden_autumn",
+   "cat": "nature",
+   "group": "地理",
+   "name": "秋之和庭",
+   "en": "a Japanese garden in autumn with brilliant maple reflections in a still pond, stone lanterns, moss",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpnat64_maple_stream",
+   "cat": "nature",
+   "group": "地理",
+   "name": "枫溪",
+   "en": "a clear stream flowing through a maple grove with red leaves floating on the water, mossy banks",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpnat65_cedar_path",
+   "cat": "nature",
+   "group": "地理",
+   "name": "杉木参道",
+   "en": "a long straight approach lined with towering ancient cedar trees leading to a distant stone shrine",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpnat66_hillside_village",
+   "cat": "nature",
+   "group": "地理",
+   "name": "山间村落",
+   "en": "a small village of traditional houses tucked into a green hillside, terraced fields, misty morning",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpnat67_fishing_village",
+   "cat": "nature",
+   "group": "地理",
+   "name": "海边渔村",
+   "en": "a quiet seaside fishing village with wooden houses and small boats moored by a stone harbor",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpnat68_harbor_sunset",
+   "cat": "nature",
+   "group": "地理",
+   "name": "渔港日落",
+   "en": "a small fishing harbor at sunset with boats resting on calm water, golden orange sky",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpnat69_canal_sakura",
+   "cat": "nature",
+   "group": "地理",
+   "name": "樱花水渠",
+   "en": "a narrow canal lined with blooming cherry trees, petals floating on the water, low stone walls, spring",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpnat70_plum_fuji",
+   "cat": "nature",
+   "group": "地理",
+   "name": "梅与富士",
+   "en": "pink and white plum blossoms in the foreground with snow capped Mount Fuji in the distance, early spring",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpnat71_cosmos",
+   "cat": "nature",
+   "group": "地理",
+   "name": "波斯菊田",
+   "en": "a wide field of pink and white cosmos flowers swaying under a bright autumn sky, distant hills",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpnat72_spider_lily_bank",
+   "cat": "nature",
+   "group": "地理",
+   "name": "彼岸花岸",
+   "en": "a riverbank covered in vivid red spider lilies, green grass, soft overcast autumn light",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpnat73_hydrangea_temple",
+   "cat": "nature",
+   "group": "地理",
+   "name": "紫阳花寺",
+   "en": "stone steps flanked by blooming blue and purple hydrangea, a traditional temple gate beyond, rainy season",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpnat74_iris_pond",
+   "cat": "nature",
+   "group": "地理",
+   "name": "菖蒲池",
+   "en": "a calm pond with blooming purple iris at the water edge, green reeds, a wooden pavilion, early summer",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpnat75_lotus_pond",
+   "cat": "nature",
+   "group": "地理",
+   "name": "莲池",
+   "en": "a large pond covered with blooming pink lotus leaves and flowers, a stone bridge, summer morning",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpnat76_nanohana_hill",
+   "cat": "nature",
+   "group": "地理",
+   "name": "菜花山",
+   "en": "a gentle hill covered in bright yellow rapeseed flowers, blue sky, a distant village, spring",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpnat77_snow_monkey_onsen",
+   "cat": "nature",
+   "group": "地理",
+   "name": "雪猴温泉",
+   "en": "a steaming hot spring pool among snow covered rocks with warm water, winter, quiet wilderness",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpnat78_alpine_route",
+   "cat": "nature",
+   "group": "地理",
+   "name": "高山雪路",
+   "en": "a dramatic high mountain pass road winding through snow capped peaks, clear crisp air",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpnat79_cloud_sea",
+   "cat": "nature",
+   "group": "地理",
+   "name": "云海",
+   "en": "a sea of clouds filling a valley below mountain peaks at dawn, soft golden light",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpnat80_starry_sky",
+   "cat": "nature",
+   "group": "地理",
+   "name": "星空",
+   "en": "a vast night sky full of stars and the milky way over a dark forested mountain ridge",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpnat81_milkyway",
+   "cat": "nature",
+   "group": "地理",
+   "name": "银河",
+   "en": "a milky way arching over a silhouetted mountain range, deep night, clear dark sky",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpnat82_sunrise_sea",
+   "cat": "nature",
+   "group": "地理",
+   "name": "海上日出",
+   "en": "a calm sea at sunrise with the sun rising over the horizon, soft pink and orange reflection",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpnat83_sunset_mountain",
+   "cat": "nature",
+   "group": "地理",
+   "name": "山间落日",
+   "en": "layered mountain ridges at sunset bathed in warm orange and purple light, misty",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpnat84_rainbow_field",
+   "cat": "nature",
+   "group": "地理",
+   "name": "彩虹田野",
+   "en": "a green flower field with a faint rainbow arching after rain, bright clearing sky",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpnat85_typhoon_wave",
+   "cat": "nature",
+   "group": "地理",
+   "name": "台风浪",
+   "en": "a dark stormy sea with large crashing waves against a rocky coast, dramatic overcast sky",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpnat86_autumn_gorge",
+   "cat": "nature",
+   "group": "地理",
+   "name": "秋峡",
+   "en": "a deep gorge with a river winding through rocks, walls covered in red and orange autumn leaves",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpnat87_winter_fuji",
+   "cat": "nature",
+   "group": "地理",
+   "name": "冬富士",
+   "en": "Mount Fuji covered in deep snow under a clear pale blue winter sky, crisp and cold",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpnat88_sakura_night",
+   "cat": "nature",
+   "group": "地理",
+   "name": "夜樱",
+   "en": "a row of cherry blossom trees illuminated at night, petals glowing under warm lights, spring evening",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpnat89_maple_night",
+   "cat": "nature",
+   "group": "地理",
+   "name": "夜枫",
+   "en": "maple trees illuminated at night with vivid red leaves glowing against the dark, autumn evening",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpnat90_bamboo_snow",
+   "cat": "nature",
+   "group": "地理",
+   "name": "雪竹",
+   "en": "a bamboo grove with snow resting on the green stalks and leaves, quiet winter",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpnat91_spring_stream",
+   "cat": "nature",
+   "group": "地理",
+   "name": "春溪",
+   "en": "a clear spring brook flowing through fresh green grass and wildflowers, gentle sunlight",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpnat92_summer_forest",
+   "cat": "nature",
+   "group": "地理",
+   "name": "夏森",
+   "en": "a lush deep green forest in full summer foliage, bright filtered light, ferns and undergrowth",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpnat93_autumn_pond",
+   "cat": "nature",
+   "group": "地理",
+   "name": "秋池",
+   "en": "a quiet pond reflecting autumn trees in red and gold, floating leaves, a stone edge",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpnat94_winter_pines",
+   "cat": "nature",
+   "group": "地理",
+   "name": "冬松",
+   "en": "snow covered pine trees in a still winter landscape, pale sky, silent and cold",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpnat95_terrace_snow",
+   "cat": "nature",
+   "group": "地理",
+   "name": "雪梯田",
+   "en": "snow covered rice terraces layered along a hillside, winter, muted greys and whites",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpnat96_lake_swan",
+   "cat": "nature",
+   "group": "地理",
+   "name": "湖天鹅",
+   "en": "a calm lake with a white swan gliding on still water, reeds and mountains, soft light",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpnat97_wildflower_meadow",
+   "cat": "nature",
+   "group": "地理",
+   "name": "野花甸",
+   "en": "a highland meadow full of colorful wildflowers, distant blue mountains, bright summer",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpnat98_ravine_bridge",
+   "cat": "nature",
+   "group": "地理",
+   "name": "溪谷吊桥",
+   "en": "a deep forested ravine with a suspension bridge crossing it, a river far below, autumn colors",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpnat99_coastal_rocks",
+   "cat": "nature",
+   "group": "地理",
+   "name": "海岸礁石",
+   "en": "a rugged coastline with dark rocks and a clear sea, white waves, blue sky",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpnat100_fog_forest",
+   "cat": "nature",
+   "group": "地理",
+   "name": "雾林",
+   "en": "a dense forest shrouded in thick fog, bare trunks fading into white mist, moody",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpstr01_fushimi_inari",
+   "cat": "street",
+   "group": "神社",
+   "name": "伏见稻荷",
+   "en": "a path of closely spaced vermilion torii gates forming a tunnel on a hillside shrine, stone steps, dappled light",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpstr02_gion_lane",
+   "cat": "street",
+   "group": "古町",
+   "name": "花见小路",
+   "en": "a traditional Kyoto old town lane at dusk with wooden machiya townhouses, stone paved street, warm paper lanterns glowing blank",
+   "orientation": "landscape",
+   "sign": {
+    "text": "祇園",
+    "style": "darkwood",
+    "box": [
+     0.42,
+     0.085,
+     0.58,
+     0.35
+    ],
+    "vertical": true
+   }
+  },
+  {
+   "sid": "jpstr03_ishibe_alley",
+   "cat": "street",
+   "group": "古町",
+   "name": "石屏小路",
+   "en": "a narrow stone paved alley with wooden lattice fronted houses, wet cobblestones after rain, soft dusk light",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpstr04_kiyomizu_slope",
+   "cat": "street",
+   "group": "古町",
+   "name": "清水坂",
+   "en": "a sloping traditional shopping street leading up to a temple, wooden shops with plain fabric curtains, stone steps, daylight",
+   "orientation": "landscape",
+   "sign": {
+    "text": "清水坂",
+    "style": "wood",
+    "box": [
+     0.42,
+     0.085,
+     0.58,
+     0.35
+    ],
+    "vertical": true
+   }
+  },
+  {
+   "sid": "jpstr05_ninenzaka",
+   "cat": "street",
+   "group": "古町",
+   "name": "二年坂",
+   "en": "a stone paved historic slope lined with traditional wooden houses and plain hanging curtains, soft afternoon light",
+   "orientation": "portrait",
+   "sign": {
+    "text": "二年坂",
+    "style": "wood",
+    "box": [
+     0.42,
+     0.085,
+     0.58,
+     0.35
+    ],
+    "vertical": true
+   }
+  },
+  {
+   "sid": "jpstr06_sannenzaka",
+   "cat": "street",
+   "group": "古町",
+   "name": "三年坂",
+   "en": "a stepped stone lane descending between old wooden buildings, plain blinds, a distant pagoda, clear day",
+   "orientation": "landscape",
+   "sign": {
+    "text": "三年坂",
+    "style": "wood",
+    "box": [
+     0.42,
+     0.085,
+     0.58,
+     0.35
+    ],
+    "vertical": true
+   }
+  },
+  {
+   "sid": "jpstr07_higashiyama",
+   "cat": "street",
+   "group": "古町",
+   "name": "东山小巷",
+   "en": "a quiet winding alley in an old temple district with wooden walls and a stone path, soft evening glow",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpstr08_machiya_street",
+   "cat": "street",
+   "group": "古町",
+   "name": "町屋街",
+   "en": "a street of traditional wooden townhouses with lattice facades and plain curtains, old town, daylight",
+   "orientation": "landscape",
+   "sign": {
+    "text": "呉服",
+    "style": "darkwood",
+    "box": [
+     0.42,
+     0.085,
+     0.58,
+     0.35
+    ],
+    "vertical": true
+   }
+  },
+  {
+   "sid": "jpstr09_shibuya",
+   "cat": "street",
+   "group": "都市",
+   "name": "涩谷十字路口",
+   "en": "a wide urban scramble crossing at night with glowing neon billboards that are blank and colorful, tall buildings, wet asphalt reflecting the light, empty street",
+   "orientation": "portrait",
+   "sign": {
+    "text": "渋谷",
+    "style": "neon",
+    "box": [
+     0.28,
+     0.1,
+     0.72,
+     0.215
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "jpstr10_shinjuku",
+   "cat": "street",
+   "group": "都市",
+   "name": "歌舞伎町",
+   "en": "a bustling neon lit urban district at night with tall buildings and glowing blank signboards, wet street reflections, cinematic",
+   "orientation": "landscape",
+   "sign": {
+    "text": "新宿",
+    "style": "neon",
+    "box": [
+     0.28,
+     0.1,
+     0.72,
+     0.215
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "jpstr11_golden_gai",
+   "cat": "street",
+   "group": "都市",
+   "name": "黄金街",
+   "en": "a narrow alley of tiny bars at night with warm glowing windows and hanging blank lanterns, smoky atmosphere",
+   "orientation": "portrait",
+   "sign": {
+    "text": "酒場",
+    "style": "paper",
+    "box": [
+     0.42,
+     0.085,
+     0.58,
+     0.35
+    ],
+    "vertical": true
+   }
+  },
+  {
+   "sid": "jpstr12_omoide_yokocho",
+   "cat": "street",
+   "group": "都市",
+   "name": "思い出横丁",
+   "en": "a cramped alley of small food stalls under railway tracks at night, warm red lanterns glowing blank, steam and smoke",
+   "orientation": "landscape",
+   "sign": {
+    "text": "焼鳥",
+    "style": "paper",
+    "box": [
+     0.42,
+     0.085,
+     0.58,
+     0.35
+    ],
+    "vertical": true
+   }
+  },
+  {
+   "sid": "jpstr13_ginza",
+   "cat": "street",
+   "group": "都市",
+   "name": "银座",
+   "en": "an upscale wide city street at night with elegant lit buildings and glowing blank window displays, clean pavement",
+   "orientation": "portrait",
+   "sign": {
+    "text": "銀座",
+    "style": "lightbox",
+    "box": [
+     0.28,
+     0.1,
+     0.72,
+     0.215
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "jpstr14_akihabara",
+   "cat": "street",
+   "group": "都市",
+   "name": "秋叶原",
+   "en": "an electronics district street at night with tall buildings covered in glowing colorful blank panels, bright urban scene",
+   "orientation": "landscape",
+   "sign": {
+    "text": "電気街",
+    "style": "neon",
+    "box": [
+     0.28,
+     0.1,
+     0.72,
+     0.215
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "jpstr15_nakamise",
+   "cat": "street",
+   "group": "神社",
+   "name": "仲见世",
+   "en": "a long covered shopping arcade leading to a temple, rows of small shops with plain awnings, bright daylight",
+   "orientation": "portrait",
+   "sign": {
+    "text": "仲見世",
+    "style": "wood",
+    "box": [
+     0.28,
+     0.1,
+     0.72,
+     0.215
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "jpstr16_kaminarimon",
+   "cat": "street",
+   "group": "神社",
+   "name": "雷门",
+   "en": "a grand temple gate with a giant red central lantern that is blank with no writing, flanked by statues, overcast day",
+   "orientation": "landscape",
+   "sign": {
+    "text": "雷門",
+    "style": "plaque",
+    "box": [
+     0.3,
+     0.075,
+     0.7,
+     0.245
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "jpstr17_dotonbori",
+   "cat": "street",
+   "group": "都市",
+   "name": "道顿堀",
+   "en": "a lively canal-side street at night lined with glowing blank signboards and food stalls, reflections in the water",
+   "orientation": "portrait",
+   "sign": {
+    "text": "道頓堀",
+    "style": "neon_warm",
+    "box": [
+     0.28,
+     0.1,
+     0.72,
+     0.215
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "jpstr18_shinsaibashi",
+   "cat": "street",
+   "group": "都市",
+   "name": "心斋桥",
+   "en": "a long covered shopping street arcade with bright lights and shop windows, plain awnings, indoor daytime",
+   "orientation": "landscape",
+   "sign": {
+    "text": "心斎橋",
+    "style": "lightbox",
+    "box": [
+     0.28,
+     0.1,
+     0.72,
+     0.215
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "jpstr19_tsutenkaku",
+   "cat": "street",
+   "group": "都市",
+   "name": "通天阁",
+   "en": "a retro district with a tall steel tower rising above old shopfronts at dusk, warm lights",
+   "orientation": "portrait",
+   "sign": {
+    "text": "通天閣",
+    "style": "neon_warm",
+    "box": [
+     0.28,
+     0.1,
+     0.72,
+     0.215
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "jpstr20_shinsekai",
+   "cat": "street",
+   "group": "都市",
+   "name": "新世界",
+   "en": "a nostalgic old entertainment district at dusk with vintage buildings and glowing blank signs, warm tones",
+   "orientation": "landscape",
+   "sign": {
+    "text": "新世界",
+    "style": "neon_warm",
+    "box": [
+     0.28,
+     0.1,
+     0.72,
+     0.215
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "jpstr21_chinatown",
+   "cat": "street",
+   "group": "都市",
+   "name": "中华街",
+   "en": "a colorful Chinatown street with ornate red gateways and plain lanterns, tiled roofs, bright day",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpstr22_susukino",
+   "cat": "street",
+   "group": "都市",
+   "name": "薄野",
+   "en": "a wide snowy city street at night with glowing blank neon signs and a distant ferris wheel, winter",
+   "orientation": "landscape",
+   "sign": {
+    "text": "薄野",
+    "style": "neon",
+    "box": [
+     0.28,
+     0.1,
+     0.72,
+     0.215
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "jpstr23_otaru_canal",
+   "cat": "street",
+   "group": "古町",
+   "name": "小樽运河",
+   "en": "a picturesque canal lined with old stone warehouses and glowing gas lamps at dusk, light snow",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpstr24_convenience",
+   "cat": "street",
+   "group": "都市",
+   "name": "便利店街角",
+   "en": "a quiet street corner at night with a small convenience store glowing brightly, empty pavement, urban Japan",
+   "orientation": "landscape",
+   "sign": {
+    "text": "商店",
+    "style": "lightbox",
+    "box": [
+     0.28,
+     0.1,
+     0.72,
+     0.215
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "jpstr25_izakaya_alley",
+   "cat": "street",
+   "group": "都市",
+   "name": "居酒屋巷",
+   "en": "a narrow alley packed with small izakaya bars at night, warm red lanterns glowing blank, narrow passage",
+   "orientation": "portrait",
+   "sign": {
+    "text": "居酒屋",
+    "style": "paper",
+    "box": [
+     0.42,
+     0.085,
+     0.58,
+     0.35
+    ],
+    "vertical": true
+   }
+  },
+  {
+   "sid": "jpstr26_night_ramen",
+   "cat": "street",
+   "group": "都市",
+   "name": "深夜拉面店",
+   "en": "a tiny ramen stand at night with a warm glowing counter and plain fabric curtains, steam rising, empty street",
+   "orientation": "landscape",
+   "sign": {
+    "text": "拉麺",
+    "style": "paper",
+    "box": [
+     0.28,
+     0.1,
+     0.72,
+     0.215
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "jpstr27_vending",
+   "cat": "street",
+   "group": "都市",
+   "name": "自动贩卖机",
+   "en": "a row of colorful vending machines glowing at night on an empty street corner, wet pavement reflections",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpstr28_karaoke_street",
+   "cat": "street",
+   "group": "都市",
+   "name": "卡拉OK街",
+   "en": "a narrow city street at night with tall buildings covered in glowing blank signs, colorful lights",
+   "orientation": "landscape",
+   "sign": {
+    "text": "歌謡",
+    "style": "neon_pink",
+    "box": [
+     0.28,
+     0.1,
+     0.72,
+     0.215
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "jpstr29_shotengai",
+   "cat": "street",
+   "group": "都市",
+   "name": "商店街",
+   "en": "a covered shopping street arcade with hanging plain decorations and small local shops, plain awnings, daytime",
+   "orientation": "portrait",
+   "sign": {
+    "text": "商店街",
+    "style": "wood",
+    "box": [
+     0.28,
+     0.1,
+     0.72,
+     0.215
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "jpstr30_showa_retro",
+   "cat": "street",
+   "group": "都市",
+   "name": "昭和复古街",
+   "en": "a nostalgic Showa era shopping street with old blank signboards and vintage shopfronts, warm afternoon light",
+   "orientation": "landscape",
+   "sign": {
+    "text": "昭和",
+    "style": "wood",
+    "box": [
+     0.28,
+     0.1,
+     0.72,
+     0.215
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "jpstr31_onsen_street",
+   "cat": "street",
+   "group": "温泉",
+   "name": "温泉街",
+   "en": "a traditional hot spring town street with wooden ryokan inns, rising steam, a stone paved slope, evening lanterns glowing blank",
+   "orientation": "portrait",
+   "sign": {
+    "text": "温泉",
+    "style": "paper",
+    "box": [
+     0.42,
+     0.085,
+     0.58,
+     0.35
+    ],
+    "vertical": true
+   }
+  },
+  {
+   "sid": "jpstr32_onsen_yukata",
+   "cat": "street",
+   "group": "温泉",
+   "name": "温泉浴衣街",
+   "en": "a hot spring resort street in the evening with warm lantern light and wooden inns, gentle steam, quiet",
+   "orientation": "landscape",
+   "sign": {
+    "text": "旅館",
+    "style": "darkwood",
+    "box": [
+     0.42,
+     0.085,
+     0.58,
+     0.35
+    ],
+    "vertical": true
+   }
+  },
+  {
+   "sid": "jpstr33_seaside_village",
+   "cat": "street",
+   "group": "渔村",
+   "name": "海边渔村街",
+   "en": "a narrow street in a seaside fishing village with low wooden houses and drying nets, blue sky, a glimpse of the sea",
+   "orientation": "portrait",
+   "sign": {
+    "text": "海鮮",
+    "style": "wood",
+    "box": [
+     0.28,
+     0.1,
+     0.72,
+     0.215
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "jpstr34_fishing_port",
+   "cat": "street",
+   "group": "渔村",
+   "name": "渔港",
+   "en": "a small fishing port with moored boats, a concrete quay, calm water, clear morning light",
+   "orientation": "landscape",
+   "sign": {
+    "text": "漁港",
+    "style": "wood",
+    "box": [
+     0.28,
+     0.1,
+     0.72,
+     0.215
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "jpstr35_country_road",
+   "cat": "street",
+   "group": "乡村",
+   "name": "乡间小道",
+   "en": "a narrow country road winding between green rice fields and low hills, telephone poles, clear summer day",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpstr36_shirakawago",
+   "cat": "street",
+   "group": "乡村",
+   "name": "白川乡",
+   "en": "a village of steep thatched roof gassho houses surrounded by green fields, misty mountain backdrop",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpstr37_campus",
+   "cat": "street",
+   "group": "都市",
+   "name": "大学校园",
+   "en": "a quiet university campus with old brick buildings and tree lined paths, autumn colors, soft daylight",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpstr38_city_park",
+   "cat": "street",
+   "group": "都市",
+   "name": "城市公园",
+   "en": "a city park with a pond, benches, and autumn trees, distant buildings, soft daylight",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpstr39_subway",
+   "cat": "street",
+   "group": "交通",
+   "name": "地铁月台",
+   "en": "an underground subway platform with tiled walls and a train arriving, warm station lighting, empty tracks",
+   "orientation": "portrait",
+   "sign": {
+    "text": "地下鉄",
+    "style": "lightbox",
+    "box": [
+     0.28,
+     0.1,
+     0.72,
+     0.215
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "jpstr40_jr_station",
+   "cat": "street",
+   "group": "交通",
+   "name": "JR车站",
+   "en": "a local train station platform with a red train stopped, wooden station building, clear day",
+   "orientation": "landscape",
+   "sign": {
+    "text": "駅",
+    "style": "lightbox",
+    "box": [
+     0.28,
+     0.1,
+     0.72,
+     0.215
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "jpstr41_shinkansen",
+   "cat": "street",
+   "group": "交通",
+   "name": "新干线月台",
+   "en": "a sleek high speed train at a modern station platform, clean lines, bright fluorescent light",
+   "orientation": "portrait",
+   "sign": {
+    "text": "新幹線",
+    "style": "lightbox",
+    "box": [
+     0.28,
+     0.1,
+     0.72,
+     0.215
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "jpstr42_torii_steps",
+   "cat": "street",
+   "group": "神社",
+   "name": "鸟居台阶",
+   "en": "a long flight of stone steps lined with vermilion torii gates leading up a wooded hillside shrine",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpstr43_stone_steps",
+   "cat": "street",
+   "group": "古町",
+   "name": "石阶小路",
+   "en": "an old mossy stone staircase winding up between trees toward a temple, soft light",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpstr44_station_plaza",
+   "cat": "street",
+   "group": "交通",
+   "name": "车站前广场",
+   "en": "a plaza in front of a train station with a clock and pigeons, soft morning light",
+   "orientation": "landscape",
+   "sign": {
+    "text": "駅前",
+    "style": "lightbox",
+    "box": [
+     0.28,
+     0.1,
+     0.72,
+     0.215
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "jpstr45_neon_alley",
+   "cat": "street",
+   "group": "都市",
+   "name": "霓虹巷道",
+   "en": "a narrow alley at night glowing with colorful reflected neon from blank signs, wet ground, cinematic",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpstr46_enoden",
+   "cat": "street",
+   "group": "交通",
+   "name": "镰仓高校前",
+   "en": "a seaside railway crossing with a small train passing, a view toward the sea, blue sky",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpstr47_kyoto_tower",
+   "cat": "street",
+   "group": "都市",
+   "name": "京都塔",
+   "en": "a city street at dusk with a tall white tower rising above modern buildings, warm glow",
+   "orientation": "portrait",
+   "sign": {
+    "text": "京都",
+    "style": "lightbox",
+    "box": [
+     0.28,
+     0.1,
+     0.72,
+     0.215
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "jpstr48_tokyo_tower",
+   "cat": "street",
+   "group": "都市",
+   "name": "东京塔",
+   "en": "a cityscape at dusk featuring a tall red lattice tower above the skyline, glowing lights",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpstr49_skytree",
+   "cat": "street",
+   "group": "都市",
+   "name": "晴空塔",
+   "en": "a modern cityscape from below with a tall slender tower rising into a vast sky, dusk",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpstr50_sakura_street",
+   "cat": "street",
+   "group": "街景",
+   "name": "樱花街道",
+   "en": "a residential street lined with blooming cherry blossom trees, petals on the pavement, spring afternoon",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpstr51_maple_street",
+   "cat": "street",
+   "group": "街景",
+   "name": "枫叶街道",
+   "en": "a street lined with brilliant red maple trees, fallen leaves, warm autumn light",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpstr52_hydrangea_path",
+   "cat": "street",
+   "group": "神社",
+   "name": "紫阳花参道",
+   "en": "a temple approach lined with blooming hydrangea in blue and purple, a stone wall, rainy season",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpstr53_snow_street",
+   "cat": "street",
+   "group": "街景",
+   "name": "雪中街景",
+   "en": "a quiet town street blanketed in fresh snow with warm window lights, deep winter evening",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpstr54_tanabata",
+   "cat": "street",
+   "group": "节庆",
+   "name": "七夕装饰街",
+   "en": "a shopping street decorated with colorful hanging streamers and bamboo, plain and blank with no writing, festive summer",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpstr55_summer_festival",
+   "cat": "street",
+   "group": "节庆",
+   "name": "夏日祭摊位",
+   "en": "a night street with rows of festive food stalls and glowing paper lanterns that are blank, summer matsuri atmosphere",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpstr56_matsuri_stall",
+   "cat": "street",
+   "group": "节庆",
+   "name": "庙会",
+   "en": "a row of traditional festival stalls with red lanterns glowing blank, festive summer evening, warm light",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpstr57_tea_house_street",
+   "cat": "street",
+   "group": "古町",
+   "name": "茶屋街",
+   "en": "a historic street of wooden tea houses with lattice fronts, stone paved, warm evening lanterns",
+   "orientation": "portrait",
+   "sign": {
+    "text": "茶屋",
+    "style": "darkwood",
+    "box": [
+     0.42,
+     0.085,
+     0.58,
+     0.35
+    ],
+    "vertical": true
+   }
+  },
+  {
+   "sid": "jpstr58_kanazawa_higashi",
+   "cat": "street",
+   "group": "古町",
+   "name": "东茶屋街",
+   "en": "a preserved old geisha district with wooden latticed teahouses along a stone paved street, soft dusk",
+   "orientation": "landscape",
+   "sign": {
+    "text": "茶屋街",
+    "style": "darkwood",
+    "box": [
+     0.42,
+     0.085,
+     0.58,
+     0.35
+    ],
+    "vertical": true
+   }
+  },
+  {
+   "sid": "jpstr59_takayama_old",
+   "cat": "street",
+   "group": "古町",
+   "name": "高山古街",
+   "en": "a historic merchant street with dark wooden houses and sake breweries, cold clear morning, mountains behind",
+   "orientation": "portrait",
+   "sign": {
+    "text": "酒蔵",
+    "style": "darkwood",
+    "box": [
+     0.42,
+     0.085,
+     0.58,
+     0.35
+    ],
+    "vertical": true
+   }
+  },
+  {
+   "sid": "jpstr60_magome",
+   "cat": "street",
+   "group": "古町",
+   "name": "马笼宿",
+   "en": "a restored Edo period post town along a sloping stone road with wooden buildings and a waterwheel, misty morning",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpstr61_tsumago",
+   "cat": "street",
+   "group": "古町",
+   "name": "妻笼宿",
+   "en": "a quiet preserved post town of traditional wooden houses along a stone path, forested hills, soft light",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpstr62_narai",
+   "cat": "street",
+   "group": "古町",
+   "name": "奈良井宿",
+   "en": "a long straight historic post town street with wooden buildings and plain shop curtains, clear day",
+   "orientation": "landscape",
+   "sign": {
+    "text": "奈良井宿",
+    "style": "wood",
+    "box": [
+     0.42,
+     0.085,
+     0.58,
+     0.35
+    ],
+    "vertical": true
+   }
+  },
+  {
+   "sid": "jpstr63_castle_town",
+   "cat": "street",
+   "group": "古町",
+   "name": "城下町",
+   "en": "an old castle town street with traditional houses leading toward a white castle on a hill, spring",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpstr64_buke_yashiki",
+   "cat": "street",
+   "group": "古町",
+   "name": "武家屋敷",
+   "en": "a quiet street of old samurai residences with earthen walls and pine trees, a stone path, soft light",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpstr65_hokanji",
+   "cat": "street",
+   "group": "神社",
+   "name": "八坂塔",
+   "en": "a tall five story pagoda rising above a traditional stone paved slope lined with wooden houses, dusk",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpstr66_yasaka",
+   "cat": "street",
+   "group": "神社",
+   "name": "八坂神社前",
+   "en": "a grand vermilion shrine gate at the top of a lantern lined street, dappled light",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpstr67_heian",
+   "cat": "street",
+   "group": "神社",
+   "name": "平安神宫前",
+   "en": "a huge vermilion torii gate at the entrance to a wide shrine avenue, clear bright day",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpstr68_sanjusangendo",
+   "cat": "street",
+   "group": "神社",
+   "name": "三十三间堂",
+   "en": "a long wooden temple hall with a plain gravel courtyard and stone lanterns, quiet daylight",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpstr69_nishiki",
+   "cat": "street",
+   "group": "古町",
+   "name": "锦市场",
+   "en": "a narrow covered market street with small food shops and plain awnings, warm interior light",
+   "orientation": "portrait",
+   "sign": {
+    "text": "錦市場",
+    "style": "wood",
+    "box": [
+     0.28,
+     0.1,
+     0.72,
+     0.215
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "jpstr70_pontocho",
+   "cat": "street",
+   "group": "古町",
+   "name": "先斗町",
+   "en": "a narrow atmospheric alley of wooden restaurants at night with warm lantern glow, riverside",
+   "orientation": "landscape",
+   "sign": {
+    "text": "先斗町",
+    "style": "darkwood",
+    "box": [
+     0.42,
+     0.085,
+     0.58,
+     0.35
+    ],
+    "vertical": true
+   }
+  },
+  {
+   "sid": "jpstr71_kamo_river",
+   "cat": "street",
+   "group": "街景",
+   "name": "鸭川",
+   "en": "a wide river with a grassy bank and stepping stones, distant mountains, dusk",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpstr72_togetsukyo",
+   "cat": "street",
+   "group": "街景",
+   "name": "渡月桥",
+   "en": "a long wooden bridge over a river with forested hills behind, cherry trees, clear day",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpstr73_arashiyama",
+   "cat": "street",
+   "group": "街景",
+   "name": "岚山街",
+   "en": "a riverside street with boats on the water and forested mountains, clear afternoon",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpstr74_philosopher",
+   "cat": "street",
+   "group": "古町",
+   "name": "哲学之道",
+   "en": "a peaceful canal side path lined with cherry trees and moss, iron railings, spring afternoon",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpstr75_ginkakuji",
+   "cat": "street",
+   "group": "神社",
+   "name": "银阁寺前",
+   "en": "a mossy garden approach to a silver pavilion temple, raked gravel, tall hedges, soft daylight",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpstr76_kinkakuji",
+   "cat": "street",
+   "group": "神社",
+   "name": "金阁寺",
+   "en": "a golden pavilion temple reflected in a still pond surrounded by pine trees, clear sky",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpstr77_todaiji",
+   "cat": "street",
+   "group": "神社",
+   "name": "东大寺",
+   "en": "a massive wooden temple hall with a giant gate, a stone paved courtyard, deer grazing",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpstr78_nara_park",
+   "cat": "street",
+   "group": "街景",
+   "name": "奈良公园",
+   "en": "an open park with tame deer under large trees, a grassy lawn, soft afternoon light",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpstr79_osaka_castle",
+   "cat": "street",
+   "group": "街景",
+   "name": "大阪城",
+   "en": "a grand castle with green roofs and stone walls rising above a moat and park, cherry trees, clear day",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpstr80_himeji_castle",
+   "cat": "street",
+   "group": "街景",
+   "name": "姬路城",
+   "en": "a brilliant white multi tiered castle on a stone base, cherry blossom trees in front, blue sky",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpstr81_matsumoto_castle",
+   "cat": "street",
+   "group": "街景",
+   "name": "松本城",
+   "en": "a black and white castle standing over a moat with the Japanese alps behind, clear day",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpstr82_matsue_castle",
+   "cat": "street",
+   "group": "街景",
+   "name": "松江城",
+   "en": "a dark wooden castle on a hill above a lake and town, overcast light",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpstr83_kannon_dori",
+   "cat": "street",
+   "group": "都市",
+   "name": "观音通",
+   "en": "a wide tree lined avenue with modern buildings and a trolley, soft daylight, city",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpstr84_arcade",
+   "cat": "street",
+   "group": "都市",
+   "name": "拱廊商店街",
+   "en": "a long covered shopping arcade with bright lights, small shops and plain awnings, indoor daytime",
+   "orientation": "landscape",
+   "sign": {
+    "text": "商店街",
+    "style": "lightbox",
+    "box": [
+     0.28,
+     0.1,
+     0.72,
+     0.215
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "jpstr85_depachika",
+   "cat": "street",
+   "group": "都市",
+   "name": "百货地下",
+   "en": "an elegant department store basement food hall with glowing display counters, warm light, clean",
+   "orientation": "portrait",
+   "sign": {
+    "text": "食品",
+    "style": "lightbox",
+    "box": [
+     0.28,
+     0.1,
+     0.72,
+     0.215
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "jpstr86_ramen_row",
+   "cat": "street",
+   "group": "都市",
+   "name": "拉面街",
+   "en": "a row of ramen shops along a narrow street at night with warm glowing blank lanterns, steam rising",
+   "orientation": "landscape",
+   "sign": {
+    "text": "拉麺",
+    "style": "paper",
+    "box": [
+     0.42,
+     0.085,
+     0.58,
+     0.35
+    ],
+    "vertical": true
+   }
+  },
+  {
+   "sid": "jpstr87_udon_shop",
+   "cat": "street",
+   "group": "街景",
+   "name": "乌冬店",
+   "en": "a small traditional udon noodle shop front with plain curtains and a warm doorway, daylight",
+   "orientation": "portrait",
+   "sign": {
+    "text": "うどん",
+    "style": "paper",
+    "box": [
+     0.28,
+     0.1,
+     0.72,
+     0.215
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "jpstr88_sushi_front",
+   "cat": "street",
+   "group": "街景",
+   "name": "寿司店前",
+   "en": "a quiet sushi restaurant front with a clean wooden facade and plain blinds, warm evening light",
+   "orientation": "landscape",
+   "sign": {
+    "text": "寿司",
+    "style": "wood",
+    "box": [
+     0.28,
+     0.1,
+     0.72,
+     0.215
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "jpstr89_wagashi_shop",
+   "cat": "street",
+   "group": "街景",
+   "name": "和菓子店",
+   "en": "a small traditional sweet shop with a wooden facade and a plain blank signboard, soft daylight",
+   "orientation": "portrait",
+   "sign": {
+    "text": "和菓子",
+    "style": "wood",
+    "box": [
+     0.28,
+     0.1,
+     0.72,
+     0.215
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "jpstr90_kimono_rental",
+   "cat": "street",
+   "group": "街景",
+   "name": "和服店街",
+   "en": "a street of kimono rental shops with bright displays of colorful fabric, plain awnings, daytime",
+   "orientation": "landscape",
+   "sign": {
+    "text": "呉服",
+    "style": "wood",
+    "box": [
+     0.42,
+     0.085,
+     0.58,
+     0.35
+    ],
+    "vertical": true
+   }
+  },
+  {
+   "sid": "jpstr91_temple_street",
+   "cat": "street",
+   "group": "神社",
+   "name": "门前町",
+   "en": "a temple town street with souvenir shops and stone lanterns leading to a temple gate, daylight",
+   "orientation": "portrait",
+   "sign": {
+    "text": "土産",
+    "style": "wood",
+    "box": [
+     0.28,
+     0.1,
+     0.72,
+     0.215
+    ],
+    "vertical": false
+   }
+  },
+  {
+   "sid": "jpstr92_shrine_market",
+   "cat": "street",
+   "group": "神社",
+   "name": "神社市集",
+   "en": "a shrine market with rows of small stalls under plain blank banners, festive daylight",
+   "orientation": "landscape",
+   "sign": {
+    "text": "市",
+    "style": "banner",
+    "box": [
+     0.42,
+     0.085,
+     0.58,
+     0.35
+    ],
+    "vertical": true
+   }
+  },
+  {
+   "sid": "jpstr93_lantern_path",
+   "cat": "street",
+   "group": "神社",
+   "name": "灯笼小径",
+   "en": "a stone path lined with rows of glowing paper lanterns that are blank, leading to a shrine, dusk",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpstr94_stone_lantern_row",
+   "cat": "street",
+   "group": "神社",
+   "name": "石灯笼列",
+   "en": "a mossy path flanked by a row of old stone lanterns through a dark forest, soft misty light",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpstr95_torii_tunnel_day",
+   "cat": "street",
+   "group": "神社",
+   "name": "鸟居隧道",
+   "en": "a long tunnel of vermilion torii gates on a hillside, bright daylight",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpstr96_fox_statues",
+   "cat": "street",
+   "group": "神社",
+   "name": "稻荷狐像",
+   "en": "a shrine path flanked by rows of stone fox guardian statues, moss, dappled light",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpstr97_temple_gate",
+   "cat": "street",
+   "group": "神社",
+   "name": "山门",
+   "en": "a large traditional wooden temple gate with a tiled roof, stone steps, tall trees, clear day",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpstr98_pagoda",
+   "cat": "street",
+   "group": "神社",
+   "name": "五重塔",
+   "en": "a tall five story wooden pagoda rising among trees, clear blue sky, historic temple",
+   "orientation": "landscape"
+  },
+  {
+   "sid": "jpstr99_garden_bridge",
+   "cat": "street",
+   "group": "街景",
+   "name": "庭园石桥",
+   "en": "a curved wooden bridge over a pond in a traditional garden, irises and pines, soft light",
+   "orientation": "portrait"
+  },
+  {
+   "sid": "jpstr100_canal_willow",
+   "cat": "street",
+   "group": "街景",
+   "name": "水渠柳树",
+   "en": "a narrow canal lined with willow trees and old stone walls, low lanterns, quiet dusk",
+   "orientation": "landscape"
+  }
+ ]
+}

@@ -21,6 +21,9 @@ from PIL import Image, ImageDraw, ImageFilter, ImageFont
 
 FONT_SANS = '/usr/share/fonts/truetype/custom/SourceHanSansSC-Bold.otf'
 FONT_ALT = '/usr/share/fonts/truetype/custom/NotoSansSC-Bold.ttf'
+FONT_JP = '/ssd2/duanju/fonts/NotoSansJP-Bold.otf'
+# 当前生效字体（由 --font 决定；默认中文，日文招牌传 FONT_JP）
+FONT_ACTIVE = FONT_SANS
 
 # 牌面样式：底色 / 字色 / 描边 / 装饰件
 # pad_bg = 文字底衬色（垫在字下面，压住纹理，保证笔画连续可读）
@@ -93,7 +96,7 @@ def _fit_font(text, box_w, box_h, vertical, min_size=34):
     max_size = max(max_size, min_size)
     size = max_size
     while size > min_size:
-        f = ImageFont.truetype(FONT_SANS, size)
+        f = ImageFont.truetype(FONT_ACTIVE, size)
         if vertical:
             lines = [[ch] for ch in text]
             tw = max(f.getbbox(ch)[2] for ch in text)
@@ -106,7 +109,7 @@ def _fit_font(text, box_w, box_h, vertical, min_size=34):
         if tw <= box_w * 0.94 and th <= box_h * 0.90:
             return f, size, lines
         size = int(size * 0.92)
-    f = ImageFont.truetype(FONT_SANS, min_size)
+    f = ImageFont.truetype(FONT_ACTIVE, min_size)
     lines = [[ch] for ch in text] if vertical else [list(text)]
     return f, min_size, lines
 
@@ -150,7 +153,7 @@ def render_sign(img, spec, debug_dir=None, text_layer_path=None):
     bx1, by1 = int(x1 * W), int(y1 * H)
     bw, bh = max(20, bx1 - bx0), max(20, by1 - by0)
 
-    missing = check_glyphs(text)
+    missing = check_glyphs(text, FONT_ACTIVE)
     if missing:
         raise ValueError(f'字体缺字形 {missing!r}，拒绝渲染（不产出豆腐块）')
 
@@ -336,8 +339,14 @@ def main():
     ap.add_argument('--only', default='')
     ap.add_argument('--suffix', default='')
     ap.add_argument('--plate_dir', default='', help='额外导出独立牌面图（诊断用）')
+    ap.add_argument('--font', default=FONT_SANS,
+                    help='合成用字体路径（日文招牌传 /ssd2/duanju/fonts/NotoSansJP-Bold.otf）')
     ap.add_argument('--text_layer_dir', default='', help='额外导出纯文字层（黑字白底，真实性证明用）')
     args = ap.parse_args()
+
+    global FONT_ACTIVE
+    FONT_ACTIVE = args.font
+    _MISSING_CACHE.clear()
 
     with open(args.scenes, encoding='utf-8') as f:
         scenes = json.load(f)
